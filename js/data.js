@@ -2,16 +2,25 @@
 window.SITE = {
   name: 'myshowroom',
   repo: 'mintring125/myshowroom', // GitHub 저장소 (Pages 에서 Actions 링크에 사용)
-  ko: { title: 'AI 사례 모음', tagline: '개인 참고용 AI 사례 모음입니다.' },
-  en: { title: 'AI case notes', tagline: 'A personal collection of AI cases for reference.' },
+  ko: { title: 'AI·XR 사례 모음', tagline: '개인 참고용 AI·AR·XR·Gaussian Splatting 사례 모음입니다.' },
+  en: { title: 'AI & XR case notes', tagline: 'A personal collection of AI, AR, XR and Gaussian Splatting cases.' },
 };
 
 const DAY = 86400000;
 const hasTag = (t) => (c) => (c.tags || []).includes(t);
 const fromPlatform = (p) => (c) => c.platform === p;
 
-// group: field(분야별) / tool(도구별) / source(출처별)
+// 주제: 쇼케이스 상단 필터와 왼쪽 '주제별' 그룹에 쓰입니다. id 는 config/sources.json 의 topics 와 같아야 합니다.
+window.TOPICS = [
+  { id: 'ai', short: 'AI', ko: { t: 'AI로 만든 사례', d: 'Claude 등 AI 모델로 만든 결과물입니다.' }, en: { t: 'Made with AI', d: 'Things built with AI models.' } },
+  { id: 'ar', short: 'AR', ko: { t: 'AR · 증강현실', d: 'ARKit, ARCore, 렌즈, 스마트 글라스 사례입니다.' }, en: { t: 'AR', d: 'ARKit, ARCore, lenses and smart glasses.' } },
+  { id: 'xr', short: 'XR', ko: { t: 'XR · VR · MR', d: 'Quest, Vision Pro, WebXR 사례입니다.' }, en: { t: 'XR · VR · MR', d: 'Quest, Vision Pro and WebXR.' } },
+  { id: 'gsplat', short: '3DGS', ko: { t: 'Gaussian Splatting', d: '3D 가우시안 스플래팅 캡처와 장면입니다.' }, en: { t: 'Gaussian Splatting', d: '3D Gaussian Splatting captures and scenes.' } },
+];
+
+// group: topic(주제별) / field(분야별) / tool(도구별) / source(출처별)
 window.CATEGORIES = [
+  ...window.TOPICS.map((t) => ({ id: t.id, group: 'topic', pick: hasTag(t.id), ko: t.ko, en: t.en })),
   { id: 'saved', group: 'field', pick: (c) => window.isSaved(c.id),
     ko: { t: '저장한 사례', d: '저장 버튼을 누른 사례입니다.' }, en: { t: 'Saved', d: 'Cases you saved.' } },
   { id: 'new', group: 'field', pick: (c, ctx) => Date.parse(c.addedAt) >= ctx.latestAdded - 3 * DAY,
@@ -43,6 +52,7 @@ window.CATEGORIES = [
 ];
 
 window.GROUPS = {
+  topic: { ko: '주제별', en: 'By topic' },
   field: { ko: '분야별', en: 'By field' },
   tool: { ko: '도구별', en: 'By tool' },
   source: { ko: '출처별', en: 'By source' },

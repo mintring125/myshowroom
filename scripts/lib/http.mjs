@@ -13,7 +13,8 @@ async function waitForHost(host) {
   const next = new Promise((r) => (release = r));
   lastHit.set(host, prev.then(() => next));
   const t = await prev;
-  const wait = Math.max(0, (t || 0) + opts.hostDelayMs - Date.now());
+  const gap = opts.hostDelays?.[host] ?? opts.hostDelayMs;
+  const wait = Math.max(0, (t || 0) + gap - Date.now());
   if (wait) await sleep(wait);
   return () => release(Date.now());
 }

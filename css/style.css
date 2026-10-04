@@ -97,6 +97,9 @@ h1, h2, h3, p, ol { margin: 0; }
 .seg { display: inline-flex; padding: 3px; border-radius: 12px; background: var(--panel); }
 .seg button { height: 34px; padding: 0 12px; border-radius: 9px; font-size: 14px; font-weight: 600; color: var(--ink-2); }
 .seg button.is-on { background: var(--ink); color: var(--paper); }
+.seg-topic { flex-wrap: wrap; }
+.seg-n { font-family: var(--mono); font-size: 12px; opacity: .75; margin-left: 2px; }
+.badge-topic { background: var(--accent); color: var(--ink); }
 .grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); grid-auto-flow: dense; gap: 8px; }
 @media (min-width: 1280px) { .grid { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
 .tile {

@@ -1,7 +1,7 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-10-04T23:33:51.251Z",
+ "updatedAt": "2026-10-04T23:42:35.726Z",
  "cases": [
   {
    "id": "8993874fcbde",
@@ -19,7 +19,9 @@ window.CASES_DB = {
    },
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/royalroadtogeometry",
    "where": "r/ClaudeAI",
@@ -40,7 +42,9 @@ window.CASES_DB = {
    "media": null,
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/Careless-Mongoose589",
    "where": "r/ClaudeAI",
@@ -61,7 +65,9 @@ window.CASES_DB = {
    "media": null,
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/Glass-Present-8753",
    "where": "r/ClaudeAI",
@@ -86,6 +92,7 @@ window.CASES_DB = {
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -111,7 +118,9 @@ window.CASES_DB = {
    },
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/revelationnow",
    "where": "r/ClaudeAI",
@@ -135,7 +144,9 @@ window.CASES_DB = {
    },
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/IntentRouterIRL",
    "where": "r/ClaudeAI",
@@ -160,6 +171,7 @@ window.CASES_DB = {
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -186,6 +198,7 @@ window.CASES_DB = {
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "three",
     "game",
     "motion"
@@ -214,6 +227,7 @@ window.CASES_DB = {
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -239,7 +253,9 @@ window.CASES_DB = {
    },
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/nic2x",
    "where": "r/ClaudeAI",
@@ -261,6 +277,7 @@ window.CASES_DB = {
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "motion",
     "app"
    ],
@@ -284,7 +301,9 @@ window.CASES_DB = {
    "media": null,
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/bzbub2",
    "where": "r/ClaudeAI",
@@ -308,7 +327,9 @@ window.CASES_DB = {
    },
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/fredandlunchbox",
    "where": "r/ClaudeAI",
@@ -330,6 +351,7 @@ window.CASES_DB = {
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "game",
     "app"
    ],
@@ -357,6 +379,7 @@ window.CASES_DB = {
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "app"
    ],
    "status": "ok",
@@ -383,6 +406,7 @@ window.CASES_DB = {
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "app"
    ],
    "status": "ok",
@@ -408,7 +432,9 @@ window.CASES_DB = {
    },
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/notenerd",
    "where": "r/ClaudeAI",
@@ -432,7 +458,9 @@ window.CASES_DB = {
    },
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/Dry-Weather-2544",
    "where": "r/ClaudeAI",
@@ -454,6 +482,7 @@ window.CASES_DB = {
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "game",
     "motion"
    ],
@@ -481,6 +510,7 @@ window.CASES_DB = {
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "app"
    ],
    "status": "ok",
@@ -507,6 +537,7 @@ window.CASES_DB = {
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "game",
     "motion"
    ],
@@ -534,6 +565,7 @@ window.CASES_DB = {
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "long"
    ],
    "status": "ok",
@@ -556,7 +588,9 @@ window.CASES_DB = {
    "media": null,
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/Virtual-Highlight656",
    "where": "r/ClaudeAI",
@@ -581,6 +615,7 @@ window.CASES_DB = {
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "motion",
     "app"
    ],
@@ -608,6 +643,7 @@ window.CASES_DB = {
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -634,6 +670,7 @@ window.CASES_DB = {
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "motion",
     "app",
     "long"
@@ -661,7 +698,9 @@ window.CASES_DB = {
    },
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/giuliastro",
    "where": "r/ClaudeAI",
@@ -682,7 +721,9 @@ window.CASES_DB = {
    "media": null,
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/Lenin_Fink",
    "where": "r/ClaudeAI",
@@ -704,6 +745,7 @@ window.CASES_DB = {
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "app"
    ],
    "status": "ok",
@@ -726,7 +768,9 @@ window.CASES_DB = {
    "media": null,
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/MysteriousAvocado580",
    "where": "r/ClaudeAI",
@@ -751,6 +795,7 @@ window.CASES_DB = {
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "game",
     "long"
    ],
@@ -777,7 +822,9 @@ window.CASES_DB = {
    },
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/WeezerHunter",
    "where": "r/ClaudeAI",
@@ -798,7 +845,9 @@ window.CASES_DB = {
    "media": null,
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/hi_im_leffe",
    "where": "r/ClaudeAI",
@@ -844,6 +893,7 @@ window.CASES_DB = {
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "game",
     "motion"
    ],
@@ -867,7 +917,9 @@ window.CASES_DB = {
    "media": null,
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/petitpoid",
    "where": "r/ClaudeAI",
@@ -903,7 +955,9 @@ window.CASES_DB = {
      "model": "Opus 5.5"
     }
    ],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "partial",
    "authorUrl": null,
    "where": null,
@@ -946,7 +1000,9 @@ window.CASES_DB = {
      "model": "Sonnet 5.5"
     }
    ],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://x.com/kevin_t_ngo",
    "where": null,
@@ -983,6 +1039,7 @@ window.CASES_DB = {
     }
    ],
    "tags": [
+    "ai",
     "motion"
    ],
    "status": "partial",
@@ -1031,6 +1088,7 @@ window.CASES_DB = {
    ],
    "tags": [
     "blender",
+    "ai",
     "three"
    ],
    "status": "ok",
@@ -1076,6 +1134,7 @@ window.CASES_DB = {
     }
    ],
    "tags": [
+    "ai",
     "three"
    ],
    "status": "ok",
@@ -1123,7 +1182,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "voxel"
+    "voxel",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/siyabuilt",
@@ -1164,6 +1224,7 @@ window.CASES_DB = {
     }
    ],
    "tags": [
+    "ai",
     "game",
     "app"
    ],
@@ -1210,6 +1271,7 @@ window.CASES_DB = {
     }
    ],
    "tags": [
+    "ai",
     "region"
    ],
    "status": "ok",
@@ -1255,6 +1317,7 @@ window.CASES_DB = {
     }
    ],
    "tags": [
+    "ai",
     "game"
    ],
    "status": "ok",
@@ -1300,6 +1363,7 @@ window.CASES_DB = {
     }
    ],
    "tags": [
+    "ai",
     "game"
    ],
    "status": "ok",
@@ -1341,6 +1405,7 @@ window.CASES_DB = {
     }
    ],
    "tags": [
+    "ai",
     "app"
    ],
    "status": "ok",
@@ -1386,6 +1451,7 @@ window.CASES_DB = {
     }
    ],
    "tags": [
+    "ai",
     "three"
    ],
    "status": "ok",
@@ -1424,6 +1490,7 @@ window.CASES_DB = {
     }
    ],
    "tags": [
+    "ai",
     "game"
    ],
    "status": "partial",
@@ -1461,7 +1528,9 @@ window.CASES_DB = {
      "model": "Opus 5.5"
     }
    ],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "partial",
    "authorUrl": null,
    "where": null,
@@ -1508,6 +1577,7 @@ window.CASES_DB = {
    ],
    "tags": [
     "threejs",
+    "ai",
     "three",
     "game"
    ],
@@ -1559,6 +1629,7 @@ window.CASES_DB = {
    "tags": [
     "blender",
     "threejs",
+    "ai",
     "three",
     "game"
    ],
@@ -1598,6 +1669,7 @@ window.CASES_DB = {
     }
    ],
    "tags": [
+    "ai",
     "game",
     "motion"
    ],
@@ -1640,6 +1712,7 @@ window.CASES_DB = {
     }
    ],
    "tags": [
+    "ai",
     "app"
    ],
    "status": "ok",
@@ -1688,6 +1761,7 @@ window.CASES_DB = {
    ],
    "tags": [
     "blender",
+    "ai",
     "three",
     "game",
     "long"
@@ -1728,6 +1802,7 @@ window.CASES_DB = {
     }
    ],
    "tags": [
+    "ai",
     "three",
     "game"
    ],
@@ -1770,6 +1845,7 @@ window.CASES_DB = {
    ],
    "tags": [
     "voxel",
+    "ai",
     "motion"
    ],
    "status": "partial",
@@ -1815,6 +1891,7 @@ window.CASES_DB = {
     }
    ],
    "tags": [
+    "ai",
     "game",
     "motion"
    ],
@@ -1861,6 +1938,7 @@ window.CASES_DB = {
     }
    ],
    "tags": [
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -1902,6 +1980,7 @@ window.CASES_DB = {
    ],
    "tags": [
     "blender",
+    "ai",
     "three",
     "game"
    ],
@@ -1948,6 +2027,7 @@ window.CASES_DB = {
     }
    ],
    "tags": [
+    "ai",
     "motion",
     "app"
    ],
@@ -1994,6 +2074,7 @@ window.CASES_DB = {
     }
    ],
    "tags": [
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -2038,7 +2119,9 @@ window.CASES_DB = {
      "model": "Opus 5.5"
     }
    ],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://x.com/victormustar",
    "where": null,
@@ -2085,6 +2168,7 @@ window.CASES_DB = {
    ],
    "tags": [
     "threejs",
+    "ai",
     "three"
    ],
    "status": "ok",
@@ -2125,7 +2209,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,
@@ -2163,6 +2248,7 @@ window.CASES_DB = {
     }
    ],
    "tags": [
+    "ai",
     "game",
     "motion"
    ],
@@ -2201,7 +2287,9 @@ window.CASES_DB = {
      "model": "Opus 5.5"
     }
    ],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "partial",
    "authorUrl": null,
    "where": null,
@@ -2238,6 +2326,7 @@ window.CASES_DB = {
     }
    ],
    "tags": [
+    "ai",
     "motion"
    ],
    "status": "partial",
@@ -2275,7 +2364,9 @@ window.CASES_DB = {
      "model": "Opus 5.5"
     }
    ],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "partial",
    "authorUrl": null,
    "where": null,
@@ -2312,6 +2403,7 @@ window.CASES_DB = {
     }
    ],
    "tags": [
+    "ai",
     "game"
    ],
    "status": "partial",
@@ -2357,6 +2449,7 @@ window.CASES_DB = {
     }
    ],
    "tags": [
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -2398,6 +2491,7 @@ window.CASES_DB = {
     }
    ],
    "tags": [
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -2446,6 +2540,7 @@ window.CASES_DB = {
    ],
    "tags": [
     "threejs",
+    "ai",
     "three"
    ],
    "status": "ok",
@@ -2493,7 +2588,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/DotCSV",
@@ -2540,7 +2636,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/chetaslua",
@@ -2587,7 +2684,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/victormustar",
@@ -2637,6 +2735,7 @@ window.CASES_DB = {
    "tags": [
     "game",
     "threejs",
+    "ai",
     "three"
    ],
    "status": "ok",
@@ -2684,7 +2783,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/NFT_Chen",
@@ -2731,7 +2831,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/RileyRalmuto",
@@ -2778,7 +2879,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/chetaslua",
@@ -2828,6 +2930,7 @@ window.CASES_DB = {
    "tags": [
     "game",
     "blender",
+    "ai",
     "three"
    ],
    "status": "ok",
@@ -2875,7 +2978,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "game"
+    "game",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/MiaAI_lab",
@@ -2924,7 +3028,8 @@ window.CASES_DB = {
    ],
    "tags": [
     "three",
-    "voxel"
+    "voxel",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/ChrisGPT",
@@ -2974,6 +3079,7 @@ window.CASES_DB = {
    "tags": [
     "three",
     "blender",
+    "ai",
     "game",
     "motion"
    ],
@@ -3020,6 +3126,7 @@ window.CASES_DB = {
     }
    ],
    "tags": [
+    "ai",
     "region"
    ],
    "status": "ok",
@@ -3068,6 +3175,7 @@ window.CASES_DB = {
    ],
    "tags": [
     "app",
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -3115,7 +3223,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/yanhua1010",
@@ -3163,6 +3272,7 @@ window.CASES_DB = {
    ],
    "tags": [
     "game",
+    "ai",
     "three"
    ],
    "status": "ok",
@@ -3206,7 +3316,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/Fantastic-Cold1249",
@@ -3258,6 +3369,7 @@ window.CASES_DB = {
     "motion",
     "blender",
     "threejs",
+    "ai",
     "three"
    ],
    "status": "ok",
@@ -3303,6 +3415,7 @@ window.CASES_DB = {
     }
    ],
    "tags": [
+    "ai",
     "long"
    ],
    "status": "ok",
@@ -3353,6 +3466,7 @@ window.CASES_DB = {
    "tags": [
     "game",
     "threejs",
+    "ai",
     "three",
     "motion"
    ],
@@ -3404,6 +3518,7 @@ window.CASES_DB = {
    "tags": [
     "app",
     "voxel",
+    "ai",
     "three"
    ],
    "status": "ok",
@@ -3451,7 +3566,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/ann_nnng",
@@ -3501,6 +3617,7 @@ window.CASES_DB = {
    "tags": [
     "motion",
     "blender",
+    "ai",
     "three"
    ],
    "status": "ok",
@@ -3548,7 +3665,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "app"
+    "app",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/YanqingCheng",
@@ -3595,7 +3713,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/shapelayer",
@@ -3635,7 +3754,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "game"
+    "game",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,
@@ -3675,7 +3795,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,
@@ -3715,7 +3836,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,
@@ -3752,7 +3874,9 @@ window.CASES_DB = {
      "model": "Opus 5.5"
     }
    ],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "partial",
    "authorUrl": null,
    "where": null,
@@ -3796,6 +3920,7 @@ window.CASES_DB = {
     }
    ],
    "tags": [
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -3844,6 +3969,7 @@ window.CASES_DB = {
    ],
    "tags": [
     "three",
+    "ai",
     "app",
     "region"
    ],
@@ -3893,6 +4019,7 @@ window.CASES_DB = {
    ],
    "tags": [
     "game",
+    "ai",
     "three",
     "blender",
     "threejs"
@@ -3942,7 +4069,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/Voxyz_ai",
@@ -3989,7 +4117,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "game"
+    "game",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/cherry_mx_reds",
@@ -4037,6 +4166,7 @@ window.CASES_DB = {
    ],
    "tags": [
     "game",
+    "ai",
     "three",
     "threejs"
    ],
@@ -4082,6 +4212,7 @@ window.CASES_DB = {
    ],
    "tags": [
     "game",
+    "ai",
     "three",
     "threejs"
    ],
@@ -4131,6 +4262,7 @@ window.CASES_DB = {
    ],
    "tags": [
     "game",
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -4178,7 +4310,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/_adishj",
@@ -4226,6 +4359,7 @@ window.CASES_DB = {
    ],
    "tags": [
     "app",
+    "ai",
     "three",
     "threejs"
    ],
@@ -4274,7 +4408,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "three"
+    "three",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/higgsfield_ai",
@@ -4321,7 +4456,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "three"
+    "three",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/scheemunai",
@@ -4369,6 +4505,7 @@ window.CASES_DB = {
    ],
    "tags": [
     "motion",
+    "ai",
     "region"
    ],
    "status": "ok",
@@ -4413,7 +4550,9 @@ window.CASES_DB = {
      "model": "Opus 5.5"
     }
    ],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://x.com/other__reality",
    "where": null,
@@ -4459,7 +4598,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "game"
+    "game",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/_MaxBlade",
@@ -4506,7 +4646,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/AndrewOnXYZ",
@@ -4554,6 +4695,7 @@ window.CASES_DB = {
    ],
    "tags": [
     "three",
+    "ai",
     "motion",
     "voxel"
    ],
@@ -4604,7 +4746,8 @@ window.CASES_DB = {
    ],
    "tags": [
     "three",
-    "blender"
+    "blender",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/higgsfield_ai",
@@ -4652,6 +4795,7 @@ window.CASES_DB = {
    ],
    "tags": [
     "three",
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -4701,7 +4845,8 @@ window.CASES_DB = {
    ],
    "tags": [
     "three",
-    "threejs"
+    "threejs",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/techartist_",
@@ -4750,7 +4895,8 @@ window.CASES_DB = {
    ],
    "tags": [
     "three",
-    "blender"
+    "blender",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/higgsfield_ai",
@@ -4797,7 +4943,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/aollivier82",
@@ -4846,7 +4993,8 @@ window.CASES_DB = {
    ],
    "tags": [
     "three",
-    "threejs"
+    "threejs",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/scottstts",
@@ -4893,7 +5041,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/shfred0",
@@ -4936,7 +5085,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "app"
+    "app",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/MiaAI_lab",
@@ -4983,7 +5133,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "game"
+    "game",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/WoahWurdz",
@@ -5031,6 +5182,7 @@ window.CASES_DB = {
    ],
    "tags": [
     "app",
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -5078,7 +5230,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/dhruvalgolakiya",
@@ -5125,7 +5278,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "three"
+    "three",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/MatthewBerman",
@@ -5174,7 +5328,8 @@ window.CASES_DB = {
    ],
    "tags": [
     "game",
-    "voxel"
+    "voxel",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/notjazii",
@@ -5222,6 +5377,7 @@ window.CASES_DB = {
    ],
    "tags": [
     "game",
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -5269,7 +5425,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/chetaslua",
@@ -5316,7 +5473,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/majidmanzarpour",
@@ -5363,7 +5521,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/cherry_mx_reds",
@@ -5410,7 +5569,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/claudeai",
@@ -5457,7 +5617,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "app"
+    "app",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/claudeai",
@@ -5504,7 +5665,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "three"
+    "three",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/claudeai",
@@ -5551,7 +5713,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "app"
+    "app",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/claudeai",
@@ -5598,7 +5761,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "three"
+    "three",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/claudeai",
@@ -5642,7 +5806,9 @@ window.CASES_DB = {
      "model": "Opus 5.5"
     }
    ],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://x.com/claudeai",
    "where": null,
@@ -5688,7 +5854,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "long"
+    "long",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/giobirkelund",
@@ -5735,7 +5902,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "long"
+    "long",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/ValsAI",
@@ -5784,7 +5952,8 @@ window.CASES_DB = {
    ],
    "tags": [
     "game",
-    "voxel"
+    "voxel",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/noahwachnik",
@@ -5833,7 +6002,8 @@ window.CASES_DB = {
    ],
    "tags": [
     "three",
-    "blender"
+    "blender",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/alexalbert__",
@@ -5880,7 +6050,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "app"
+    "app",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/askalphaxiv",
@@ -5927,7 +6098,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/superalesha",
@@ -5974,7 +6146,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "game"
+    "game",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/edwinarbus",
@@ -6023,7 +6196,8 @@ window.CASES_DB = {
    ],
    "tags": [
     "game",
-    "voxel"
+    "voxel",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/buildwithsid",
@@ -6072,7 +6246,8 @@ window.CASES_DB = {
    ],
    "tags": [
     "three",
-    "blender"
+    "blender",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/alexalbert__",
@@ -6119,7 +6294,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/chetaslua",
@@ -6166,7 +6342,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/strawhatsu4",
@@ -6214,6 +6391,7 @@ window.CASES_DB = {
    ],
    "tags": [
     "three",
+    "ai",
     "game"
    ],
    "status": "ok",
@@ -6261,7 +6439,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "game"
+    "game",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/cherry_mx_reds",
@@ -6308,7 +6487,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/Miguel07Code",
@@ -6355,7 +6535,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/jkeatn",
@@ -6402,7 +6583,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "game"
+    "game",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/The_Alex",
@@ -6443,6 +6625,7 @@ window.CASES_DB = {
     }
    ],
    "tags": [
+    "ai",
     "long"
    ],
    "status": "ok",
@@ -6490,7 +6673,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/kevin_t_ngo",
@@ -6537,7 +6721,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/devteamdrew",
@@ -6586,7 +6771,8 @@ window.CASES_DB = {
    ],
    "tags": [
     "three",
-    "threejs"
+    "threejs",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/addyosmani",
@@ -6623,7 +6809,9 @@ window.CASES_DB = {
      "model": "Opus 5.5"
     }
    ],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "partial",
    "authorUrl": null,
    "where": null,
@@ -6659,7 +6847,9 @@ window.CASES_DB = {
      "model": "Opus 5.5"
     }
    ],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "partial",
    "authorUrl": null,
    "where": null,
@@ -6698,7 +6888,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "long"
+    "long",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,
@@ -6738,7 +6929,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "long"
+    "long",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,
@@ -6778,7 +6970,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "three"
+    "three",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,
@@ -6818,7 +7011,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,
@@ -6859,6 +7053,7 @@ window.CASES_DB = {
    ],
    "tags": [
     "motion",
+    "ai",
     "app"
    ],
    "status": "partial",
@@ -6899,7 +7094,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,
@@ -6939,7 +7135,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,
@@ -6979,7 +7176,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "app"
+    "app",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,
@@ -7019,7 +7217,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "app"
+    "app",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,
@@ -7059,7 +7258,8 @@ window.CASES_DB = {
     }
    ],
    "tags": [
-    "app"
+    "app",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,

@@ -1,5 +1,5 @@
 (function () {
-  const { SITE, CATEGORIES, GROUPS, PLATFORM_LABEL, Media } = window;
+  const { SITE, CATEGORIES, GROUPS, PLATFORM_LABEL, TOPICS, Media } = window;
 
   // ---------- 저장소 (실패해도 동작하도록 감쌈) ----------
   const store = {
@@ -10,6 +10,7 @@
     lang: store.get('lang', 'ko'),
     saves: store.get('saves2', {}),
     sort: store.get('sort', 'recent'),
+    topic: store.get('topic', 'all'),
     query: '',
   };
   window.isSaved = (id) => !!state.saves[id];
@@ -18,7 +19,7 @@
   const ON_WEB = location.protocol === 'https:';
 
   const UI = {
-    ko: { showcase: '쇼케이스', recent: '최신순', popular: '반응순', unit: '건', search: '제목·본문·작성자 검색',
+    ko: { showcase: '쇼케이스', allTopics: '전체', recent: '최신순', popular: '반응순', unit: '건', search: '제목·본문·작성자 검색',
       caseOf: '사례', save: '저장', saved: '저장됨', open: '사례 열기', source: '원문 보기', refAt: '에서 보기', listView: '목록에서 보기',
       play: '재생', pause: '일시정지', close: '닫기', prev: '이전', next: '다음', home: '쇼케이스로', notFound: '찾는 페이지가 없습니다.',
       emptySaved: '아직 저장한 사례가 없습니다. 사례의 저장 버튼을 누르면 여기에 모입니다.', noResult: '조건에 맞는 사례가 없습니다.',
@@ -27,7 +28,7 @@
       emptyTitle: '아직 모은 사례가 없습니다', likes: '좋아요', views: '조회', comments: '댓글', score: '점수',
       fileHint: '갱신 버튼과 URL 추가는 npm run serve 로 열었을 때 화면에서 바로 쓸 수 있습니다.',
       webHint: 'GitHub Actions 가 3시간마다 자동으로 갱신합니다.', webAdd: 'URL 추가·지금 갱신', postBy: '의 게시물', linkOnly: '본문을 받지 못해 원문 임베드로 보여 줍니다.' },
-    en: { showcase: 'Showcase', recent: 'Newest', popular: 'Most liked', unit: '', search: 'Search title, text, author',
+    en: { showcase: 'Showcase', allTopics: 'All', recent: 'Newest', popular: 'Most liked', unit: '', search: 'Search title, text, author',
       caseOf: 'case', save: 'Save', saved: 'Saved', open: 'Open case', source: 'View original', refAt: '', listView: 'Show in list',
       play: 'Play', pause: 'Pause', close: 'Close', prev: 'Previous', next: 'Next', home: 'Showcase', notFound: 'Page not found.',
       emptySaved: 'Nothing saved yet. Press Save on a case to collect it here.', noResult: 'No cases match.',
@@ -200,7 +201,7 @@
 
   // ---------- 쇼케이스 ----------
   function showcaseList() {
-    const list = CASES.filter(matches);
+    const list = CASES.filter((c) => matches(c) && (state.topic === 'all' || (c.tags || []).includes(state.topic)));
     if (state.sort === 'popular') list.sort((a, b) => engagement(b) - engagement(a));
     return list;
   }
@@ -214,6 +215,7 @@
       </a>
       <span class="tile-badges">
         <span class="badge">${PLATFORM_LABEL[c.platform]}</span>
+        ${TOPICS.filter((t) => t.id !== 'ai' && (c.tags || []).includes(t.id)).map((t) => `<span class="badge badge-topic">${t.short}</span>`).join('')}
         ${state.saves[c.id] ? `<span class="badge badge-saved">${ICON.bookmark}</span>` : ''}
       </span>
     </article>`;
@@ -240,6 +242,12 @@
       right: `
         <div class="bar bar-right">
           <h1 class="bar-title">${ui('showcase')}</h1>
+          <div class="seg seg-topic" role="group" aria-label="topic">
+            ${[{ id: 'all', label: ui('allTopics') }, ...TOPICS.map((t) => ({ id: t.id, label: t.short }))].map((t) => {
+              const n = t.id === 'all' ? CASES.length : CASES.filter((c) => (c.tags || []).includes(t.id)).length;
+              return `<button class="${state.topic === t.id ? 'is-on' : ''}" data-act="topic" data-v="${t.id}" aria-pressed="${state.topic === t.id}">${esc(t.label)} <span class="seg-n">${n}</span></button>`;
+            }).join('')}
+          </div>
           <div class="bar-tools">
             <input class="search" type="search" placeholder="${ui('search')}" value="${esc(state.query)}" data-input="search" aria-label="${ui('search')}">
             <div class="seg" role="group">
@@ -509,6 +517,7 @@
     const act = el.dataset.act;
     if (act === 'lang') { state.lang = state.lang === 'ko' ? 'en' : 'ko'; store.set('lang', state.lang); route(); }
     else if (act === 'sort') { state.sort = el.dataset.v; store.set('sort', state.sort); route(); }
+    else if (act === 'topic') { state.topic = el.dataset.v; store.set('topic', state.topic); route(); }
     else if (act === 'view') {
       if (e.metaKey || e.ctrlKey || e.shiftKey) return;
       e.preventDefault(); openViewer(el.dataset.id);

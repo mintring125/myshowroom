@@ -82,9 +82,11 @@ export function detectModel(s = '') {
 export function applyTags(c, rules) {
   const hay = `${c.title || ''}\n${c.text || ''}`;
   const tags = new Set(c.tags || []);
-  for (const [tag, re] of Object.entries(rules)) {
+  // 규칙은 문자열(대소문자 무시) 또는 { i: "...", cs: "..." } (cs 는 대소문자 구분: AR, VR, MR 같은 약어용)
+  for (const [tag, rule] of Object.entries(rules)) {
     if (tag.startsWith('_')) continue;
-    if (new RegExp(re, 'i').test(hay)) tags.add(tag);
+    const r = typeof rule === 'string' ? { i: rule } : rule;
+    if ((r.i && new RegExp(r.i, 'i').test(hay)) || (r.cs && new RegExp(r.cs).test(hay))) tags.add(tag);
   }
   if (c.lang === 'ko' || c.lang === 'ja') tags.add('region');
   return [...tags];

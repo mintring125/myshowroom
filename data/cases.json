@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-04T23:33:51.251Z",
+ "updatedAt": "2026-10-04T23:42:35.726Z",
  "cases": [
   {
    "id": "8993874fcbde",
@@ -18,7 +18,9 @@
    },
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/royalroadtogeometry",
    "where": "r/ClaudeAI",
@@ -39,7 +41,9 @@
    "media": null,
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/Careless-Mongoose589",
    "where": "r/ClaudeAI",
@@ -60,7 +64,9 @@
    "media": null,
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/Glass-Present-8753",
    "where": "r/ClaudeAI",
@@ -85,6 +91,7 @@
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -110,7 +117,9 @@
    },
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/revelationnow",
    "where": "r/ClaudeAI",
@@ -134,7 +143,9 @@
    },
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/IntentRouterIRL",
    "where": "r/ClaudeAI",
@@ -159,6 +170,7 @@
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -185,6 +197,7 @@
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "three",
     "game",
     "motion"
@@ -213,6 +226,7 @@
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -238,7 +252,9 @@
    },
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/nic2x",
    "where": "r/ClaudeAI",
@@ -260,6 +276,7 @@
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "motion",
     "app"
    ],
@@ -283,7 +300,9 @@
    "media": null,
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/bzbub2",
    "where": "r/ClaudeAI",
@@ -307,7 +326,9 @@
    },
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/fredandlunchbox",
    "where": "r/ClaudeAI",
@@ -329,6 +350,7 @@
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "game",
     "app"
    ],
@@ -356,6 +378,7 @@
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "app"
    ],
    "status": "ok",
@@ -382,6 +405,7 @@
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "app"
    ],
    "status": "ok",
@@ -407,7 +431,9 @@
    },
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/notenerd",
    "where": "r/ClaudeAI",
@@ -431,7 +457,9 @@
    },
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/Dry-Weather-2544",
    "where": "r/ClaudeAI",
@@ -453,6 +481,7 @@
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "game",
     "motion"
    ],
@@ -480,6 +509,7 @@
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "app"
    ],
    "status": "ok",
@@ -506,6 +536,7 @@
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "game",
     "motion"
    ],
@@ -533,6 +564,7 @@
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "long"
    ],
    "status": "ok",
@@ -555,7 +587,9 @@
    "media": null,
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/Virtual-Highlight656",
    "where": "r/ClaudeAI",
@@ -580,6 +614,7 @@
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "motion",
     "app"
    ],
@@ -607,6 +642,7 @@
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -633,6 +669,7 @@
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "motion",
     "app",
     "long"
@@ -660,7 +697,9 @@
    },
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/giuliastro",
    "where": "r/ClaudeAI",
@@ -681,7 +720,9 @@
    "media": null,
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/Lenin_Fink",
    "where": "r/ClaudeAI",
@@ -703,6 +744,7 @@
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "app"
    ],
    "status": "ok",
@@ -725,7 +767,9 @@
    "media": null,
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/MysteriousAvocado580",
    "where": "r/ClaudeAI",
@@ -750,6 +794,7 @@
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "game",
     "long"
    ],
@@ -776,7 +821,9 @@
    },
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/WeezerHunter",
    "where": "r/ClaudeAI",
@@ -797,7 +844,9 @@
    "media": null,
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/hi_im_leffe",
    "where": "r/ClaudeAI",
@@ -843,6 +892,7 @@
    "metrics": {},
    "refs": [],
    "tags": [
+    "ai",
     "game",
     "motion"
    ],
@@ -866,7 +916,9 @@
    "media": null,
    "metrics": {},
    "refs": [],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/petitpoid",
    "where": "r/ClaudeAI",
@@ -902,7 +954,9 @@
      "model": "Opus 5.5"
     }
    ],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "partial",
    "authorUrl": null,
    "where": null,
@@ -945,7 +999,9 @@
      "model": "Sonnet 5.5"
     }
    ],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://x.com/kevin_t_ngo",
    "where": null,
@@ -982,6 +1038,7 @@
     }
    ],
    "tags": [
+    "ai",
     "motion"
    ],
    "status": "partial",
@@ -1030,6 +1087,7 @@
    ],
    "tags": [
     "blender",
+    "ai",
     "three"
    ],
    "status": "ok",
@@ -1075,6 +1133,7 @@
     }
    ],
    "tags": [
+    "ai",
     "three"
    ],
    "status": "ok",
@@ -1122,7 +1181,8 @@
     }
    ],
    "tags": [
-    "voxel"
+    "voxel",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/siyabuilt",
@@ -1163,6 +1223,7 @@
     }
    ],
    "tags": [
+    "ai",
     "game",
     "app"
    ],
@@ -1209,6 +1270,7 @@
     }
    ],
    "tags": [
+    "ai",
     "region"
    ],
    "status": "ok",
@@ -1254,6 +1316,7 @@
     }
    ],
    "tags": [
+    "ai",
     "game"
    ],
    "status": "ok",
@@ -1299,6 +1362,7 @@
     }
    ],
    "tags": [
+    "ai",
     "game"
    ],
    "status": "ok",
@@ -1340,6 +1404,7 @@
     }
    ],
    "tags": [
+    "ai",
     "app"
    ],
    "status": "ok",
@@ -1385,6 +1450,7 @@
     }
    ],
    "tags": [
+    "ai",
     "three"
    ],
    "status": "ok",
@@ -1423,6 +1489,7 @@
     }
    ],
    "tags": [
+    "ai",
     "game"
    ],
    "status": "partial",
@@ -1460,7 +1527,9 @@
      "model": "Opus 5.5"
     }
    ],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "partial",
    "authorUrl": null,
    "where": null,
@@ -1507,6 +1576,7 @@
    ],
    "tags": [
     "threejs",
+    "ai",
     "three",
     "game"
    ],
@@ -1558,6 +1628,7 @@
    "tags": [
     "blender",
     "threejs",
+    "ai",
     "three",
     "game"
    ],
@@ -1597,6 +1668,7 @@
     }
    ],
    "tags": [
+    "ai",
     "game",
     "motion"
    ],
@@ -1639,6 +1711,7 @@
     }
    ],
    "tags": [
+    "ai",
     "app"
    ],
    "status": "ok",
@@ -1687,6 +1760,7 @@
    ],
    "tags": [
     "blender",
+    "ai",
     "three",
     "game",
     "long"
@@ -1727,6 +1801,7 @@
     }
    ],
    "tags": [
+    "ai",
     "three",
     "game"
    ],
@@ -1769,6 +1844,7 @@
    ],
    "tags": [
     "voxel",
+    "ai",
     "motion"
    ],
    "status": "partial",
@@ -1814,6 +1890,7 @@
     }
    ],
    "tags": [
+    "ai",
     "game",
     "motion"
    ],
@@ -1860,6 +1937,7 @@
     }
    ],
    "tags": [
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -1901,6 +1979,7 @@
    ],
    "tags": [
     "blender",
+    "ai",
     "three",
     "game"
    ],
@@ -1947,6 +2026,7 @@
     }
    ],
    "tags": [
+    "ai",
     "motion",
     "app"
    ],
@@ -1993,6 +2073,7 @@
     }
    ],
    "tags": [
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -2037,7 +2118,9 @@
      "model": "Opus 5.5"
     }
    ],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://x.com/victormustar",
    "where": null,
@@ -2084,6 +2167,7 @@
    ],
    "tags": [
     "threejs",
+    "ai",
     "three"
    ],
    "status": "ok",
@@ -2124,7 +2208,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,
@@ -2162,6 +2247,7 @@
     }
    ],
    "tags": [
+    "ai",
     "game",
     "motion"
    ],
@@ -2200,7 +2286,9 @@
      "model": "Opus 5.5"
     }
    ],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "partial",
    "authorUrl": null,
    "where": null,
@@ -2237,6 +2325,7 @@
     }
    ],
    "tags": [
+    "ai",
     "motion"
    ],
    "status": "partial",
@@ -2274,7 +2363,9 @@
      "model": "Opus 5.5"
     }
    ],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "partial",
    "authorUrl": null,
    "where": null,
@@ -2311,6 +2402,7 @@
     }
    ],
    "tags": [
+    "ai",
     "game"
    ],
    "status": "partial",
@@ -2356,6 +2448,7 @@
     }
    ],
    "tags": [
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -2397,6 +2490,7 @@
     }
    ],
    "tags": [
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -2445,6 +2539,7 @@
    ],
    "tags": [
     "threejs",
+    "ai",
     "three"
    ],
    "status": "ok",
@@ -2492,7 +2587,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/DotCSV",
@@ -2539,7 +2635,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/chetaslua",
@@ -2586,7 +2683,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/victormustar",
@@ -2636,6 +2734,7 @@
    "tags": [
     "game",
     "threejs",
+    "ai",
     "three"
    ],
    "status": "ok",
@@ -2683,7 +2782,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/NFT_Chen",
@@ -2730,7 +2830,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/RileyRalmuto",
@@ -2777,7 +2878,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/chetaslua",
@@ -2827,6 +2929,7 @@
    "tags": [
     "game",
     "blender",
+    "ai",
     "three"
    ],
    "status": "ok",
@@ -2874,7 +2977,8 @@
     }
    ],
    "tags": [
-    "game"
+    "game",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/MiaAI_lab",
@@ -2923,7 +3027,8 @@
    ],
    "tags": [
     "three",
-    "voxel"
+    "voxel",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/ChrisGPT",
@@ -2973,6 +3078,7 @@
    "tags": [
     "three",
     "blender",
+    "ai",
     "game",
     "motion"
    ],
@@ -3019,6 +3125,7 @@
     }
    ],
    "tags": [
+    "ai",
     "region"
    ],
    "status": "ok",
@@ -3067,6 +3174,7 @@
    ],
    "tags": [
     "app",
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -3114,7 +3222,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/yanhua1010",
@@ -3162,6 +3271,7 @@
    ],
    "tags": [
     "game",
+    "ai",
     "three"
    ],
    "status": "ok",
@@ -3205,7 +3315,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/Fantastic-Cold1249",
@@ -3257,6 +3368,7 @@
     "motion",
     "blender",
     "threejs",
+    "ai",
     "three"
    ],
    "status": "ok",
@@ -3302,6 +3414,7 @@
     }
    ],
    "tags": [
+    "ai",
     "long"
    ],
    "status": "ok",
@@ -3352,6 +3465,7 @@
    "tags": [
     "game",
     "threejs",
+    "ai",
     "three",
     "motion"
    ],
@@ -3403,6 +3517,7 @@
    "tags": [
     "app",
     "voxel",
+    "ai",
     "three"
    ],
    "status": "ok",
@@ -3450,7 +3565,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/ann_nnng",
@@ -3500,6 +3616,7 @@
    "tags": [
     "motion",
     "blender",
+    "ai",
     "three"
    ],
    "status": "ok",
@@ -3547,7 +3664,8 @@
     }
    ],
    "tags": [
-    "app"
+    "app",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/YanqingCheng",
@@ -3594,7 +3712,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/shapelayer",
@@ -3634,7 +3753,8 @@
     }
    ],
    "tags": [
-    "game"
+    "game",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,
@@ -3674,7 +3794,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,
@@ -3714,7 +3835,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,
@@ -3751,7 +3873,9 @@
      "model": "Opus 5.5"
     }
    ],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "partial",
    "authorUrl": null,
    "where": null,
@@ -3795,6 +3919,7 @@
     }
    ],
    "tags": [
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -3843,6 +3968,7 @@
    ],
    "tags": [
     "three",
+    "ai",
     "app",
     "region"
    ],
@@ -3892,6 +4018,7 @@
    ],
    "tags": [
     "game",
+    "ai",
     "three",
     "blender",
     "threejs"
@@ -3941,7 +4068,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/Voxyz_ai",
@@ -3988,7 +4116,8 @@
     }
    ],
    "tags": [
-    "game"
+    "game",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/cherry_mx_reds",
@@ -4036,6 +4165,7 @@
    ],
    "tags": [
     "game",
+    "ai",
     "three",
     "threejs"
    ],
@@ -4081,6 +4211,7 @@
    ],
    "tags": [
     "game",
+    "ai",
     "three",
     "threejs"
    ],
@@ -4130,6 +4261,7 @@
    ],
    "tags": [
     "game",
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -4177,7 +4309,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/_adishj",
@@ -4225,6 +4358,7 @@
    ],
    "tags": [
     "app",
+    "ai",
     "three",
     "threejs"
    ],
@@ -4273,7 +4407,8 @@
     }
    ],
    "tags": [
-    "three"
+    "three",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/higgsfield_ai",
@@ -4320,7 +4455,8 @@
     }
    ],
    "tags": [
-    "three"
+    "three",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/scheemunai",
@@ -4368,6 +4504,7 @@
    ],
    "tags": [
     "motion",
+    "ai",
     "region"
    ],
    "status": "ok",
@@ -4412,7 +4549,9 @@
      "model": "Opus 5.5"
     }
    ],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://x.com/other__reality",
    "where": null,
@@ -4458,7 +4597,8 @@
     }
    ],
    "tags": [
-    "game"
+    "game",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/_MaxBlade",
@@ -4505,7 +4645,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/AndrewOnXYZ",
@@ -4553,6 +4694,7 @@
    ],
    "tags": [
     "three",
+    "ai",
     "motion",
     "voxel"
    ],
@@ -4603,7 +4745,8 @@
    ],
    "tags": [
     "three",
-    "blender"
+    "blender",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/higgsfield_ai",
@@ -4651,6 +4794,7 @@
    ],
    "tags": [
     "three",
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -4700,7 +4844,8 @@
    ],
    "tags": [
     "three",
-    "threejs"
+    "threejs",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/techartist_",
@@ -4749,7 +4894,8 @@
    ],
    "tags": [
     "three",
-    "blender"
+    "blender",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/higgsfield_ai",
@@ -4796,7 +4942,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/aollivier82",
@@ -4845,7 +4992,8 @@
    ],
    "tags": [
     "three",
-    "threejs"
+    "threejs",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/scottstts",
@@ -4892,7 +5040,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/shfred0",
@@ -4935,7 +5084,8 @@
     }
    ],
    "tags": [
-    "app"
+    "app",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/MiaAI_lab",
@@ -4982,7 +5132,8 @@
     }
    ],
    "tags": [
-    "game"
+    "game",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/WoahWurdz",
@@ -5030,6 +5181,7 @@
    ],
    "tags": [
     "app",
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -5077,7 +5229,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/dhruvalgolakiya",
@@ -5124,7 +5277,8 @@
     }
    ],
    "tags": [
-    "three"
+    "three",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/MatthewBerman",
@@ -5173,7 +5327,8 @@
    ],
    "tags": [
     "game",
-    "voxel"
+    "voxel",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/notjazii",
@@ -5221,6 +5376,7 @@
    ],
    "tags": [
     "game",
+    "ai",
     "motion"
    ],
    "status": "ok",
@@ -5268,7 +5424,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/chetaslua",
@@ -5315,7 +5472,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/majidmanzarpour",
@@ -5362,7 +5520,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/cherry_mx_reds",
@@ -5409,7 +5568,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/claudeai",
@@ -5456,7 +5616,8 @@
     }
    ],
    "tags": [
-    "app"
+    "app",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/claudeai",
@@ -5503,7 +5664,8 @@
     }
    ],
    "tags": [
-    "three"
+    "three",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/claudeai",
@@ -5550,7 +5712,8 @@
     }
    ],
    "tags": [
-    "app"
+    "app",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/claudeai",
@@ -5597,7 +5760,8 @@
     }
    ],
    "tags": [
-    "three"
+    "three",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/claudeai",
@@ -5641,7 +5805,9 @@
      "model": "Opus 5.5"
     }
    ],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "ok",
    "authorUrl": "https://x.com/claudeai",
    "where": null,
@@ -5687,7 +5853,8 @@
     }
    ],
    "tags": [
-    "long"
+    "long",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/giobirkelund",
@@ -5734,7 +5901,8 @@
     }
    ],
    "tags": [
-    "long"
+    "long",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/ValsAI",
@@ -5783,7 +5951,8 @@
    ],
    "tags": [
     "game",
-    "voxel"
+    "voxel",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/noahwachnik",
@@ -5832,7 +6001,8 @@
    ],
    "tags": [
     "three",
-    "blender"
+    "blender",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/alexalbert__",
@@ -5879,7 +6049,8 @@
     }
    ],
    "tags": [
-    "app"
+    "app",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/askalphaxiv",
@@ -5926,7 +6097,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/superalesha",
@@ -5973,7 +6145,8 @@
     }
    ],
    "tags": [
-    "game"
+    "game",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/edwinarbus",
@@ -6022,7 +6195,8 @@
    ],
    "tags": [
     "game",
-    "voxel"
+    "voxel",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/buildwithsid",
@@ -6071,7 +6245,8 @@
    ],
    "tags": [
     "three",
-    "blender"
+    "blender",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/alexalbert__",
@@ -6118,7 +6293,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/chetaslua",
@@ -6165,7 +6341,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/strawhatsu4",
@@ -6213,6 +6390,7 @@
    ],
    "tags": [
     "three",
+    "ai",
     "game"
    ],
    "status": "ok",
@@ -6260,7 +6438,8 @@
     }
    ],
    "tags": [
-    "game"
+    "game",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/cherry_mx_reds",
@@ -6307,7 +6486,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/Miguel07Code",
@@ -6354,7 +6534,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/jkeatn",
@@ -6401,7 +6582,8 @@
     }
    ],
    "tags": [
-    "game"
+    "game",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/The_Alex",
@@ -6442,6 +6624,7 @@
     }
    ],
    "tags": [
+    "ai",
     "long"
    ],
    "status": "ok",
@@ -6489,7 +6672,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/kevin_t_ngo",
@@ -6536,7 +6720,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/devteamdrew",
@@ -6585,7 +6770,8 @@
    ],
    "tags": [
     "three",
-    "threejs"
+    "threejs",
+    "ai"
    ],
    "status": "ok",
    "authorUrl": "https://x.com/addyosmani",
@@ -6622,7 +6808,9 @@
      "model": "Opus 5.5"
     }
    ],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "partial",
    "authorUrl": null,
    "where": null,
@@ -6658,7 +6846,9 @@
      "model": "Opus 5.5"
     }
    ],
-   "tags": [],
+   "tags": [
+    "ai"
+   ],
    "status": "partial",
    "authorUrl": null,
    "where": null,
@@ -6697,7 +6887,8 @@
     }
    ],
    "tags": [
-    "long"
+    "long",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,
@@ -6737,7 +6928,8 @@
     }
    ],
    "tags": [
-    "long"
+    "long",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,
@@ -6777,7 +6969,8 @@
     }
    ],
    "tags": [
-    "three"
+    "three",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,
@@ -6817,7 +7010,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,
@@ -6858,6 +7052,7 @@
    ],
    "tags": [
     "motion",
+    "ai",
     "app"
    ],
    "status": "partial",
@@ -6898,7 +7093,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,
@@ -6938,7 +7134,8 @@
     }
    ],
    "tags": [
-    "motion"
+    "motion",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,
@@ -6978,7 +7175,8 @@
     }
    ],
    "tags": [
-    "app"
+    "app",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,
@@ -7018,7 +7216,8 @@
     }
    ],
    "tags": [
-    "app"
+    "app",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,
@@ -7058,7 +7257,8 @@
     }
    ],
    "tags": [
-    "app"
+    "app",
+    "ai"
    ],
    "status": "partial",
    "authorUrl": null,
