@@ -1,0 +1,2 @@
+# 한 줄에 URL 하나. Reddit / X / Threads / Instagram 게시물 주소를 붙여 넣고
+# npm run update 를 실행하면 가져온 뒤 이 목록에서 지웁니다. (# 로 시작하는 줄은 무시)

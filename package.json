@@ -1,0 +1,12 @@
+{
+  "name": "myshowroom",
+  "private": true,
+  "type": "module",
+  "description": "개인용 AI 사례 모음 + 소스 수집기",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "update": "node scripts/update.mjs",
+    "add": "node scripts/update.mjs --add",
+    "serve": "node scripts/serve.mjs"
+  }
+}

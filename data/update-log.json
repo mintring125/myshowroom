@@ -1,0 +1,55 @@
+{
+ "runs": [
+  {
+   "at": "2026-10-04T23:14:53.206Z",
+   "ms": 159406,
+   "added": 39,
+   "updated": 0,
+   "failed": 0,
+   "deferred": 0,
+   "total": 45,
+   "found": {
+    "ohmyopus": 40
+   },
+   "messages": [
+    "참고 사이트 ohmyopus 확인 중…",
+    "  ohmyopus: 103건은 다음 실행에서 확인",
+    "  새 사례 40건"
+   ]
+  },
+  {
+   "at": "2026-10-04T23:07:50.988Z",
+   "ms": 44868,
+   "added": 6,
+   "updated": 0,
+   "failed": 0,
+   "deferred": 0,
+   "total": 6,
+   "found": {
+    "ohmyopus": 6
+   },
+   "messages": [
+    "참고 사이트 ohmyopus 확인 중…",
+    "  ohmyopus: 143건은 다음 실행에서 확인",
+    "  새 사례 6건"
+   ]
+  }
+ ],
+ "last": {
+  "at": "2026-10-04T23:14:53.206Z",
+  "ms": 159406,
+  "added": 39,
+  "updated": 0,
+  "failed": 0,
+  "deferred": 0,
+  "total": 45,
+  "found": {
+   "ohmyopus": 40
+  },
+  "messages": [
+   "참고 사이트 ohmyopus 확인 중…",
+   "  ohmyopus: 103건은 다음 실행에서 확인",
+   "  새 사례 40건"
+  ]
+ }
+}

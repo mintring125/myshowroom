@@ -1,0 +1,83 @@
+{
+  "_doc": "수집 설정. 항목을 켜고 끄거나 키워드·서브레딧·참고 사이트를 추가하면 다음 갱신부터 반영됩니다.",
+
+  "general": {
+    "excerptChars": 280,
+    "refreshHours": 24,
+    "concurrency": 3,
+    "hostDelayMs": 1500,
+    "timeoutMs": 20000,
+    "maxNewPerRun": 150,
+    "userAgent": "myshowroom-updater/1.0 (personal bookmark collector)"
+  },
+
+  "filter": {
+    "_doc": "자동 발견(검색·서브레딧)에 쓰는 조건. 참고 사이트·inbox 로 들어온 것은 항상 받습니다.",
+    "include": ["opus\\s*5\\.5", "sonnet\\s*5\\.5", "claude"],
+    "showcase": ["made", "built", "build", "creat", "generat", "game", "demo", "one[- ]?shot", "만들", "만든", "제작"],
+    "exclude": ["\\bhiring\\b", "\\bpromo code\\b", "\\bdiscount\\b"]
+  },
+
+  "reddit": {
+    "enabled": true,
+    "subreddits": ["ClaudeAI", "ClaudeCode", "singularity", "aigamedev", "vibecoding", "threejs", "blender"],
+    "searchQuery": "opus 5.5 OR sonnet 5.5",
+    "minScore": 20
+  },
+
+  "x": {
+    "enabled": true,
+    "_doc": "검색은 X_BEARER_TOKEN 이 있을 때만. 없으면 URL 단위로만 fxtwitter 로 해석합니다.",
+    "searchQuery": "(\"opus 5.5\" OR \"sonnet 5.5\") has:media -is:retweet",
+    "minLikes": 100,
+    "useFxtwitter": true
+  },
+
+  "threads": {
+    "enabled": true,
+    "_doc": "키워드 검색은 THREADS_ACCESS_TOKEN 이 있을 때만.",
+    "keywords": ["opus 5.5", "sonnet 5.5", "클로드 오퍼스"]
+  },
+
+  "instagram": {
+    "enabled": true,
+    "_doc": "Instagram 은 공개 검색 경로가 없어 inbox(URL 붙여넣기)로만 들어옵니다."
+  },
+
+  "references": [
+    {
+      "_doc": "JSON-LD(isBasedOn) 를 쓰는 참고 사이트. 원문 링크·작성자·날짜·반응 수·분류만 가져오고 운영자 해설 본문과 미디어는 가져오지 않습니다.",
+      "id": "ohmyopus",
+      "name": "ohmyopus",
+      "enabled": true,
+      "type": "jsonld-sitemap",
+      "sitemap": "https://ohmyopus.com/sitemap.xml",
+      "casePattern": "^https://ohmyopus\\.com/c/[^/]+$",
+      "categoryPattern": "^https://ohmyopus\\.com/s/([^/]+)$",
+      "categoryMap": {
+        "long": "long", "three": "three", "game": "game", "motion": "motion", "app": "app",
+        "blender": "blender", "threejs": "threejs", "minecraft": "voxel", "krjp": "region"
+      }
+    },
+    {
+      "_doc": "구조화 데이터가 없는 사이트용 예시: 페이지에서 Reddit/X/Threads/Instagram 링크를 모두 주워 옵니다.",
+      "id": "example-links",
+      "name": "예시 링크 페이지",
+      "enabled": false,
+      "type": "links",
+      "pages": ["https://example.com/ai-showcase"]
+    }
+  ],
+
+  "tags": {
+    "_doc": "제목·본문에 정규식이 맞으면 태그를 붙입니다. 화면의 카테고리가 이 태그를 씁니다.",
+    "three": "blender|three\\.?js|webgl|\\b3d\\b|unreal|shader|godot|unity|3D",
+    "blender": "blender",
+    "threejs": "three\\.?js|webgl|r3f",
+    "game": "\\bgames?\\b|게임|rpg|roguelike|platformer|shooter|mmo|pok[eé]mon",
+    "motion": "video|animation|animated|motion|svg|trailer|remotion|manim|music video|영상|애니메이션|뮤직비디오",
+    "app": "\\bapp\\b|landing page|dashboard|website|web ?app|\\bui\\b|웹앱|랜딩|대시보드|웹사이트",
+    "voxel": "minecraft|voxel|마인크래프트|복셀",
+    "long": "\\b\\d+\\s?(hours?|hrs?|h)\\b|overnight|autonomous|시간 동안|밤새"
+  }
+}

@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <title>myshowroom</title>
+  <meta name="description" content="개인 참고용 AI 사례 모음">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="root" id="app">
+    <div id="left"></div>
+    <section id="right"></section>
+  </div>
+  <div id="viewer" class="viewer" hidden></div>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="data/cases.js" onerror="window.CASES_DB=null"></script>
+  <script src="js/data.js"></script>
+  <script src="js/media.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
