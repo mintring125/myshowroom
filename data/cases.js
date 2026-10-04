@@ -1,8 +1,73 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-10-04T23:51:43.578Z",
+ "updatedAt": "2026-10-04T23:53:43.275Z",
  "cases": [
+  {
+   "id": "e6ecaddb64c2",
+   "canon": "https://www.reddit.com/comments/1wxu5a5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxu5a5/i_built_a_brand_identity_skill_for_claude_code/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "I built a brand identity skill for Claude Code: logo, fonts and colours that actually fit together",
+   "text": "I'm a developer, not a designer, and every time I asked Claude for a brand I got the same one: cream background, terracotta, Fraunces + Inter, a letter in a circle. So I built a skill that makes it commit to one idea per identity and then checks its own work.\n What it does:\n -…",
+   "author": "zukoo7",
+   "publishedAt": "2026-10-04T23:50:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/sody58jofjth1.jpg?width=140&height=68&auto=webp&s=f9a23300dd0b0395a5510b38fe14e85dd53fd4b6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/zukoo7",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "94da12914557",
+   "canon": "https://www.reddit.com/comments/1wxtwp5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wxtwp5/im_building_lyre_with_claude_code_so_i_can/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "I’m building Lyre with Claude Code so I can develop and test my apps from any device",
+   "text": "I’m building Lyre because I wanted to keep working on my apps and actually use them without always being at my desk.\n Lyre brings development, interactive app previews, sharing, and publishing into one workflow. Your computer runs the project and the agents. From your phone or…",
+   "author": "Amazing-Potato-3096",
+   "publishedAt": "2026-10-04T23:38:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/jwf705wpdjth1.jpeg?width=640&crop=smart&auto=webp&s=62b9e667317d00d06c18fde791f460f7c17a24d3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Amazing-Potato-3096",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "8266152aece6",
    "canon": "https://www.reddit.com/comments/1wxtuxf",
@@ -33,6 +98,73 @@ window.CASES_DB = {
    "model": null
   },
   {
+   "id": "9e58ad5d11c9",
+   "canon": "https://www.reddit.com/comments/1wxtngx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wxtngx/i_converted_a_video_clip_into_a_3d_minigame_of/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "I Converted a video clip into a 3D mini-game of glowing sheet music, automatically",
+   "text": "So I stumbled upon a cool short video clip of glowing sheet music and thought - \"damn, that's cool, let's re-do that\".\n An hour later or so later... Boom! Done! As a game: 60 public-domain pieces, human-timed performances, PDF upload, phone layout, and the teaser video in this…",
+   "author": "Timisageek",
+   "publishedAt": "2026-10-04T23:26:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Ymp2ZHM0ZXg5anRoMVLjL1cejLq-0aRfpyAJp9gO4JyN8EuI5QuO3LmyTEXc.png?width=640&crop=smart&auto=webp&s=a7b07caeb2fe45b5ffab7d4c1d76ae27bcf83d03"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Timisageek",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c2b14ec8ba41",
+   "canon": "https://www.reddit.com/comments/1wxtdtk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxtdtk/claude_opus_55_tops_mazur_constrained_story/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "Claude Opus 5.5 Tops Mazur Constrained Story Writing Benchmark — RuntimeWire",
+   "text": "",
+   "author": "ryanmerket",
+   "publishedAt": "2026-10-04T23:12:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/TwuU5wORmrR3QhCC7rpiYbLq9i9mD-ITt6OmpzBz2Q0.jpeg?width=640&crop=smart&auto=webp&s=c6fda92bc871b27c6247705435227c197b92db0e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ryanmerket",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "8993874fcbde",
    "canon": "https://www.reddit.com/comments/1wxtajk",
    "platform": "reddit",
@@ -55,6 +187,132 @@ window.CASES_DB = {
    "authorUrl": "https://www.reddit.com/user/royalroadtogeometry",
    "where": "r/ClaudeAI",
    "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "984566caf3ae",
+   "canon": "https://www.reddit.com/comments/1wxsz2h",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wxsz2h/i_built_mokkan_reminders_that_follow_you_between/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "I built mokkan: reminders that follow you between Claude Code, Codex and terminal sessions",
+   "text": "If you work in a lot of agent sessions, you've probably hit this: you tell Claude \"remind me to check the flaky test later\", or you create TODO lists in every project and eventually you forget. Every session starts blank, and the model only checks on something if it happens to…",
+   "author": "Cl33t_Commander",
+   "publishedAt": "2026-10-04T22:52:55+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Cl33t_Commander",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6d971d06570a",
+   "canon": "https://www.reddit.com/comments/1wxsphf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wxsphf/worked_with_claude_to_make_a_song_about_how_it/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "worked with claude to make a song about how it burns my whole usage limit before lunch",
+   "text": "when you sit down to do one small thing and the limit hits before lunch? Had claude make a song about what happens on its end. \n just like the other, no suno, no voice model, no image generator, no samples. the beat, the voices and every frame of the video are built by code…",
+   "author": "No-Cheetah-6338",
+   "publishedAt": "2026-10-04T22:39:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dG95Znl3NDAzanRoMeCff_nsCSkqCrr_y1EKsSHgCsbXbElc9_nkR-leG6eC.png?width=640&crop=smart&auto=webp&s=474bb948536c302e17cdefd01b0d0de0b38e8669"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No-Cheetah-6338",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "252867c62c75",
+   "canon": "https://www.reddit.com/comments/1wxsp15",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wxsp15/vibecoded_claude_plugin/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "Vibecoded Claude Plugin",
+   "text": "Had claude make this plugin\n It allows you to set a phrase to go at the start of your prompt. Very useful if you want to set a specific parameter or have found a good way to jailbreak a model. With this you wouldn't have to type out the phrase every single time (which helps a…",
+   "author": "Twillware404",
+   "publishedAt": "2026-10-04T22:39:10+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/0lz5bpw33jth1.jpeg?width=640&crop=smart&auto=webp&s=45c71e38a5e6c9b5475793816b171a3c7fb2ef6d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Twillware404",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "09a0b36b1749",
+   "canon": "https://www.reddit.com/comments/1wxsggz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wxsggz/i_just_ported_npx_ruflo_to_the_new_claude_code/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "I just ported 'npx RuFlo' to the new Claude Code Mod system. It's next level. I was inspired to recreate a 1990 Wildcat BBS I ran back in the day.",
+   "text": "A mod is a Claude Code plugin whose behaviour is a hooks module: JavaScript or TypeScript that exports register(on, options). Inside it, on(event, hook) attaches middleware to the engines own events. Each hook can watch an event, rewrite it, or answer it in place of the engine.…",
+   "author": "Educational_Ice151",
+   "publishedAt": "2026-10-04T22:27:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MWQzb2Q0bWJ3aXRoMczIDIpdTJlFvdT_Zr6EV7iKFIm4aYz0UoMfixNPXQQs.png?width=640&crop=smart&auto=webp&s=c7ed0c960a272159cf71739a299619c3ea94f5dd"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Educational_Ice151",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
    "lang": "en",
    "model": null
   },
@@ -117,6 +375,71 @@ window.CASES_DB = {
    "model": null
   },
   {
+   "id": "84df2da60e28",
+   "canon": "https://www.reddit.com/comments/1wxs7zo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wxs7zo/built_a_claude_mod_to_help_review_spec_and_design/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "Built a Claude Mod to help review spec and design documents",
+   "text": "Hi,\n I built this mod for claude code that allows you to review md documents right inside the TUI.\n This was built with Fable 5.1 and Opus 5.5. I went back and forth with it to fix some usability issues I faced with a couple of documents I tried it out on, but I didn't write any…",
+   "author": "revelationnow",
+   "publishedAt": "2026-10-04T22:16:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/e2dzkk400jth1.gif?frame=1&width=140&height=90&auto=webp&s=4ec8732afad830cf8171971094657551f1068083"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/revelationnow",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "52a20cedb5cd",
+   "canon": "https://www.reddit.com/comments/1wxs4zg",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wxs4zg/3d_asset_creation_might_be_cooked/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "3D Asset Creation Might be Cooked",
+   "text": "I’ve been working on creating basically the Maya for AI to make 3D Assets. \n It’s been like 5 months of testing and coming up with new ideas and systems. \n I had to come up with a special system and process ai follows to make asset from just a reference and direction. \n The…",
+   "author": "LoudYogurtcloset7856",
+   "publishedAt": "2026-10-04T22:13:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/nm7qpjogyith1.jpg?width=140&height=78&auto=webp&s=38b110190f0f684278c576332b4fa5ab8e7155f4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/LoudYogurtcloset7856",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
    "id": "0d16f6e4f17b",
    "canon": "https://www.reddit.com/comments/1wxs08o",
    "platform": "reddit",
@@ -170,6 +493,38 @@ window.CASES_DB = {
    "authorUrl": "https://www.reddit.com/user/1-inf",
    "where": "r/virtualreality",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "89fadb584b0d",
+   "canon": "https://www.reddit.com/comments/1wxrnvo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wxrnvo/little_project_i_made_with_claude_code_is_paying/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "Little project I made with claude code is paying for my meals. So happy about it.",
+   "text": "",
+   "author": "Pretty_Judgment5481",
+   "publishedAt": "2026-10-04T21:52:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/lla9qnmmuith1.png?width=320&crop=smart&auto=webp&s=42d53eaf43912ffc559eb1a6e9f41f0ab524485a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Pretty_Judgment5481",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
    "lang": "en",
    "model": null
   },
@@ -367,6 +722,38 @@ window.CASES_DB = {
    "model": null
   },
   {
+   "id": "1378c3146247",
+   "canon": "https://www.reddit.com/comments/1wxq0fi",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wxq0fi/made_a_claude_code_plugin_that_gives_you_reports/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "Made a Claude Code plugin that gives you reports on your Plex server",
+   "text": "I've been tinkering with a little project called Cinemetric. It's a free, open-source plugin for Claude Code. You ask it stuff like \"how's my Plex server doing?\" or \"what's been watched this month?\" and it gives you a readable report.\n Right now it can do library stats (storage,…",
+   "author": "bozodev",
+   "publishedAt": "2026-10-04T20:40:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/wXM8Mj9FoPaKKeSRK7X4rHaM1FKxl_FJClel3z0CmW0.png?width=640&crop=smart&auto=webp&s=b89481a58faf36ca98a9fb832b4b0a68794d249b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/bozodev",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
    "id": "e0deb8d7d257",
    "canon": "https://www.reddit.com/comments/1wxq0ea",
    "platform": "reddit",
@@ -420,6 +807,71 @@ window.CASES_DB = {
    "authorUrl": "https://www.reddit.com/user/Kot4san",
    "where": "r/ClaudeAI",
    "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "149838e8848e",
+   "canon": "https://www.reddit.com/comments/1wxpkrj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wxpkrj/i_made_an_obsidian_plugin_to_organize_claude_code/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "I made an Obsidian plugin to organize Claude Code skills and other AI tools",
+   "text": "I kept losing track of skills, agents, commands, and rules across Claude Code and other tools, so I built an Obsidian plugin to help organize them in one place. Skills are just markdown files, and a lot of us already use Obsidian alongside Claude Code, so it felt like the…",
+   "author": "notenerd",
+   "publishedAt": "2026-10-04T20:22:36+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/qln6nzcjeith1.png?width=140&height=87&auto=webp&s=8b023833d6c15915307c740cb6924a35baf12d0c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/notenerd",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "dded2ab3a26e",
+   "canon": "https://www.reddit.com/comments/1wxpk01",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wxpk01/i_directed_a_god_game_from_my_phone_by/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "I directed a god game from my phone by complaining at Claude. No engine, no art or sound files: it draws every sprite and composes the music live.",
+   "text": "I've had a design doc for a Populous-style god game sitting in a folder since February. This weekend I gave it to Claude and mostly just played builds on my phone and complained.\n Live demo (free, runs in the browser on phone or desktop, about 10 minutes):…",
+   "author": "CaramelElectron",
+   "publishedAt": "2026-10-04T20:21:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/czdxNjlicWJlaXRoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=9cea9340452a0b7b529f5bc5daae5e5e4faf192c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CaramelElectron",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
    "lang": "en",
    "model": null
   },
@@ -988,6 +1440,36 @@ window.CASES_DB = {
    "model": null
   },
   {
+   "id": "50f523589cf5",
+   "canon": "https://www.reddit.com/comments/1wxj6lw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1wxj6lw/diablo_1_animal_crossing_prototype_on_specs_built/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "Diablo 1 × Animal Crossing prototype on SPECS, built with CLAD and Opus 5.5",
+   "text": "",
+   "author": "xrosspost",
+   "publishedAt": "2026-10-04T16:00:31+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/xrosspost",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "72a4bd466ff2",
    "canon": "https://www.reddit.com/comments/1wxd7ct",
    "platform": "reddit",
@@ -1045,6 +1527,40 @@ window.CASES_DB = {
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
    "model": null
+  },
+  {
+   "id": "3637391eeb26",
+   "canon": "https://www.reddit.com/comments/1wx8i8h",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wx8i8h/diablo_1_animal_crossing_prototype_on_specs_built/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "Diablo 1 × Animal Crossing prototype on SPECS, built with CLAD and Opus 5.5",
+   "text": "Tom Nook kept asking about my mortgage, so I did the reasonable thing: smashed Diablo 1 and Animal Crossing into one game and went demon hunting for bells.\n It's a prototype on SPECS which connects to an Xbox controller paired over Bluetooth. Made with CLAD and Claude Opus 5.5.…",
+   "author": "shincreates",
+   "publishedAt": "2026-10-04T06:20:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MGJhOTl5MHQ3ZXRoMfXaq3zzNVwXeqvoGW8EPU_wtslc0hNz63A80nK5akDG.png?width=640&crop=smart&auto=webp&s=82f86bf5bf93b65d51ef79e7a2709a4d78cc2f90"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/shincreates",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": "Opus 5.5"
   },
   {
    "id": "db98882c2801",
@@ -1223,6 +1739,103 @@ window.CASES_DB = {
    "model": null
   },
   {
+   "id": "b67f7705508e",
+   "canon": "https://www.reddit.com/comments/1wwqdta",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wwqdta/tdk_retinal_projection_with_a_transparent_mirror/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "TDK: Retinal projection with a transparent mirror embedded in the lens",
+   "text": "Claimed as the world's first direct retinal projection display using a meta-optic mirror. Just 150 nm thick with ~80% visible-light transmission, the mirror fits inside the lens for a look closer to regular glasses. Keeps displayed content hidden from others, with…",
+   "author": "tash_2s",
+   "publishedAt": "2026-10-03T15:44:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/zf9lk6ayv9th1.jpg?width=140&height=78&auto=webp&s=dbb134d90e74b603c5a8700b28b1c20997030150"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/tash_2s",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cc044f3af16b",
+   "canon": "https://www.reddit.com/comments/1wwkjrp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wwkjrp/i_been_smartglasses_for_translation_with_my_inlaws/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "I been smartglasses for translation with my in-laws",
+   "text": "My wife's parents don't speak much English and my language skills are pretty limited, so I wanted to see if the Halliday G2 translation feature could make family dinners a little easier. I've tried them a couple of times since receiving them. In a quiet room with one person…",
+   "author": "Background-Zebra5491",
+   "publishedAt": "2026-10-03T11:05:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/8m102b9ii8th1.jpg?width=140&height=105&auto=webp&s=1a9a699192f2d9011df024d0131aa4427842920c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Background-Zebra5491",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "17403a9650fc",
+   "canon": "https://www.reddit.com/comments/1wwdlri",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1wwdlri/samsung_planning_investment_of_300b_won_in_rgb/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "Samsung planning investment of 300B Won in RGB OLEDoS for MR/VR",
+   "text": "",
+   "author": "xrosspost",
+   "publishedAt": "2026-10-03T04:00:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/DSt8IY-z1AmNDRavRtBZYWrJn2kD7vnLd5aOt3K16Ac.png?width=320&crop=smart&auto=webp&s=57f39a7d6fa90e282450e6091e364ec7539a7314"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/xrosspost",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
    "id": "32e70f9dc971",
    "canon": "https://www.reddit.com/comments/1ww97os",
    "platform": "reddit",
@@ -1251,6 +1864,38 @@ window.CASES_DB = {
    "authorUrl": "https://www.reddit.com/user/timfennell_",
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3b1251d6a428",
+   "canon": "https://www.reddit.com/comments/1ww7nl4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1ww7nl4/10_years_building_vr_ar_3d_and_ai_products/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "10+ years building VR, AR, 3D and AI products",
+   "text": "Here’s what I’ve been working on\n I’ve been working across Unity, VR/AR, WebXR, interactive 3D and full-stack development for quite a while, and recently I’ve been pushing more of my work toward combining 3D + AI + the web.\n Some of the things I’ve built/worked on:\n \\- VR…",
+   "author": "appliedxr_dev",
+   "publishedAt": "2026-10-02T22:53:15+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "ai",
+    "xr",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/appliedxr_dev",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
    "lang": "en",
    "model": null
   },
@@ -1318,6 +1963,35 @@ window.CASES_DB = {
    "model": null
   },
   {
+   "id": "a5ea8fd6a6df",
+   "canon": "https://www.reddit.com/comments/1wvznfn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/Spectacles/comments/1wvznfn/i_accidentally_turned_a_completely_normal_mirror/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "I accidentally turned a completely normal mirror into a smart mirror using Spectacles.",
+   "text": "No display behind the glass. No Raspberry Pi. No sensors. No modifications to the mirror.\n Just AR glasses.\n And yes, I called it SmARt Mirror because I apparently cannot resist putting AR into names 😛\n The idea actually came from an accident.\n While building my Home Automation…",
+   "author": "KrazyCreates",
+   "publishedAt": "2026-10-02T17:23:05+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/KrazyCreates",
+   "where": "r/Spectacles",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
    "id": "13170dc6bd37",
    "canon": "https://www.reddit.com/comments/1wvygt9",
    "platform": "reddit",
@@ -1349,6 +2023,136 @@ window.CASES_DB = {
    "model": null
   },
   {
+   "id": "761a8fd6595e",
+   "canon": "https://www.reddit.com/comments/1wvsjfr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wvsjfr/halliday_g2_lets_do_a_pear_review/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "Halliday G2 — Let's do a Pear Review",
+   "text": "What do you want to know?!",
+   "author": "AR_MR_XR",
+   "publishedAt": "2026-10-02T12:29:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/nsrdsf1ds1th1.jpg?width=140&height=105&auto=webp&s=8dc74455daf41284529d43488c7bde3873fa2f1a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AR_MR_XR",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d2cef42015ee",
+   "canon": "https://www.reddit.com/comments/1wvh7ay",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wvh7ay/japanese_retail_is_just_so_funny_how_many_labels/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "Japanese Retail is just so funny. How many labels can they fit on a single poster: 3D AR AI AR SMART GLASSES",
+   "text": "",
+   "author": "AR_MR_XR",
+   "publishedAt": "2026-10-02T01:34:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/rf1fg91ijysh1.jpg?width=140&height=105&auto=webp&s=cb914e24620e6f58708b8c03e2edfdd52e33d4c7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AR_MR_XR",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f071d00a3240",
+   "canon": "https://www.reddit.com/comments/1wvh5xp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1wvh5xp/i_work_in_a_warehouse_and_bought_these_for/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "I work in a warehouse and bought these for podcasts",
+   "text": "I work in a warehouse and wanted something for podcasts and calls that didn’t block my ears. I don’t like wearing earbuds all day because I still need to hear what’s happening around me.\n I’ve been using the halliday g2 glasses for a little over a week. The speakers are better…",
+   "author": "makoy666",
+   "publishedAt": "2026-10-02T01:32:10+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/t59pzvi8jysh1.jpeg?width=640&crop=smart&auto=webp&s=786736f551cbe24e7e1c45460fbb454acb226741"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/makoy666",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1c8dc1a6a61c",
+   "canon": "https://www.reddit.com/comments/1wvgdjq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wvgdjq/california_gov_gavin_newsom_vetoed_legislation/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "California Gov. Gavin Newsom vetoed legislation that would penalize using smart glasses to secretly record people in private spaces like changing rooms and clinics",
+   "text": "",
+   "author": "AR_MR_XR",
+   "publishedAt": "2026-10-02T00:54:43+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/_sxRYe9RuUn6hR1kn_SfZShVuVrNAx8-NY-gLDa9hpk.jpeg?width=640&crop=smart&auto=webp&s=5d4e84f28d94663345f336c00becb232b9c6c573"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AR_MR_XR",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
    "id": "fc39aa78b1fe",
    "canon": "https://www.reddit.com/comments/1wv815x",
    "platform": "reddit",
@@ -1376,6 +2180,269 @@ window.CASES_DB = {
    "authorUrl": "https://www.reddit.com/user/ShanaD_",
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "978b8a37195d",
+   "canon": "https://www.reddit.com/comments/1wv3j7p",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1wv3j7p/build_for_meta_vr_glasses_with_unity/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "Build for Meta VR Glasses with Unity",
+   "text": "",
+   "author": "AR_MR_XR",
+   "publishedAt": "2026-10-01T16:09:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M51IYHkbTb7FFaAlHfOBJPqx3GJ8fUZo8TwuZVnzLZc.jpeg?width=320&crop=smart&auto=webp&s=f7ea5588f9e1fe48e845b9fb5745256d7b9e5b4c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AR_MR_XR",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1a5fde993e2b",
+   "canon": "https://www.reddit.com/comments/1wv3iyq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wv3iyq/build_for_meta_vr_glasses_with_unity/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "Build for Meta VR Glasses with Unity",
+   "text": "Join Unity and Meta for a deep dive into building for Meta VR Glasses from day one. We'll cover what's new and native to VR Glasses, including eye tracking, microgestures, and Quad Views Rendering, and show you how to add support for VR Glasses with your existing Quest projects.…",
+   "author": "AR_MR_XR",
+   "publishedAt": "2026-10-01T16:09:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M51IYHkbTb7FFaAlHfOBJPqx3GJ8fUZo8TwuZVnzLZc.jpeg?width=320&crop=smart&auto=webp&s=f7ea5588f9e1fe48e845b9fb5745256d7b9e5b4c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AR_MR_XR",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0a8764f69651",
+   "canon": "https://www.reddit.com/comments/1wv2rbo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wv2rbo/i_tested_arcturus_on_steam_frame_against_xreal/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "I tested Arcturus on Steam Frame against XREAL Beam Pro and Quest 3 for 3D capture",
+   "text": "I spent some time using Arcturus Vision Camera as a stereo video camera on Steam Frame, then compared the footage with XREAL Beam Pro and Quest 3.\n It has great fine detail, and the camera also stores position and orientation during recording. With that, it can during playback…",
+   "author": "immerVR",
+   "publishedAt": "2026-10-01T15:40:12+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/6mkGCqA1J0pXXmKy3jxL3QW4NRLZ-0seZpyaY38iC4A.jpeg?width=320&crop=smart&auto=webp&s=24e3b0a88a9585523ad6e0a99bd0862c200d357d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr",
+    "three",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/immerVR",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4823079647f0",
+   "canon": "https://www.reddit.com/comments/1wv2ohs",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1wv2ohs/i_tested_arcturus_on_steam_frame_against_xreal/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "I tested Arcturus on Steam Frame against XREAL Beam Pro and Quest 3 for 3D capture",
+   "text": "I spent some time using Arcturus Vision Camera as a stereo video camera on Steam Frame, then compared the footage with XREAL Beam Pro and Quest 3.\n It has great fine detail, and the camera also stores position and orientation during recording. With that, it can during playback…",
+   "author": "immerVR",
+   "publishedAt": "2026-10-01T15:37:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/6mkGCqA1J0pXXmKy3jxL3QW4NRLZ-0seZpyaY38iC4A.jpeg?width=320&crop=smart&auto=webp&s=24e3b0a88a9585523ad6e0a99bd0862c200d357d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr",
+    "three",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/immerVR",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "41c8a2f74711",
+   "canon": "https://www.reddit.com/comments/1wv02dn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wv02dn/i_pulled_my_thinkreality_a3_off_a_dusty_shelf_and/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "I pulled my ThinkReality A3 off a dusty shelf and got it working on macOS with Claude. Open source",
+   "text": "When the Lenovo ThinkReality A3 first came out, I was given one to test. It works with my ThinkPad, but for the last two years I've mostly been on a Mac, and on a Mac the glasses show nothing. Lenovo only made Windows and Motorola phone software, and the product is end-of-life.…",
+   "author": "idcat",
+   "publishedAt": "2026-10-01T13:54:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/d2dpYnRlZWoydnNoMTtRK377MWyA2kSetkHCCiL7PveuETkkf14pbtSFKjYg.png?width=640&crop=smart&auto=webp&s=685f82878e1cda4303be38da6e40dd2547940580"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/idcat",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "66a9e5204737",
+   "canon": "https://www.reddit.com/comments/1wuvnwh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/Spectacles/comments/1wuvnwh/i_built_mittikaar_a_handtracked_pottery_studio/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "I built mittikaar., a hand-tracked pottery studio for Spectacles 🏺",
+   "text": "Hey everyone! I’ve been working on mittikaar., an AR pottery experience for Spectacles that lets you create pottery with your hands.\n Place a virtual wheel in your space, shape the spinning clay, add colours and decorative patterns, then fire your creation in a virtual kiln. You…",
+   "author": "EveningCelery6565",
+   "publishedAt": "2026-10-01T10:14:59+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/EveningCelery6565",
+   "where": "r/Spectacles",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "93e7157c6ec3",
+   "canon": "https://www.reddit.com/comments/1wuusnj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wuusnj/meta_wearables_device_access_toolkit_10_out/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "Meta Wearables Device Access Toolkit 1.0 out!",
+   "text": "🗣️ ‘Hey Meta’ voice invocation: launch your experience directly with Hey Meta\n 👋 Input events via cap touch or Neural Band\n 🎤 Speech recognition: convert users’ requests into text\n 📸 Camera capture: capture full resolution photos\n 🙂‍↔️ Motion Sensor: user's head movement…",
+   "author": "oscarfalmer",
+   "publishedAt": "2026-10-01T09:20:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/joindcxmptsh1.jpeg?width=640&crop=smart&auto=webp&s=970190a6ec1fafcf3bf84d8505261ecc1c93daab"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/oscarfalmer",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "750b968d9ada",
+   "canon": "https://www.reddit.com/comments/1wut9ae",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/Spectacles/comments/1wut9ae/tripoptic_open_source_gemini_trip_planner_graph/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "TripOptic (OPEN SOURCE): Gemini trip planner graph on Spectacles — BYO Places token, Snap maps, pack scan",
+   "text": "TripOptic turns a spoken trip brief into a live AR plan on Spectacles:\n One Gemini graph for stay, transit, food, sights, weather, and packing, around a destination portal. Change any field by voice and the plan updates.\n Bring your own Google Places API (New) key…",
+   "author": "Urbanpeppermint",
+   "publishedAt": "2026-10-01T07:38:47+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Urbanpeppermint",
+   "where": "r/Spectacles",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
    "lang": "en",
    "model": null
   },
@@ -1433,6 +2500,39 @@ window.CASES_DB = {
    "authorUrl": "https://www.reddit.com/user/solo_solipsist",
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "eac9b1e268c7",
+   "canon": "https://www.reddit.com/comments/1wukt1s",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wukt1s/the_big_3_display_glasses_showdown_gt_max_vs/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "The Big 3! - Display Glasses Showdown GT MAX vs BEAST vs 1S",
+   "text": "Out of all the display glasses I've tested, these are the three I find myself coming back to most. So in this video I compare them, their features, specs, we do a through the lens and we figure out what the best use case is for each. \n We also crown a winner! \n Which is your…",
+   "author": "Informal-Tech",
+   "publishedAt": "2026-10-01T00:00:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/emdqtKGQNO_Yb4CX0COBBiFXFvblaHlOzmtBSVJnYmM.jpeg?width=320&crop=smart&auto=webp&s=90e8b230d744edb3a0794d8b11ed742af1c31d16"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Informal-Tech",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
    "lang": "en",
    "model": null
   },
@@ -1520,6 +2620,229 @@ window.CASES_DB = {
    "model": "Sonnet 5.5"
   },
   {
+   "id": "25b8df3884ad",
+   "canon": "https://www.reddit.com/comments/1wuhxta",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/Spectacles/comments/1wuhxta/i_turned_my_kitchen_table_into_an_arcade/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "I turned my kitchen table into an arcade: Bitbreakers, a tabletop wave shooter for Spectacles",
+   "text": "Hi everyone,\n this is my new project \"Bitbreakers\".\n I grew up on Mega Man, Contra and the arcade shooters where you fight room after room and every new gun changes how you play. When I got my Spectacles, the thing I kept coming back to was: what if that kind of game did not…",
+   "author": "OkAstronaut5811",
+   "publishedAt": "2026-09-30T21:52:02+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/OkAstronaut5811",
+   "where": "r/Spectacles",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a7624ba61c76",
+   "canon": "https://www.reddit.com/comments/1wuf690",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1wuf690/amazon_starts_wider_driver_tests_ahead_of_a/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "Amazon Starts Wider Driver Tests Ahead of a Massive Smart Glasses Rollout",
+   "text": "",
+   "author": "xrosspost",
+   "publishedAt": "2026-09-30T20:00:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/b1mjxj4i4osh1.jpeg?width=640&crop=smart&auto=webp&s=9b2aff9fdf492b7313d8051b0438deee104bf5a4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/xrosspost",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e1c10fda79b1",
+   "canon": "https://www.reddit.com/comments/1wuexef",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wuexef/ar_test_project_build_in_godot/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "AR test project build in Godot",
+   "text": "It's been a while since I have gotten to play around in AR. I forgot how much fun it is to test different hand tracking controls, and invent new ways to interact with a virtual world. \n It's a base defense game with mining and tower defense elements. Mine the ground around your…",
+   "author": "wolfbaru",
+   "publishedAt": "2026-09-30T19:51:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eGlwbjE2ZXVvcHNoMThOR1h7-ukNDa_wIqAx9WQIjjQ8rGSfiL4bpW0xWNBs.png?width=640&crop=smart&auto=webp&s=0af15028019e9094dea6859cd72c84a5547f52a3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/wolfbaru",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "89d61c37780b",
+   "canon": "https://www.reddit.com/comments/1wucs3c",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/Spectacles/comments/1wucs3c/i_built_stray_catch_a_spectacles_lens_where_you/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "I built Stray Catch, a Spectacles lens where you frame real strays with your hands and turn them into holo cards",
+   "text": "Hey everyone! 👋 I've been working on Stray Catch and it's finally ready to share. Spot a stray dog, cat, bird or squirrel, frame it with your hands, and it becomes a collectible holo card. Think Pokémon GO meets trading cards, with the real animals on your street. 🐶🐱🐦\n 📸…",
+   "author": "RickThakur",
+   "publishedAt": "2026-09-30T18:29:48+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RickThakur",
+   "where": "r/Spectacles",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "09803c492c00",
+   "canon": "https://www.reddit.com/comments/1wuaud3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wuaud3/hdr10_works_on_rayneo_pocket_tv_pro_with_air_4_pro/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "HDR10 Works on RayNeo Pocket TV Pro with Air 4 Pro",
+   "text": "I wanted to test if normal HDR10 worked on Pocket TV Pro and can now confirm that it does with RayNeo Air 4 Pro.",
+   "author": "Informal-Tech",
+   "publishedAt": "2026-09-30T17:18:08+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/VTr8ucw3ELHsKykd96a1qI2r5roLxYJi7hV0eH_nEDo.jpeg?width=320&crop=smart&auto=webp&s=e34e115f117d6a789aa642844bac39e8a5054c7f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Informal-Tech",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "eefc6d3b5a0d",
+   "canon": "https://www.reddit.com/comments/1wu779r",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wu779r/amazon_starts_wider_driver_tests_ahead_of_a/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "Amazon Starts Wider Driver Tests Ahead of a Massive Smart Glasses Rollout",
+   "text": "Amazon delivery driver wearing Amazon's display smart glasses (shared on Reddit recently).\n Reports confirm that Amazon has officially started a wider testing phase, training more drivers across the US on their smart glasses.\n If these tests go well, Amazon is planning a massive…",
+   "author": "AR_MR_XR",
+   "publishedAt": "2026-09-30T14:59:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/b1mjxj4i4osh1.jpeg?width=640&crop=smart&auto=webp&s=9b2aff9fdf492b7313d8051b0438deee104bf5a4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AR_MR_XR",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b7c2c0c0e287",
+   "canon": "https://www.reddit.com/comments/1wu3bnq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wu3bnq/miss_the_cinema_feel_on_ar_glasses_i_made_a_free/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "Miss the cinema feel on AR glasses? I made a free Chrome extension to bring back the theatre ambience",
+   "text": "I recently started using AR glasses, and while having a massive screen floating in front of me is cool, it still just feels like looking at a giant TV. I really missed the atmosphere of an actual theatre, so I built a small Chrome extension to turn any video playing in the…",
+   "author": "kanak_mi",
+   "publishedAt": "2026-09-30T12:14:17+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NGtiYXd5YXlmbnNoMTSlAapoQCLPjO_T421uYS1PJjE6wCoIWaiRy8_9L5Yo.png?width=640&crop=smart&auto=webp&s=2e34a04f7e325180b16bbb362e9f6c84687dcf4e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/kanak_mi",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
    "id": "a492996c3a60",
    "canon": "https://www.reddit.com/comments/1wu1c6f",
    "platform": "reddit",
@@ -1605,6 +2928,100 @@ window.CASES_DB = {
    "authorUrl": "https://www.reddit.com/user/enndeeee",
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f000e3202d20",
+   "canon": "https://www.reddit.com/comments/1wu0o1c",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/Spectacles/comments/1wu0o1c/from_remote_arsistance_to_relayview_rebuilding_my/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "From Remote ARsistance to RelayView: Rebuilding My Spectacles Prototype into a Real Tool 🔨",
+   "text": "Hey Krazyy folksss! 👋\n Last year, I started experimenting with an idea on Snap Spectacles called Remote ARsistance. Back then, it was just a rough proof-of-concept hack to see if I could stream what someone is seeing in AR to a browser so an offsite friend or expert could help…",
+   "author": "KrazyCreates",
+   "publishedAt": "2026-09-30T09:45:18+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/KrazyCreates",
+   "where": "r/Spectacles",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e1f20a03dcf5",
+   "canon": "https://www.reddit.com/comments/1wu05ib",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wu05ib/meta_rayban_display_now_available_outside_the_us/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "Meta Ray-Ban Display now available outside the US!",
+   "text": "🇬🇧 UK £749 / Sept 23\n 🇨🇦 Canada CA$1,149 / Sept 23\n 🇫🇷 France 899€ / Oct 13\n 🇮🇹 Italy 899€ / Oct 13\n 🇩🇪 Germany 899€ / Oct 13",
+   "author": "oscarfalmer",
+   "publishedAt": "2026-09-30T09:11:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/7disccqbjmsh1.png?width=640&crop=smart&auto=webp&s=765c79ed28f54ca02cd0924b5e9007ae3abc4b13"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/oscarfalmer",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "79bc0f046686",
+   "canon": "https://www.reddit.com/comments/1wtya95",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wtya95/ctrlspace_an_expo_x_reactvision_xr_hackathon/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "Ctrl+Space: An Expo x ReactVision XR Hackathon",
+   "text": "ReactVision and Expo are teaming up for this virtual hackathon, aimed at building AR, VR and MR apps with Expo + ReactVision. Come and put the latest ReactVision update through its paces!",
+   "author": "tundermifflin",
+   "publishedAt": "2026-09-30T07:08:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/U3u-VBcsLfMbyIiAQN0eNjd7_93-7WRZapwngI9UTQA.png?width=640&crop=smart&auto=webp&s=6f33c086c2ec6cfc17aedde963d631d5e568665a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/tundermifflin",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
    "lang": "en",
    "model": null
   },
@@ -1728,6 +3145,39 @@ window.CASES_DB = {
    "model": "Sonnet 5.5"
   },
   {
+   "id": "931f3281c657",
+   "canon": "https://www.reddit.com/comments/1wtiiw8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wtiiw8/memomind_one_has_landed/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "Memomind One has landed!",
+   "text": "After 6 hours of usage and can confidently say that these glasses and their advertised features are official. Full YouTube review coming soon @DreamworkzTV-23",
+   "author": "dreamworkz23",
+   "publishedAt": "2026-09-29T18:47:13+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cWo5cHp5bjM5aXNoMeiPw7SwSBp3o5mxfizUlvzeCeeznMKMboGteQ1xFgjP.jpeg?width=640&crop=smart&auto=webp&s=8daf7c5f25fb9cd8a3895c11c411e87d33def67a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/dreamworkz23",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
    "id": "7a5e9b948f9a",
    "canon": "https://x.com/i/status/2104999693113766152",
    "platform": "x",
@@ -1774,6 +3224,102 @@ window.CASES_DB = {
    "model": "Opus 5.5"
   },
   {
+   "id": "97589cb1304d",
+   "canon": "https://www.reddit.com/comments/1wtg2ah",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wtg2ah/cat_meets_dog_for_the_1st_time_in_an_aliens/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "Cat meets dog (for the 1st time) in an aliens apartment 😺🐶👽#mixedreality...",
+   "text": "This is a VR re-skinning of my home with an aliens apartment details with passthrough for specific things, its an early version on Meta Quest 3.",
+   "author": "tyke_",
+   "publishedAt": "2026-09-29T17:16:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/lg8pO50ubiPMl4cH6aaCd6C0NuSyV6-T65vGGfuR3cI.jpeg?width=320&crop=smart&auto=webp&s=a849c7b819d200084bc14434544087614ca9b7b9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/tyke_",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9c0fd871d06c",
+   "canon": "https://www.reddit.com/comments/1wtfid9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wtfid9/privacy_first_smartglasses_can_now_run_live/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "Privacy first! Smartglasses can now run Live Translation on-device — and help the visually impaired understand their surroundings",
+   "text": "At the Snapdragon Summit, Qualcomm demonstrated a major step forward for smartglasses: running a 2-billion-parameter multimodal AI model entirely on smartglasses powered by the Snapdragon AR1 and AR1+ platforms, with support for more chips coming down the road.\n Because…",
+   "author": "AR_MR_XR",
+   "publishedAt": "2026-09-29T16:55:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZTFjdjZqeXRvaHNoMYln4FJ4RNfuzQ4XA5qh9fpAXLjYN_ejgi_UBKaQhyo3.png?width=640&crop=smart&auto=webp&s=225fc12cf04e5cbc7b8e86c2886013203145e0a2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AR_MR_XR",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "300557106849",
+   "canon": "https://www.reddit.com/comments/1wteip0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/Spectacles/comments/1wteip0/i_built_an_app_called_groove_guide_to_make/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "I built an app called Groove Guide to make scanning and cataloging your vinyl collection effortless",
+   "text": "I always found manually typing out album details to check stats or log my collection a bit tedious, so I put together a tool to do it instantly.\n With Groove Guide, you just hold a record sleeve up to your Spectacles, and it instantly pulls up all the album info, tracklists, and…",
+   "author": "WeirdEyeStudios",
+   "publishedAt": "2026-09-29T16:18:51+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/WeirdEyeStudios",
+   "where": "r/Spectacles",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
    "id": "38fd3ad57b62",
    "canon": "https://www.reddit.com/comments/1wtcru2",
    "platform": "reddit",
@@ -1801,6 +3347,69 @@ window.CASES_DB = {
    "authorUrl": "https://www.reddit.com/user/company_url_finder",
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "992a0c7b3644",
+   "canon": "https://www.reddit.com/comments/1wtc130",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wtc130/luminescent_pixels_create_oleds_for_integrated/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "Luminescent Pixels Create OLEDs for Integrated Photonics and Small Screens",
+   "text": "",
+   "author": "AR_MR_XR",
+   "publishedAt": "2026-09-29T14:44:16+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AR_MR_XR",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f2eea6d80322",
+   "canon": "https://www.reddit.com/comments/1wtabtc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wtabtc/whats_new_for_meta_ai_glasses_developers_meta/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "🕶️ What’s new for Meta AI glasses developers? *Meta Connect Recap*",
+   "text": "𝗗𝗲𝘃𝗶𝗰𝗲 𝗔𝗰𝗰𝗲𝘀𝘀 𝗧𝗼𝗼𝗹𝗸𝗶𝘁 𝟭.𝟬 \n 🗣️ ‘Hey Meta’ voice invocation: launch your experience directly with Hey Meta\n 🎤 Speech recognition: convert users’ requests into text\n 📸 Camera capture: capture full resolution photos\n 🙂‍↔️ Motion Sensor: users’ head and…",
+   "author": "oscarfalmer",
+   "publishedAt": "2026-09-29T13:36:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MWxwdm12bHJwZ3NoMfeUgvjDemliQkzSsFa0-f2DeFwbvbyJTnJ-wdy_xoj0.png?width=640&crop=smart&auto=webp&s=345cbca97c4f97d2750191dd25acc803e8a3e1bf"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/oscarfalmer",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
    "lang": "en",
    "model": null
   },
@@ -1974,6 +3583,106 @@ window.CASES_DB = {
    "model": "Opus 5.5"
   },
   {
+   "id": "30b06607ee4c",
+   "canon": "https://www.reddit.com/comments/1wszq2s",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1wszq2s/augmented_reality_halloween_is_coming_so_i/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "[Augmented Reality] Halloween is coming so I activated my friend's Decor with AR",
+   "text": "I put some scary augmented reality on my friend's hanging decor. I out some bugs moving and dripping blood. Also did a simple animation on the background and edited the video with a nice greeting. I used Quakey XR.",
+   "author": "Stukwan",
+   "publishedAt": "2026-09-29T03:42:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cWdjYmJodG9yZHNoMUbTDu6kCjVwMCAGrQkN_3wzg5HjZlYLdAOzKvt1mdLi.png?width=640&crop=smart&auto=webp&s=de8eb326f9f2464da81c8416450c8e9fc079d923"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Stukwan",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "acdbeece47ea",
+   "canon": "https://www.reddit.com/comments/1wsze31",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wsze31/even_with_camera_module_steam_frame_is_worse_than/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "Even with camera module, Steam Frame is worse than Quest 3 for Mixed Reality",
+   "text": "Even though the Arcturus module matches Quest 3’s passthrough clarity and uses stereoscopic depth to align visuals, it still lacks real-time room meshing. The Quest 3 maps your physical space into an interactive 3D mesh so virtual objects can bounce off tables and realistically…",
+   "author": "AR_MR_XR",
+   "publishedAt": "2026-09-29T03:25:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/jMUGbfweQFPMPGklWXvhPjdQOAFDOnilre2pIORQhZA.jpeg?width=640&crop=smart&auto=webp&s=0b4a794d271c3063430b4821ab59fe123a0e3ade"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AR_MR_XR",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f26d5847ef06",
+   "canon": "https://www.reddit.com/comments/1wswmej",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wswmej/amd_is_acquiring_world_labs_for_82b_a_leading/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "AMD is acquiring World Labs for $8.2B — a leading developer of deep learning models that understand physical reality",
+   "text": "",
+   "author": "AR_MR_XR",
+   "publishedAt": "2026-09-29T01:13:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/O-K3URWw84VTPeMz_-OeepNQ9VY6jGUMMV9guOXqZJQ.jpeg?width=640&crop=smart&auto=webp&s=cbde7664676e4401c6ae633a4627b1d28dce098a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AR_MR_XR",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": null
+  },
+  {
    "id": "b0734b1146f9",
    "canon": "https://x.com/i/status/2104680817272500562",
    "platform": "x",
@@ -2018,6 +3727,42 @@ window.CASES_DB = {
    "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
    "model": "Sonnet 5.5"
+  },
+  {
+   "id": "66be2dcf0670",
+   "canon": "https://www.reddit.com/comments/1wsqyip",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wsqyip/im_building_an_android_app_to_draw_in_the_air/",
+   "addedAt": "2026-10-04T23:53:43.267Z",
+   "title": "I'm building an Android app to draw in the air with your finger with opus 5.5",
+   "text": "https://reddit.com/link/1wsqyip/video/a5mmlfkqsbsh1/player\n Hey everyone!\n This is Airglyph, an AR drawing app for Android. You raise your finger, draw in mid-air, and your strokes float in 3D, right where you drew them. Walk around them, walk away, come back: they're still…",
+   "author": "korro_ai",
+   "publishedAt": "2026-09-28T21:07:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Ylm3aIzobCbhDu4LlHYBFS5JZHgk8OsQ97DipgdNLBw.png?width=140&height=73&auto=webp&s=22e1c55c71f8df41bcd9e6fe37a1242f3e76eb3b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "ai",
+    "three",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/korro_ai",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-04T23:53:43.267Z",
+   "lang": "en",
+   "model": "Opus 5.5"
   },
   {
    "id": "0456739a447f",

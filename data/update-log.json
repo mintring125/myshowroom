@@ -1,6 +1,40 @@
 {
  "runs": [
   {
+   "at": "2026-10-04T23:53:43.296Z",
+   "ms": 77703,
+   "added": 54,
+   "updated": 0,
+   "failed": 0,
+   "deferred": 0,
+   "total": 300,
+   "found": {
+    "ohmyopus": 11,
+    "ai:reddit": 27,
+    "ai:x": 0,
+    "ai:threads": 0,
+    "ar:reddit": 40,
+    "ar:x": 0,
+    "ar:threads": 0,
+    "xr:reddit": 0,
+    "xr:x": 0,
+    "xr:threads": 0,
+    "gsplat:reddit": 0,
+    "gsplat:x": 0,
+    "gsplat:threads": 0
+   },
+   "messages": [
+    "참고 사이트 ohmyopus 확인 중…",
+    "ohmyopus: 원문 링크 없음 https://ohmyopus.com/c/senko-3games",
+    "  새 사례 11건",
+    "[ai] reddit 자동 발견 27건",
+    "[ar] reddit 자동 발견 40건",
+    "reddit r/virtualreality+vrdev+WebXR+VisionPro: 429 https://www.reddit.com/r/virtualreality+vrdev+WebXR+VisionPro/new/.rss?limit=100",
+    "reddit r/GaussianSplatting: 429 https://www.reddit.com/r/GaussianSplatting/new/.rss?limit=100",
+    "규칙에 맞지 않아 숨긴 자동 발견 글: 49건"
+   ]
+  },
+  {
    "at": "2026-10-04T23:51:43.623Z",
    "ms": 14762,
    "added": 0,
@@ -159,20 +193,36 @@
   }
  ],
  "last": {
-  "at": "2026-10-04T23:51:43.623Z",
-  "ms": 14762,
-  "added": 0,
+  "at": "2026-10-04T23:53:43.296Z",
+  "ms": 77703,
+  "added": 54,
   "updated": 0,
   "failed": 0,
   "deferred": 0,
-  "total": 246,
+  "total": 300,
   "found": {
-   "ohmyopus": 0
+   "ohmyopus": 11,
+   "ai:reddit": 27,
+   "ai:x": 0,
+   "ai:threads": 0,
+   "ar:reddit": 40,
+   "ar:x": 0,
+   "ar:threads": 0,
+   "xr:reddit": 0,
+   "xr:x": 0,
+   "xr:threads": 0,
+   "gsplat:reddit": 0,
+   "gsplat:x": 0,
+   "gsplat:threads": 0
   },
   "messages": [
    "참고 사이트 ohmyopus 확인 중…",
-   "  ohmyopus: 12건은 다음 실행에서 확인",
-   "  새 사례 0건",
+   "ohmyopus: 원문 링크 없음 https://ohmyopus.com/c/senko-3games",
+   "  새 사례 11건",
+   "[ai] reddit 자동 발견 27건",
+   "[ar] reddit 자동 발견 40건",
+   "reddit r/virtualreality+vrdev+WebXR+VisionPro: 429 https://www.reddit.com/r/virtualreality+vrdev+WebXR+VisionPro/new/.rss?limit=100",
+   "reddit r/GaussianSplatting: 429 https://www.reddit.com/r/GaussianSplatting/new/.rss?limit=100",
    "규칙에 맞지 않아 숨긴 자동 발견 글: 49건"
   ]
  }
