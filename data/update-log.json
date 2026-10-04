@@ -1,6 +1,34 @@
 {
  "runs": [
   {
+   "at": "2026-10-04T23:33:51.279Z",
+   "ms": 399482,
+   "added": 128,
+   "updated": 0,
+   "failed": 0,
+   "deferred": 0,
+   "total": 173,
+   "found": {
+    "ohmyopus": 103,
+    "reddit": 36,
+    "x": 0,
+    "threads": 0,
+    "instagram": 0
+   },
+   "messages": [
+    "참고 사이트 ohmyopus 확인 중…",
+    "ohmyopus: 원문 링크 없음 https://ohmyopus.com/c/senko-3games",
+    "  새 사례 103건",
+    "reddit r/ClaudeCode: 429 https://www.reddit.com/r/ClaudeCode/new/.rss?limit=50",
+    "reddit r/singularity: 429 https://www.reddit.com/r/singularity/new/.rss?limit=50",
+    "reddit r/aigamedev: 429 https://www.reddit.com/r/aigamedev/new/.rss?limit=50",
+    "reddit r/vibecoding: 429 https://www.reddit.com/r/vibecoding/new/.rss?limit=50",
+    "reddit r/threejs: 429 https://www.reddit.com/r/threejs/new/.rss?limit=50",
+    "reddit r/blender: 429 https://www.reddit.com/r/blender/new/.rss?limit=50",
+    "reddit 자동 발견 36건"
+   ]
+  },
+  {
    "at": "2026-10-04T23:14:53.206Z",
    "ms": 159406,
    "added": 39,
@@ -36,20 +64,31 @@
   }
  ],
  "last": {
-  "at": "2026-10-04T23:14:53.206Z",
-  "ms": 159406,
-  "added": 39,
+  "at": "2026-10-04T23:33:51.279Z",
+  "ms": 399482,
+  "added": 128,
   "updated": 0,
   "failed": 0,
   "deferred": 0,
-  "total": 45,
+  "total": 173,
   "found": {
-   "ohmyopus": 40
+   "ohmyopus": 103,
+   "reddit": 36,
+   "x": 0,
+   "threads": 0,
+   "instagram": 0
   },
   "messages": [
    "참고 사이트 ohmyopus 확인 중…",
-   "  ohmyopus: 103건은 다음 실행에서 확인",
-   "  새 사례 40건"
+   "ohmyopus: 원문 링크 없음 https://ohmyopus.com/c/senko-3games",
+   "  새 사례 103건",
+   "reddit r/ClaudeCode: 429 https://www.reddit.com/r/ClaudeCode/new/.rss?limit=50",
+   "reddit r/singularity: 429 https://www.reddit.com/r/singularity/new/.rss?limit=50",
+   "reddit r/aigamedev: 429 https://www.reddit.com/r/aigamedev/new/.rss?limit=50",
+   "reddit r/vibecoding: 429 https://www.reddit.com/r/vibecoding/new/.rss?limit=50",
+   "reddit r/threejs: 429 https://www.reddit.com/r/threejs/new/.rss?limit=50",
+   "reddit r/blender: 429 https://www.reddit.com/r/blender/new/.rss?limit=50",
+   "reddit 자동 발견 36건"
   ]
  }
 }

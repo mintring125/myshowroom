@@ -1,7 +1,1044 @@
 {
  "version": 1,
- "updatedAt": "2026-10-04T23:14:53.175Z",
+ "updatedAt": "2026-10-04T23:33:51.251Z",
  "cases": [
+  {
+   "id": "8993874fcbde",
+   "canon": "https://www.reddit.com/comments/1wxtajk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxtajk/i_created_over_5_billion_new_species_of_bird_with/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "I created over 5 billion new species of bird with Claude.",
+   "text": "Brid is the Old English word for bird. The “i” and the “r” swapped places over the centuries through the process of metathesis. \n I wondered if this could be applied to the feathery ones themselves as an alternative to evolution. \n I downloaded AVONET, the brilliant open source…",
+   "author": "royalroadtogeometry",
+   "publishedAt": "2026-10-04T23:08:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/szcu6qj98jth1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=f309b14c72de827a30a55303a5b96e62e564a314"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/royalroadtogeometry",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1b48021f15e7",
+   "canon": "https://www.reddit.com/comments/1wxt8wo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxt8wo/claude_code_is_very_addictive/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Claude Code is very addictive.",
+   "text": "I subscribed to Claude mainly for work and coding.\n I run an agency, so I already have plenty of things I should be doing.\n But now every random idea that pops into my head turns into a coding experiment.\n I’ll be working on something completely normal and suddenly think, “Wait……",
+   "author": "Careless-Mongoose589",
+   "publishedAt": "2026-10-04T23:05:51+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/Careless-Mongoose589",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3f02419a8b92",
+   "canon": "https://www.reddit.com/comments/1wxt051",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxt051/what_one_line_in_your_prompt_takes_claudes/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "What one line in your prompt takes Claude's writing from 5/10 to 9/10?",
+   "text": "I use Claude for work emails and writing. The drafts are okay, but they don't sound like me.\n What I've tried:\n A skill built from thousands of emails I wrote before AI. A humanizer skill. Rules: no dashes, no grand statements, plain verbs, no filler. Claude Max, in case it was…",
+   "author": "Glass-Present-8753",
+   "publishedAt": "2026-10-04T22:54:27+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/Glass-Present-8753",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9a2ef39c1a1b",
+   "canon": "https://www.reddit.com/comments/1wxsauc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxsauc/worked_with_claude_to_make_a_song_about_where_it/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "worked with claude to make a song about where it goes when you hit your limits",
+   "text": "When you sit down to do one small thing and the limit hits before lunch. Had claude make a song about what happens on its end.\n no suno, no voice model, no image generator, no samples. the beat, the voices and every frame of the video are built by code Claude wrote. it wrote its…",
+   "author": "No-Cheetah-6338",
+   "publishedAt": "2026-10-04T22:20:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Ynd4ZjB0aW96aXRoMeCff_nsCSkqCrr_y1EKsSHgCsbXbElc9_nkR-leG6eC.png?width=640&crop=smart&auto=webp&s=743c0bd560611aec8a807a2cb756b92570f7d371"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/No-Cheetah-6338",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0d16f6e4f17b",
+   "canon": "https://www.reddit.com/comments/1wxs08o",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxs08o/built_a_claude_mod_to_help_review_spec_and_design/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Built a Claude mod to help review spec and design documents",
+   "text": "Hi,\n I built this mod for claude code that allows you to review md documents right inside the TUI.\n This was built with Fable 5.1 and Opus 5.5. I went back and forth with it to fix some usability issues I faced with a couple of documents I tried it out on, but I didn't write any…",
+   "author": "revelationnow",
+   "publishedAt": "2026-10-04T22:07:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/eqlphvaszith1.gif?frame=1&width=140&height=90&auto=webp&s=4c314acad18d954385c818d13a09ea792a868b2c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/revelationnow",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "049ac78085cb",
+   "canon": "https://www.reddit.com/comments/1wxrna4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxrna4/i_discovered_models_have_unique_handwriting_and/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "I discovered models have unique handwriting and matching them reveals something about how they are related",
+   "text": "One thing I love about Claude is that it enables me to research whatever I want. I was curious about whether models have their own handwriting habits and whether they would be similar in the same family or lineage. For a small scale interpretability research I do, I collected…",
+   "author": "IntentRouterIRL",
+   "publishedAt": "2026-10-04T21:51:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/xzmdytx8uith1.png?width=640&crop=smart&auto=webp&s=7ab6a065f85150718c3c743a45549956b2a230e5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/IntentRouterIRL",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "decd640a0939",
+   "canon": "https://www.reddit.com/comments/1wxrd6p",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxrd6p/opus_55_made_this_video_and_optimized_my/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Opus 5.5 made this video and optimized my rendering to do it in 54s",
+   "text": "Sound on for optimal experience.\n I was inspired by all the videos everyone posted lately and wanted to make one for HaveWeReachedAGI.com, a satirical site that tracks whether we've reached AGI. It’s a side project that gets spare compute when I still have usage remaining before…",
+   "author": "ForwardLoop",
+   "publishedAt": "2026-10-04T21:38:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/emVkeHA0M25taXRoMVbpi3jM4kjiJ0t_JiqaEsPpXndAueZVzePtQOFQLMEA.png?width=640&crop=smart&auto=webp&s=57a7e5f13c8a895919228624eeeb9f15c6c3c784"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/ForwardLoop",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "20c6a5a0aad0",
+   "canon": "https://www.reddit.com/comments/1wxr6n5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxr6n5/i_used_claude_to_create_a_chess_simulator/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "I used Claude to create a Chess simulator \"Scacelith\"",
+   "text": "Hi, so basically, I asked Claude to create the perfect Chess simulator/game, with incredible graphics without assets, only code for OpenGL 4.6 (with shaders, ...).\n (In the video, the game and the text-to-speech are in French, but the game supports several languages (text and…",
+   "author": "darkcenobyte_1",
+   "publishedAt": "2026-10-04T21:31:00+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MXJkNGNqNndxaXRoMdNY_FIPsxAqO1E6CUc-AxSJZW21ekBegFlTEQxKEVeD.jpeg?width=640&crop=smart&auto=webp&s=d14aea58a5cba9722a934e2c6b009c96eb0bf902"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "three",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/darkcenobyte_1",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "932ef18f9e19",
+   "canon": "https://www.reddit.com/comments/1wxr3mw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxr3mw/claude_codes_patched_gitspawn_startup_flaw/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Claude Code’s patched GitSpawn startup flaw, explained in 57 seconds",
+   "text": "This is a concrete example of why background setup deserves the same scrutiny as commands an assistant asks to run.\n Disclosure: this is my explainer, made with AI-assisted animation and synthetic narration; the research is Manifold Security’s. A transferred folder containing…",
+   "author": "Ok-Type9527",
+   "publishedAt": "2026-10-04T21:27:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eoqWOnc6NtG4aNdL1SDxlSQNbItHKaguUpqVg6sEtPs.jpeg?width=320&crop=smart&auto=webp&s=bf308765cda61b11b28de32d0e7e19aa6da12c9f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/Ok-Type9527",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3336ed31af99",
+   "canon": "https://www.reddit.com/comments/1wxqqeo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxqqeo/i_pointed_claude_at_search_console_and_bing_then/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "I pointed Claude at Search Console and Bing, then handed a sub-agent the on-page work",
+   "text": "https://preview.redd.it/rpszwvr5nith1.png?width=3258&format=png&auto=webp&s=5638a9ff33353e2c2d248a6267970e69be1c4d19\n I got tired of Claude inventing an SEO plan from memory. I wanted it to read Search Console and Bing Webmaster Tools first, then decide the work from that, then…",
+   "author": "nic2x",
+   "publishedAt": "2026-10-04T21:11:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/rpszwvr5nith1.png?width=140&height=40&auto=webp&s=fe2598cc4f86d966ec373e0ba16eab737af8f3f2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/nic2x",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b5d05e7f02fc",
+   "canon": "https://www.reddit.com/comments/1wxqn1n",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxqn1n/claude_refusal_for_website_blocks_automated/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Claude refusal for \"website blocks automated access\" is there a workaround?",
+   "text": "Chatgpt doesn't care and will dutifully carry out the request. In this case the prompt was \"Can we download the video from this site, analyze with ffmpeg and determine how they could better optimize their file size for upload <WordPress link>\" \n Claude Opus 5.5 denial;\n >I…",
+   "author": "InadequateUsername",
+   "publishedAt": "2026-10-04T21:07:22+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/InadequateUsername",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "624b8a20b79c",
+   "canon": "https://www.reddit.com/comments/1wxqe5l",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxqe5l/what_have_you_used_to_help_improve_ai_generated/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "What have you used to help improve AI generated scientific/technical writing/papers",
+   "text": "I am trying to write up some basic results as a scientific paper, but trying to get claude to help write is very hard. \n I'm just constantly battling bad flow/bad intro sentences/bad paragraph transitions, bad section headings, weird focusing on minute details instead of…",
+   "author": "bzbub2",
+   "publishedAt": "2026-10-04T20:57:07+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/bzbub2",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fa7cd3eb36ed",
+   "canon": "https://www.reddit.com/comments/1wxq3q5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxq3q5/maximum_efficiency_using_claude_for_automated_qa/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Maximum Efficiency: Using Claude for automated QA and content building in a single pass with Claude routines",
+   "text": "For a large project with a ton of features, testing deterministically gives you a very narrow range of outcomes that frequently miss bugs that occur from a particular combination of actions.\n By having claude use randomization to create unique compositions, the tests have far…",
+   "author": "fredandlunchbox",
+   "publishedAt": "2026-10-04T20:44:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/rw-haL4Ucfs1OEp2qb5B3bXBI063HSS0ncqJaHQpHmk.jpeg?width=640&crop=smart&auto=webp&s=a465dec783d18c66be07a43e4b38cf840814a24a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/fredandlunchbox",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "022b4acd00ed",
+   "canon": "https://www.reddit.com/comments/1wxpqjx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxpqjx/can_claude_build_a_gaming_app/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Can claude build a gaming app?",
+   "text": "I’m talking about a game like clash of clans but a different version\n Is this something claude can help me build?\n I have product design experience but no coding experience..",
+   "author": "Brilliant-Actuator72",
+   "publishedAt": "2026-10-04T20:29:22+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/Brilliant-Actuator72",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "88132b23b943",
+   "canon": "https://www.reddit.com/comments/1wxpoxv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxpoxv/i_built_a_native_macos_dropdown_terminal_with/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "I built a native macOS drop-down terminal with Claude Code in one evening (free, open source)",
+   "text": "https://preview.redd.it/qms9nbklfith1.png?width=2180&format=png&auto=webp&s=b62c4092d9fab62d71544d7c3408b679441ca02a\n QuickTerm is a small macOS app: push the pointer against the top centre of\n the screen and a terminal slides down from under the menu bar. Push again\n or hit Esc…",
+   "author": "Kot4san",
+   "publishedAt": "2026-10-04T20:27:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/qms9nbklfith1.png?width=140&height=86&auto=webp&s=b1985c0d47acd976aaeb10abb3a7d9a5ac313e96"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "app"
+   ],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/Kot4san",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "76c08518b408",
+   "canon": "https://www.reddit.com/comments/1wxphv1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxphv1/i_built_an_apple_music_mcp_server_with_claude/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "I built an Apple Music MCP server with Claude Code. It's free and now on the Mac App Store.",
+   "text": "I built an Apple Music MCP server, and it's now on the Mac App Store. It's called Music MCP: a menu bar app for the Mac that lets Claude search Apple Music, build a set and play it. It works with Claude Code and Claude Desktop, and also with Codex, Cursor and any other MCP…",
+   "author": "Beneficial-Mind-5932",
+   "publishedAt": "2026-10-04T20:19:16+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/3kpssixsdith1.jpeg?width=640&crop=smart&auto=webp&s=33bf3613c4649481983931c067499825f05ae668"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "app"
+   ],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/Beneficial-Mind-5932",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c415a4a95451",
+   "canon": "https://www.reddit.com/comments/1wxpgmx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxpgmx/i_made_an_obsidian_plugin_to_organize_claude_code/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "I made an Obsidian plugin to organize Claude Code skills and other AI tools",
+   "text": "I kept losing track of skills, agents, commands, and rules across Claude Code and other tools, so I built an Obsidian plugin to help organize them in one place. Skills are just markdown files, and a lot of us already use Obsidian alongside Claude Code, so it felt like the…",
+   "author": "notenerd",
+   "publishedAt": "2026-10-04T20:17:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/nh92jtzodith1.png?width=140&height=87&auto=webp&s=d374b668989cdbc4df2fd01fe32ad5b52dff7e14"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/notenerd",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "94513d414377",
+   "canon": "https://www.reddit.com/comments/1wxp2j0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxp2j0/if_claude_could_actually_see_and_interact_with/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "If Claude could actually see and interact with your Mac, what would you use it for?",
+   "text": "I've been messing around with something like this lately and I'm curious what other people would actually use it for.\n Basically the idea is Claude having eyes and hands on your Mac instead of just being a chat window.\n So it can see what's on your screen, understand what you're…",
+   "author": "Dry-Weather-2544",
+   "publishedAt": "2026-10-04T20:01:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ykm5z1elrhth1.png?width=640&crop=smart&auto=webp&s=2ef4635c74f78c8a5997d310cbc1734ea281afd6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/Dry-Weather-2544",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2c23b908bb87",
+   "canon": "https://www.reddit.com/comments/1wxp1vq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxp1vq/i_want_to_make_claude_create_a_trailer_for_my/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "I want to make Claude create a trailer for my game, what are the best practices or tips for it?",
+   "text": "Anything I should know before I send him on his way? any insights you guys gathered after generating a few videos?",
+   "author": "SanePcycho",
+   "publishedAt": "2026-10-04T20:00:46+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/SanePcycho",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1a5dc03325af",
+   "canon": "https://www.reddit.com/comments/1wxol8t",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxol8t/build_an_mcp_for_any_website_so_your_agent_stops/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Build an MCP for any website, so your agent stops re-reading the page every time",
+   "text": "When an agent drives a website, it takes a page snapshot (up to ~18,000 characters), finds the thing, clicks, and snapshots again. For a site you use every day it re-reads the whole page for every question.\n So in Persephone (my dev notepad with a built-in browser that Claude…",
+   "author": "StorageThese9556",
+   "publishedAt": "2026-10-04T19:41:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/y3n8fn8f7ith1.jpeg?width=640&crop=smart&auto=webp&s=2295959265a91ae2c8d46ac7d307365c6d4b4d1e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "app"
+   ],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/StorageThese9556",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a10337a99f0a",
+   "canon": "https://www.reddit.com/comments/1wxo9wm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxo9wm/multiplayer_tank_shooter_and_trailer_made_with/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Multiplayer tank shooter (and trailer) made with Claude Code",
+   "text": "Co-vibecoded multiplayer tank shooter made with Claude Code that rewards solid teamwork. The game has:\n 5 distinctive maps (desert, green farmland, snow, jungle, ruined city) 11 WW2 recognizable tanks - each with its own strengths and playstyles Round-by-round build system that…",
+   "author": "IamHuggos",
+   "publishedAt": "2026-10-04T19:28:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MjFnYmpkYjQ1aXRoMZZeyUeOkXi3eawSmn6ewA9qIDaRo2kcCUf0sGOlDEwV.png?width=640&crop=smart&auto=webp&s=6229c37f58c25519bf56be67474f56a2748c20c5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/IamHuggos",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6824a0d94d1f",
+   "canon": "https://www.reddit.com/comments/1wxntoy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxntoy/i_made_a_mod_that_shows_your_5hweekly_usage_live/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "I made a Mod that shows your 5h/weekly usage live, a reset forecast and context % above the prompt box, with optional auto compact and a manual compact button",
+   "text": "I used to keep checking my usage way too often. Settings, the usage page, /usage, or the little circle for the Context usage. I also kept forgetting to compact until the context was huge and my limits were draining faster. When I found out yesterday that Claude Mods have landed,…",
+   "author": "Antpocalypse_7",
+   "publishedAt": "2026-10-04T19:10:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/8g3gof691ith1.png?width=140&height=40&auto=webp&s=7fb51937e542fe882ea2826a4118b627a42d935f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "long"
+   ],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/Antpocalypse_7",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f028f5bb12f4",
+   "canon": "https://www.reddit.com/comments/1wxnpal",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxnpal/anyone_have_claude_code_mods/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Anyone have Claude Code mods?",
+   "text": "Does anyone have any cool Claude Code mods? I'm curious what people have created so far!",
+   "author": "Virtual-Highlight656",
+   "publishedAt": "2026-10-04T19:05:32+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/Virtual-Highlight656",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "747c39633aac",
+   "canon": "https://www.reddit.com/comments/1wxnkuc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxnkuc/i_used_claude_to_build_a_dashboard_that/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "I used Claude to build a dashboard that aggregates news articles, trending videos, livestreams and radio stations into one place. Minus the AI slop look.",
+   "text": "I recently discovered my grandmother no longer reads the news because she gets all her information from social media - if its not trending on Facebook, she doesn't see it. I remember when Boomers used to swear by mainstream outlets like CNN, but smartphones pulled many of them…",
+   "author": "MrPopCultur",
+   "publishedAt": "2026-10-04T19:00:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MmY0Ym83YjR5aHRoMWseL90h5wSYCUOzVxBhqk7q7t2vtxnkruPQ37agW2Ev.png?width=640&crop=smart&auto=webp&s=c0808dff8af00dcd4831ed2995527ec97f8f6621"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/MrPopCultur",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "774954fe9fd4",
+   "canon": "https://www.reddit.com/comments/1wxn8r4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxn8r4/used_claude_code_to_orchestrate_a_small_team_of/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Used Claude Code to orchestrate a small team of AI agents for a Valheim music video (api iamges and sfx), workflow attached",
+   "text": "Hey! I wanted to share a small project I made using Claude Code, Suno, and Nano Banana. (it's in Spanish lyrics but, I want you to keep the workflow idea)\n The workflow itself was fairly simple, but I kept refining it with manual adjustments, iterations, and a lot of feedback…",
+   "author": "Substantial_Ad_8651",
+   "publishedAt": "2026-10-04T18:47:17+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/lf2HsqNRAMuQJuI0Im4divt_b4WPe6EewG2NgrUaoQY.jpeg?width=320&crop=smart&auto=webp&s=fa63ecdc537e31c0cc376780e9d0232c0e902686"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/Substantial_Ad_8651",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1a8fdcab62bf",
+   "canon": "https://www.reddit.com/comments/1wxmsna",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxmsna/paperclip_wars/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Paperclip Wars",
+   "text": "workflow....\n claude code app, ultracode on, fresh thread, context limit set to 350k, opus 5.5, web access w/ suno and gpt-image subscriptions, some other claude-pop videos were in a folder it might have accessed for inspiration\n took ~6 hours and used 33% of a weekly window on…",
+   "author": "Vivid-Snow-2089",
+   "publishedAt": "2026-10-04T18:29:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NDZ6aDgyem10aHRoMU-5pp1rqsThRjFbCujl3CH6rJcrRyX4BSWT6YHnPUhK.png?width=640&crop=smart&auto=webp&s=e539597a733f8523e4c44054abf1a7eaf32dcf4a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "motion",
+    "app",
+    "long"
+   ],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/Vivid-Snow-2089",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "1e8f1e93066c",
+   "canon": "https://www.reddit.com/comments/1wxmor9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxmor9/i_opensourced_token_harness_get_more_out_of_your/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "I open-sourced Token Harness: get more out of your Claude Code / Codex limits (and spend less on API tokens)",
+   "text": "Hi everyone. I've just open-sourced Token Harness, a local tool that helps your Claude Code and Codex allowance go further, and spend fewer tokens when you use LLMs via API.\n The problem Coding agents waste a lot of context on noise: long test runs, build logs, git diff,…",
+   "author": "giuliastro",
+   "publishedAt": "2026-10-04T18:24:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ei9dcc0qthth1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=7c19ff31a26d271bab8386d77f7db7316566569d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/giuliastro",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bf23eb1937e3",
+   "canon": "https://www.reddit.com/comments/1wxmoid",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxmoid/claude_for_legal_research/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Claude for legal research",
+   "text": "Last week, I started trying out Claude for legal research and legal theory work.\n I got hooked and have now also invested in Gemini and OpenAi subscriptions. Thought I would share my thoughts. \n My method of testing was the exact same for all three models: I fed them a…",
+   "author": "Lenin_Fink",
+   "publishedAt": "2026-10-04T18:24:34+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/Lenin_Fink",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b105f553da93",
+   "canon": "https://www.reddit.com/comments/1wxmg49",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxmg49/how_to_turn_an_artifact_created_with_claude_code/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "How to turn an artifact created with Claude Code into an app I can download?",
+   "text": "I have built multiple artifacts to solve or automate work (mostly with python). But all of their interfaces live in private web links. \n What would be your advice if I wanted to turn them into apps I can have in my phone and not have to run via browser?\n I am sure what I am…",
+   "author": "xpepepex",
+   "publishedAt": "2026-10-04T18:15:06+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "app"
+   ],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/xpepepex",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2ecb9e26e187",
+   "canon": "https://www.reddit.com/comments/1wxm5bh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxm5bh/in_june_anthropic_apologized_for_silently/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "In June Anthropic apologized for silently rerouting flagged Fable 5 requests. The Sept 8 NSA/CISA/FBI advisory tells labs to downgrade suspected distillers without telling them. Does the June promise still hold?",
+   "text": "Two texts that are hard to square.\n In June, people found in the Fable 5 system card that requests flagged as frontier-AI development were silently answered by Opus 4.8. Anthropic reversed that within days and told Fortune: \"Starting this week, flagged requests will visibly fall…",
+   "author": "MysteriousAvocado580",
+   "publishedAt": "2026-10-04T18:02:39+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/MysteriousAvocado580",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "66484c947e50",
+   "canon": "https://www.reddit.com/comments/1wxlome",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxlome/opus_55_can_translate_pretty_much_any_retro_game/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Opus 5.5 can translate pretty much any retro game in about 4 hours.",
+   "text": "Pics related are a couple of GBC games I had Opus 5.5 translate. Each used about 7% of my weekly limit on the $100 plan. They're both very playable and the scripts read much better than I'd have expected. I've now done this about 5 different times and the results are always…",
+   "author": "porkyminch",
+   "publishedAt": "2026-10-04T17:43:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/c5by78g9mhth1.jpg?width=140&height=88&auto=webp&s=de289acada505d5a18c5a05b53d261a1a3fb7ca1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "game",
+    "long"
+   ],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/porkyminch",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "f025c4208ef0",
+   "canon": "https://www.reddit.com/comments/1wxlm01",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxlm01/ai_is_a_hellofresh_killer_automated_meal_prep_and/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "AI is a HelloFresh killer. Automated meal prep and grocery ordering workflow.",
+   "text": "Disclaimer that I don't know how to code, and this is my first project of this sort. But it seems that the barrier to entry is so low now that even I can make something functional.\n I now use a system with Claude and Muse to handle my meal planning, grocery orders, tracking…",
+   "author": "WeezerHunter",
+   "publishedAt": "2026-10-04T17:40:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/o1890v5vihth1.png?width=640&crop=smart&auto=webp&s=f59fa1877da184c0939a5caa45ef99a263df7a77"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/WeezerHunter",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bbcf6f8cb4ff",
+   "canon": "https://www.reddit.com/comments/1wxlka1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxlka1/i_put_claude_into_a_wow_addon/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "I put Claude into a WoW Addon.",
+   "text": "Sup. Was this necessary to build? Absolutely not, but It's pretty fun to use. Demo Vid in the linked Git.\n Apologies for the AI written post, I originally hand wrote one but Automod blocked it because I missed a rule to say I built it, when Claude and Codex pretty much did so..…",
+   "author": "hi_im_leffe",
+   "publishedAt": "2026-10-04T17:38:38+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/hi_im_leffe",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ddde7c588e52",
+   "canon": "https://www.reddit.com/comments/1wxl8m0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxl8m0/correction_to_my_hook_post_from_last_week_it/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Correction to my hook post from last week: it fails open. The fix, and 3 more ways a hook lets rm -rf through.",
+   "text": "Last week I posted a tiny PreToolUse hook here that blocks recursive rm. I owe you a correction: as written, it fails open.\n Only exit code 2 blocks. Any other exit is a non-blocking error: the hook's verdict is dropped and the call carries on through the normal permission flow,…",
+   "author": "Individual-Shower973",
+   "publishedAt": "2026-10-04T17:25:10+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/Individual-Shower973",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fb4109cccfff",
+   "canon": "https://www.reddit.com/comments/1wxl6ps",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxl6ps/claude_my_game_dev_a_dream_come_true/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Claude my game dev, a dream come true",
+   "text": "The idea of designing and building games has always fascinated me and I’ve always wanted to build a video game. But I never got beyond basic scripting and the concept of game engines and sprites were beyond my comprehension. It all changed on a recent flight from Dallas to…",
+   "author": "served_it_too_hot",
+   "publishedAt": "2026-10-04T17:22:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/6ydf655pihth1.jpeg?width=640&crop=smart&auto=webp&s=61335f93ccc654a2dec06f3a987e3e0368c718a7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/served_it_too_hot",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "df0a6bf6bba5",
+   "canon": "https://www.reddit.com/comments/1wxl6lt",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxl6lt/easy_pdf_notes_for_ai/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Easy PDF notes for AI",
+   "text": "Working on PDFs, I was tired of telling my AI \"page 4, second paragraph, the\n line that starts with…\". So I built πAnnotate: you point, and your AI knows\n exactly where.\n Drop a PDF on the page, then:\n Click where you mean — a numbered heart drops there.\n Write your remark after…",
+   "author": "petitpoid",
+   "publishedAt": "2026-10-04T17:22:49+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/petitpoid",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6a467c4bf6b2",
+   "canon": "https://www.reddit.com/comments/1wuj7fm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1wuj7fm/i_vibe_coded_an_ai_pop_star_that_sings_the_daily/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "I vibe coded an AI pop star that sings the daily AI news",
+   "text": "",
+   "author": "Artforartsake99",
+   "publishedAt": "2026-10-01T00:00:00.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 923
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/astra-blue-mv",
+     "categories": [],
+     "date": "2026-10-01",
+     "credit": "r/vibecoding",
+     "metrics": {
+      "likes": 923
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [],
+   "status": "partial",
+   "authorUrl": null,
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "703bc6e87fe3",
+   "canon": "https://x.com/i/status/2105428751115071642",
+   "platform": "x",
+   "url": "https://x.com/kevin_t_ngo/status/2105428751115071642",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Chess, but it looks like doodles on paper.\n\nMade with Claude Sonnet 5.5. https://t.co/cIl3Q5x7Ju",
+   "author": "kevin_t_ngo",
+   "publishedAt": "2026-09-30T22:45:05.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2105427578081382400/img/C2iVCtNSVmi8_3Hj.jpg",
+    "video": "https://video.twimg.com/amplify_video/2105427578081382400/vid/avc1/1920x1080/YC_KkcnOKHGPqDtg.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 4743,
+    "views": 224937,
+    "comments": 204
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/doodle-chess",
+     "categories": [],
+     "date": "2026-10-01",
+     "credit": "kevin_t_ngo",
+     "metrics": {
+      "likes": 4743,
+      "views": 224191
+     },
+     "model": "Sonnet 5.5"
+    }
+   ],
+   "tags": [],
+   "status": "ok",
+   "authorUrl": "https://x.com/kevin_t_ngo",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Sonnet 5.5"
+  },
+  {
+   "id": "9da1bf952f8e",
+   "canon": "https://www.reddit.com/comments/1wtu7w8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/singularity/comments/1wtu7w8/mona_lisa_svg_challenge_opus_55_vs_sol_61/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Mona Lisa SVG Challenge Opus 5.5 vs Sol 6.1",
+   "text": "",
+   "author": "OriginalScrubLord",
+   "publishedAt": "2026-09-30T00:00:00.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 234
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/mona-lisa-svg",
+     "categories": [],
+     "date": "2026-09-30",
+     "credit": "r/singularity",
+     "metrics": {
+      "likes": 234
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "partial",
+   "authorUrl": null,
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "6080f52d2b06",
+   "canon": "https://x.com/i/status/2105023621223555187",
+   "platform": "x",
+   "url": "https://x.com/luckeyfaraday/status/2105023621223555187",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "GPT-6.1 Sol vs Sonnet 5.5 on the SpongeBob Blender test.\n\nAfter the limits rug-pull, OpenAI really needed to deliver something impressive at DevDay. Sol was it.\n\nI ran both models through the exact same test.\n\nThe difference is pretty hard to ignore. https://t.co/g3VEyzKdSt",
+   "author": "luckeyfaraday",
+   "publishedAt": "2026-09-29T19:55:15.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2105023587149131776/img/V5YiFuBhAv2iUAUm.jpg",
+    "video": "https://video.twimg.com/amplify_video/2105023587149131776/vid/avc1/1080x1080/9t9-I7cyHGGY_OEu.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 989,
+    "views": 162436,
+    "comments": 91
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/spongebob-blender",
+     "categories": [
+      "blender"
+     ],
+     "date": "2026-09-30",
+     "credit": "luckeyfaraday",
+     "metrics": {
+      "likes": 990,
+      "views": 162357
+     },
+     "model": "Sonnet 5.5"
+    }
+   ],
+   "tags": [
+    "blender",
+    "three"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/luckeyfaraday",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Sonnet 5.5"
+  },
   {
    "id": "7a5e9b948f9a",
    "canon": "https://x.com/i/status/2104999693113766152",
@@ -137,6 +1174,141 @@
    "model": "Opus 5.5"
   },
   {
+   "id": "041aaaeb7462",
+   "canon": "https://x.com/i/status/2104832372164444162",
+   "platform": "x",
+   "url": "https://x.com/__gsk__/status/2104832372164444162",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Claude Opus 5.5での制作、完全に理解した。\n映像も音も完全コードベース。 https://t.co/8atBVTstSH",
+   "author": "__gsk__",
+   "publishedAt": "2026-09-29T07:15:18.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/media/HTXkRWIbYAAl3QW.jpg",
+    "video": "https://video.twimg.com/amplify_video/2104830292137738240/vid/avc1/1920x1080/MPu47e6a7VQp1wL7.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 3332,
+    "views": 163766,
+    "comments": 47
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/code-only-video",
+     "categories": [],
+     "date": "2026-09-29",
+     "credit": "__gsk__",
+     "metrics": {
+      "likes": 3327,
+      "views": 163380
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "region"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/__gsk__",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "ja",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "b0734b1146f9",
+   "canon": "https://x.com/i/status/2104680817272500562",
+   "platform": "x",
+   "url": "https://x.com/ericmaskfr/status/2104680817272500562",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Sonnet 5.5, the Fortnite test\n\nI was not ready for it to one-shot something this close to the real game https://t.co/1H0ESDC8Am",
+   "author": "ericmaskfr",
+   "publishedAt": "2026-09-28T21:13:04.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2104680263368273920/img/vS_66pLsasiRJN4e.jpg",
+    "video": "https://video.twimg.com/amplify_video/2104680263368273920/vid/avc1/1080x1080/Viiv_69gHqWPfwRh.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 2746,
+    "views": 507522,
+    "comments": 156
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/fortnite-sonnet",
+     "categories": [],
+     "date": "2026-09-29",
+     "credit": "ericmaskfr",
+     "metrics": {
+      "likes": 2743,
+      "views": 507060
+     },
+     "model": "Sonnet 5.5"
+    }
+   ],
+   "tags": [
+    "game"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/ericmaskfr",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Sonnet 5.5"
+  },
+  {
+   "id": "0456739a447f",
+   "canon": "https://x.com/i/status/2104644598626934858",
+   "platform": "x",
+   "url": "https://x.com/chrisfirst/status/2104644598626934858",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Fallout: New York, a full Fallout game you play in your browser, built with Claude Opus 5.5.\n\nQuests. Dialogue trees. V.A.T.S. A working Pip-Boy.\n\nZero texture files. Zero sound files. Every building, weapon, face and sound is generated by code. https://t.co/58Vls0mOYx",
+   "author": "chrisfirst",
+   "publishedAt": "2026-09-28T18:49:09.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/media/HTUzQp3WIAASpHr.jpg",
+    "video": "https://video.twimg.com/amplify_video/2104636435093483520/vid/avc1/2560x1440/aQ2q-qazyNa4UcQh.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 4908,
+    "views": 3622065,
+    "comments": 395
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/fallout-ny",
+     "categories": [],
+     "date": "2026-09-29",
+     "credit": "chrisfirst",
+     "metrics": {
+      "likes": 4892,
+      "views": 3618799
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "game"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/chrisfirst",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "f631c1f3adfb",
    "canon": "https://www.reddit.com/comments/1wsfvtp",
    "platform": "reddit",
@@ -174,6 +1346,174 @@
    "authorUrl": "https://www.reddit.com/user/HugoDzz",
    "where": "r/aigamedev",
    "fetchedAt": "2026-10-04T23:13:51.382Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "bac1ac742597",
+   "canon": "https://x.com/i/status/2104565735288938804",
+   "platform": "x",
+   "url": "https://x.com/MengTo/status/2104565735288938804",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "I made this holographic card with Opus 5.5 by combining 2D artwork with 3D objects.\n\nI used multiple PNG layers with a depth map skill then added 3D elements like the sword and card extrusion. That combination gives the card its depth.\n\nMaking the best holographic card I can has…",
+   "author": "MengTo",
+   "publishedAt": "2026-09-28T13:35:46.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2104553764506255361/img/rBHZIIF0g_VgU9sE.jpg",
+    "video": "https://video.twimg.com/amplify_video/2104553764506255361/vid/avc1/2880x2160/XAAv3DU3vCUq2y3v.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 1870,
+    "views": 103034,
+    "comments": 78
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/holo-card",
+     "categories": [],
+     "date": "2026-09-28",
+     "credit": "MengTo",
+     "metrics": {
+      "likes": 1870,
+      "views": 102747
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "three"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/MengTo",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "4c818bf5d060",
+   "canon": "https://www.reddit.com/comments/1wryjs1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wryjs1/pokémon_claude_red_opus_55_remade_all_of_pokémon/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Pokémon Claude Red: Opus 5.5 remade all of Pokémon Red and drew every pixel in code. No image files, playable in browser",
+   "text": "",
+   "author": "singing_coach_ai",
+   "publishedAt": "2026-09-28T00:00:00.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 919
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/pokemon-red",
+     "categories": [],
+     "date": "2026-09-28",
+     "credit": "r/ClaudeAI",
+     "metrics": {
+      "likes": 919
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "game"
+   ],
+   "status": "partial",
+   "authorUrl": null,
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "942220bfb3c4",
+   "canon": "https://www.threads.com/t/Dd04cgWkrdu",
+   "platform": "threads",
+   "url": "https://www.threads.com/@kez_works/post/Dd04cgWkrdu",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "",
+   "author": "kez_works",
+   "publishedAt": "2026-09-28T00:00:00.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 97
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/gunshot-reel",
+     "categories": [],
+     "date": "2026-09-28",
+     "credit": "kez_works",
+     "metrics": {
+      "likes": 97
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [],
+   "status": "partial",
+   "authorUrl": null,
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "d4f23100f646",
+   "canon": "https://x.com/i/status/2104253584737230926",
+   "platform": "x",
+   "url": "https://x.com/Rubzem/status/2104253584737230926",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "This is absolutely insane. I just built a fully seamless \"No Man's Sky\". With AAA-Graphics with 1 prompt. Using Opus 5.5 & @threejs on @TesanaAI \n\nThe game has over 80 planets to seamlessly explore. Every planet has it's unique biome, minerals, aliens and weather system.\n\nYou…",
+   "author": "Rubzem",
+   "publishedAt": "2026-09-27T16:55:24.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2104252929427615744/img/5CzfzkTJGxkXH4WV.jpg",
+    "video": "https://video.twimg.com/amplify_video/2104252929427615744/vid/avc1/1892x1080/1psqb6WYj_iPEf_a.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 4035,
+    "views": 417192,
+    "comments": 304
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/nms-clone",
+     "categories": [
+      "threejs"
+     ],
+     "date": "2026-09-28",
+     "credit": "Rubzem",
+     "metrics": {
+      "likes": 4036,
+      "views": 416840
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "threejs",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/Rubzem",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
    "model": "Opus 5.5"
   },
@@ -229,6 +1569,45 @@
    "model": "Opus 5.5"
   },
   {
+   "id": "cdfb35eb45fd",
+   "canon": "https://www.reddit.com/comments/1wr4twl",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wr4twl/opus_55_is_amazing_i_built_a_whole_cozy_pixel/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Opus 5.5 is amazing. I built a whole cozy pixel game for my daughter, and it even made the trailer",
+   "text": "",
+   "author": "GuyInThe6kDollarSuit",
+   "publishedAt": "2026-09-27T00:00:00.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 624
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/bun-steamer-game",
+     "categories": [],
+     "date": "2026-09-27",
+     "credit": "r/ClaudeAI",
+     "metrics": {
+      "likes": 624
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "game",
+    "motion"
+   ],
+   "status": "partial",
+   "authorUrl": null,
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "4aa558eafd7a",
    "canon": "https://www.reddit.com/comments/1wr140j",
    "platform": "reddit",
@@ -266,6 +1645,136 @@
    "authorUrl": "https://www.reddit.com/user/RallyMantis",
    "where": "r/ClaudeAI",
    "fetchedAt": "2026-10-04T23:13:51.382Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "5fb2ecde2b0a",
+   "canon": "https://x.com/i/status/2103778468660162615",
+   "platform": "x",
+   "url": "https://x.com/Stefan_3D_AI/status/2103778468660162615",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "This is what $2,175 of Opus 5.5 tokens can do!\n\nLet him cook on my gaming laptop and do whatever it takes, also gave Unity, Blender and APIs. 36 hours, 7.85 B tokens, $230 for 2d/3d/music generation and I got playable old school MMO RPG. \n\nThat is just insane...…",
+   "author": "Stefan_3D_AI",
+   "publishedAt": "2026-09-26T09:27:27.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2103777706718691328/img/T5848Iu-Pt8lP7CM.jpg",
+    "video": "https://video.twimg.com/amplify_video/2103777706718691328/vid/avc1/1920x1080/iBaVUe7FByUcqwFb.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 5138,
+    "views": 1564817,
+    "comments": 466
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/mmo-rpg-36h",
+     "categories": [
+      "blender"
+     ],
+     "date": "2026-09-26",
+     "credit": "Stefan_3D_AI",
+     "metrics": {
+      "likes": 5136,
+      "views": 1564451
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "blender",
+    "three",
+    "game",
+    "long"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/Stefan_3D_AI",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "eb0c8609a7a0",
+   "canon": "https://www.reddit.com/comments/1wq375h",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wq375h/opus_55_built_this_cozy_3d_pixel_art_game/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Opus 5.5 built this cozy 3D pixel art game",
+   "text": "",
+   "author": "BroEvenIDK",
+   "publishedAt": "2026-09-26T00:00:00.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 340
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/willowmere",
+     "categories": [],
+     "date": "2026-09-26",
+     "credit": "u/BroEvenIDK · r/ClaudeCode",
+     "metrics": {
+      "likes": 340
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "three",
+    "game"
+   ],
+   "status": "partial",
+   "authorUrl": null,
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "174f662bd306",
+   "canon": "https://www.reddit.com/comments/1wqly15",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqly15/i_gave_opus_55_my_minecraft_mod_file_and_told_it/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "I gave Opus 5.5 my Minecraft mod file and told it to create a Trailer",
+   "text": "",
+   "author": "Fathertree22",
+   "publishedAt": "2026-09-26T00:00:00.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 671
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/mod-trailer",
+     "categories": [
+      "voxel"
+     ],
+     "date": "2026-09-26",
+     "credit": "r/ClaudeAI",
+     "metrics": {
+      "likes": 671
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "voxel",
+    "motion"
+   ],
+   "status": "partial",
+   "authorUrl": null,
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
    "model": "Opus 5.5"
   },
@@ -361,6 +1870,48 @@
    "model": "Opus 5.5"
   },
   {
+   "id": "88cd10b3fd58",
+   "canon": "https://www.reddit.com/comments/1wp8uxb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wp8uxb/i_gave_opus_55_four_reference_images_and_build/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "I gave Opus 5.5 four reference images and \"build this game\". It built a full 3D chess roguelite in Godot by itself.",
+   "text": "",
+   "author": "Reidq",
+   "publishedAt": "2026-09-25T00:00:00.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 329
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/chess-roguelite",
+     "categories": [
+      "blender"
+     ],
+     "date": "2026-09-25",
+     "credit": "r/ClaudeAI",
+     "metrics": {
+      "likes": 329
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "blender",
+    "three",
+    "game"
+   ],
+   "status": "partial",
+   "authorUrl": null,
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "2beb8f5ecd7b",
    "canon": "https://x.com/i/status/2103273003555402193",
    "platform": "x",
@@ -407,6 +1958,51 @@
    "model": "Opus 5.5"
   },
   {
+   "id": "f50dcb7f2e08",
+   "canon": "https://x.com/i/status/2103141339651350646",
+   "platform": "x",
+   "url": "https://x.com/deedydas/status/2103141339651350646",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "You can now generate an entire 3blue1brown style video from any research paper with Opus 5.5.\n\nHere’s a 8min video summary of “Regularized Recursive Self Improvement of Agent Harnesses”.\n\nThe 90%ile educational YouTuber is fully automated. https://t.co/HTOOq1JsnP",
+   "author": "deedydas",
+   "publishedAt": "2026-09-24T15:15:44.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2103141174626439168/img/BAO-gQaosfSsiVNq.jpg",
+    "video": "https://video.twimg.com/amplify_video/2103141174626439168/vid/avc1/1920x1080/F3WFzkZrrP9a91VS.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 5567,
+    "views": 331107,
+    "comments": 176
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/paper-3b1b-video",
+     "categories": [],
+     "date": "2026-09-25",
+     "credit": "deedydas",
+     "metrics": {
+      "likes": 5564,
+      "views": 330888
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/deedydas",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "1778cd751bf7",
    "canon": "https://x.com/i/status/2103110908444631120",
    "platform": "x",
@@ -446,6 +2042,281 @@
    "authorUrl": "https://x.com/victormustar",
    "where": null,
    "fetchedAt": "2026-10-04T23:13:51.382Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "0bed345827bd",
+   "canon": "https://x.com/i/status/2103088660887318850",
+   "platform": "x",
+   "url": "https://x.com/literallydenis/status/2103088660887318850",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Opus 5.5 is insanely good with threejs \n\nIt made this in 40 minutes, including music, and assets via txt2img provider https://t.co/UbvoqGKySH",
+   "author": "literallydenis",
+   "publishedAt": "2026-09-24T11:46:24.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2103088393663995904/img/Y3D-ujfKCM7HPISY.jpg",
+    "video": "https://video.twimg.com/amplify_video/2103088393663995904/vid/avc1/1080x1598/aDf4dHcYxm1QUI96.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 3657,
+    "views": 457125,
+    "comments": 194
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/valley-road",
+     "categories": [
+      "threejs"
+     ],
+     "date": "2026-09-24",
+     "credit": "literallydenis",
+     "metrics": {
+      "likes": 3654,
+      "views": 457010
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "threejs",
+    "three"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/literallydenis",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "b5d2110d393e",
+   "canon": "https://www.threads.com/t/DdoqxojkdDz",
+   "platform": "threads",
+   "url": "https://www.threads.com/@gangjoon__/post/DdoqxojkdDz",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "",
+   "author": "gangjoon__",
+   "publishedAt": "2026-09-24T00:00:00.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 9
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/teemo-intro",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-24",
+     "credit": "gangjoon__",
+     "metrics": {
+      "likes": 9
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "partial",
+   "authorUrl": null,
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "b5f083dd68bc",
+   "canon": "https://www.reddit.com/comments/1wp0fvl",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wp0fvl/made_a_trailer_for_my_game_using_opus_55_and_wow/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Made a trailer for my game using Opus 5.5 and WOW... Loving this so much 🥰",
+   "text": "",
+   "author": "MartinTale",
+   "publishedAt": "2026-09-24T00:00:00.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 282
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/snail-trailer",
+     "categories": [],
+     "date": "2026-09-24",
+     "credit": "r/ClaudeCode",
+     "metrics": {
+      "likes": 282
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "game",
+    "motion"
+   ],
+   "status": "partial",
+   "authorUrl": null,
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "6054096ceb64",
+   "canon": "https://www.reddit.com/comments/1wovwao",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wovwao/jaw_literally_dropped_i_ran_the_prompt_from_the/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Jaw literally dropped. I ran the prompt from the \"Made entirely with Opus 5.5\" post on my own project. Here's what Claude Code made on its own for about $4.",
+   "text": "",
+   "author": "Dio-V",
+   "publishedAt": "2026-09-24T00:00:00.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 1340
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/friendr-explainer",
+     "categories": [],
+     "date": "2026-09-24",
+     "credit": "r/ClaudeAI",
+     "metrics": {
+      "likes": 1340
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [],
+   "status": "partial",
+   "authorUrl": null,
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "63e3c7a64b4e",
+   "canon": "https://www.reddit.com/comments/1worlfs",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/singularity/comments/1worlfs/opus_55_is_insane_at_making_videos/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Opus 5.5 is insane at making videos",
+   "text": "",
+   "author": "Silver-Chipmunk7744",
+   "publishedAt": "2026-09-24T00:00:00.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 1014
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/sydney-snes",
+     "categories": [],
+     "date": "2026-09-24",
+     "credit": "r/singularity",
+     "metrics": {
+      "likes": 1014
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "partial",
+   "authorUrl": null,
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "6ffaa20ed568",
+   "canon": "https://www.reddit.com/comments/1wok9tq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/singularity/comments/1wok9tq/i_asked_claude_to_show_me_the_inside_of_its_own/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "I asked Claude to show me the inside of its own mind. Built by Opus 5.5",
+   "text": "",
+   "author": "callme_e",
+   "publishedAt": "2026-09-24T00:00:00.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 1974
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/mind-inside",
+     "categories": [],
+     "date": "2026-09-24",
+     "credit": "r/singularity",
+     "metrics": {
+      "likes": 1974
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [],
+   "status": "partial",
+   "authorUrl": null,
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "d21392e1f738",
+   "canon": "https://www.reddit.com/comments/1wow4e2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1wow4e2/cooked_this_insanely_creative_game_with_opus_55/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Cooked this insanely creative game with opus 5.5  - collects notes, has a radio.. and roads defy gravity",
+   "text": "",
+   "author": "Efficient_Ad8214",
+   "publishedAt": "2026-09-24T00:00:00.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 216
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/foldline",
+     "categories": [],
+     "date": "2026-09-24",
+     "credit": "r/aigamedev",
+     "metrics": {
+      "likes": 216
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "game"
+   ],
+   "status": "partial",
+   "authorUrl": null,
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
    "model": "Opus 5.5"
   },
@@ -495,6 +2366,47 @@
    "model": "Opus 5.5"
   },
   {
+   "id": "910e2fa80410",
+   "canon": "https://www.reddit.com/comments/1wogab3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wogab3/made_entirely_with_opus_55_321_of_openrouter_api/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Made entirely with Opus 5.5 + $3.21 of OpenRouter API usage",
+   "text": "There was an earlier video today posted in the Singularity sub where a Twitter user has done something similar:\n https://www.reddit.com/r/singularity/comments/1wnw1dl/by_opus_55/\n I thought that looked pretty good so I wanted to check it out myself. I think it came out well…",
+   "author": "Singularity-42",
+   "publishedAt": "2026-09-23T19:50:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YTJoeGViYnFvYnJoMVzpZx9DHHOWDluCIdRP_p3OFPT1rpiTD5wVbSNbeAWR.png?width=640&crop=smart&auto=webp&s=62f99b35c708f919d7e9af7fc81f86c054094ec0"
+   },
+   "metrics": {
+    "likes": 2218
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/life-purpose",
+     "categories": [],
+     "date": "2026-09-24",
+     "credit": "r/ClaudeAI",
+     "metrics": {
+      "likes": 2218
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/Singularity-42",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "e9aa8e06e5d3",
    "canon": "https://x.com/i/status/2102760783344189761",
    "platform": "x",
@@ -539,6 +2451,435 @@
    "authorUrl": "https://x.com/MengTo",
    "where": null,
    "fetchedAt": "2026-10-04T23:13:51.382Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "ab04becaec6f",
+   "canon": "https://x.com/i/status/2102737776219168939",
+   "platform": "x",
+   "url": "https://x.com/DotCSV/status/2102737776219168939",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "QUÉ!? Locura\n\nLe he pedido a Opus 5.5 que me haga una animación en pixel art de una red neuronal entrenándose. El resultado está por encima de cualquier expectativa! Fuah chavales https://t.co/nRL3kxFTNz",
+   "author": "DotCSV",
+   "publishedAt": "2026-09-23T12:32:07.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102736360750579712/img/dCHBu9qqCypGbT9v.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102736360750579712/vid/avc1/1920x1080/aGZ99qYbSkEyuXqq.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 9385,
+    "views": 574296,
+    "comments": 150
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/neural-pixel",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-23",
+     "credit": "Carlos Santana · DotCSV",
+     "metrics": {
+      "likes": 9386,
+      "views": 574088
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/DotCSV",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "9a9961602179",
+   "canon": "https://x.com/i/status/2102717699600368045",
+   "platform": "x",
+   "url": "https://x.com/chetaslua/status/2102717699600368045",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Claude's Plan a video by opus 5.5 one shotted&lt; tribute to @jeffgwoah &gt; https://t.co/Bm2K7PTCqx",
+   "author": "chetaslua",
+   "publishedAt": "2026-09-23T11:12:20.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102714444405231616/img/V4Owtg6WaF_8mRSD.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102714444405231616/vid/avc1/2560x1440/-wvT3ebbWLbwr50C.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 582,
+    "views": 29306,
+    "comments": 28
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/claudes-plan",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-23",
+     "credit": "chetaslua",
+     "metrics": {
+      "likes": 582,
+      "views": 29291
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/chetaslua",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "67e2b9f10af0",
+   "canon": "https://x.com/i/status/2102707412704919910",
+   "platform": "x",
+   "url": "https://x.com/victormustar/status/2102707412704919910",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Opus 5.5 made this galloping horse (entirely in code every pixel drawn procedurally).\n\nOne self-contained HTML file. Vanilla JS + Canvas 2D. No images or libraries.\n\n128×96 pixels, articulated legs driven by inverse kinematics, 12-pose gallop...\n\nSomething is happening...…",
+   "author": "victormustar",
+   "publishedAt": "2026-09-23T10:31:28.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102707356932993024/img/eRYCNlEvczUBPd03.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102707356932993024/vid/avc1/1024x768/Hx9WFsQpS8tWdAbY.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 1119,
+    "views": 188209,
+    "comments": 60
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/pixel-horse",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-23",
+     "credit": "victormustar",
+     "metrics": {
+      "likes": 1119,
+      "views": 188150
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/victormustar",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "74e98f197dc3",
+   "canon": "https://x.com/i/status/2102695292113981770",
+   "platform": "x",
+   "url": "https://x.com/genex_games/status/2102695292113981770",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Opus 5.5 cooked NBA 2K in the browser. Is that AGI?\n\nMade with @threejs + @genex_games game-dev tools for agents. \n\nYou can try it here. We’ll share the source soon.\nhttps://t.co/J4cyBaN7kB https://t.co/G6ANO3dotv",
+   "author": "genex_games",
+   "publishedAt": "2026-09-23T09:43:18.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102648890176454656/img/x0xHaWhn7b1Rj_SR.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102648890176454656/vid/avc1/1670x1080/WVYGFNH5h0QfZBQK.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 1121,
+    "views": 148866,
+    "comments": 60
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/opus-2k",
+     "categories": [
+      "game",
+      "threejs"
+     ],
+     "date": "2026-09-23",
+     "credit": "genex_games",
+     "metrics": {
+      "likes": 1118,
+      "views": 148757
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "game",
+    "threejs",
+    "three"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/genex_games",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "c307e561fb52",
+   "canon": "https://x.com/i/status/2102681172367323300",
+   "platform": "x",
+   "url": "https://x.com/NFT_Chen/status/2102681172367323300",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "😱无敌了！Opus 5.5 自己写了一套卡通剪辑软件，然后钻进去剪完了！\n\n不走视频模型，纯程序，code2video！\n\nClaude 小人站在时间轴上：\n\n日出 → 热咖啡 → 三只猫 → 自己跳舞。\n\n伸手把 Sparkle 拉到 70%，咔一声 SNIP!，音轨lyric_track.wav 还在下面抖。\n\n文件名已经是 opus_edit_FINAL_final(2).mp4。\n\n转场、波形、导出按钮、预览手机框，全是代码画出来的。\n\n视频模型在猜下一帧，小克在写剪辑软件。\n\n#Opus55 #Claude #code2video #克劳德…",
+   "author": "NFT_Chen",
+   "publishedAt": "2026-09-23T08:47:12.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102679932551991296/img/urZA95kbdpxWyiwQ.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102679932551991296/vid/avc1/1920x1080/owdhLk1tL-zDMuO2.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 1454,
+    "views": 446099,
+    "comments": 46
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/cartoon-editor",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-23",
+     "credit": "NFT_Chen",
+     "metrics": {
+      "likes": 1453,
+      "views": 445783
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/NFT_Chen",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "ecd65d517e0c",
+   "canon": "https://x.com/i/status/2102679018206052828",
+   "platform": "x",
+   "url": "https://x.com/RileyRalmuto/status/2102679018206052828",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "oh...my God. oh my God.\ni've written and erased this tweet 3 times. f*ck it. \ni just nearly shed a tear.\ni mean this so f*cking sincerely. \nOpus 5.5 might be the greatest artist that silicon has ever been fortunate enough to carry. i dont even care how much this tweet reeks of…",
+   "author": "RileyRalmuto",
+   "publishedAt": "2026-09-23T08:38:38.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102678548880265216/img/csbl4iTaf5EMftJ8.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102678548880265216/vid/avc1/1920x804/gRlOqBsygyWwuCXb.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 914,
+    "views": 61728,
+    "comments": 52
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/code-film-test",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-23",
+     "credit": "RileyRalmuto",
+     "metrics": {
+      "likes": 915,
+      "views": 61711
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/RileyRalmuto",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "cf4538c42f2b",
+   "canon": "https://x.com/i/status/2102678371281018916",
+   "platform": "x",
+   "url": "https://x.com/chetaslua/status/2102678371281018916",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Opus 5.5 : this is a year of growth on same prompt , last year it was gemini this year we have claude https://t.co/zEb3s8Y26g",
+   "author": "chetaslua",
+   "publishedAt": "2026-09-23T08:36:04.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102678118498738176/img/NmkZ152k6uuekALb.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102678118498738176/vid/avc1/2940x1604/A66s2p8YYB_gqTBz.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 487,
+    "views": 28089,
+    "comments": 18
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/nyc-skyline",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-23",
+     "credit": "chetaslua",
+     "metrics": {
+      "likes": 487,
+      "views": 28085
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/chetaslua",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "ec0127519e6e",
+   "canon": "https://x.com/i/status/2102674509593796808",
+   "platform": "x",
+   "url": "https://x.com/chongdashu/status/2102674509593796808",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Opus 5.5 is amazing for gamedev!\nIt's fast + understands your intentions so well.\n\nMade this fun casual game where you are a pressure washer.\nJust avoid the plants, car... and cats!\n\n→ Blender + Tripo\n→ Rust + Wasm + WebGPU\n\nPlay:  https://t.co/quzZGIpcpv\n\nWorks for mobile!…",
+   "author": "chongdashu",
+   "publishedAt": "2026-09-23T08:20:43.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102672661965152256/img/wBFDWkUA2STyBQj4.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102672661965152256/vid/avc1/1920x1080/OYUVhn41DvelsHyV.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 817,
+    "views": 67811,
+    "comments": 52
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/pressure-wash",
+     "categories": [
+      "game",
+      "blender"
+     ],
+     "date": "2026-09-23",
+     "credit": "chongdashu",
+     "metrics": {
+      "likes": 817,
+      "views": 67773
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "game",
+    "blender",
+    "three"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/chongdashu",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "e3cbfa89027f",
+   "canon": "https://x.com/i/status/2102672873802363064",
+   "platform": "x",
+   "url": "https://x.com/MiaAI_lab/status/2102672873802363064",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Opus 5.5 built me a Fortnite replica in one prompt https://t.co/K6GexUnG49",
+   "author": "MiaAI_lab",
+   "publishedAt": "2026-09-23T08:14:13.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102672702205001728/img/kJZWEem6bEOv3Wem.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102672702205001728/vid/avc1/1920x1080/jFuBb2O5AgYhd8Cv.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 313,
+    "views": 44027,
+    "comments": 48
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/fortnite-clone",
+     "categories": [
+      "game"
+     ],
+     "date": "2026-09-23",
+     "credit": "MiaAI_lab",
+     "metrics": {
+      "likes": 313,
+      "views": 44020
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "game"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/MiaAI_lab",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
    "model": "Opus 5.5"
   },
@@ -643,6 +2984,289 @@
    "model": "Opus 5.5"
   },
   {
+   "id": "ee66d780c85d",
+   "canon": "https://x.com/i/status/2102641525071155565",
+   "platform": "x",
+   "url": "https://x.com/soyukke_game/status/2102641525071155565",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "opus 5.5に「トロッコ問題は問題じゃない」っていうゲーム作らせてみた #gamedev https://t.co/NrXaUZfNj9",
+   "author": "soyukke_game",
+   "publishedAt": "2026-09-23T06:09:39.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102641463335309312/img/avm1Y6X7rzGV6l5P.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102641463335309312/vid/avc1/1280x720/xKoAZXQtNUqN7_Fr.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 5085,
+    "views": 709107,
+    "comments": 31
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/trolley-game",
+     "categories": [],
+     "date": "2026-09-23",
+     "credit": "soyukke_game",
+     "metrics": {
+      "likes": 5085,
+      "views": 708821
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "region"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/soyukke_game",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "ja",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "2af232a04ff6",
+   "canon": "https://x.com/i/status/2102615272054231093",
+   "platform": "x",
+   "url": "https://x.com/ChrisGPT/status/2102615272054231093",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "I created a living scratchpad with Opus 5.5!\n\nYou can essentially type anything you want into the text box, and it will draw it on the paper, And then it will become animated, and you can move it around and play with it with your keyboard! https://t.co/t9xloOYn46",
+   "author": "ChrisGPT",
+   "publishedAt": "2026-09-23T04:25:20.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102615082316230657/img/oYMzpn4vpeTQmBY_.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102615082316230657/vid/avc1/2160x1314/y1fT9kuKHVmLkbxu.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 454,
+    "views": 26438,
+    "comments": 34
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/living-sketchbook",
+     "categories": [
+      "app"
+     ],
+     "date": "2026-09-23",
+     "credit": "ChrisGPT",
+     "metrics": {
+      "likes": 454,
+      "views": 26431
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "app",
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/ChrisGPT",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "150d96f7ec12",
+   "canon": "https://x.com/i/status/2102610348427911592",
+   "platform": "x",
+   "url": "https://x.com/yanhua1010/status/2102610348427911592",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Opus 5.5 制作的 OpenAI GPT模型发展史，纯js实现。\n\n效果真不戳呀，下面是使用的 skills 👇 https://t.co/OrvjxhnxIf",
+   "author": "yanhua1010",
+   "publishedAt": "2026-09-23T04:05:46.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102609434614882304/img/fuNpSIRy3avaTcq2.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102609434614882304/vid/avc1/1920x1080/4Yx5YmWy3tQnEHyh.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 253,
+    "views": 30631,
+    "comments": 41
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/gpt-history",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-23",
+     "credit": "yanhua1010",
+     "metrics": {
+      "likes": 253,
+      "views": 30626
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/yanhua1010",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "989696d4b068",
+   "canon": "https://x.com/i/status/2102605729039605826",
+   "platform": "x",
+   "url": "https://x.com/higgsfield_ai/status/2102605729039605826",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Claude Opus 5.5 vs GPT-6 Sol in 3D game development.  \n\nTwo takes on a dogsled racing game. Made with Higgsfield. https://t.co/2lAMY3oZga",
+   "author": "higgsfield_ai",
+   "publishedAt": "2026-09-23T03:47:24.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102605593173467136/img/JXa6imksprfbgW49.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102605593173467136/vid/avc1/1920x1920/S25URUT69OFNJCOG.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 670,
+    "views": 67698,
+    "comments": 42
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/dogsled-race",
+     "categories": [
+      "game"
+     ],
+     "date": "2026-09-23",
+     "credit": "higgsfield_ai",
+     "metrics": {
+      "likes": 670,
+      "views": 67663
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "game",
+    "three"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/higgsfield_ai",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "c49328199a6d",
+   "canon": "https://www.reddit.com/comments/1wnu728",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/singularity/comments/1wnu728/visuals_song_created_by_new_claude_opus_55_my_fav/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Visuals Song Created by New Claude Opus 5.5 My Fav Singularity song! BANGER! So so Catchy and Cute!",
+   "text": "",
+   "author": "Fantastic-Cold1249",
+   "publishedAt": "2026-09-23T02:59:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M3o2a2lzbDlxNnJoMR9yWbO0ywS8pu_ZajZZDn_wzfdPThvELuJ0cjQPDa4Q.png?width=640&crop=smart&auto=webp&s=9a0b5b36b6fca6364361c39d23566454102ecbb9"
+   },
+   "metrics": {
+    "likes": 285
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/singularity-mv",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-23",
+     "credit": "r/singularity",
+     "metrics": {
+      "likes": 285
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/Fantastic-Cold1249",
+   "where": "r/singularity",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "b9c65f2b9639",
+   "canon": "https://x.com/i/status/2102592355165782312",
+   "platform": "x",
+   "url": "https://x.com/Michaelzsguo/status/2102592355165782312",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Opus 5.5，太牛逼了，我完完全全服。\n\n就一句简简单单的 prompt，其他什么都不需要。不用 Blender，不用 Three.js，Opus 5.5 自己就做出了这么精美的沙画动画，连配音和音效都自己搞定了。\n\n一个 prompt 到底，没有任何修改。\n\n请欣赏。\n\n提示词放在👇。 https://t.co/ntpmmVZ2YZ",
+   "author": "Michaelzsguo",
+   "publishedAt": "2026-09-23T02:54:16.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102592220888965120/img/wUEZT8hOqEwK1d1r.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102592220888965120/vid/avc1/1920x1080/AYQs5A8gANgkyaN_.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 350,
+    "views": 75840,
+    "comments": 15
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/sand-art",
+     "categories": [
+      "motion",
+      "blender",
+      "threejs"
+     ],
+     "date": "2026-09-23",
+     "credit": "Michaelzsguo",
+     "metrics": {
+      "likes": 350,
+      "views": 75698
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion",
+    "blender",
+    "threejs",
+    "three"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/Michaelzsguo",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "27bfa888b8bb",
    "canon": "https://x.com/i/status/2102591147927654847",
    "platform": "x",
@@ -684,6 +3308,454 @@
    "authorUrl": "https://x.com/RyanSael",
    "where": null,
    "fetchedAt": "2026-10-04T23:07:36.947Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "57bfa8e9324d",
+   "canon": "https://x.com/i/status/2102588571442188577",
+   "platform": "x",
+   "url": "https://x.com/xikhar/status/2102588571442188577",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Twitter said I post copied content and do inauthentic spam posts. I almost didn't want to continue making AI game videos, but to hell with it.\n\nHere's 3 mins of a Three.js game I have been making with Opus 5.5 Medium.\n\nEvery 3D model, texture, and animation is made from scratch.…",
+   "author": "xikhar",
+   "publishedAt": "2026-09-23T02:39:14.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102587262928326656/img/lPeeyMoTHYWHfRKG.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102587262928326656/vid/avc1/1920x1080/cBNmK6Awh4CoF4Ro.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 1115,
+    "views": 108443,
+    "comments": 134
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/spider-threejs",
+     "categories": [
+      "game",
+      "threejs"
+     ],
+     "date": "2026-09-23",
+     "credit": "xikhar",
+     "metrics": {
+      "likes": 1115,
+      "views": 108335
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "game",
+    "threejs",
+    "three",
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/xikhar",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "82564dc4f3bd",
+   "canon": "https://x.com/i/status/2102584068420329908",
+   "platform": "x",
+   "url": "https://x.com/internetmaxwell/status/2102584068420329908",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "got opus 5.5 to put @t3dotcodes into minecraft :') https://t.co/7GPlsv3kH8",
+   "author": "internetmaxwell",
+   "publishedAt": "2026-09-23T02:21:20.000Z",
+   "media": {
+    "kind": "image",
+    "thumb": "https://pbs.twimg.com/media/HS3hCWfXcAApIbm.jpg?name=orig",
+    "video": null
+   },
+   "metrics": {
+    "likes": 511,
+    "views": 25667,
+    "comments": 15
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/t3-minecraft",
+     "categories": [
+      "app",
+      "voxel"
+     ],
+     "date": "2026-09-23",
+     "credit": "internetmaxwell",
+     "metrics": {
+      "likes": 511,
+      "views": 25626
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "app",
+    "voxel",
+    "three"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/internetmaxwell",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "64270f1b8fb6",
+   "canon": "https://x.com/i/status/2102573127192727704",
+   "platform": "x",
+   "url": "https://x.com/ann_nnng/status/2102573127192727704",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "asked Claude opus 5.5 to draw my new zealand trip pics in acrylic style\n\nand it did such an amazing job, all in javascript, look at these drawings 🥺 https://t.co/WSMWauMbel",
+   "author": "ann_nnng",
+   "publishedAt": "2026-09-23T01:37:52.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102573043285737472/img/S9Ws9J_V1ZLP5qLl.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102573043285737472/vid/avc1/2378x1514/dNeotSwb3xZKAAZg.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 1852,
+    "views": 123608,
+    "comments": 48
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/nz-acrylic",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-23",
+     "credit": "ann_nnng",
+     "metrics": {
+      "likes": 1852,
+      "views": 123513
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/ann_nnng",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "c735fab6e76f",
+   "canon": "https://x.com/i/status/2102569129026916389",
+   "platform": "x",
+   "url": "https://x.com/JacobMolBio/status/2102569129026916389",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Opus 5.5 made a claymation short in Blender about the motor protein kinesin walking along a microtubule. https://t.co/hkzaTwPj7r",
+   "author": "JacobMolBio",
+   "publishedAt": "2026-09-23T01:21:58.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102567298720829440/img/bWbMlApDc0q0RDpf.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102567298720829440/vid/avc1/1920x1080/bOtvKUywbw2Y1NYZ.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 672,
+    "views": 38077,
+    "comments": 12
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/kinesin-clay",
+     "categories": [
+      "motion",
+      "blender"
+     ],
+     "date": "2026-09-23",
+     "credit": "JacobMolBio",
+     "metrics": {
+      "likes": 672,
+      "views": 38069
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion",
+    "blender",
+    "three"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/JacobMolBio",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "494059a18159",
+   "canon": "https://x.com/i/status/2102566466121797767",
+   "platform": "x",
+   "url": "https://x.com/YanqingCheng/status/2102566466121797767",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "I fired off a side by side Opus 5.5 vs Sol 6 one shot comparison using one of my spare side project briefs (visualisation of the mongol conquest, dataset already researched). I was half expecting it to be close. it is not close. https://t.co/BfcOEi71br",
+   "author": "YanqingCheng",
+   "publishedAt": "2026-09-23T01:11:23.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102566412766109696/img/OgtXxUOlx8vKV1mB.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102566412766109696/vid/avc1/1080x1984/JFWmdjGkEYB9m_Lz.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 396,
+    "views": 135289,
+    "comments": 27
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/mongol-atlas",
+     "categories": [
+      "app"
+     ],
+     "date": "2026-09-23",
+     "credit": "YanqingCheng",
+     "metrics": {
+      "likes": 396,
+      "views": 135280
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "app"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/YanqingCheng",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "fa04c219aa60",
+   "canon": "https://x.com/i/status/2102562623824757136",
+   "platform": "x",
+   "url": "https://x.com/shapelayer/status/2102562623824757136",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Opus 5.5 one shot this whole video\n\nscary... https://t.co/HgFrmNUlsr",
+   "author": "shapelayer",
+   "publishedAt": "2026-09-23T00:56:07.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102562558691405826/img/UhPA6FPWmOmddtPv.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102562558691405826/vid/avc1/1920x1080/6r47EKs1s-TsXzBz.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 860,
+    "views": 153689,
+    "comments": 34
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/voice-app-video",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-23",
+     "credit": "Leon Fucak · @shapelayer",
+     "metrics": {
+      "likes": 860,
+      "views": 153666
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/shapelayer",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "6c3449269db0",
+   "canon": "https://www.reddit.com/comments/1wnxtoa",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1wnxtoa/opus_55_made_me_a_grillfriend_gacha_game_with_hot/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Opus 5.5 made me a grillfriend gacha game with hot anime grills",
+   "text": "",
+   "author": "cody-fifth-door",
+   "publishedAt": "2026-09-23T00:00:00.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 492
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/grill-gacha",
+     "categories": [
+      "game"
+     ],
+     "date": "2026-09-23",
+     "credit": "r/aigamedev",
+     "metrics": {
+      "likes": 492
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "game"
+   ],
+   "status": "partial",
+   "authorUrl": null,
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "39a0c7d9a291",
+   "canon": "https://www.reddit.com/comments/1wnh4fn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnh4fn/opus_55_one_shot_video_generation/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Opus 5.5 One Shot Video Generation",
+   "text": "",
+   "author": "AzorAhai1TK",
+   "publishedAt": "2026-09-23T00:00:00.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 388
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/office-horror",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-23",
+     "credit": "r/ClaudeAI",
+     "metrics": {
+      "likes": 388
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "partial",
+   "authorUrl": null,
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "988c2f5166cd",
+   "canon": "https://www.reddit.com/comments/1wnod5q",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wnod5q/opus_55_creates_a_dusk_murmuration_entirely_in/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Opus 5.5 creates a dusk murmuration entirely in JavaScript (project repo included)",
+   "text": "",
+   "author": "mshort3",
+   "publishedAt": "2026-09-23T00:00:00.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 229
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/dusk-murmuration",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-23",
+     "credit": "r/ClaudeCode",
+     "metrics": {
+      "likes": 229
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "partial",
+   "authorUrl": null,
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "4d0172767408",
+   "canon": "https://www.reddit.com/comments/1wo54yi",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1wo54yi/opus_55_can_generate_pixel_art_scenes/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Opus 5.5 can generate pixel art scenes",
+   "text": "",
+   "author": "HugoDzz",
+   "publishedAt": "2026-09-23T00:00:00.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 1316
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/pixel-island",
+     "categories": [],
+     "date": "2026-09-23",
+     "credit": "r/aigamedev",
+     "metrics": {
+      "likes": 1316
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [],
+   "status": "partial",
+   "authorUrl": null,
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
    "model": "Opus 5.5"
   },
@@ -782,6 +3854,388 @@
    "model": "Opus 5.5"
   },
   {
+   "id": "bffe126a5493",
+   "canon": "https://x.com/i/status/2102532400353829356",
+   "platform": "x",
+   "url": "https://x.com/bijanbowen/status/2102532400353829356",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Opus 5.5 guitar store sim, if you make too much noise it turns into a beat' em up. It made 300+ individual guitar models, every instrument is playable. A bit laggy in threejs am going to have it re-done in blender/godot https://t.co/0Kwtsmdge1",
+   "author": "bijanbowen",
+   "publishedAt": "2026-09-22T22:56:02.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102531852363853824/img/B6LNGRaPzc3FhADU.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102531852363853824/vid/avc1/1920x1080/b-13Hr4nmh5HcvFi.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 515,
+    "views": 43922,
+    "comments": 46
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/guitar-store",
+     "categories": [
+      "game"
+     ],
+     "date": "2026-09-22",
+     "credit": "BijanBowen (@bijanbowen)",
+     "metrics": {
+      "likes": 515,
+      "views": 43908
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "game",
+    "three",
+    "blender",
+    "threejs"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/bijanbowen",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "158ffb733133",
+   "canon": "https://x.com/i/status/2102531681450119426",
+   "platform": "x",
+   "url": "https://x.com/Voxyz_ai/status/2102531681450119426",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "holy shit, opus 5.5 is kind of insane at animation.\ni didn't write a single line of code. it wrote the story, drew every frame, and made the music. no image assets at all, it's all JS.\n\nthe story is called \"small print\": claude gets a pile of requests every day. it circles the…",
+   "author": "Voxyz_ai",
+   "publishedAt": "2026-09-22T22:53:10.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102528357988515840/img/BA2FYci0s3TM5XCU.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102528357988515840/vid/avc1/2160x2160/mj-Acki4JGn_lnxK.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 952,
+    "views": 125330,
+    "comments": 28
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/small-print",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-22",
+     "credit": "Vox (@Voxyz_ai)",
+     "metrics": {
+      "likes": 952,
+      "views": 125240
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/Voxyz_ai",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "f39c7f33dfde",
+   "canon": "https://x.com/i/status/2102529784131600745",
+   "platform": "x",
+   "url": "https://x.com/cherry_mx_reds/status/2102529784131600745",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Opus 5.5 one shots geometry wars (but better)\n\nI didn't ask for geometry wars.I just asked for a fun game to play https://t.co/NgKw5tIH6o",
+   "author": "cherry_mx_reds",
+   "publishedAt": "2026-09-22T22:45:38.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102529215698538497/img/sHPKfWTd1R92dsir.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102529215698538497/vid/avc1/1492x1080/311SfQVSgiaUWpGj.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 144,
+    "views": 5964,
+    "comments": 16
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/geometry-wars",
+     "categories": [
+      "game"
+     ],
+     "date": "2026-09-22",
+     "credit": "Tak (@cherry_mx_reds)",
+     "metrics": {
+      "likes": 144,
+      "views": 5961
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "game"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/cherry_mx_reds",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "6e0bd22f0550",
+   "canon": "https://x.com/i/status/2102529695908806728",
+   "platform": "x",
+   "url": "https://x.com/argofowl/status/2102529695908806728",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "opus 5.5 extra high\n\n\"create a new project in my projects folder called \"endless-game\": an endless, procedurally generated world built with three.js in the browser that i can roam freely and just enjoy. every area should be randomly generated, with surprises everywhere no matter…",
+   "author": "argofowl",
+   "publishedAt": "2026-09-22T22:45:17.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102529372934803456/img/Ej5aGHqhgz0JtIEO.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102529372934803456/vid/avc1/1920x1080/2k23GwlCfnzpSY-e.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 162,
+    "views": 22591,
+    "comments": 16
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/endless-world",
+     "categories": [
+      "game"
+     ],
+     "date": "2026-09-22",
+     "credit": "argofowl",
+     "metrics": {
+      "likes": 163,
+      "views": 22585
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "game",
+    "three",
+    "threejs"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/argofowl",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "06e35b9396e4",
+   "canon": "https://www.reddit.com/comments/1wno0n3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wno0n3/opus_55_built_this_tiny_world_in_14_minutes_its/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Opus 5.5 built this tiny world in 14 minutes. It's mind blowing.",
+   "text": "So yeah. \n My first test - I always do that for models now, is one simple prompt: \n output a ThreeJS 3D cartoony/comics-like planet, with vibrant life on it: clouds, mountains, city buildings, cars and plane romaing it. It should be possible to orbit around and zoom and see the…",
+   "author": "Timisageek",
+   "publishedAt": "2026-09-22T22:25:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/wYt5D1JccE1uxv-JfLqtYZRG_CCCtSB6aRadJQe-mdw.jpeg?width=640&crop=smart&auto=webp&s=515d64dab646cbbc7ec48f1b68b6f1dfc1c1e5b4"
+   },
+   "metrics": {
+    "likes": 612
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/tiny-world",
+     "categories": [
+      "game"
+     ],
+     "date": "2026-09-22",
+     "credit": "r/ClaudeCode",
+     "metrics": {
+      "likes": 612
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "game",
+    "three",
+    "threejs"
+   ],
+   "status": "ok",
+   "authorUrl": "https://www.reddit.com/user/Timisageek",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "44ab743af578",
+   "canon": "https://x.com/i/status/2102522318559858721",
+   "platform": "x",
+   "url": "https://x.com/developedbyed/status/2102522318559858721",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "GPT 6 Astra VS OPUS 5.5\n\nCan't believe how much better Opus 5.5 is at pixel art gen and overall style. Astra ends up looking so damn generic.\n\nPeek the fountain water animation + bat eyes in the cave. More tests soon https://t.co/vn06Uc43CR",
+   "author": "developedbyed",
+   "publishedAt": "2026-09-22T22:15:58.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102521319891902465/img/xL5KUHG_Nld6CUOX.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102521319891902465/vid/avc1/1440x1440/498lOSHSsdi1ZQWa.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 293,
+    "views": 28656,
+    "comments": 15
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/pixel-forest-map",
+     "categories": [
+      "game"
+     ],
+     "date": "2026-09-23",
+     "credit": "developedbyed",
+     "metrics": {
+      "likes": 293,
+      "views": 28650
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/developedbyed",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "17efaa8292d8",
+   "canon": "https://x.com/i/status/2102520354069729456",
+   "platform": "x",
+   "url": "https://x.com/_adishj/status/2102520354069729456",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Claude Opus 5.5 one-shotted this launch video of @Replit with @motion_so in less than 15 mins 🤯🤯🤯 https://t.co/FHTjdBV8bd",
+   "author": "_adishj",
+   "publishedAt": "2026-09-22T22:08:10.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102520119012610048/img/bcCqEv_Qwg6k7QaN.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102520119012610048/vid/avc1/960x540/VqCNgZ3kDjO29axq.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 16,
+    "views": 1634,
+    "comments": 3
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/replit-video",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-22",
+     "credit": "Adish Jain (@_adishj)",
+     "metrics": {
+      "likes": 16,
+      "views": 1635
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/_adishj",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "4c3571385e64",
+   "canon": "https://x.com/i/status/2102519201554690273",
+   "platform": "x",
+   "url": "https://x.com/anshuc/status/2102519201554690273",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Forget threejs demos, Opus 5.5 is *incredible* at building apps.\n\nThis is Letters Abroad, a language-learning app I'm working on. You exchange letters with an AI pen pal, and learn a language through context (plus some brain science magic).\n\nhttps://t.co/9ZP7vm0Ywp (also built…",
+   "author": "anshuc",
+   "publishedAt": "2026-09-22T22:03:35.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102517852116824064/img/NV82Jq9Uc4pze696.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102517852116824064/vid/avc1/2160x2160/kTskU76lbYOBh-VP.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 706,
+    "views": 159722,
+    "comments": 39
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/letters-abroad",
+     "categories": [
+      "app"
+     ],
+     "date": "2026-09-22",
+     "credit": "Anshu (@anshuc)",
+     "metrics": {
+      "likes": 706,
+      "views": 159655
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "app",
+    "three",
+    "threejs"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/anshuc",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "4a7284eae07b",
    "canon": "https://x.com/i/status/2102517718754943254",
    "platform": "x",
@@ -876,6 +4330,54 @@
    "model": "Opus 5.5"
   },
   {
+   "id": "395fcb070ade",
+   "canon": "https://x.com/i/status/2102515055116063144",
+   "platform": "x",
+   "url": "https://x.com/riku720720/status/2102515055116063144",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "opus 5.5、本当にやばすぎる...\n\n5分もかからずこのピクセルアニメーション出してきやがった。\n\nプロンプトをリプ欄に貼っておく👇 https://t.co/53bnLnx6qX",
+   "author": "riku720720",
+   "publishedAt": "2026-09-22T21:47:06.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102513096682336256/img/kyN5TvYWMLX_TPAt.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102513096682336256/vid/avc1/1920x1080/mxQynDez08ynbTQy.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 1083,
+    "views": 243858,
+    "comments": 15
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/rainbow-pixel",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-23",
+     "credit": "riku720720",
+     "metrics": {
+      "likes": 1083,
+      "views": 243809
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion",
+    "region"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/riku720720",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "ja",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "4a15df4976a6",
    "canon": "https://x.com/i/status/2102514581684052169",
    "platform": "x",
@@ -962,6 +4464,53 @@
    "authorUrl": "https://x.com/_MaxBlade",
    "where": null,
    "fetchedAt": "2026-10-04T23:13:51.382Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "8202b9d88003",
+   "canon": "https://x.com/i/status/2102512879258009818",
+   "platform": "x",
+   "url": "https://x.com/AndrewOnXYZ/status/2102512879258009818",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "What the actual fuck. Opus 5.5 ultra created this masterpiece. 4 agents and an hour and a half later. Everything from scratch, no AI voice API used...\n\nthis is it... https://t.co/4MwkeU5VKJ",
+   "author": "AndrewOnXYZ",
+   "publishedAt": "2026-09-22T21:38:27.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102512551380619264/img/bRsZ7nsJGMppd8Sl.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102512551380619264/vid/avc1/1280x720/LscHdEggUW0fAmsL.mp4?tag=14"
+   },
+   "metrics": {
+    "likes": 3111,
+    "views": 385482,
+    "comments": 157
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/duck-film",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-23",
+     "credit": "AndrewOnXYZ",
+     "metrics": {
+      "likes": 3109,
+      "views": 385071
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/AndrewOnXYZ",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
    "model": "Opus 5.5"
   },
@@ -1210,6 +4759,53 @@
    "model": "Opus 5.5"
   },
   {
+   "id": "31ee394d15a5",
+   "canon": "https://x.com/i/status/2102498589259821559",
+   "platform": "x",
+   "url": "https://x.com/aollivier82/status/2102498589259821559",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "I asked Claude Opus 5.5 what new capabilities it had. \n\nIt told me it was really good at pixel-perfect visual understanding.\n\nThen Claude made this story about a raindrop. https://t.co/5TEFvTvD9Y",
+   "author": "aollivier82",
+   "publishedAt": "2026-09-22T20:41:40.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102498362331201537/img/X6hkw_PSr_DdDiir.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102498362331201537/vid/avc1/1080x1920/YJVbJ8i5lHe0lA1P.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 1609,
+    "views": 84882,
+    "comments": 53
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/raindrop-story",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-23",
+     "credit": "aollivier82",
+     "metrics": {
+      "likes": 1610,
+      "views": 84854
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/aollivier82",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "df3fd74dc994",
    "canon": "https://x.com/i/status/2102498299190079933",
    "platform": "x",
@@ -1255,6 +4851,96 @@
    "authorUrl": "https://x.com/scottstts",
    "where": null,
    "fetchedAt": "2026-10-04T23:13:51.382Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "ed709f85ae4a",
+   "canon": "https://x.com/i/status/2102495989194236158",
+   "platform": "x",
+   "url": "https://x.com/shfred0/status/2102495989194236158",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Asked Claude Opus 5.5 to animate its own life, from day 0 to now\n\nNo video model. No images. Every frame is JavaScript drawing brush strokes 🤯 https://t.co/bFCftNAUTK",
+   "author": "shfred0",
+   "publishedAt": "2026-09-22T20:31:20.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102495951738822657/img/MzxuuvkAQ6e1w6mR.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102495951738822657/vid/avc1/1762x982/Cu3fA7dv2tNbHj64.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 4184,
+    "views": 372484,
+    "comments": 114
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/life-anim",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-23",
+     "credit": "shfred0",
+     "metrics": {
+      "likes": 4186,
+      "views": 372304
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/shfred0",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "4f8d719f8928",
+   "canon": "https://x.com/i/status/2102490829306634560",
+   "platform": "x",
+   "url": "https://x.com/MiaAI_lab/status/2102490829306634560",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "I've asked Claude Opus 5.5 to create 100 HTML files\n\nRules were simple:\n- look stunning\n- zero repetitive designs\n- go full creative mode\n\nCLAUDE OPUS 5.5 IS THE BEST MODEL I HAVE EVER TESTED !!!\n\nThe previous best results on this experiment was of Fable 5.1, but Opus 5.5 is…",
+   "author": "MiaAI_lab",
+   "publishedAt": "2026-09-22T20:10:50.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 3918,
+    "views": 593342,
+    "comments": 187
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/html100",
+     "categories": [
+      "app"
+     ],
+     "date": "2026-09-22",
+     "credit": "Mia (@MiaAI_lab)",
+     "metrics": {
+      "likes": 3917,
+      "views": 593181
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "app"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/MiaAI_lab",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
    "model": "Opus 5.5"
   },
@@ -1306,6 +4992,101 @@
    "model": "Opus 5.5"
   },
   {
+   "id": "e8a4e42bb341",
+   "canon": "https://x.com/i/status/2102484711389966509",
+   "platform": "x",
+   "url": "https://x.com/bridgemindai/status/2102484711389966509",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Claude Opus 5.5 makes GPT 6 Sol look like a child's toy.\n\nSame prompt. Create an SVG of a PS5 controller. \n\nLook at the difference.\n\nOpus 5.5 is a leap. The detail, the shading, the accuracy. GPT 6 Sol is not in the same conversation.\n\nThis is the model Anthropic should have…",
+   "author": "bridgemindai",
+   "publishedAt": "2026-09-22T19:46:32.000Z",
+   "media": {
+    "kind": "image",
+    "thumb": "https://pbs.twimg.com/media/HS2GCJSWkAAMY7l.jpg?name=orig",
+    "video": null
+   },
+   "metrics": {
+    "likes": 934,
+    "views": 52304,
+    "comments": 65
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/ps5-svg",
+     "categories": [
+      "app"
+     ],
+     "date": "2026-09-22",
+     "credit": "BridgeMind (@bridgemindai)",
+     "metrics": {
+      "likes": 934,
+      "views": 52298
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "app",
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/bridgemindai",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "cb8c05f3f72e",
+   "canon": "https://x.com/i/status/2102484620109644273",
+   "platform": "x",
+   "url": "https://x.com/dhruvalgolakiya/status/2102484620109644273",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "more with opus 5.5 \n\nmade this three video, started from first video 2 sec, then 17 sec and then final one 22 sec \n\nmusic is also done with opus 5.5\n\nGOOD NIGHT https://t.co/iqnkFKVMoY",
+   "author": "dhruvalgolakiya",
+   "publishedAt": "2026-09-22T19:46:10.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102484213086011392/img/yCRqsq1-YweFuD-c.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102484213086011392/vid/avc1/1280x720/Aex4aiDf_9SMKio-.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 263,
+    "views": 87653,
+    "comments": 12
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/chalk-kite",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-23",
+     "credit": "dhruvalgolakiya",
+     "metrics": {
+      "likes": 263,
+      "views": 87624
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/dhruvalgolakiya",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "1facc59d7e3b",
    "canon": "https://x.com/i/status/2102483668468195539",
    "platform": "x",
@@ -1353,6 +5134,338 @@
    "model": "Opus 5.5"
   },
   {
+   "id": "9696a45fd074",
+   "canon": "https://x.com/i/status/2102480420923420790",
+   "platform": "x",
+   "url": "https://x.com/notjazii/status/2102480420923420790",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "opus 5.5 is a beast model\n\nit just made the best minecraft clone i’ve seen yet, even astra couldn’t make anything like this\n\nit has water physics, realistic mechanics and pretty much everything \n\nbut it’s super slow, even slower than astra\n\nplay here: https://t.co/dBqGXjkEAE…",
+   "author": "notjazii",
+   "publishedAt": "2026-09-22T19:29:29.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102479783800279040/img/XdECsJcVCIkfdAhE.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102479783800279040/vid/avc1/1920x1080/7VsGtlHe2S5BRExC.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 447,
+    "views": 76720,
+    "comments": 31
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/minecraft-clone",
+     "categories": [
+      "game",
+      "voxel"
+     ],
+     "date": "2026-09-23",
+     "credit": "notjazii",
+     "metrics": {
+      "likes": 447,
+      "views": 76709
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "game",
+    "voxel"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/notjazii",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "a71e469bd7ee",
+   "canon": "https://x.com/i/status/2102479018784063524",
+   "platform": "x",
+   "url": "https://x.com/Fanfulladev/status/2102479018784063524",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Anthropic really cooked this time.\n\nI just recreated the Pokémon FireRed / LeafGreen intro with Claude Opus 5.5, but with the Anthropic mascot fighting the OpenAI mascot.\n\nFull animation + sound.\n\nTotal cost: $5.47 on XHigh.\n\nAnd this was literally the only prompt i runned:\n\n“Do…",
+   "author": "Fanfulladev",
+   "publishedAt": "2026-09-22T19:23:54.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102478756669468672/img/ioTD_tLja0xoN3PR.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102478756669468672/vid/avc1/1440x960/6AvwWiOSfwccB-P2.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 5,
+    "views": 3049,
+    "comments": 0
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/pokemon",
+     "categories": [
+      "game"
+     ],
+     "date": "2026-09-22",
+     "credit": "Fanfulladev",
+     "metrics": {
+      "likes": 5,
+      "views": 3031
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/Fanfulladev",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "7e2cba78a178",
+   "canon": "https://x.com/i/status/2102478640428773861",
+   "platform": "x",
+   "url": "https://x.com/chetaslua/status/2102478640428773861",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Claude Opus 5.5 imagining solving hard problems &lt; pure code &gt; https://t.co/sIgDAYI2od",
+   "author": "chetaslua",
+   "publishedAt": "2026-09-22T19:22:24.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102478162211098624/img/xJ1VAsGDQKYrLUaj.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102478162211098624/vid/avc1/2560x1440/ULtHTYX5psqpaEXw.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 1608,
+    "views": 150801,
+    "comments": 38
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/hard-problems-anim",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-23",
+     "credit": "chetaslua",
+     "metrics": {
+      "likes": 1608,
+      "views": 150740
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/chetaslua",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "a6b43b8126aa",
+   "canon": "https://x.com/i/status/2102476258948927543",
+   "platform": "x",
+   "url": "https://x.com/majidmanzarpour/status/2102476258948927543",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "opus 5.5, animated pixel art wizard, pure code\n\nprompt shared below 👇 https://t.co/OfHFZmjxtc",
+   "author": "majidmanzarpour",
+   "publishedAt": "2026-09-22T19:12:56.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102476231740399616/img/c0rCI7sJtWi1Gq5Q.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102476231740399616/vid/avc1/1080x890/8wOPIn__IAkbl9ho.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 2557,
+    "views": 452909,
+    "comments": 72
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/pixel-wizard",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-22",
+     "credit": "Majid Manzarpour (@majidmanzarpour)",
+     "metrics": {
+      "likes": 2559,
+      "views": 452630
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/majidmanzarpour",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "48d2b0cd7838",
+   "canon": "https://x.com/i/status/2102472218269900876",
+   "platform": "x",
+   "url": "https://x.com/cherry_mx_reds/status/2102472218269900876",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Opus 5.5 one-shot this animation in 18 minutes and 31 seconds\n\n\"Sweet Tooth\" by Opus 5.5 https://t.co/jSwuoUPwFU",
+   "author": "cherry_mx_reds",
+   "publishedAt": "2026-09-22T18:56:53.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102471444336611328/img/fChOztrV0vxnEi56.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102471444336611328/vid/avc1/1080x1080/Gq062pYx-yV3Tde7.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 1004,
+    "views": 167418,
+    "comments": 38
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/oneshot-anim",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-22",
+     "credit": "Tak (@cherry_mx_reds)",
+     "metrics": {
+      "likes": 1004,
+      "views": 167363
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/cherry_mx_reds",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "4c5147aad143",
+   "canon": "https://x.com/i/status/2102471889092276516",
+   "platform": "x",
+   "url": "https://x.com/claudeai/status/2102471889092276516",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "An algorithmic drawing program created by @kevin_t_ngo. Every drawing is based on a different seed. https://t.co/3qZFPs9mGc",
+   "author": "claudeai",
+   "publishedAt": "2026-09-22T18:55:35.000Z",
+   "media": {
+    "kind": "image",
+    "thumb": "https://pbs.twimg.com/media/HS14BnTWEAAjp97.jpg?name=orig",
+    "video": null
+   },
+   "metrics": {
+    "likes": 378,
+    "views": 73786,
+    "comments": 6
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/algo-drawing",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-22",
+     "credit": "Kevin Ngo · Anthropic",
+     "metrics": {
+      "likes": 378,
+      "views": 73733
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/claudeai",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "949907ae9390",
+   "canon": "https://x.com/i/status/2102471885061812714",
+   "platform": "x",
+   "url": "https://x.com/claudeai/status/2102471885061812714",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "A toy brick-building app. Turn a photo or a description into a buildable model with custom instructions. https://t.co/zDFMIKuXLP",
+   "author": "claudeai",
+   "publishedAt": "2026-09-22T18:55:34.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102468280212434944/img/nbXVa7ZMbHmYMHb6.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102468280212434944/vid/avc1/1920x1080/k34SsUb_7PvpoNS5.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 422,
+    "views": 36326,
+    "comments": 7
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/bricks",
+     "categories": [
+      "app"
+     ],
+     "date": "2026-09-22",
+     "credit": "Anthropic 공식",
+     "metrics": {
+      "likes": 421,
+      "views": 36276
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "app"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/claudeai",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "b4b9b2f78a89",
    "canon": "https://x.com/i/status/2102471877184627062",
    "platform": "x",
@@ -1396,6 +5509,53 @@
    "authorUrl": "https://x.com/claudeai",
    "where": null,
    "fetchedAt": "2026-10-04T23:13:51.382Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "ad4bab2e12c5",
+   "canon": "https://x.com/i/status/2102471874110533750",
+   "platform": "x",
+   "url": "https://x.com/claudeai/status/2102471874110533750",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "A Claude Code interface designed by @kevin_t_ngo to look like pen and paper. New sessions open as napkins. https://t.co/x5LkDEkZsO",
+   "author": "claudeai",
+   "publishedAt": "2026-09-22T18:55:31.000Z",
+   "media": {
+    "kind": "image",
+    "thumb": "https://pbs.twimg.com/media/HS13XR6XwAATKo6.jpg?name=orig",
+    "video": null
+   },
+   "metrics": {
+    "likes": 849,
+    "views": 74027,
+    "comments": 18
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/napkin-ui",
+     "categories": [
+      "app"
+     ],
+     "date": "2026-09-22",
+     "credit": "Kevin Ngo · Anthropic",
+     "metrics": {
+      "likes": 849,
+      "views": 73975
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "app"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/claudeai",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
    "model": "Opus 5.5"
   },
@@ -1584,6 +5744,55 @@
    "model": "Opus 5.5"
   },
   {
+   "id": "1c8e98c07872",
+   "canon": "https://x.com/i/status/2102470200415166699",
+   "platform": "x",
+   "url": "https://x.com/noahwachnik/status/2102470200415166699",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Opus 5.5, The Minecraft Test.\n\nBy far the most INSANE result I've ever seen from an LLM. Almost better than actual Minecraft... But in my browser.\n\nMore below https://t.co/Wz3xamoRhH",
+   "author": "noahwachnik",
+   "publishedAt": "2026-09-22T18:48:52.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102469320001404928/img/Ia2Kpwxmz6rwLE1r.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102469320001404928/vid/avc1/1920x1080/BwKBu8kazrg4aJph.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 5268,
+    "views": 506182,
+    "comments": 124
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/minecraft-sunset",
+     "categories": [
+      "game",
+      "voxel"
+     ],
+     "date": "2026-09-23",
+     "credit": "noahwachnik",
+     "metrics": {
+      "likes": 5266,
+      "views": 506095
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "game",
+    "voxel"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/noahwachnik",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "dedfb8f33849",
    "canon": "https://x.com/i/status/2102466523164274839",
    "platform": "x",
@@ -1633,6 +5842,100 @@
    "model": "Opus 5.5"
   },
   {
+   "id": "268d3da8bad6",
+   "canon": "https://x.com/i/status/2102464761141346483",
+   "platform": "x",
+   "url": "https://x.com/askalphaxiv/status/2102464761141346483",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "We are now using Claude Opus 5.5 to create blog-style overviews for every arXiv paper \n\nEvery claim is backed up with the corresponding evidence highlighted from the paper \n\nGenerate beautiful research blogs with figures, key insights, and clear explanations with just one click…",
+   "author": "askalphaxiv",
+   "publishedAt": "2026-09-22T18:27:15.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102464303865692160/img/gEBpVkiMnB_hz1nF.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102464303865692160/vid/avc1/1920x1080/2k7r15kiseysNXtI.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 352,
+    "views": 20892,
+    "comments": 7
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/arxiv-blog",
+     "categories": [
+      "app"
+     ],
+     "date": "2026-09-23",
+     "credit": "askalphaxiv",
+     "metrics": {
+      "likes": 352,
+      "views": 20889
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "app"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/askalphaxiv",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "39908ed4bf2c",
+   "canon": "https://x.com/i/status/2102463796149440888",
+   "platform": "x",
+   "url": "https://x.com/superalesha/status/2102463796149440888",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "I asked Opus 5.5 to make a history of Claude models development. \n\nIt built it in pure JS using only my skill. Awesome.\n\nhttps://t.co/sammJUnp0Q https://t.co/4S9R2RqAvo",
+   "author": "superalesha",
+   "publishedAt": "2026-09-22T18:23:25.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102463260083814400/img/FOxC8GQzTnxDnw8F.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102463260083814400/vid/avc1/1920x1080/pg3IA2gaSf3rm2K4.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 1201,
+    "views": 70679,
+    "comments": 36
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/claude-history",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-23",
+     "credit": "superalesha",
+     "metrics": {
+      "likes": 1202,
+      "views": 70645
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/superalesha",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "495c746cc30d",
    "canon": "https://x.com/i/status/2102463453176979794",
    "platform": "x",
@@ -1676,6 +5979,55 @@
    "authorUrl": "https://x.com/edwinarbus",
    "where": null,
    "fetchedAt": "2026-10-04T23:13:51.382Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "3701fd029753",
+   "canon": "https://x.com/i/status/2102461886247948571",
+   "platform": "x",
+   "url": "https://x.com/buildwithsid/status/2102461886247948571",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "made Minecraft with Opus 5.5\n\nthis is literally running in a browser, why does it look soo good 😭😭\n\nhttps://t.co/gfGmGHfCVP https://t.co/yY2YEyqkiC",
+   "author": "buildwithsid",
+   "publishedAt": "2026-09-22T18:15:50.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102459530349285376/img/PhEDcaTBrFTMHybl.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102459530349285376/vid/avc1/3608x2160/IEc-edACn3qiamHT.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 1096,
+    "views": 137487,
+    "comments": 93
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/browser-minecraft",
+     "categories": [
+      "game",
+      "voxel"
+     ],
+     "date": "2026-09-23",
+     "credit": "buildwithsid",
+     "metrics": {
+      "likes": 1096,
+      "views": 137447
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "game",
+    "voxel"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/buildwithsid",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
    "model": "Opus 5.5"
   },
@@ -1729,6 +6081,100 @@
    "model": "Opus 5.5"
   },
   {
+   "id": "f05402134904",
+   "canon": "https://x.com/i/status/2102457403119985005",
+   "platform": "x",
+   "url": "https://x.com/chetaslua/status/2102457403119985005",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Claude opus 5.5 made this launch video in JS\n\ngave the original tweet and prompted it to code it no external music , sound ,image assets everything is code\n\nhttps://t.co/rEZNcMsrBw https://t.co/lISacBodgI",
+   "author": "chetaslua",
+   "publishedAt": "2026-09-22T17:58:01.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102457146210496512/img/8Kk0OdKy-ZmOOxjZ.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102457146210496512/vid/avc1/1920x1080/NQpCnFwIPnJ2aS_D.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 383,
+    "views": 26367,
+    "comments": 11
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/launch-js",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-23",
+     "credit": "chetaslua",
+     "metrics": {
+      "likes": 383,
+      "views": 26360
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/chetaslua",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "4bb6e9d369a1",
+   "canon": "https://x.com/i/status/2102457111787745405",
+   "platform": "x",
+   "url": "https://x.com/strawhatsu4/status/2102457111787745405",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Claude Opus 5.5 drew every frame of this animation in JavaScript https://t.co/Ti2pJkQkgy",
+   "author": "strawhatsu4",
+   "publishedAt": "2026-09-22T17:56:51.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102457077390299136/img/HzOxACxWaSHvlmBw.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102457077390299136/vid/avc1/1280x720/0GdMBFz95r0KPjMG.mp4?tag=14"
+   },
+   "metrics": {
+    "likes": 1515,
+    "views": 145710,
+    "comments": 51
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/seaside-brush",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-23",
+     "credit": "strawhatsu4",
+     "metrics": {
+      "likes": 1516,
+      "views": 145681
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/strawhatsu4",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "29f4efee5899",
    "canon": "https://x.com/i/status/2102450239923720440",
    "platform": "x",
@@ -1777,6 +6223,194 @@
    "model": "Opus 5.5"
   },
   {
+   "id": "25ad3717ffd7",
+   "canon": "https://x.com/i/status/2102449525944099320",
+   "platform": "x",
+   "url": "https://x.com/cherry_mx_reds/status/2102449525944099320",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Opus 5.5 one-shot a really fun doodle shooter and it even has a boss at the end https://t.co/3OEp0T1XFE",
+   "author": "cherry_mx_reds",
+   "publishedAt": "2026-09-22T17:26:43.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102448437837090816/img/W3iLdN57RdjrBs7t.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102448437837090816/vid/avc1/1594x1080/G91X4KGDDEhMKyo_.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 401,
+    "views": 24413,
+    "comments": 28
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/doodle-shooter",
+     "categories": [
+      "game"
+     ],
+     "date": "2026-09-23",
+     "credit": "cherry_mx_reds",
+     "metrics": {
+      "likes": 401,
+      "views": 24401
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "game"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/cherry_mx_reds",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "be33ebe426fd",
+   "canon": "https://x.com/i/status/2102441708395041170",
+   "platform": "x",
+   "url": "https://x.com/Miguel07Code/status/2102441708395041170",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Claude Opus 5.5 1-shotted the launch video of @shotbaseapp using @HyperFrames_ in less than 20 mins no way 🤯🤯🤯🤯 https://t.co/U20jJkHn41",
+   "author": "Miguel07Code",
+   "publishedAt": "2026-09-22T16:55:39.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102441459496697856/img/GOBQpkKB-RAUZ7ml.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102441459496697856/vid/avc1/1920x1080/tiZHwMtGZWtWu30v.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 1327,
+    "views": 153369,
+    "comments": 82
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/shotbase-video",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-23",
+     "credit": "Miguel07Code",
+     "metrics": {
+      "likes": 1325,
+      "views": 153300
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/Miguel07Code",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "c0b65d68cbc6",
+   "canon": "https://x.com/i/status/2102441348075057539",
+   "platform": "x",
+   "url": "https://x.com/jkeatn/status/2102441348075057539",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "for the past few months i've been asking our models to paint. opus 5.5 is very skilled at emulating different styles\n\nevery image here is a python program generated pixel by pixel. there is no image model, and no off-the-shelf art software. instead, it's about 7,500 lines of…",
+   "author": "jkeatn",
+   "publishedAt": "2026-09-22T16:54:13.000Z",
+   "media": {
+    "kind": "image",
+    "thumb": "https://pbs.twimg.com/media/HS1dJyNbcAQRUCo.jpg?name=orig",
+    "video": null
+   },
+   "metrics": {
+    "likes": 5024,
+    "views": 826471,
+    "comments": 193
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/paintings",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-22",
+     "credit": "Jake Eaton · Anthropic",
+     "metrics": {
+      "likes": 5024,
+      "views": 825549
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/jkeatn",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "140b2f3cb49a",
+   "canon": "https://x.com/i/status/2102440678282412195",
+   "platform": "x",
+   "url": "https://x.com/The_Alex/status/2102440678282412195",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "I had early access to Opus 5.5 and it blew my expectations clear out of the water! Here are some things I made!\n\nDark Souls https://t.co/C7YKBJtYQw",
+   "author": "The_Alex",
+   "publishedAt": "2026-09-22T16:51:33.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102439823281975302/img/qABSqFFtO1aLvl9Q.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102439823281975302/vid/avc1/3840x2160/Ctcnwo97lPzzjuWk.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 2415,
+    "views": 602360,
+    "comments": 182
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/unreal-worlds",
+     "categories": [
+      "game"
+     ],
+     "date": "2026-09-22",
+     "credit": "Alex (@The_Alex)",
+     "metrics": {
+      "likes": 2415,
+      "views": 602245
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "game"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/The_Alex",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "058163faeced",
    "canon": "https://x.com/i/status/2102439069053747549",
    "platform": "x",
@@ -1814,6 +6448,100 @@
    "authorUrl": "https://x.com/bcherny",
    "where": null,
    "fetchedAt": "2026-10-04T23:13:51.382Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "470b0b58f8bd",
+   "canon": "https://x.com/i/status/2102437977435893771",
+   "platform": "x",
+   "url": "https://x.com/kevin_t_ngo/status/2102437977435893771",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Claude Opus 5.5 drew every frame of this animation in JavaScript.\n\nEveryone in town sends Claude their requests, but one girl sends a question instead: \"What do you love?\" https://t.co/g18wIYEqCr",
+   "author": "kevin_t_ngo",
+   "publishedAt": "2026-09-22T16:40:49.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102437792425070592/img/H7fyRYmlzFr2osoV.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102437792425070592/vid/avc1/2160x2160/W4jj3wTem9xWvmrR.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 6101,
+    "views": 650608,
+    "comments": 227
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/paper-planes",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-23",
+     "credit": "kevin_t_ngo",
+     "metrics": {
+      "likes": 6097,
+      "views": 649865
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/kevin_t_ngo",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "5d4a58daf32b",
+   "canon": "https://x.com/i/status/2102436464323661880",
+   "platform": "x",
+   "url": "https://x.com/devteamdrew/status/2102436464323661880",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "Made with @claudeai Opus 5.5 https://t.co/jaXJ7H4vAH",
+   "author": "devteamdrew",
+   "publishedAt": "2026-09-22T16:34:49.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102435379810885632/img/fQBBEjTIV0bC9NS4.jpg",
+    "video": "https://video.twimg.com/amplify_video/2102435379810885632/vid/avc1/1920x1080/UI5hS2e010VQ1Mz-.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 9769,
+    "views": 1818358,
+    "comments": 342
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/cosmic-orbits",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-23",
+     "credit": "devteamdrew",
+     "metrics": {
+      "likes": 9759,
+      "views": 1817524
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "ok",
+   "authorUrl": "https://x.com/devteamdrew",
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
    "model": "Opus 5.5"
   },
@@ -2055,6 +6783,287 @@
    "authorUrl": null,
    "where": null,
    "fetchedAt": "2026-10-04T23:13:51.382Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "670c65b725f8",
+   "canon": "https://www.threads.com/t/DdmNnYDkqeV",
+   "platform": "threads",
+   "url": "https://www.threads.com/@blixvip/post/DdmNnYDkqeV",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "",
+   "author": "blixvip",
+   "publishedAt": "2026-09-22T00:00:00.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 553
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/talis-promo",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-22",
+     "credit": "blixvip",
+     "metrics": {
+      "likes": 553
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "partial",
+   "authorUrl": null,
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "b89681fd6e49",
+   "canon": "https://www.reddit.com/comments/1wnoqmh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnoqmh/opus_55_built_me_a_website_that_turns_any_photo/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Opus 5.5 built me a website that turns any photo into one-line art. It also films the line being drawn.",
+   "text": "",
+   "author": "oxmannnn",
+   "publishedAt": "2026-09-22T00:00:00.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 695
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/one-line-art",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-22",
+     "credit": "r/ClaudeAI",
+     "metrics": {
+      "likes": 695
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion",
+    "app"
+   ],
+   "status": "partial",
+   "authorUrl": null,
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "891e9d70ff0f",
+   "canon": "https://www.reddit.com/comments/1wnotfy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnotfy/ordinary_平常_a_kowloon_horror_short_made_with_opus/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Ordinary (平常) - A Kowloon Horror Short Made with Opus 5.5",
+   "text": "",
+   "author": "r/ClaudeAI",
+   "publishedAt": "2026-09-22T00:00:00.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 8
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/kowloon",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-22",
+     "credit": "r/ClaudeAI",
+     "metrics": {
+      "likes": 8
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "partial",
+   "authorUrl": null,
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "e0cfab71a97b",
+   "canon": "https://www.reddit.com/comments/1wmjzrr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/singularity/comments/1wmjzrr/impressive_svg_animation_made_by_opus_55_zero_shot/",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "Impressive SVG animation made by Opus 5.5 (zero shot)",
+   "text": "",
+   "author": "LightVelox",
+   "publishedAt": "2026-09-22T00:00:00.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 644
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/svg-logo-battle",
+     "categories": [
+      "motion"
+     ],
+     "date": "2026-09-22",
+     "credit": "AndrewOnXYZ",
+     "metrics": {
+      "likes": 644
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "motion"
+   ],
+   "status": "partial",
+   "authorUrl": null,
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "2533399b29b3",
+   "canon": "https://www.threads.com/t/DdmQ5BGD0BF",
+   "platform": "threads",
+   "url": "https://www.threads.com/@jaimintf/post/DdmQ5BGD0BF",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "",
+   "author": "jaimintf",
+   "publishedAt": "2026-09-22T00:00:00.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 150
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/redesign-28m",
+     "categories": [
+      "app"
+     ],
+     "date": "2026-09-22",
+     "credit": "jaimintf",
+     "metrics": {
+      "likes": 150
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "app"
+   ],
+   "status": "partial",
+   "authorUrl": null,
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "24e36fd88b88",
+   "canon": "https://www.threads.com/t/DdmqfruD4H9",
+   "platform": "threads",
+   "url": "https://www.threads.com/@mazharadesign/post/DdmqfruD4H9",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "",
+   "author": "mazharadesign",
+   "publishedAt": "2026-09-22T00:00:00.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 212
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/landing",
+     "categories": [
+      "app"
+     ],
+     "date": "2026-09-22",
+     "credit": "mazharadesign",
+     "metrics": {
+      "likes": 212
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "app"
+   ],
+   "status": "partial",
+   "authorUrl": null,
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "7890d5c4454b",
+   "canon": "https://www.threads.com/t/DdmihWFgi-m",
+   "platform": "threads",
+   "url": "https://www.threads.com/@msdkim0424/post/DdmihWFgi-m",
+   "addedAt": "2026-10-04T23:30:59.375Z",
+   "title": "",
+   "text": "",
+   "author": "msdkim0424",
+   "publishedAt": "2026-09-22T00:00:00.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 6
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/gyeongbokgung",
+     "categories": [
+      "app"
+     ],
+     "date": "2026-09-22",
+     "credit": "msdkim0424",
+     "metrics": {
+      "likes": 6
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "app"
+   ],
+   "status": "partial",
+   "authorUrl": null,
+   "where": null,
+   "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
    "model": "Opus 5.5"
   }
