@@ -1,6 +1,5 @@
 {
   "_doc": "수집 설정. 주제(topics)마다 출처와 판별 규칙을 따로 둡니다. 고친 내용은 다음 갱신부터 반영됩니다.",
-
   "general": {
     "excerptChars": 280,
     "refreshHours": 24,
@@ -11,52 +10,208 @@
     "maxNewPerRun": 150,
     "userAgent": "myshowroom-updater/1.0 (personal bookmark collector)"
   },
-
-  "_showcaseWords": "자동 발견 글은 이 단어 중 하나가 있어야 받습니다(결과물 소개 글만 고르기). 주제에 showcaseOptional:true 를 주면 생략.",
-  "showcaseWords": ["made", "built", "build", "creat", "generat", "demo", "prototype", "showcase", "released", "launch", "one[- ]?shot", "\\bwip\\b", "my first", "i made", "만들", "만든", "제작", "공개"],
-  "exclude": ["\\bhiring\\b", "\\bpromo code\\b", "\\bdiscount\\b", "\\bgiveaway\\b", "\\bfor sale\\b", "\\bwts\\b"],
-
+  "_showcaseWords": "자동 발견 글은 미디어가 있거나, 제목에 이 단어 중 하나가 있어야 받습니다.",
+  "showcaseWords": [
+    "\\bmade\\b",
+    "\\bmake\\b",
+    "\\bbuilt\\b",
+    "\\bbuilding\\b",
+    "\\bcreat",
+    "\\bgenerat",
+    "\\bdemo",
+    "prototype",
+    "showcase",
+    "released?",
+    "\\blaunch",
+    "introduc",
+    "now (on|available|live)",
+    "\\bv\\d",
+    "one[- ]?shot",
+    "\\bwip\\b",
+    "\\bcaptur",
+    "\\bscan",
+    "turned .* into",
+    "\\bmy (first|new|latest)\\b",
+    "만들",
+    "만든",
+    "제작",
+    "공개"
+  ],
+  "_questionTitle": "제목이 질문·도움 요청이면 자동 발견에서 받지 않습니다.",
+  "questionTitle": [
+    "\\?\\s*$",
+    "^(how|is|are|can|could|does|do|did|what|which|why|where|should|anyone|any(one|body)?|has anyone|help|need)\\b",
+    "\\b(question|questions|help needed|looking for|recommend(ation)?s?|best (settings|workflow|way|app)|problem|issue|bug|not working|troubleshoot)\\b",
+    "^\\[(question|help|discussion|q)\\]",
+    "질문|도와|추천해"
+  ],
+  "exclude": [
+    "\\bhiring\\b",
+    "\\bpromo code\\b",
+    "\\bdiscount\\b",
+    "\\bgiveaway\\b",
+    "\\bfor sale\\b",
+    "\\bwts\\b"
+  ],
   "topics": [
     {
       "id": "ai",
       "_doc": "AI 모델로 만든 결과물",
-      "match": ["opus\\s*5\\.5", "sonnet\\s*5\\.5", "claude"],
-      "reddit": { "subreddits": ["ClaudeAI", "ClaudeCode", "singularity", "aigamedev", "vibecoding", "threejs", "blender"], "searchQuery": "opus 5.5 OR sonnet 5.5", "minScore": 20 },
-      "x": { "searchQuery": "(\"opus 5.5\" OR \"sonnet 5.5\") has:media -is:retweet", "minLikes": 100 },
-      "threads": { "keywords": ["opus 5.5", "sonnet 5.5", "클로드 오퍼스"] }
+      "match": [
+        "opus\\s*5\\.5",
+        "sonnet\\s*5\\.5",
+        "claude"
+      ],
+      "reddit": {
+        "subreddits": [
+          "ClaudeAI",
+          "ClaudeCode",
+          "singularity",
+          "aigamedev",
+          "vibecoding",
+          "threejs",
+          "blender"
+        ],
+        "searchQuery": "opus 5.5 OR sonnet 5.5",
+        "minScore": 20
+      },
+      "x": {
+        "searchQuery": "(\"opus 5.5\" OR \"sonnet 5.5\") has:media -is:retweet",
+        "minLikes": 100
+      },
+      "threads": {
+        "keywords": [
+          "opus 5.5",
+          "sonnet 5.5",
+          "클로드 오퍼스"
+        ]
+      }
     },
     {
       "id": "ar",
       "_doc": "증강현실. 전용 서브레딧은 주제어 없이도 받고(requireMatch:false), 결과물 소개 글만 고릅니다.",
-      "match": ["augmented reality", "증강현실", "arkit", "arcore", "8th ?wall", "lens studio", "spectacles", "\\bAR (app|filter|lens|game|experience|demo)"],
-      "reddit": { "subreddits": ["augmentedreality", "AR_MR_XR", "Spectacles"], "requireMatch": false, "searchQuery": "AR demo OR \"augmented reality\"", "minScore": 15 },
-      "x": { "searchQuery": "(\"augmented reality\" OR ARKit OR ARCore OR \"Lens Studio\") has:media -is:retweet", "minLikes": 100 },
-      "threads": { "keywords": ["augmented reality", "증강현실", "ARKit"] }
+      "match": [
+        "augmented reality",
+        "증강현실",
+        "arkit",
+        "arcore",
+        "8th ?wall",
+        "lens studio",
+        "spectacles",
+        "\\bAR (app|filter|lens|game|experience|demo)"
+      ],
+      "reddit": {
+        "subreddits": [
+          "augmentedreality",
+          "AR_MR_XR",
+          "Spectacles"
+        ],
+        "requireMatch": false,
+        "searchQuery": "AR demo OR \"augmented reality\"",
+        "minScore": 15
+      },
+      "x": {
+        "searchQuery": "(\"augmented reality\" OR ARKit OR ARCore OR \"Lens Studio\") has:media -is:retweet",
+        "minLikes": 100
+      },
+      "threads": {
+        "keywords": [
+          "augmented reality",
+          "증강현실",
+          "ARKit"
+        ]
+      }
     },
     {
       "id": "xr",
       "_doc": "VR·MR·XR 전반",
-      "match": ["virtual reality", "mixed reality", "webxr", "vision ?pro", "visionos", "meta quest", "quest [23]", "android xr", "가상현실", "혼합현실", "확장현실"],
-      "reddit": { "subreddits": ["virtualreality", "vrdev", "WebXR", "VisionPro"], "requireMatch": false, "searchQuery": "XR OR VR demo", "minScore": 20 },
-      "x": { "searchQuery": "(WebXR OR \"mixed reality\" OR visionOS OR \"Quest 3\") has:media -is:retweet", "minLikes": 100 },
-      "threads": { "keywords": ["WebXR", "mixed reality", "가상현실", "XR"] }
+      "match": [
+        "virtual reality",
+        "mixed reality",
+        "webxr",
+        "vision ?pro",
+        "visionos",
+        "meta quest",
+        "quest [23]",
+        "android xr",
+        "가상현실",
+        "혼합현실",
+        "확장현실"
+      ],
+      "reddit": {
+        "subreddits": [
+          "virtualreality",
+          "vrdev",
+          "WebXR",
+          "VisionPro"
+        ],
+        "requireMatch": false,
+        "searchQuery": "XR OR VR demo",
+        "minScore": 20
+      },
+      "x": {
+        "searchQuery": "(WebXR OR \"mixed reality\" OR visionOS OR \"Quest 3\") has:media -is:retweet",
+        "minLikes": 100
+      },
+      "threads": {
+        "keywords": [
+          "WebXR",
+          "mixed reality",
+          "가상현실",
+          "XR"
+        ]
+      }
     },
     {
       "id": "gsplat",
-      "_doc": "3D Gaussian Splatting. 전용 서브레딧은 거의 전부 결과물이라 소개 단어 조건도 생략.",
-      "match": ["gaussian splat", "3dgs", "gsplat", "splatting", "가우시안 스플래팅", "postshot", "supersplat", "\\bsplats?\\b"],
-      "showcaseOptional": true,
-      "reddit": { "subreddits": ["GaussianSplatting"], "requireMatch": false, "searchQuery": "gaussian splatting", "minScore": 5 },
-      "x": { "searchQuery": "(\"gaussian splatting\" OR 3DGS OR gsplat) has:media -is:retweet", "minLikes": 50 },
-      "threads": { "keywords": ["gaussian splatting", "가우시안 스플래팅", "3DGS"] }
+      "_doc": "3D Gaussian Splatting. 전용 서브레딧은 주제어 없이 받되, 질문 글은 거르고 미디어나 소개 단어가 있어야 합니다.",
+      "match": [
+        "gaussian splat",
+        "3dgs",
+        "gsplat",
+        "splatting",
+        "가우시안 스플래팅",
+        "postshot",
+        "supersplat",
+        "\\bsplats?\\b"
+      ],
+      "reddit": {
+        "subreddits": [
+          "GaussianSplatting"
+        ],
+        "requireMatch": false,
+        "searchQuery": "gaussian splatting",
+        "minScore": 5
+      },
+      "x": {
+        "searchQuery": "(\"gaussian splatting\" OR 3DGS OR gsplat) has:media -is:retweet",
+        "minLikes": 50
+      },
+      "threads": {
+        "keywords": [
+          "gaussian splatting",
+          "가우시안 스플래팅",
+          "3DGS"
+        ]
+      }
     }
   ],
-
-  "reddit": { "enabled": true },
-  "x": { "enabled": true, "useFxtwitter": true, "_doc": "검색은 X_BEARER_TOKEN 이 있을 때만. 없으면 URL 단위로만 fxtwitter 로 해석합니다." },
-  "threads": { "enabled": true, "_doc": "키워드 검색은 THREADS_ACCESS_TOKEN 이 있을 때만." },
-  "instagram": { "enabled": true, "_doc": "공개 검색 경로가 없어 inbox(URL 붙여넣기)로만 들어옵니다." },
-
+  "reddit": {
+    "enabled": true
+  },
+  "x": {
+    "enabled": true,
+    "useFxtwitter": true,
+    "_doc": "검색은 X_BEARER_TOKEN 이 있을 때만. 없으면 URL 단위로만 fxtwitter 로 해석합니다."
+  },
+  "threads": {
+    "enabled": true,
+    "_doc": "키워드 검색은 THREADS_ACCESS_TOKEN 이 있을 때만."
+  },
+  "instagram": {
+    "enabled": true,
+    "_doc": "공개 검색 경로가 없어 inbox(URL 붙여넣기)로만 들어옵니다."
+  },
   "references": [
     {
       "_doc": "JSON-LD(isBasedOn) 를 쓰는 참고 사이트. 원문 링크·작성자·날짜·반응 수·분류만 가져오고 운영자 해설 본문과 미디어는 가져오지 않습니다.",
@@ -69,8 +224,15 @@
       "casePattern": "^https://ohmyopus\\.com/c/[^/]+$",
       "categoryPattern": "^https://ohmyopus\\.com/s/([^/]+)$",
       "categoryMap": {
-        "long": "long", "three": "three", "game": "game", "motion": "motion", "app": "app",
-        "blender": "blender", "threejs": "threejs", "minecraft": "voxel", "krjp": "region"
+        "long": "long",
+        "three": "three",
+        "game": "game",
+        "motion": "motion",
+        "app": "app",
+        "blender": "blender",
+        "threejs": "threejs",
+        "minecraft": "voxel",
+        "krjp": "region"
       }
     },
     {
@@ -80,15 +242,25 @@
       "topic": "xr",
       "enabled": false,
       "type": "links",
-      "pages": ["https://example.com/xr-showcase"]
+      "pages": [
+        "https://example.com/xr-showcase"
+      ]
     }
   ],
-
   "tags": {
     "_doc": "제목·본문에 맞으면 태그를 붙입니다. 문자열은 대소문자 무시, { i, cs } 의 cs 는 대소문자 구분(약어용).",
-    "ai": { "i": "claude|opus\\s*\\d|sonnet\\s*\\d|chatgpt|\\bgpt-?\\d|gemini|\\bllm\\b|vibe ?cod", "cs": "\\bAI\\b" },
-    "ar": { "i": "augmented reality|증강현실|arkit|arcore|8th ?wall|lens studio|snap spectacles", "cs": "\\bAR\\b" },
-    "xr": { "i": "virtual reality|mixed reality|webxr|vision ?pro|visionos|meta quest|quest [23s]\\b|android xr|가상현실|혼합현실|확장현실", "cs": "\\b(XR|VR|MR)\\b" },
+    "ai": {
+      "i": "claude|opus\\s*\\d|sonnet\\s*\\d|chatgpt|\\bgpt-?\\d|gemini|\\bllm\\b|vibe ?cod",
+      "cs": "\\bAI\\b"
+    },
+    "ar": {
+      "i": "augmented reality|증강현실|arkit|arcore|8th ?wall|lens studio|snap spectacles",
+      "cs": "\\bAR\\b"
+    },
+    "xr": {
+      "i": "virtual reality|mixed reality|webxr|vision ?pro|visionos|meta quest|quest [23s]\\b|android xr|가상현실|혼합현실|확장현실",
+      "cs": "\\b(XR|VR|MR)\\b"
+    },
     "gsplat": "gaussian splat|\\b3dgs\\b|gsplat|splatting|가우시안 스플래팅|postshot|supersplat|\\bsplats?\\b",
     "three": "blender|three\\.?js|webgl|\\b3d\\b|unreal|shader|godot|unity|3D",
     "blender": "blender",

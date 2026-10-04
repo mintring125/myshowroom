@@ -36,8 +36,8 @@ export async function discover(cfg, { env, accept, log }) {
       const f = 'id,text,media_type,permalink,timestamp,username,thumbnail_url,media_url';
       const j = await getJson(`https://graph.threads.net/v1.0/keyword_search?q=${encodeURIComponent(kw)}&search_type=TOP&fields=${f}&access_token=${env.THREADS_ACCESS_TOKEN}`);
       for (const p of j.data || []) {
-        if (!p.permalink || !accept(p.text || '')) continue;
         const thumb = p.thumbnail_url || (p.media_type === 'IMAGE' ? p.media_url : null);
+        if (!p.permalink || !accept(p.text || '', { media: thumb || (p.media_type === 'VIDEO' ? p.media_url : null) })) continue;
         out.push({ url: p.permalink, prefetched: {
           url: p.permalink, author: p.username, authorUrl: `https://www.threads.com/@${p.username}`,
           publishedAt: p.timestamp, text: p.text || '',

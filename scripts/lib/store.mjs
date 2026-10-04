@@ -33,7 +33,8 @@ export async function saveDb(db) {
   const json = JSON.stringify(db, null, 1);
   await atomicWrite(P.db, json);
   // file:// 로 열어도 읽히도록 스크립트 형태로도 내보냅니다.
-  await atomicWrite(P.dbJs, `// 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.\nwindow.CASES_DB = ${json};\n`);
+  const visible = JSON.stringify({ ...db, cases: db.cases.filter((c) => !c.hidden) }, null, 1);
+  await atomicWrite(P.dbJs, `// 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.\nwindow.CASES_DB = ${visible};\n`);
 }
 
 export async function saveLog(entry) {

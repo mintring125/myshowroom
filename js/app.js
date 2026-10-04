@@ -63,7 +63,7 @@
   let CASES = [], DB = { cases: [] }, ctx = {};
   function loadData() {
     DB = window.CASES_DB || { cases: [], updatedAt: null };
-    const asc = [...DB.cases].sort((a, b) => (a.publishedAt || a.addedAt || '').localeCompare(b.publishedAt || b.addedAt || ''));
+    const asc = DB.cases.filter((c) => !c.hidden).sort((a, b) => (a.publishedAt || a.addedAt || '').localeCompare(b.publishedAt || b.addedAt || ''));
     asc.forEach((c, i) => { c.n = i + 1; });
     CASES = asc.reverse();
     ctx = { latestAdded: Math.max(0, ...CASES.map((c) => Date.parse(c.addedAt) || 0)) };

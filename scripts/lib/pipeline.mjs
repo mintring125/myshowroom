@@ -45,18 +45,25 @@ async function doRun({ only, urls, full = false, refreshAll = false, max, onLog 
   const byCanon = new Map(db.cases.map((c) => [c.canon, c]));
   const stages = new Set(urls ? ['inbox'] : (only?.length ? only : ALL_STAGES));
 
-  // 주제마다 "이 글을 받을지" 판단하는 함수를 만듭니다.
-  //  match: 주제어 중 하나가 있어야 함 (전용 서브레딧처럼 출처 자체가 주제면 requireMatch:false)
-  //  showcase: 결과물 소개 글처럼 보이는 단어가 하나 있어야 함 (showcaseOptional:true 면 생략)
+  // 주제마다 "이 글을 받을지" 판단하는 함수를 만듭니다. (자동 발견에만 적용)
+  //  1) exclude 에 걸리면 버림   2) 제목이 질문·도움 요청이면 버림
+  //  3) match: 주제어가 있어야 함 (전용 서브레딧처럼 출처 자체가 주제면 requireMatch:false)
+  //  4) 결과물 신호: 미디어가 있거나, 제목에 소개 단어(showcaseWords)가 있어야 함
   const re = (arr) => (arr || []).map((s) => new RegExp(s, 'i'));
   const exc = re(cfg.exclude);
   const showWords = re(cfg.showcaseWords);
+  const question = re(cfg.questionTitle);
   const topics = (cfg.topics || []).filter((t) => t.enabled !== false);
   const acceptFor = (topic, requireMatch = true) => {
     const inc = re(topic.match);
-    return (t = '') => (!requireMatch || !inc.length || inc.some((r) => r.test(t)))
-      && (topic.showcaseOptional || !showWords.length || showWords.some((r) => r.test(t)))
-      && !exc.some((r) => r.test(t));
+    // item.media 를 모르면(X 검색은 has:media 로 이미 거름) 미디어 있음으로 봅니다.
+    return (t = '', item = {}) => {
+      const title = (item.title ?? t.split('\n')[0] ?? '').trim();
+      if (exc.some((r) => r.test(t)) || question.some((r) => r.test(title))) return false;
+      if (requireMatch && inc.length && !inc.some((r) => r.test(t))) return false;
+      const hasMedia = item.media === undefined ? true : !!item.media;
+      return hasMedia || showWords.some((r) => r.test(title));
+    };
   };
 
   // ---------- 1. 후보 모으기 ----------
@@ -135,7 +142,7 @@ async function doRun({ only, urls, full = false, refreshAll = false, max, onLog 
       try { fresh = await ADAPTERS[platform].resolve(canon, c.url, { ...ctx, cfg: cfg[platform] || {} }); }
       catch (e) { error = e.message; failed++; log(`해석 실패 ${c.url}: ${e.message}`); }
     } else if (need) deferred++;
-    const rec = merge(old, { canon, platform, sourceUrl: c.url, refs: c.refs, topics: [...c.topics], fresh, error, cfg, now });
+    const rec = merge(old, { canon, platform, sourceUrl: c.url, refs: c.refs, topics: [...c.topics], via: [...c.via], fresh, error, cfg, now });
     if (!old) { db.cases.push(rec); byCanon.set(canon, rec); added++; }
     else if (fresh) updated++;
     if (c.via.has('inbox') && (fresh || old)) okInbox.push(...inboxUrls.filter((u) => canonicalUrl(u) === canon));
@@ -143,6 +150,21 @@ async function doRun({ only, urls, full = false, refreshAll = false, max, onLog 
 
   // 규칙이 바뀌었을 수 있으니 모든 기록의 태그를 다시 계산
   for (const c of db.cases) c.tags = tagsFor(c, cfg);
+
+  // 자동 발견으로만 들어온 기록은 현재 규칙으로 다시 검사해, 떨어지면 숨깁니다(삭제하지 않음).
+  // 참고 사이트·inbox 로 들어온 것은 사람이 고른 것이므로 건드리지 않습니다.
+  // 주제어 조건은 발견 당시 원문 전체로 이미 확인했으므로 여기서는 보지 않습니다(저장된 본문은 발췌라서).
+  let hidden = 0;
+  for (const c of db.cases) {
+    const picked = (c.refs || []).length || (c.via || []).includes('inbox');
+    if (picked) { delete c.hidden; continue; }
+    const ts = (c.topics?.length ? c.topics : ['ai']).map((id) => topics.find((t) => t.id === id)).filter(Boolean);
+    const text = `${c.title || ''}\n${c.text || ''}`;
+    const title = c.title || (c.text || '').split('\n')[0];
+    const ok = !ts.length || ts.some((t) => acceptFor(t, false)(text, { title, media: c.media }));
+    if (ok) delete c.hidden; else { c.hidden = true; hidden++; }
+  }
+  if (hidden) log(`규칙에 맞지 않아 숨긴 자동 발견 글: ${hidden}건`);
 
   await saveDb(db);
   if (!urls) await removeFromInbox([...okInbox, ...badInbox]);
@@ -174,13 +196,19 @@ function mergeRefs(a = [], b = []) {
   return [...m.values()];
 }
 
-function merge(old, { canon, platform, sourceUrl, refs, topics = [], fresh, error, cfg, now }) {
+function merge(old, { canon, platform, sourceUrl, refs, topics = [], via = [], fresh, error, cfg, now }) {
   const n = cfg.general?.excerptChars ?? 280;
   const base = old || {
     id: idOf(canon), canon, platform, url: sourceUrl, addedAt: new Date(now).toISOString(),
     title: '', text: '', author: null, publishedAt: null, media: null, metrics: {}, refs: [], tags: [], status: 'link-only',
   };
-  const r = { ...base, refs: mergeRefs(base.refs, refs), topics: [...new Set([...(base.topics || []), ...topics])] };
+  // via: 어떻게 들어왔는지 (refs / inbox / discover)
+  const how = via.map((v) => (v === 'refs' || v === 'inbox' ? v : v === 'refresh' ? null : 'discover')).filter(Boolean);
+  const r = {
+    ...base, refs: mergeRefs(base.refs, refs),
+    topics: [...new Set([...(base.topics || []), ...topics])],
+    via: [...new Set([...(base.via || []), ...how])],
+  };
   if (fresh) {
     Object.assign(r, {
       url: fresh.url || r.url,

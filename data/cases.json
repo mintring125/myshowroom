@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-04T23:48:05.278Z",
+ "updatedAt": "2026-10-04T23:51:43.578Z",
  "cases": [
   {
    "id": "8266152aece6",
@@ -78,7 +78,8 @@
    "where": "r/ClaudeAI",
    "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "3f02419a8b92",
@@ -101,7 +102,8 @@
    "where": "r/ClaudeAI",
    "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "49bdc77be97e",
@@ -127,7 +129,8 @@
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "7f7d5264d941",
@@ -184,7 +187,8 @@
    "where": "r/virtualreality",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "9a2ef39c1a1b",
@@ -353,7 +357,8 @@
    "where": "r/aigamedev",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "20c6a5a0aad0",
@@ -467,7 +472,8 @@
    "where": "r/virtualreality",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "3336ed31af99",
@@ -518,7 +524,8 @@
    "where": "r/ClaudeAI",
    "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
-   "model": "Opus 5.5"
+   "model": "Opus 5.5",
+   "hidden": true
   },
   {
    "id": "624b8a20b79c",
@@ -541,7 +548,8 @@
    "where": "r/ClaudeAI",
    "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "fa7cd3eb36ed",
@@ -622,7 +630,8 @@
    "where": "r/ClaudeAI",
    "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "88132b23b943",
@@ -678,7 +687,8 @@
    "where": "r/virtualreality",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "76c08518b408",
@@ -757,7 +767,8 @@
    "where": "r/ClaudeAI",
    "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "2c23b908bb87",
@@ -782,7 +793,8 @@
    "where": "r/ClaudeAI",
    "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "8800d04c372e",
@@ -809,7 +821,8 @@
    "where": "r/virtualreality",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "4fab7a919e06",
@@ -836,7 +849,8 @@
    "where": "r/virtualreality",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "1a5dc03325af",
@@ -1003,7 +1017,8 @@
    "where": "r/ClaudeAI",
    "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "747c39633aac",
@@ -1223,7 +1238,8 @@
    "where": "r/ClaudeAI",
    "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "b105f553da93",
@@ -1247,7 +1263,8 @@
    "where": "r/ClaudeAI",
    "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "2ecb9e26e187",
@@ -1270,7 +1287,8 @@
    "where": "r/ClaudeAI",
    "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "66484c947e50",
@@ -1347,7 +1365,8 @@
    "where": "r/ClaudeAI",
    "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "7f17d950ad71",
@@ -1398,7 +1417,8 @@
    "where": "r/ClaudeAI",
    "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "fb4109cccfff",
@@ -1449,7 +1469,8 @@
    "where": "r/ClaudeAI",
    "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "41447166446e",
@@ -1510,7 +1531,8 @@
    "where": "r/virtualreality",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "fd81d517d05f",
@@ -1568,7 +1590,8 @@
    "where": "r/aigamedev",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "3484c05ac3e7",
@@ -1595,7 +1618,8 @@
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "595b8e7d640d",
@@ -1621,7 +1645,8 @@
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "72a4bd466ff2",
@@ -1677,7 +1702,8 @@
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "e9f5c8601e6f",
@@ -1822,7 +1848,8 @@
    "where": "r/virtualreality",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "7edc4bd28883",
@@ -1849,7 +1876,8 @@
    "where": "r/virtualreality",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "3a64283d4cb8",
@@ -1964,7 +1992,8 @@
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "ce9a3666fcf3",
@@ -1993,7 +2022,8 @@
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "32e70f9dc971",
@@ -2053,7 +2083,8 @@
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "2f932584a9af",
@@ -2142,7 +2173,8 @@
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "13170dc6bd37",
@@ -2201,7 +2233,8 @@
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "526ecb2c13af",
@@ -2228,7 +2261,8 @@
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "c30f0a2546ff",
@@ -2254,7 +2288,8 @@
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "b123a1d93936",
@@ -2280,7 +2315,8 @@
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "fc39aa78b1fe",
@@ -2337,7 +2373,8 @@
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "efc18a05bf95",
@@ -2363,7 +2400,8 @@
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "dc7d3c4aa99d",
@@ -2389,7 +2427,8 @@
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "16608b7bca22",
@@ -2556,7 +2595,8 @@
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "58f6c1a00481",
@@ -2582,7 +2622,8 @@
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "325e59c22ac0",
@@ -2608,7 +2649,8 @@
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "a492996c3a60",
@@ -2796,7 +2838,8 @@
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "6080f52d2b06",
@@ -3000,7 +3043,8 @@
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "d2d74f07329e",
@@ -3300,7 +3344,8 @@
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "f631c1f3adfb",
@@ -3474,7 +3519,8 @@
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "4c818bf5d060",
@@ -3577,7 +3623,8 @@
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "9d37eb015ae3",
@@ -3603,7 +3650,8 @@
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "d4f23100f646",
@@ -3682,7 +3730,8 @@
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
-   "model": null
+   "model": null,
+   "hidden": true
   },
   {
    "id": "c997e8e3d5b2",

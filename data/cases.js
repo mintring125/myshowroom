@@ -1,7 +1,7 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-10-04T23:48:05.278Z",
+ "updatedAt": "2026-10-04T23:51:43.578Z",
  "cases": [
   {
    "id": "8266152aece6",
@@ -59,78 +59,6 @@ window.CASES_DB = {
    "model": null
   },
   {
-   "id": "1b48021f15e7",
-   "canon": "https://www.reddit.com/comments/1wxt8wo",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxt8wo/claude_code_is_very_addictive/",
-   "addedAt": "2026-10-04T23:30:59.375Z",
-   "title": "Claude Code is very addictive.",
-   "text": "I subscribed to Claude mainly for work and coding.\n I run an agency, so I already have plenty of things I should be doing.\n But now every random idea that pops into my head turns into a coding experiment.\n I’ll be working on something completely normal and suddenly think, “Wait……",
-   "author": "Careless-Mongoose589",
-   "publishedAt": "2026-10-04T23:05:51+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "ai"
-   ],
-   "status": "ok",
-   "authorUrl": "https://www.reddit.com/user/Careless-Mongoose589",
-   "where": "r/ClaudeAI",
-   "fetchedAt": "2026-10-04T23:30:59.375Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "3f02419a8b92",
-   "canon": "https://www.reddit.com/comments/1wxt051",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxt051/what_one_line_in_your_prompt_takes_claudes/",
-   "addedAt": "2026-10-04T23:30:59.375Z",
-   "title": "What one line in your prompt takes Claude's writing from 5/10 to 9/10?",
-   "text": "I use Claude for work emails and writing. The drafts are okay, but they don't sound like me.\n What I've tried:\n A skill built from thousands of emails I wrote before AI. A humanizer skill. Rules: no dashes, no grand statements, plain verbs, no filler. Claude Max, in case it was…",
-   "author": "Glass-Present-8753",
-   "publishedAt": "2026-10-04T22:54:27+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "ai"
-   ],
-   "status": "ok",
-   "authorUrl": "https://www.reddit.com/user/Glass-Present-8753",
-   "where": "r/ClaudeAI",
-   "fetchedAt": "2026-10-04T23:30:59.375Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "49bdc77be97e",
-   "canon": "https://www.reddit.com/comments/1wxstmg",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wxstmg/looking_for_feedback/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "Looking for feedback",
-   "text": "Hi all, I’ve had a previous venture involved in Real Estate Media & Construction Project Management.\n Over the last 4-6 months I’ve been experimenting with Gaussian Splatting and finally have managed to create some good quality splats using some of my pre-existing client…",
-   "author": "Automatic_Stranger85",
-   "publishedAt": "2026-10-04T22:45:26+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "gsplat"
-   ],
-   "status": "ok",
-   "topics": [
-    "gsplat"
-   ],
-   "authorUrl": "https://www.reddit.com/user/Automatic_Stranger85",
-   "where": "r/GaussianSplatting",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
    "id": "7f7d5264d941",
    "canon": "https://www.reddit.com/comments/1wxsfo5",
    "platform": "reddit",
@@ -157,32 +85,6 @@ window.CASES_DB = {
    ],
    "authorUrl": "https://www.reddit.com/user/zfyl",
    "where": "r/aigamedev",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "dfa96df64ad5",
-   "canon": "https://www.reddit.com/comments/1wxsedn",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/virtualreality/comments/1wxsedn/in_the_jedi_survivor_uevr_flat2vr_mod_can_you/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "IN the Jedi Survivor UEVR Flat2VR mod, can you fight in first person?",
-   "text": "Hi everyone, im pretty new to this stuff, and i was wondering when you are in vr for the star wars jedi: survivor mod, could you do fights in first person?\n Because there is another newly released mod on Nexus mods which allows you to fight in first person, so im debating…",
-   "author": "Money-Rule7438",
-   "publishedAt": "2026-10-04T22:25:07+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "xr"
-   ],
-   "status": "ok",
-   "topics": [
-    "xr"
-   ],
-   "authorUrl": "https://www.reddit.com/user/Money-Rule7438",
-   "where": "r/virtualreality",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
    "model": null
@@ -325,38 +227,6 @@ window.CASES_DB = {
    "model": "Opus 5.5"
   },
   {
-   "id": "11db4226fa32",
-   "canon": "https://www.reddit.com/comments/1wxrb8s",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/aigamedev/comments/1wxrb8s/went_back_and_compared_an_older_build_of_my_game/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "Went back and compared an older build of my game to where it is now, am I doing too much?",
-   "text": "I care a lot about the environment and atmosphere so I’ve spent a bunch of time reworking the hub and arena to make them feel like places with an actual vibe and atmosphere\n I’ve also been doing a pretty big visual feedback/UI pass. The video has before and afters of the Scholar…",
-   "author": "Afterlight_Games",
-   "publishedAt": "2026-10-04T21:36:32+00:00",
-   "media": {
-    "kind": "image",
-    "thumb": "https://external-preview.redd.it/azNib2h6ZWtuaXRoMcqONkRIbWmGSdFzn_XFlQv2tx2Kbdu0jLp8xUhSAPa8.png?width=640&crop=smart&auto=webp&s=cfb797fb3dfa5088b6662543f09a600857d93d77"
-   },
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "ai",
-    "game",
-    "motion",
-    "app"
-   ],
-   "status": "ok",
-   "topics": [
-    "ai"
-   ],
-   "authorUrl": "https://www.reddit.com/user/Afterlight_Games",
-   "where": "r/aigamedev",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
    "id": "20c6a5a0aad0",
    "canon": "https://www.reddit.com/comments/1wxr6n5",
    "platform": "reddit",
@@ -445,32 +315,6 @@ window.CASES_DB = {
    "model": "Opus 5.5"
   },
   {
-   "id": "f041e908f1c2",
-   "canon": "https://www.reddit.com/comments/1wxqu0y",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/virtualreality/comments/1wxqu0y/in_the_jedi_survivor_uevr_flat2vr_mod_can_you/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "IN the Jedi Survivor UEVR Flat2VR mod, can you fight in first person?",
-   "text": "Hi everyone, im pretty new to this stuff, and i was wondering when you are in vr for the star wars jedi: survivor mod, could you do fights in first person?\n Because there is another newly released mod on Nexus mods which allows you to fight in first person, so im debating…",
-   "author": "Money-Rule7438",
-   "publishedAt": "2026-10-04T21:15:54+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "xr"
-   ],
-   "status": "ok",
-   "topics": [
-    "xr"
-   ],
-   "authorUrl": "https://www.reddit.com/user/Money-Rule7438",
-   "where": "r/virtualreality",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
    "id": "3336ed31af99",
    "canon": "https://www.reddit.com/comments/1wxqqeo",
    "platform": "reddit",
@@ -491,54 +335,6 @@ window.CASES_DB = {
    ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/nic2x",
-   "where": "r/ClaudeAI",
-   "fetchedAt": "2026-10-04T23:30:59.375Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "b5d05e7f02fc",
-   "canon": "https://www.reddit.com/comments/1wxqn1n",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxqn1n/claude_refusal_for_website_blocks_automated/",
-   "addedAt": "2026-10-04T23:30:59.375Z",
-   "title": "Claude refusal for \"website blocks automated access\" is there a workaround?",
-   "text": "Chatgpt doesn't care and will dutifully carry out the request. In this case the prompt was \"Can we download the video from this site, analyze with ffmpeg and determine how they could better optimize their file size for upload <WordPress link>\" \n Claude Opus 5.5 denial;\n >I…",
-   "author": "InadequateUsername",
-   "publishedAt": "2026-10-04T21:07:22+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "ai",
-    "motion",
-    "app"
-   ],
-   "status": "ok",
-   "authorUrl": "https://www.reddit.com/user/InadequateUsername",
-   "where": "r/ClaudeAI",
-   "fetchedAt": "2026-10-04T23:30:59.375Z",
-   "lang": "en",
-   "model": "Opus 5.5"
-  },
-  {
-   "id": "624b8a20b79c",
-   "canon": "https://www.reddit.com/comments/1wxqe5l",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxqe5l/what_have_you_used_to_help_improve_ai_generated/",
-   "addedAt": "2026-10-04T23:30:59.375Z",
-   "title": "What have you used to help improve AI generated scientific/technical writing/papers",
-   "text": "I am trying to write up some basic results as a scientific paper, but trying to get claude to help write is very hard. \n I'm just constantly battling bad flow/bad intro sentences/bad paragraph transitions, bad section headings, weird focusing on minute details instead of…",
-   "author": "bzbub2",
-   "publishedAt": "2026-10-04T20:57:07+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "ai"
-   ],
-   "status": "ok",
-   "authorUrl": "https://www.reddit.com/user/bzbub2",
    "where": "r/ClaudeAI",
    "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
@@ -601,31 +397,6 @@ window.CASES_DB = {
    "model": "Opus 5.5"
   },
   {
-   "id": "022b4acd00ed",
-   "canon": "https://www.reddit.com/comments/1wxpqjx",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxpqjx/can_claude_build_a_gaming_app/",
-   "addedAt": "2026-10-04T23:30:59.375Z",
-   "title": "Can claude build a gaming app?",
-   "text": "I’m talking about a game like clash of clans but a different version\n Is this something claude can help me build?\n I have product design experience but no coding experience..",
-   "author": "Brilliant-Actuator72",
-   "publishedAt": "2026-10-04T20:29:22+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "ai",
-    "game",
-    "app"
-   ],
-   "status": "ok",
-   "authorUrl": "https://www.reddit.com/user/Brilliant-Actuator72",
-   "where": "r/ClaudeAI",
-   "fetchedAt": "2026-10-04T23:30:59.375Z",
-   "lang": "en",
-   "model": null
-  },
-  {
    "id": "88132b23b943",
    "canon": "https://www.reddit.com/comments/1wxpoxv",
    "platform": "reddit",
@@ -649,35 +420,6 @@ window.CASES_DB = {
    "authorUrl": "https://www.reddit.com/user/Kot4san",
    "where": "r/ClaudeAI",
    "fetchedAt": "2026-10-04T23:30:59.375Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "268d2462dc12",
-   "canon": "https://www.reddit.com/comments/1wxpm6p",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/virtualreality/comments/1wxpm6p/can_we_all_agree_there_was_a_bigger_jump_between/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "Can we all agree there was a bigger jump between Quest 3 from Quest 2 than Quest 2 from Cardboard Old phone VR? Pancake lenses are EVERYTHING",
-   "text": "I love pancake lenses so much, it made me obssesed with VR while my Q2 made me hate it. I enjoy every minute of VR thanks to it, PCVR with pancake lenses headsets is just an amazing experience.",
-   "author": "Admirable_Zombie5245",
-   "publishedAt": "2026-10-04T20:24:14+00:00",
-   "media": {
-    "kind": "image",
-    "thumb": "https://preview.redd.it/exf9j84jeith1.png?width=140&height=93&auto=webp&s=fe1e733288c21cdfa3bad006c3905a9a5533a9d9"
-   },
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "xr"
-   ],
-   "status": "ok",
-   "topics": [
-    "xr"
-   ],
-   "authorUrl": "https://www.reddit.com/user/Admirable_Zombie5245",
-   "where": "r/virtualreality",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
    "model": null
   },
@@ -731,111 +473,6 @@ window.CASES_DB = {
    "authorUrl": "https://www.reddit.com/user/notenerd",
    "where": "r/ClaudeAI",
    "fetchedAt": "2026-10-04T23:30:59.375Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "94513d414377",
-   "canon": "https://www.reddit.com/comments/1wxp2j0",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxp2j0/if_claude_could_actually_see_and_interact_with/",
-   "addedAt": "2026-10-04T23:30:59.375Z",
-   "title": "If Claude could actually see and interact with your Mac, what would you use it for?",
-   "text": "I've been messing around with something like this lately and I'm curious what other people would actually use it for.\n Basically the idea is Claude having eyes and hands on your Mac instead of just being a chat window.\n So it can see what's on your screen, understand what you're…",
-   "author": "Dry-Weather-2544",
-   "publishedAt": "2026-10-04T20:01:24+00:00",
-   "media": {
-    "kind": "image",
-    "thumb": "https://preview.redd.it/ykm5z1elrhth1.png?width=640&crop=smart&auto=webp&s=2ef4635c74f78c8a5997d310cbc1734ea281afd6"
-   },
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "ai"
-   ],
-   "status": "ok",
-   "authorUrl": "https://www.reddit.com/user/Dry-Weather-2544",
-   "where": "r/ClaudeAI",
-   "fetchedAt": "2026-10-04T23:30:59.375Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "2c23b908bb87",
-   "canon": "https://www.reddit.com/comments/1wxp1vq",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxp1vq/i_want_to_make_claude_create_a_trailer_for_my/",
-   "addedAt": "2026-10-04T23:30:59.375Z",
-   "title": "I want to make Claude create a trailer for my game, what are the best practices or tips for it?",
-   "text": "Anything I should know before I send him on his way? any insights you guys gathered after generating a few videos?",
-   "author": "SanePcycho",
-   "publishedAt": "2026-10-04T20:00:46+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "ai",
-    "game",
-    "motion"
-   ],
-   "status": "ok",
-   "authorUrl": "https://www.reddit.com/user/SanePcycho",
-   "where": "r/ClaudeAI",
-   "fetchedAt": "2026-10-04T23:30:59.375Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "8800d04c372e",
-   "canon": "https://www.reddit.com/comments/1wxorlb",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/virtualreality/comments/1wxorlb/problem_mod_vr_re2_openxr_quest_3/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "PROBLEM MOD VR RE2 OPENXR QUEST 3",
-   "text": "Hi everyone,\n I'm trying to play Resident Evil 2 Remake in VR using REFramework/VR mod on my ROG Ally Z1 Extreme with a Quest 3 and Virtual Desktop.\n The game launches correctly in VR and the VR mod works, but I can't open the REFramework menu/settings while I'm in VR.\n I know…",
-   "author": "Expensive-Neck3241",
-   "publishedAt": "2026-10-04T19:49:08+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "xr",
-    "game"
-   ],
-   "status": "ok",
-   "topics": [
-    "xr"
-   ],
-   "authorUrl": "https://www.reddit.com/user/Expensive-Neck3241",
-   "where": "r/virtualreality",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "4fab7a919e06",
-   "canon": "https://www.reddit.com/comments/1wxon26",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/virtualreality/comments/1wxon26/openxr_toolkit_next_looking_for_pcvr_beta_testers/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "OpenXR Toolkit NEXT — Looking for PCVR beta testers with different headsets, with or without eye tracking",
-   "text": "Hi everyone,\n I started working on this project because I was spending a lot of time tuning VR settings for each game on my own setup. I wanted easier profile management, clearer performance comparisons and more control over foveated rendering.\n That became OpenXR Toolkit NEXT,…",
-   "author": "Miserable_Ad481",
-   "publishedAt": "2026-10-04T19:43:59+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "xr",
-    "game"
-   ],
-   "status": "ok",
-   "topics": [
-    "xr"
-   ],
-   "authorUrl": "https://www.reddit.com/user/Miserable_Ad481",
-   "where": "r/virtualreality",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
    "model": null
   },
@@ -978,29 +615,6 @@ window.CASES_DB = {
    ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/Antpocalypse_7",
-   "where": "r/ClaudeAI",
-   "fetchedAt": "2026-10-04T23:30:59.375Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "f028f5bb12f4",
-   "canon": "https://www.reddit.com/comments/1wxnpal",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxnpal/anyone_have_claude_code_mods/",
-   "addedAt": "2026-10-04T23:30:59.375Z",
-   "title": "Anyone have Claude Code mods?",
-   "text": "Does anyone have any cool Claude Code mods? I'm curious what people have created so far!",
-   "author": "Virtual-Highlight656",
-   "publishedAt": "2026-10-04T19:05:32+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "ai"
-   ],
-   "status": "ok",
-   "authorUrl": "https://www.reddit.com/user/Virtual-Highlight656",
    "where": "r/ClaudeAI",
    "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
@@ -1204,76 +818,6 @@ window.CASES_DB = {
    "model": null
   },
   {
-   "id": "bf23eb1937e3",
-   "canon": "https://www.reddit.com/comments/1wxmoid",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxmoid/claude_for_legal_research/",
-   "addedAt": "2026-10-04T23:30:59.375Z",
-   "title": "Claude for legal research",
-   "text": "Last week, I started trying out Claude for legal research and legal theory work.\n I got hooked and have now also invested in Gemini and OpenAi subscriptions. Thought I would share my thoughts. \n My method of testing was the exact same for all three models: I fed them a…",
-   "author": "Lenin_Fink",
-   "publishedAt": "2026-10-04T18:24:34+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "ai"
-   ],
-   "status": "ok",
-   "authorUrl": "https://www.reddit.com/user/Lenin_Fink",
-   "where": "r/ClaudeAI",
-   "fetchedAt": "2026-10-04T23:30:59.375Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "b105f553da93",
-   "canon": "https://www.reddit.com/comments/1wxmg49",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxmg49/how_to_turn_an_artifact_created_with_claude_code/",
-   "addedAt": "2026-10-04T23:30:59.375Z",
-   "title": "How to turn an artifact created with Claude Code into an app I can download?",
-   "text": "I have built multiple artifacts to solve or automate work (mostly with python). But all of their interfaces live in private web links. \n What would be your advice if I wanted to turn them into apps I can have in my phone and not have to run via browser?\n I am sure what I am…",
-   "author": "xpepepex",
-   "publishedAt": "2026-10-04T18:15:06+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "ai",
-    "app"
-   ],
-   "status": "ok",
-   "authorUrl": "https://www.reddit.com/user/xpepepex",
-   "where": "r/ClaudeAI",
-   "fetchedAt": "2026-10-04T23:30:59.375Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "2ecb9e26e187",
-   "canon": "https://www.reddit.com/comments/1wxm5bh",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxm5bh/in_june_anthropic_apologized_for_silently/",
-   "addedAt": "2026-10-04T23:30:59.375Z",
-   "title": "In June Anthropic apologized for silently rerouting flagged Fable 5 requests. The Sept 8 NSA/CISA/FBI advisory tells labs to downgrade suspected distillers without telling them. Does the June promise still hold?",
-   "text": "Two texts that are hard to square.\n In June, people found in the Fable 5 system card that requests flagged as frontier-AI development were silently answered by Opus 4.8. Anthropic reversed that within days and told Fortune: \"Starting this week, flagged requests will visibly fall…",
-   "author": "MysteriousAvocado580",
-   "publishedAt": "2026-10-04T18:02:39+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "ai"
-   ],
-   "status": "ok",
-   "authorUrl": "https://www.reddit.com/user/MysteriousAvocado580",
-   "where": "r/ClaudeAI",
-   "fetchedAt": "2026-10-04T23:30:59.375Z",
-   "lang": "en",
-   "model": null
-  },
-  {
    "id": "66484c947e50",
    "canon": "https://www.reddit.com/comments/1wxlome",
    "platform": "reddit",
@@ -1328,29 +872,6 @@ window.CASES_DB = {
    "model": null
   },
   {
-   "id": "bbcf6f8cb4ff",
-   "canon": "https://www.reddit.com/comments/1wxlka1",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxlka1/i_put_claude_into_a_wow_addon/",
-   "addedAt": "2026-10-04T23:30:59.375Z",
-   "title": "I put Claude into a WoW Addon.",
-   "text": "Sup. Was this necessary to build? Absolutely not, but It's pretty fun to use. Demo Vid in the linked Git.\n Apologies for the AI written post, I originally hand wrote one but Automod blocked it because I missed a rule to say I built it, when Claude and Codex pretty much did so..…",
-   "author": "hi_im_leffe",
-   "publishedAt": "2026-10-04T17:38:38+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "ai"
-   ],
-   "status": "ok",
-   "authorUrl": "https://www.reddit.com/user/hi_im_leffe",
-   "where": "r/ClaudeAI",
-   "fetchedAt": "2026-10-04T23:30:59.375Z",
-   "lang": "en",
-   "model": null
-  },
-  {
    "id": "7f17d950ad71",
    "canon": "https://www.reddit.com/comments/1wxlbt2",
    "platform": "reddit",
@@ -1381,27 +902,6 @@ window.CASES_DB = {
    "model": "Opus 5.5"
   },
   {
-   "id": "ddde7c588e52",
-   "canon": "https://www.reddit.com/comments/1wxl8m0",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxl8m0/correction_to_my_hook_post_from_last_week_it/",
-   "addedAt": "2026-10-04T23:30:59.375Z",
-   "title": "Correction to my hook post from last week: it fails open. The fix, and 3 more ways a hook lets rm -rf through.",
-   "text": "Last week I posted a tiny PreToolUse hook here that blocks recursive rm. I owe you a correction: as written, it fails open.\n Only exit code 2 blocks. Any other exit is a non-blocking error: the hook's verdict is dropped and the call carries on through the normal permission flow,…",
-   "author": "Individual-Shower973",
-   "publishedAt": "2026-10-04T17:25:10+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [],
-   "status": "ok",
-   "authorUrl": "https://www.reddit.com/user/Individual-Shower973",
-   "where": "r/ClaudeAI",
-   "fetchedAt": "2026-10-04T23:30:59.375Z",
-   "lang": "en",
-   "model": null
-  },
-  {
    "id": "fb4109cccfff",
    "canon": "https://www.reddit.com/comments/1wxl6ps",
    "platform": "reddit",
@@ -1424,29 +924,6 @@ window.CASES_DB = {
    ],
    "status": "ok",
    "authorUrl": "https://www.reddit.com/user/served_it_too_hot",
-   "where": "r/ClaudeAI",
-   "fetchedAt": "2026-10-04T23:30:59.375Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "df0a6bf6bba5",
-   "canon": "https://www.reddit.com/comments/1wxl6lt",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxl6lt/easy_pdf_notes_for_ai/",
-   "addedAt": "2026-10-04T23:30:59.375Z",
-   "title": "Easy PDF notes for AI",
-   "text": "Working on PDFs, I was tired of telling my AI \"page 4, second paragraph, the\n line that starts with…\". So I built πAnnotate: you point, and your AI knows\n exactly where.\n Drop a PDF on the page, then:\n Click where you mean — a numbered heart drops there.\n Write your remark after…",
-   "author": "petitpoid",
-   "publishedAt": "2026-10-04T17:22:49+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "ai"
-   ],
-   "status": "ok",
-   "authorUrl": "https://www.reddit.com/user/petitpoid",
    "where": "r/ClaudeAI",
    "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
@@ -1484,36 +961,6 @@ window.CASES_DB = {
    "model": null
   },
   {
-   "id": "c45631a58b4f",
-   "canon": "https://www.reddit.com/comments/1wxkmex",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/virtualreality/comments/1wxkmex/can_someone_port_zaxxon_to_vr/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "Can someone port Zaxxon to VR?",
-   "text": "Apparently it creates 3d internally before flattening it to render onscreen. Would be so amazing to play in 1st and 3rd person in stereoscopic.",
-   "author": "Taylooor",
-   "publishedAt": "2026-10-04T17:00:07+00:00",
-   "media": {
-    "kind": "image",
-    "thumb": "https://external-preview.redd.it/aGMza3kwOGxlaHRoMag0RwjxmbeWLGq_wF1hbAdXcg9S_QAK5OHlh87rilh8.jpeg?width=640&crop=smart&auto=webp&s=186dbd5bfa7035e3100a301d365a115fb408bd8b"
-   },
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "xr",
-    "three"
-   ],
-   "status": "ok",
-   "topics": [
-    "xr"
-   ],
-   "authorUrl": "https://www.reddit.com/user/Taylooor",
-   "where": "r/virtualreality",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
    "id": "fd81d517d05f",
    "canon": "https://www.reddit.com/comments/1wxk4ba",
    "platform": "reddit",
@@ -1536,90 +983,6 @@ window.CASES_DB = {
    ],
    "authorUrl": "https://www.reddit.com/user/StatusRow6416",
    "where": "r/aigamedev",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "8726a3400eb0",
-   "canon": "https://www.reddit.com/comments/1wxk1pd",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/aigamedev/comments/1wxk1pd/im_making_a_pirate_game_where_every_ship_is_built/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "I'm making a pirate game where every ship is built brick by brick — and all the code is written by AI. What would you want to do in it?",
-   "text": "Hi! I'm a solo dev making Brickwreck, a co-op pirate game in Godot 4 (C#) — and the whole game is made with AI. I'm not hiding it: all the code is written by an AI (Claude); I don't write code myself.\n How it's made\n I describe what I want in plain words, play the build, and…",
-   "author": "Snoo9965",
-   "publishedAt": "2026-10-04T16:36:07+00:00",
-   "media": {
-    "kind": "image",
-    "thumb": "https://external-preview.redd.it/YjZxNjQ1bzlhaHRoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=a5d6cd8a71c91f5962e2528ea790aa69084bfa76"
-   },
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "ai",
-    "three",
-    "game"
-   ],
-   "status": "ok",
-   "topics": [
-    "ai"
-   ],
-   "authorUrl": "https://www.reddit.com/user/Snoo9965",
-   "where": "r/aigamedev",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "3484c05ac3e7",
-   "canon": "https://www.reddit.com/comments/1wxfuqd",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wxfuqd/splat_viewing_on_quest_3/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "Splat Viewing on Quest 3",
-   "text": "Are there any decent GS viewers available for the Quest 3? One that lets you enter interactive mode where you’re inside the splat? GSViewer isn’t very good, I tried sideloading Android viewers, no luck. Gracia, hyperscape, Scaniverse and others don’t seem to let you save a splat…",
-   "author": "MRB521",
-   "publishedAt": "2026-10-04T13:35:14+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "gsplat",
-    "xr"
-   ],
-   "status": "ok",
-   "topics": [
-    "gsplat"
-   ],
-   "authorUrl": "https://www.reddit.com/user/MRB521",
-   "where": "r/GaussianSplatting",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "595b8e7d640d",
-   "canon": "https://www.reddit.com/comments/1wxeodm",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wxeodm/optimal_gaussian_amount_and_of_iterations/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "Optimal gaussian amount and # of iterations",
-   "text": "I've been playing around with a scan I did from my house, and I'm trying to get the best quality model from that same scan. What would you guys say is the \"sweet spot\" for gaussians and number of iterations? I'm aware that it may vary from model to model, but I'm interested in…",
-   "author": "InTakeJuanito",
-   "publishedAt": "2026-10-04T12:36:58+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "gsplat"
-   ],
-   "status": "ok",
-   "topics": [
-    "gsplat"
-   ],
-   "authorUrl": "https://www.reddit.com/user/InTakeJuanito",
-   "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
    "model": null
@@ -1649,32 +1012,6 @@ window.CASES_DB = {
     "gsplat"
    ],
    "authorUrl": "https://www.reddit.com/user/backperswhi",
-   "where": "r/GaussianSplatting",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "be2855a3e1c6",
-   "canon": "https://www.reddit.com/comments/1wxco59",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wxco59/the_photoshop_of_gaussian_splatting/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "“The photoshop of gaussian splatting”",
-   "text": "I did not used ai to write this so sorry for my rumbling or grammar mistakes! 😆\n I am currently working on a supersplat fork, which is deeply modified.\n I am implementing many usefull tools to manipulate your gaussian splats before publishing\n Main stuff:\n Relight splats:…",
-   "author": "3dprintingboii",
-   "publishedAt": "2026-10-04T10:43:42+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "gsplat"
-   ],
-   "status": "ok",
-   "topics": [
-    "gsplat"
-   ],
-   "authorUrl": "https://www.reddit.com/user/3dprintingboii",
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
@@ -1799,60 +1136,6 @@ window.CASES_DB = {
    "model": null
   },
   {
-   "id": "4481825ecd0e",
-   "canon": "https://www.reddit.com/comments/1wx1jqa",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/virtualreality/comments/1wx1jqa/insanity_whats_happening_with_vr_mods_at_the/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "Insanity what's happening with VR mods at the moment",
-   "text": "The earlier days of VR modding, Bespoke mods like Outer Wilds and Risk of rain came out and they were insane, but they were few and far between\n Then came a mod like Half Life 2 VR, a complete conversion of the base game which raised the bar and was insane\n Then came PrayDog…",
-   "author": "Whommas",
-   "publishedAt": "2026-10-03T23:56:05+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "xr",
-    "game"
-   ],
-   "status": "ok",
-   "topics": [
-    "xr"
-   ],
-   "authorUrl": "https://www.reddit.com/user/Whommas",
-   "where": "r/virtualreality",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "7edc4bd28883",
-   "canon": "https://www.reddit.com/comments/1wx0c26",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/virtualreality/comments/1wx0c26/so_anyone_planning_to_mod_the_upcoming_star_wars/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "So anyone planning to mod the upcoming Star Wars racer game?",
-   "text": "I got my VR setup back online after I saw the Titanfall hype, and the Star Wars racer game made sense to me for a VR mod.",
-   "author": "Stoobings",
-   "publishedAt": "2026-10-03T22:54:35+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "xr",
-    "game"
-   ],
-   "status": "ok",
-   "topics": [
-    "xr"
-   ],
-   "authorUrl": "https://www.reddit.com/user/Stoobings",
-   "where": "r/virtualreality",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
    "id": "3a64283d4cb8",
    "canon": "https://www.reddit.com/comments/1wwynvw",
    "platform": "reddit",
@@ -1940,63 +1223,6 @@ window.CASES_DB = {
    "model": null
   },
   {
-   "id": "14fa65d5d6dc",
-   "canon": "https://www.reddit.com/comments/1wws0ta",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wws0ta/quest_3_questions/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "Quest 3 Questions",
-   "text": "I've been using Hyperscape Capture for a while and have a couple questions.\n Is there a way to get to these files so I can preserve them if Meta abandons the app?\n Is there a recommended app for viewing this communities files on a Quest? I have a decent PCVR setup so could do…",
-   "author": "dupdup7833",
-   "publishedAt": "2026-10-03T16:54:27+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "gsplat",
-    "xr",
-    "app"
-   ],
-   "status": "ok",
-   "topics": [
-    "gsplat"
-   ],
-   "authorUrl": "https://www.reddit.com/user/dupdup7833",
-   "where": "r/GaussianSplatting",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "ce9a3666fcf3",
-   "canon": "https://www.reddit.com/comments/1wwoejl",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wwoejl/is_there_a_way_to_view_a_gaussian_splat_online_at/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "Is there a way to view a Gaussian Splat online at full/maximum quality, without going through LOD or SOG compression?",
-   "text": "Is there a way to view a Gaussian Splat online at full/maximum quality, without going through LOD or SOG compression?\n In the SuperSplat editor the splat looks really good, but as soon as I publish it (through LOD + SOG export via splat-transform), it looks like crap way too…",
-   "author": "Netjue",
-   "publishedAt": "2026-10-03T14:19:08+00:00",
-   "media": {
-    "kind": "image",
-    "thumb": "https://preview.redd.it/6mv30hmug9th1.png?width=140&height=90&auto=webp&s=854e7005f8ced8f8f9e3ca65afcc44e4e8f6cc35"
-   },
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "gsplat"
-   ],
-   "status": "ok",
-   "topics": [
-    "gsplat"
-   ],
-   "authorUrl": "https://www.reddit.com/user/Netjue",
-   "where": "r/GaussianSplatting",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
    "id": "32e70f9dc971",
    "canon": "https://www.reddit.com/comments/1ww97os",
    "platform": "reddit",
@@ -2023,34 +1249,6 @@ window.CASES_DB = {
     "gsplat"
    ],
    "authorUrl": "https://www.reddit.com/user/timfennell_",
-   "where": "r/GaussianSplatting",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "4b8a6c543456",
-   "canon": "https://www.reddit.com/comments/1ww7yng",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1ww7yng/best_settings_or_tutorial_in_spirula_for_creating/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "Best settings or tutorial in Spirula for creating splat from 360cam.",
-   "text": "I am very new to creating a splat but I tried the automated process in my insta360 app and I'm hooked. I recently dropped the same video file into spirula and got a fairly good looking splat out of it. I do wonder however if there are settings or options I can change to get…",
-   "author": "Slimyfishy",
-   "publishedAt": "2026-10-02T23:07:54+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "gsplat",
-    "motion",
-    "app"
-   ],
-   "status": "ok",
-   "topics": [
-    "gsplat"
-   ],
-   "authorUrl": "https://www.reddit.com/user/Slimyfishy",
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
@@ -2120,32 +1318,6 @@ window.CASES_DB = {
    "model": null
   },
   {
-   "id": "604119eabb5a",
-   "canon": "https://www.reddit.com/comments/1ww2hap",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1ww2hap/reinventing_the_wheel_isnt_a_breakthrough_stop/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "Reinventing the wheel isn't a breakthrough. Stop presenting duplicate wrappers as revolutionary tools.",
-   "text": "The explosion of open source models and workflows right now is insane. As technology moves fast, it's completely natural that different people end up arriving at the exact same point and using similar patterns at the same time. That part makes sense.\n What gets frustrating is…",
-   "author": "Admirable_Wasabi_732",
-   "publishedAt": "2026-10-02T19:14:20+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "gsplat"
-   ],
-   "status": "ok",
-   "topics": [
-    "gsplat"
-   ],
-   "authorUrl": "https://www.reddit.com/user/Admirable_Wasabi_732",
-   "where": "r/GaussianSplatting",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
    "id": "13170dc6bd37",
    "canon": "https://www.reddit.com/comments/1wvygt9",
    "platform": "reddit",
@@ -2177,113 +1349,6 @@ window.CASES_DB = {
    "model": null
   },
   {
-   "id": "2b610c52d8ae",
-   "canon": "https://www.reddit.com/comments/1wvqumw",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wvqumw/best_workflow_for_iphone_gaussian_splatting/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "Best workflow for iPhone Gaussian Splatting + editable terrain + Blender house model?",
-   "text": "Hey everyone,\n I’m trying to figure out the best workflow for scanning my property with an iPhone and then using that data for house planning / visualization.\n My idea is to capture the whole property with an iPhone and create a Gaussian Splatting scene from it. Then I’d like to…",
-   "author": "digitalewelt_at",
-   "publishedAt": "2026-10-02T11:00:37+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "gsplat",
-    "three",
-    "blender"
-   ],
-   "status": "ok",
-   "topics": [
-    "gsplat"
-   ],
-   "authorUrl": "https://www.reddit.com/user/digitalewelt_at",
-   "where": "r/GaussianSplatting",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "526ecb2c13af",
-   "canon": "https://www.reddit.com/comments/1wvj4yf",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wvj4yf/same_bedroom_8_phone_walks_3_great_and_5_foggy/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "Same bedroom, 8 phone walks, 3 great and 5 foggy. Frames + COLMAP scene attached. What am I missing?",
-   "text": "I'm trying to build walkable splats of apartment rooms from phone video. Samsung, handheld, no gimbal. Three of my walks came out great. Five came out foggy or blurry. Same bedroom, same pipeline, and I can't nail down why.\n Pipeline: frames at 10 fps, keep the sharpest of each…",
-   "author": "Decent_Winter_4105",
-   "publishedAt": "2026-10-02T03:11:23+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "gsplat",
-    "motion"
-   ],
-   "status": "ok",
-   "topics": [
-    "gsplat"
-   ],
-   "authorUrl": "https://www.reddit.com/user/Decent_Winter_4105",
-   "where": "r/GaussianSplatting",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "c30f0a2546ff",
-   "canon": "https://www.reddit.com/comments/1wvifba",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wvifba/dji_180_fov_best_workflow_not_360/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "DJI 180 FOV - Best workflow? (Not 360)",
-   "text": "So I have a DJI Action 6 camera and I'm able to shoot 180 FOV.\n I'm seeing a lot of success from people using 360 camera. Is it possible to produce room splats with just 180 degree FOV extracted frames? Shoot standard or dewarp?\n Many thanks.",
-   "author": "kagemushablues415",
-   "publishedAt": "2026-10-02T02:34:31+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "gsplat"
-   ],
-   "status": "ok",
-   "topics": [
-    "gsplat"
-   ],
-   "authorUrl": "https://www.reddit.com/user/kagemushablues415",
-   "where": "r/GaussianSplatting",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "b123a1d93936",
-   "canon": "https://www.reddit.com/comments/1wv89y5",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wv89y5/anyone_with_an_avata_360_up_for_testing_something/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "Anyone with an Avata 360 up for testing something?",
-   "text": "",
-   "author": "tychovdo",
-   "publishedAt": "2026-10-01T19:07:35+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "gsplat"
-   ],
-   "status": "ok",
-   "topics": [
-    "gsplat"
-   ],
-   "authorUrl": "https://www.reddit.com/user/tychovdo",
-   "where": "r/GaussianSplatting",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
    "id": "fc39aa78b1fe",
    "canon": "https://www.reddit.com/comments/1wv815x",
    "platform": "reddit",
@@ -2309,84 +1374,6 @@ window.CASES_DB = {
     "gsplat"
    ],
    "authorUrl": "https://www.reddit.com/user/ShanaD_",
-   "where": "r/GaussianSplatting",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "72048c261eb4",
-   "canon": "https://www.reddit.com/comments/1wv5y2l",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wv5y2l/improving_synthetic_gs/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "Improving Synthetic GS",
-   "text": "Did anyone have any luck going from a low resplution synthetic GS to a high res one? Or creating a high res directly? I created one with Marble but it's low res and quite unusable (even with the standard license). Maybe there is an option somewhere to switch to high res?",
-   "author": "curious_cat_3556",
-   "publishedAt": "2026-10-01T17:39:52+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "gsplat"
-   ],
-   "status": "ok",
-   "topics": [
-    "gsplat"
-   ],
-   "authorUrl": "https://www.reddit.com/user/curious_cat_3556",
-   "where": "r/GaussianSplatting",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "efc18a05bf95",
-   "canon": "https://www.reddit.com/comments/1wv3nrr",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wv3nrr/forest_splat_workflow/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "Forest splat workflow",
-   "text": "Hello, I own 5 acres of partly forested, partly lawn and would love to do seasonal or yearly scans of the property to see what changes throughout time (trees, structures) and to refer to when planning projects. \n I have a insta 360 and access to a drone. I am wondering if…",
-   "author": "DreydonR",
-   "publishedAt": "2026-10-01T16:14:00+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "gsplat"
-   ],
-   "status": "ok",
-   "topics": [
-    "gsplat"
-   ],
-   "authorUrl": "https://www.reddit.com/user/DreydonR",
-   "where": "r/GaussianSplatting",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "dc7d3c4aa99d",
-   "canon": "https://www.reddit.com/comments/1wuw0ne",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wuw0ne/immersive_omaha_beach_661944/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "Immersive Omaha Beach - 6/6/1944",
-   "text": "",
-   "author": "Cryogenicality",
-   "publishedAt": "2026-10-01T10:36:11+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "gsplat"
-   ],
-   "status": "ok",
-   "topics": [
-    "gsplat"
-   ],
-   "authorUrl": "https://www.reddit.com/user/Cryogenicality",
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
@@ -2531,85 +1518,6 @@ window.CASES_DB = {
    "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
    "model": "Sonnet 5.5"
-  },
-  {
-   "id": "b0a5b9e5aa7e",
-   "canon": "https://www.reddit.com/comments/1wub6h2",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wub6h2/what_kind_of_witchcraft_is_this/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "What kind of witchcraft is this?",
-   "text": "Hi everyone,\n I came across this video that looks like monocular 4DGS.\n https://www.instagram.com/p/DdnjRPQv5XP/\n Does anyone have even the slightest lead on where to start to figure out how this was done?\n Thanks",
-   "author": "freddewitt",
-   "publishedAt": "2026-09-30T17:30:36+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "gsplat",
-    "motion"
-   ],
-   "status": "ok",
-   "topics": [
-    "gsplat"
-   ],
-   "authorUrl": "https://www.reddit.com/user/freddewitt",
-   "where": "r/GaussianSplatting",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "58f6c1a00481",
-   "canon": "https://www.reddit.com/comments/1wu4x1j",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wu4x1j/hi_i_have_a_question_for_indoor_scenes_is_it/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "Hi, I have a question for indoor scenes, is it currently better to do the alignment directly in Spirula, or is it still better to align with RealityScan first and then bring that into Spirula for training? Trying to figure out the best workflow for small apartment interiors. Thanks!",
-   "text": "",
-   "author": "Netjue",
-   "publishedAt": "2026-09-30T13:26:10+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "gsplat"
-   ],
-   "status": "ok",
-   "topics": [
-    "gsplat"
-   ],
-   "authorUrl": "https://www.reddit.com/user/Netjue",
-   "where": "r/GaussianSplatting",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "325e59c22ac0",
-   "canon": "https://www.reddit.com/comments/1wu3vks",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wu3vks/2124_circular_fisheye_images_one_reconstruction/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "2,124 circular fisheye images → one reconstruction: reducing SfM time from 41:53 to 10:57",
-   "text": "I’ve been developing a Linux-based photogrammetry pipeline and wanted to share a recent result from a 360° capture.\n This scene uses 2,124 circular fisheye images. All images were registered in a single connected reconstruction, which I then used to train the Gaussian Splat…",
-   "author": "Beginning_Street_375",
-   "publishedAt": "2026-09-30T12:40:14+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "gsplat"
-   ],
-   "status": "ok",
-   "topics": [
-    "gsplat"
-   ],
-   "authorUrl": "https://www.reddit.com/user/Beginning_Street_375",
-   "where": "r/GaussianSplatting",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
   },
   {
    "id": "a492996c3a60",
@@ -2765,35 +1673,6 @@ window.CASES_DB = {
     "gsplat"
    ],
    "authorUrl": "https://www.reddit.com/user/curious_cat_3556",
-   "where": "r/GaussianSplatting",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "c44001112c54",
-   "canon": "https://www.reddit.com/comments/1wtm81y",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wtm81y/how_well_does_gaussian_splatting_handle_a_shiny/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "How well does Gaussian Splatting handle a shiny car? My test with the Insta360 X6",
-   "text": "Hi everyone, just sharing my first car scan with the Insta360 X6. Car paint, glass and transparent materials are tricky for Gaussian Splatting, and I wanted to see how far I could push it.\n Workflow:\n Capture: Insta360 X6 Alignment: RealityScan Training: Lichtfeld Studio…",
-   "author": "Gabriel_Trinc",
-   "publishedAt": "2026-09-29T21:08:43+00:00",
-   "media": {
-    "kind": "image",
-    "thumb": "https://external-preview.redd.it/dXJ5cm40b3Z4aXNoMc6Q2k9XKTcz3LnErY-SRPFqp3PAqRXm0seFFJyb7ibA.png?width=640&crop=smart&auto=webp&s=0c2a015e63494233ab3e89d55b8023c5bb89178f"
-   },
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "gsplat"
-   ],
-   "status": "ok",
-   "topics": [
-    "gsplat"
-   ],
-   "authorUrl": "https://www.reddit.com/user/Gabriel_Trinc",
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-04T23:48:05.267Z",
    "lang": "en",
@@ -2972,36 +1851,6 @@ window.CASES_DB = {
    "fetchedAt": "2026-10-04T23:07:36.947Z",
    "lang": "en",
    "model": "Sonnet 5.5"
-  },
-  {
-   "id": "87669409a584",
-   "canon": "https://www.reddit.com/comments/1wt7b98",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wt7b98/how_to_capture_a_huge_800x300m_indoor_space_for/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "How to capture a huge 800x300m indoor space for Gaussian Splatting?",
-   "text": "Hi everyone,\n We are trying to scan a massive 800x300m indoor venue using an Insta360 camera to create a walkable 3D environment and a top-down view.\n Our test results came out very blurry. We tried using COLMAP and Lichtfeld, but given the massive scale, we're stuck on the…",
-   "author": "KJMHELLO",
-   "publishedAt": "2026-09-29T11:13:44+00:00",
-   "media": {
-    "kind": "image",
-    "thumb": "https://preview.redd.it/lurxay4rzfsh1.png?width=140&height=84&auto=webp&s=1e00def1256ca41221796b18e3a3468a1021a816"
-   },
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "gsplat",
-    "three"
-   ],
-   "status": "ok",
-   "topics": [
-    "gsplat"
-   ],
-   "authorUrl": "https://www.reddit.com/user/KJMHELLO",
-   "where": "r/GaussianSplatting",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
   },
   {
    "id": "d2d74f07329e",
@@ -3275,35 +2124,6 @@ window.CASES_DB = {
    "model": null
   },
   {
-   "id": "ffb25aeaa9c2",
-   "canon": "https://www.reddit.com/comments/1wsjs62",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wsjs62/is_it_possible_to_see_video_converted_into/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "Is it possible to see video converted into parallax 3d splats in vr?",
-   "text": "Hi. In VR, ive been enjoying looking at 2d images converted into splats with Apple ML Sharp model. It has me wondering, is it possible to view a video with this technology? Where every frame of the video is converted into a splat? Would would be so incredible to experience.",
-   "author": "jasonkane4321",
-   "publishedAt": "2026-09-28T16:45:09+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "gsplat",
-    "xr",
-    "three",
-    "motion"
-   ],
-   "status": "ok",
-   "topics": [
-    "gsplat"
-   ],
-   "authorUrl": "https://www.reddit.com/user/jasonkane4321",
-   "where": "r/GaussianSplatting",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
    "id": "f631c1f3adfb",
    "canon": "https://www.reddit.com/comments/1wsfvtp",
    "platform": "reddit",
@@ -3452,32 +2272,6 @@ window.CASES_DB = {
    "model": null
   },
   {
-   "id": "f1245df10278",
-   "canon": "https://www.reddit.com/comments/1ws12yy",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1ws12yy/how_bad_will_the_quality_be_if_i_use_my_iphone_11/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "how bad will the quality be if i use my iphone 11?",
-   "text": "new to this",
-   "author": "Physical-Macaron8744",
-   "publishedAt": "2026-09-28T01:09:32+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "gsplat"
-   ],
-   "status": "ok",
-   "topics": [
-    "gsplat"
-   ],
-   "authorUrl": "https://www.reddit.com/user/Physical-Macaron8744",
-   "where": "r/GaussianSplatting",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
    "id": "4c818bf5d060",
    "canon": "https://www.reddit.com/comments/1wryjs1",
    "platform": "reddit",
@@ -3555,58 +2349,6 @@ window.CASES_DB = {
    "model": "Opus 5.5"
   },
   {
-   "id": "bfe6c5842459",
-   "canon": "https://www.reddit.com/comments/1wrt36x",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wrt36x/anyone_training_splats_on_feedforward_poses/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "Anyone training splats on feed-forward poses instead of COLMAP?",
-   "text": "There's a vision model, SenseNova-Vision-7B-MoT, that doesn't solve camera poses. It just writes them out as special number tokens in its text output. Every later camera is relative to the first one: a quaternion for rotation, plus a direction and a separate distance for…",
-   "author": "WarConscious1346",
-   "publishedAt": "2026-09-27T19:24:29+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "gsplat"
-   ],
-   "status": "ok",
-   "topics": [
-    "gsplat"
-   ],
-   "authorUrl": "https://www.reddit.com/user/WarConscious1346",
-   "where": "r/GaussianSplatting",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
-   "id": "9d37eb015ae3",
-   "canon": "https://www.reddit.com/comments/1wrpwyy",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wrpwyy/from_a_single_image_to_gaussian_splats_another/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "From a Single Image to Gaussian Splats (another tutorial)",
-   "text": "I am REPOSTING this here because I see a lot of posts recently showcasing single-image reconstruction without any further information on the workflow. I hope this helps.",
-   "author": "akatash23",
-   "publishedAt": "2026-09-27T17:20:23+00:00",
-   "media": null,
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "gsplat"
-   ],
-   "status": "ok",
-   "topics": [
-    "gsplat"
-   ],
-   "authorUrl": "https://www.reddit.com/user/akatash23",
-   "where": "r/GaussianSplatting",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
-  },
-  {
    "id": "d4f23100f646",
    "canon": "https://x.com/i/status/2104253584737230926",
    "platform": "x",
@@ -3655,35 +2397,6 @@ window.CASES_DB = {
    "fetchedAt": "2026-10-04T23:30:59.375Z",
    "lang": "en",
    "model": "Opus 5.5"
-  },
-  {
-   "id": "eb54759e08c5",
-   "canon": "https://www.reddit.com/comments/1wro158",
-   "platform": "reddit",
-   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wro158/looking_for_guidance_poor_results_combining/",
-   "addedAt": "2026-10-04T23:48:05.267Z",
-   "title": "Looking for guidance - Poor results combining ground and aerial footage",
-   "text": "I love Spirulae, but I'm still struggling with figuring it out. I recorded drone footage flying around a house, and also walked around it with a X5 on a selfie stick, and I'm having a hard time combining all the footage and processing it into one massive scene. This example is…",
-   "author": "dotcommer1",
-   "publishedAt": "2026-09-27T16:05:55+00:00",
-   "media": {
-    "kind": "image",
-    "thumb": "https://external-preview.redd.it/cTFycnlvdW41M3NoMUqQpCr9qjqLnGSDQ8JUskYC8Pavqrbn6cljR4TMkINB.png?width=640&crop=smart&auto=webp&s=2c27c5dec8d8e475150172a52567dc4dffc031b9"
-   },
-   "metrics": {},
-   "refs": [],
-   "tags": [
-    "gsplat"
-   ],
-   "status": "ok",
-   "topics": [
-    "gsplat"
-   ],
-   "authorUrl": "https://www.reddit.com/user/dotcommer1",
-   "where": "r/GaussianSplatting",
-   "fetchedAt": "2026-10-04T23:48:05.267Z",
-   "lang": "en",
-   "model": null
   },
   {
    "id": "c997e8e3d5b2",

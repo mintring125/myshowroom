@@ -77,18 +77,21 @@ export async function resolve(canon, sourceUrl, { env }) {
 export async function discover(cfg, { env, accept, log }) {
   const out = [];
   const tok = await token(env).catch((e) => { log(`reddit: ${e.message}`); return null; });
-  for (const sub of cfg.subreddits || []) {
+  // 키가 없으면 서브레딧을 r/a+b+c 로 묶어 한 번만 요청합니다. (비인증 요청은 금방 429 가 나므로)
+  const subs = tok ? (cfg.subreddits || []) : (cfg.subreddits?.length ? [cfg.subreddits.join('+')] : []);
+  for (const sub of subs) {
     try {
       if (tok && cfg.searchQuery) {
         const q = encodeURIComponent(cfg.searchQuery);
         const j = await getJson(`https://oauth.reddit.com/r/${sub}/search?q=${q}&restrict_sr=1&sort=new&t=week&limit=50&raw_json=1`, { headers: { Authorization: `Bearer ${tok}` } });
         for (const { data: d } of j.data?.children || []) {
-          if (d.score >= (cfg.minScore || 0) && accept(`${d.title}\n${d.selftext}`)) out.push({ url: `https://www.reddit.com${d.permalink}`, prefetched: { ...fromApi(d), status: 'ok' } });
+          const pre = fromApi(d);
+          if (d.score >= (cfg.minScore || 0) && accept(`${d.title}\n${d.selftext}`, { title: d.title, media: pre.media })) out.push({ url: `https://www.reddit.com${d.permalink}`, prefetched: { ...pre, status: 'ok' } });
         }
       } else {
-        const xml = await getText(`https://www.reddit.com/r/${sub}/new/.rss?limit=50`, { accept: 'application/atom+xml' });
+        const xml = await getText(`https://www.reddit.com/r/${sub}/new/.rss?limit=100`, { accept: 'application/atom+xml' });
         for (const e of parseAtomEntries(xml)) {
-          if (!e.url || !accept(`${e.title}\n${e.text}`)) continue;
+          if (!e.url || !accept(`${e.title}\n${e.text}`, { title: e.title, media: e.thumb })) continue;
           out.push({ url: e.url, prefetched: {
             url: e.url, author: e.author, authorUrl: e.author && `https://www.reddit.com/user/${e.author}`, publishedAt: e.publishedAt,
             title: e.title, text: e.text, where: e.where, media: e.thumb ? { kind: 'image', thumb: e.thumb } : null, status: 'ok',
