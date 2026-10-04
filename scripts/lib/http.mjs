@@ -39,7 +39,9 @@ export async function request(url, { headers = {}, method = 'GET', body, retries
     done(); clearTimeout(timer);
     if ((res.status === 429 || res.status >= 500) && attempt < retries) {
       const ra = Number(res.headers.get('retry-after'));
-      await sleep(ra ? ra * 1000 : 2000 * 2 ** attempt);
+      // 호스트별 재시도 기본 간격 (비인증 Reddit 은 길게 쉬어야 풀립니다)
+      const base = opts.retryBaseMs?.[host] ?? 2000;
+      await sleep(ra ? ra * 1000 : base * 2 ** attempt);
       continue;
     }
     return res;

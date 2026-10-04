@@ -38,8 +38,12 @@ async function doRun({ only, urls, full = false, refreshAll = false, max, onLog 
   const g = cfg.general || {};
   // Reddit 은 키가 없으면 요청 간격을 넓혀야 덜 막힙니다.
   const hostDelays = { ...(g.hostDelays || {}) };
-  if (!env.REDDIT_CLIENT_ID) hostDelays['www.reddit.com'] ??= g.redditNoAuthDelayMs ?? 6000;
-  configureHttp({ userAgent: g.userAgent, hostDelayMs: g.hostDelayMs, hostDelays, timeoutMs: g.timeoutMs });
+  const retryBaseMs = {};
+  if (!env.REDDIT_CLIENT_ID) {
+    hostDelays['www.reddit.com'] ??= g.redditNoAuthDelayMs ?? 6000;
+    retryBaseMs['www.reddit.com'] = g.redditNoAuthRetryMs ?? 20000;
+  }
+  configureHttp({ userAgent: g.userAgent, hostDelayMs: g.hostDelayMs, hostDelays, retryBaseMs, timeoutMs: g.timeoutMs });
 
   const db = await loadDb();
   const byCanon = new Map(db.cases.map((c) => [c.canon, c]));
@@ -100,7 +104,9 @@ async function doRun({ only, urls, full = false, refreshAll = false, max, onLog 
   }
 
   const ctx = { env, log };
-  for (const topic of topics) {
+  // 실행마다(3시간 단위) 주제 순서를 돌려, 속도 제한에 걸려도 늘 같은 주제만 빠지지 않게 합니다.
+  const shift = Math.floor(Date.now() / (3 * 3600_000)) % Math.max(1, topics.length);
+  for (const topic of [...topics.slice(shift), ...topics.slice(0, shift)]) {
     for (const p of ['reddit', 'x', 'threads', 'instagram']) {
       if (!stages.has(p) || cfg[p]?.enabled === false || !topic[p]) continue;
       try {
