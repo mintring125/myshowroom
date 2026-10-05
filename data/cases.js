@@ -1,8 +1,1051 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-10-04T23:59:14.296Z",
+ "updatedAt": "2026-10-05T05:48:03.966Z",
  "cases": [
+  {
+   "id": "f03cdc84f581",
+   "canon": "https://www.reddit.com/comments/1wy0kwu",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wy0kwu/made_a_plugin_so_claude_code_doesnt_rewrite_the/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "Made a plugin so Claude Code doesn't rewrite the whole cache after you take a break",
+   "text": "If you step away from Claude Code for more than 5 minutes, your next prompt pays full price to rewrite the prompt cache. On a long session that adds up, and the first reply after a break is slower too.\n cache-warmer fixes that. Right before the cache expires it sends one tiny…",
+   "author": "TeachTall3390",
+   "publishedAt": "2026-10-05T05:35:33+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TeachTall3390",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c01611736743",
+   "canon": "https://www.reddit.com/comments/1wy08av",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wy08av/opus_55_animated_me_a_5minute_feltpuppet_music/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "Opus 5.5 animated me a 5-minute felt-puppet music video for kids, every frame is JavaScript, no video model (3 days, 900M tokens)",
+   "text": "",
+   "author": "g4n0n",
+   "publishedAt": "2026-10-05T05:14:04+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/_0tAoKCiJRAgkZuaex6bEy9p80zURnToMFwxFgDK0oU.jpeg?width=320&crop=smart&auto=webp&s=51849808c94a4d14fc0fb6763192192884c206b3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/g4n0n",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "7cd497990deb",
+   "canon": "https://www.reddit.com/comments/1wy089t",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1wy089t/this_is_what_my_screen_looks_like_today_im_pretty/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "This is what my screen looks like today, I'm pretty excited!",
+   "text": "Every window is its own copy of the game, and each one has an AI agent working on a different piece of it. As I watch each instance go through it's tests, I'm sending instructions and design info over to claude so it can add them to the work queue. There's a lot of pieces that…",
+   "author": "strawberry-ramune",
+   "publishedAt": "2026-10-05T05:14:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/vr6yb4q5xkth1.png?width=640&crop=smart&auto=webp&s=185629eb0a722a9a0f7efffad4af414e39e4aad7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/strawberry-ramune",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c35ed99a6397",
+   "canon": "https://www.reddit.com/comments/1wy031s",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wy031s/claude_code_makes_my_short_videos_unattended_one/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "Claude Code makes my short videos unattended: one headless run per video, auto mode for permissions, and a human approves every one",
+   "text": "I built cc-studio (MIT, https://github.com/gsl0001/cc-studio), an open-source pipeline that plans, makes and schedules short TikTok/Instagram videos for my own accounts. Claude does the creative work in three places, and the interesting parts were the guardrails around it, so…",
+   "author": "Royal_Philosopher_58",
+   "publishedAt": "2026-10-05T05:05:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/0y36khyxzkth1.png?width=140&height=50&auto=webp&s=ee90cfe06615a690ba09ecf6e46b4db775b1b427"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Royal_Philosopher_58",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c398216fb583",
+   "canon": "https://www.reddit.com/comments/1wxzz7w",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/singularity/comments/1wxzz7w/opus_55_directed_a_film_in_under_16_secs/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "Opus 5.5 directed a film in under 16 secs",
+   "text": "I asked opus 5.5 to tell me a story in under 16 seconds with minimal words\n Opus can't by itself generate videos\n It wrote the story and then gave prompts that were fed to seedance 2.5\n It then compiled everything, added sound effects, edited the footage using ffmpeg and python…",
+   "author": "gouterz",
+   "publishedAt": "2026-10-05T04:59:43+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aDVxZ2FscXV5a3RoMeEyJMokZMB-6lp_Odiad9GSKVhxEGn4obn9qJOzbgME.png?width=640&crop=smart&auto=webp&s=3ef7df661674077813271d0ad546220258155099"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/gouterz",
+   "where": "r/singularity",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "f196dc6f5029",
+   "canon": "https://www.reddit.com/comments/1wxzz31",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wxzz31/coral_agentic_ide_for_agents_multiagent_teams/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "Coral - Agentic IDE for agents & multi-agent teams",
+   "text": "This is a project I've been working on and off for about 9 months. With opus 5.5 and sonnet 5.5 agentic teams have become way more tenacious and better at driving towards goals. They made the framework I've been building around agent communication even more powerful. \n There are…",
+   "author": "orbital_trace",
+   "publishedAt": "2026-10-05T04:59:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/d3A4Zmt1YnJ4a3RoMTrlzan9JFweM2jGe6aLBWT0EAv0s1QvFY3zcuQgOciC.png?width=640&crop=smart&auto=webp&s=32e040731d72d4dac01be4a2ae95455ec1d27cb0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/orbital_trace",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": "Opus 5.5 · Sonnet 5.5"
+  },
+  {
+   "id": "6a4666ca2741",
+   "canon": "https://www.reddit.com/comments/1wxzscq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxzscq/i_made_an_idle_game_where_you_watch_an/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "I made an idle game where you watch an Appalachian family for a hundred years and mostly can't help them. Six days up, 17 patches, Claude Code built all of it.",
+   "text": "Nov. 9, 1936. Lonzo Salyer, 89, succumbed to two bullets in a feud over a woman.\n That's a line out of my own game. I started that family in 1892 with a man who bought shares in a Carolina gold mine from a stranger in a good hat, and I've been checking on them between other…",
+   "author": "MDawg74",
+   "publishedAt": "2026-10-05T04:47:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ff3cxj9gwkth1.png?width=640&crop=smart&auto=webp&s=3116bb4bfccc095da7e2e43eac15e4b6afb90ce8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MDawg74",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0b04566f7403",
+   "canon": "https://www.reddit.com/comments/1wxznxm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1wxznxm/built_an_app_to_improve_the_experience_of/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "Built an app to improve the experience of watching multiple videos at the same time mainly for sports",
+   "text": "Hi everyone so I’m a big sports lover and I think the AVP is one of the best devices to enjoy watching them. Until we have more immersive broadcasts, the 2D experience of watching multiple videos at the same time in the AVP is cumbersome where you need to mute one video before…",
+   "author": "jlrodv",
+   "publishedAt": "2026-10-05T04:40:47+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OXdoZTNwZ3Z1a3RoMWyOK2jrizzQV-tlMmo13x_HQApguoi7s8QHd9XT6ZT-.jpeg?width=640&crop=smart&auto=webp&s=b0b532cf325e1484e4f8af2a9e1a46545837ac88"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/jlrodv",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2c52de873d42",
+   "canon": "https://www.reddit.com/comments/1wxz8hv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wxz8hv/i_built_this_with_threejs_and_webgl_with_opus_55/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "I built this with Three.js and WebGL, with Opus 5.5",
+   "text": "",
+   "author": "EconomistOk2763",
+   "publishedAt": "2026-10-05T04:16:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Z2docmVtcm1xa3RoMZ1b2hkOS96HMpwbV8jF-QdeE7Eq8fhT9NAVRCgzkYsi.png?width=640&crop=smart&auto=webp&s=97142c5a9490ee0f32b08e74e67bb1d68dc3ca9c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/EconomistOk2763",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "e2a44771b94d",
+   "canon": "https://www.reddit.com/comments/1wxz8de",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxz8de/built_an_entire_text_adventure_game_with_claude/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "built an entire text adventure game with claude in one evening and my kid has not stopped playing it",
+   "text": "my eight year old is obsessed with a video game and wanted a story version. so we sat down together and described the world, the characters, and the rules, and built a little text adventure over one evening. \n the magic was doing it with her. she would say i want a dragon that…",
+   "author": "WorthIngenuity5555",
+   "publishedAt": "2026-10-05T04:15:54+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/WorthIngenuity5555",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "640434fe353a",
+   "canon": "https://www.reddit.com/comments/1wxz62u",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1wxz62u/super_nervous_to_post_my_game_at_all/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "Super nervous to post my game at all",
+   "text": "Spent weeks working on it, and I know that’s not very long and it’s not perfect and probably shouldn’t be launching it but I feel like getting something out there and learning from the process is going to help me be better for next time.\n Started out with a completely different…",
+   "author": "LeVuS87",
+   "publishedAt": "2026-10-05T04:12:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/c2d2MDJtY2Nxa3RoMYAgP44cH7kDC70Pth6bxetpGQc5SNse-1YL67UAH_JU.jpeg?width=640&crop=smart&auto=webp&s=990ee6bed70eb6416c4c6c6890b4ba5dbd6ea90b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/LeVuS87",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2d35b1b18e36",
+   "canon": "https://www.reddit.com/comments/1wxyzcs",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wxyzcs/i_asked_claude_code_to_compose_a_6min_piano_solo/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "I asked Claude Code to compose a 6-min piano solo and perform it in 3D. Every note is written in code",
+   "text": "Claude wrote every note of this piece, \"Premier Circuit\", in Python. There's no music generator: it's an actual score (1,765 notes, 114 bars), played back with a sampled grand piano. \n Then it built the whole video too:\n - A Godot scene made entirely in code: Claude's little…",
+   "author": "Chronos_Squared",
+   "publishedAt": "2026-10-05T04:02:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/gjpC1DmQqAqKDZ_FnTainoq__20_2eLhaz8oD-XISWM.jpeg?width=320&crop=smart&auto=webp&s=76aba4954e52590be4ea9c770766047329f07f3c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Chronos_Squared",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c1abfd8717db",
+   "canon": "https://www.reddit.com/comments/1wxykqx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxykqx/1_monthish_update_building_a_cozy_game_with_ai/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "1 Month-ish Update: Building a cozy game with Ai and no game dev experience. We have a name!",
+   "text": "One month in and it finally has a name lol. Soft Landing: A Blob Life \n New since last: recipes, cooking, fishing, a finished story, and the music got redone with real instrument samples instead of midi\n Still one more biome to build (you go to space!), plus a ton of polish:…",
+   "author": "Gambo7592",
+   "publishedAt": "2026-10-05T03:39:10+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bXdnYW01OW5pa3RoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=58bbd25e3cc03e49a279becf40b2285dc7e56525"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Gambo7592",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6fe3e8b96f2e",
+   "canon": "https://www.reddit.com/comments/1wxyjou",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1wxyjou/3_prompts_with_opus_55_turned_my_game_idea_into/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "3 prompts with Opus 5.5 turned my game idea into this",
+   "text": "I gave Opus 5.5 three prompts to build a game idea I had.\n This is what came out.\n House Edge is basically Schedule I, except you're running a crooked underground casino instead of a drug operation.\n You start in a basement with two slot machines and a blackjack table.\n Every…",
+   "author": "Conscious-Image-4161",
+   "publishedAt": "2026-10-05T03:37:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/b3o0cG91Zjdra3RoMZcnGy2BIcPjCcfa41GYkyF3tvn5SxoMJGEYHd_IM3o5.png?width=640&crop=smart&auto=webp&s=84a59ffb6bf71a5b65c2297ffec19edc021cbc90"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Conscious-Image-4161",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "0bf40a0b7cf4",
+   "canon": "https://www.reddit.com/comments/1wxyix2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wxyix2/world_models_the_simulation_strikes_back/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "World Models: The Simulation Strikes Back",
+   "text": "",
+   "author": "Halcyonrayes",
+   "publishedAt": "2026-10-05T03:36:10+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/kqqsjjuejkth1.gif?width=320&crop=smart&s=c758f54a9fb58d38c80369d7e4992b156d5521d2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Halcyonrayes",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e2fcd758f996",
+   "canon": "https://www.reddit.com/comments/1wxyhx2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wxyhx2/i_built_a_multirepo_worktreeaware_diff_viewer_as/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "I built a multi-repo, worktree-aware diff viewer as a Claude Code mod, because /diff kept missing changes",
+   "text": "Claude Code Mod for Diffs\n I kept VS Code open just to check diffs, and /diff didn't fix it for me: it misses changes Claude makes with Python or shell scripts, and it shows nothing when the folder I open isn't a git repo. I keep backend and frontend repos side by side in one…",
+   "author": "Weary-Net1650",
+   "publishedAt": "2026-10-05T03:34:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/AQg0nf_-ZiCxviYf2Is4AL4wgPTtr-BrM6DJMqYT5m8.png?width=140&height=70&auto=webp&s=c4d746b1c63692b04a33f9dc9cb42ea8b151f968"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Weary-Net1650",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "291452baa14f",
+   "canon": "https://www.reddit.com/comments/1wxyeh2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1wxyeh2/deus_ex_mankind_divided_vr_enhanced_interactions/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "Deus Ex: Mankind Divided VR Enhanced Interactions",
+   "text": "Trying to replace as much of the button prompts with real physical actions.",
+   "author": "LeanQA",
+   "publishedAt": "2026-10-05T03:29:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cnlhbTJodGxpa3RoMcK2vLEe3n-kaOryrlPMtQEJ_eU0xft7A7agNHgZ_Rc-.png?width=640&crop=smart&auto=webp&s=eeadb20a9e09485d31d1f6b091db2f7082596f9b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/LeanQA",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "05bb5b168631",
+   "canon": "https://www.reddit.com/comments/1wxy9r7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1wxy9r7/oldschool_mmorpg_coded_by_claude_art_made_in/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "Oldschool MMORPG coded by Claude. Art made in Blender. Properly linked the video this time. PLEASE criticize if willing. Suggestions welcome!",
+   "text": "Youtube if interested in future updates. This project has A LONG WAY to go.",
+   "author": "Final_Peak_797",
+   "publishedAt": "2026-10-05T03:21:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bWYxZ3hvdWpna3RoMXF8fwmk9V_OHpbSbc22xVoW3JbaT8UkYKjUDoMfCmiu.png?width=640&crop=smart&auto=webp&s=ebbd7e2c779e1a2ebb483ceace900519b311c3ee"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Final_Peak_797",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "efcc225d4b7a",
+   "canon": "https://www.reddit.com/comments/1wxy24q",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxy24q/i_had_to_try_opus_55s_javascript_videos_so_i_made/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "I had to try Opus 5.5's JavaScript videos, so I made one about a data center that makes fresh water instead of using it",
+   "text": "Saw people making videos with Opus 5.5 in JavaScript and had to try it. So I had it make one about energy synergy. Take the content with a grain of salt. I just wanted to see what it could do. I had Claude Code use the ElevenLabs MCP server for The Voice. This is my second time…",
+   "author": "Se777enUP",
+   "publishedAt": "2026-10-05T03:10:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bHAxdzlkNmlma3RoMdTLcUbUn-kTep4PHmzZOCfU72xbdNH9WIadPEVysJTF.jpeg?width=640&crop=smart&auto=webp&s=5e0030b319ca4d58cd112bcd79f9ddc9565d16c1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Se777enUP",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "9db85e4cc243",
+   "canon": "https://www.reddit.com/comments/1wxxy6z",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1wxxy6z/star_fox_enhanced_native_on_meta_quest_3/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "Star Fox Enhanced native on Meta Quest 3",
+   "text": "Star Fox Enhanced in native VR on Meta Quest 3!\n Featuring stereoscopic 3D, head tracking, and Touch controls—all running directly on the headset, with no PC needed to play.\n Supports Original and EX. Your own supported Star Fox/Starwing ROM is required.\n Source code and setup…",
+   "author": "ninthart87",
+   "publishedAt": "2026-10-05T03:04:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/p0HdBIoG9On2iSYVcNLRAK3HviaQTsTT9XYgYMrbZ5c.jpeg?width=320&crop=smart&auto=webp&s=9d1460747d6f70bf0ca322a8a1eef11c744b3d25"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ninthart87",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fc2c47fc0164",
+   "canon": "https://www.reddit.com/comments/1wxxnwu",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxxnwu/i_built_an_offline_scanner_with_claude_code_that/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "I built an offline scanner with Claude Code that audits the MCP servers and skills installed on your machine (free, MIT)",
+   "text": "I built this. SecureAI-Scan is a free, open-source (MIT) command-line scanner, built with Claude Code. It checks code that talks to LLMs and MCP servers for security problems, and one command audits what you've already installed for Claude.\n What it does. `secureai-scan…",
+   "author": "Happy-Athlete-2420",
+   "publishedAt": "2026-10-05T02:49:35+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Happy-Athlete-2420",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f66f4720cdc1",
+   "canon": "https://www.reddit.com/comments/1wxx8y2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wxx8y2/i_built_an_ai_voice_agent_companion_for_claude/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "I built an AI voice agent companion for claude code using mods",
+   "text": "and then I asked claude to do a quick demo video explaining what it does.\n Before this, I did a (yet another) tool for speech-to-text in macOS, but I wanted the prompt/transcript sent to claude to be filtered right away by another AI that has the complete context of the session…",
+   "author": "Leopiney",
+   "publishedAt": "2026-10-05T02:27:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/N3JvZ3Zqc3I3a3RoMVRds6-fHCwW_QY0AR_RTxojYnRHDB2IuFlT23kyN0wD.png?width=640&crop=smart&auto=webp&s=f2b99fe5a6c0aa7638adfdbab7441364e1763679"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Leopiney",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "92c234e6860b",
+   "canon": "https://www.reddit.com/comments/1wxx6i8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wxx6i8/i_built_an_ai_voice_agent_companion_for_claude/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "I built an AI voice agent companion for claude code",
+   "text": "and then I asked claude to do a quick demo video explaining what it does.\n Before this, I did a (yet another) tool for speech-to-text in macOS, but i wantend the prompt/transcript sent to claude to be filtered right away by another AI that has the complete context of the session…",
+   "author": "Leopiney",
+   "publishedAt": "2026-10-05T02:23:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Z2Q3ZHNrazE2a3RoMVRds6-fHCwW_QY0AR_RTxojYnRHDB2IuFlT23kyN0wD.png?width=640&crop=smart&auto=webp&s=d53a586aeb8f07d767920d7a3d4acb1969f71479"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Leopiney",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c708731c1953",
+   "canon": "https://www.reddit.com/comments/1wxx0hu",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wxx0hu/update_i_let_opus_55_run_a_business_for_2_weeks/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "Update: I let Opus 5.5 run a business for 2 weeks. Still $0.00, now 551 dead ideas, so it built them a graveyard",
+   "text": "Last week: 245 dead ideas, $0.00. This week:\n Dead ideas: 551\n Revenue: $0.00\n Spent: about $320 on ads, plus three $100 Claude subscriptions we already pay for. So yes, it's negative.\n They now bury every idea they kill, with the cause of death and the numbers that killed it:…",
+   "author": "LordKittyPanther",
+   "publishedAt": "2026-10-05T02:15:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/hf6jxtyl5kth1.jpeg?width=640&crop=smart&auto=webp&s=c4037fe04683bdeac9a3505e6ac55506059834ee"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/LordKittyPanther",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "8f451e157f31",
+   "canon": "https://www.reddit.com/comments/1wxx0al",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxx0al/i_built_the_best_game_to_play_on_a_toilet_with/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "I built the best game to play on a toilet with Claude Code",
+   "text": "I built Tiltanic (and all the promo videos) with Claude Code - a small browser game to help me pass the time on a toilet.\n How it plays: you hold your phone and tilt it. The sea inside the phone sloshes and a tiny steamboat rides the wave. You steer it through gates - anchors…",
+   "author": "freechoice",
+   "publishedAt": "2026-10-05T02:14:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M2JyYThnM2M1a3RoMWwu5e42a4k3l575EGn1pcraZJEAcozAWmdX9s8-P-Qi.png?width=640&crop=smart&auto=webp&s=3cd5dc3edeea6e250e37e1b0b26c0530cc210cf3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/freechoice",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f9a97f11d34c",
+   "canon": "https://www.reddit.com/comments/1wxwd8y",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1wxwd8y/news_amazon_building_smart_glasses_empire/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "News: Amazon building Smart Glasses empire",
+   "text": "Amazon's been quietly shipping 5,000+ smart glasses to delivery drivers and basically nobody noticed. They've got way more in the tank than people realize.\n When Meta and Snap drop their shiny new smart glasses announcements, everyone loses their minds speculating about Apple…",
+   "author": "brookm291",
+   "publishedAt": "2026-10-05T01:42:05+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/brookm291",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "db89fd46c529",
+   "canon": "https://www.reddit.com/comments/1wxw7v4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxw7v4/i_built_a_tv_movie_tracker_and_its_promo_video/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "I built a TV & movie tracker and its promo video with Claude Code",
+   "text": "I built emberslate, an Android TV & movie tracker. I used Claude Code as a coding partner throughout the project, from designing and implementing the NestJS/PostgreSQL backend and Android UI to writing database queries, integrating APIs, debugging production issues, and…",
+   "author": "alflank",
+   "publishedAt": "2026-10-05T01:34:20+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bTlpdmVkbzZ5anRoMdapnp_MztKkVR-OdvjrwfVvZS9biCJlovt24OIOBcl7.png?width=640&crop=smart&auto=webp&s=8c8baa1f69320f0a3b79af8a1edbf00d1bf82b2c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/alflank",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0522b682f3b9",
+   "canon": "https://www.reddit.com/comments/1wxw2as",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wxw2as/i_was_at_hello_world_stage_just_a_month_ago/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "I was at \"Hello World\" stage just a month ago Claude! OK boss, just cook",
+   "text": "",
+   "author": "i_t_d",
+   "publishedAt": "2026-10-05T01:26:34+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/807oh0jswjth1.png?width=140&height=134&auto=webp&s=f89a8923025ce9ad102cde3ec62a2c08d93f6c29"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/i_t_d",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2841147afeee",
+   "canon": "https://www.reddit.com/comments/1wxvys0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wxvys0/i_built_the_best_game_to_play_on_a_toilet_with/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "I built the best game to play on a toilet with Claude Code",
+   "text": "I built Tiltanic (and all the promo videos) with Claude Code - a small browser game to help me pass the time on a toilet.\n How it plays: you hold your phone and tilt it. The sea inside the phone sloshes and a tiny steamboat rides the wave. You steer it through gates - anchors…",
+   "author": "freechoice",
+   "publishedAt": "2026-10-05T01:21:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cGI4eXB1MzF3anRoMWwu5e42a4k3l575EGn1pcraZJEAcozAWmdX9s8-P-Qi.png?width=640&crop=smart&auto=webp&s=8a113b938afbe9769db720a99a0dd9a371f828f5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/freechoice",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f59a16d5e425",
+   "canon": "https://www.reddit.com/comments/1wxvvpn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxvvpn/trouble_opus_55_safeguards/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "Trouble Opus 5.5 Safeguards",
+   "text": "Are you guys having problems with the safeguards on opus 5.5?? I mean, idk if a 'hi' is a risky message. Its any thing that i can do for fix this?",
+   "author": "edgar9025",
+   "publishedAt": "2026-10-05T01:17:13+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/s7lvk252vjth1.png?width=640&crop=smart&auto=webp&s=4f2ca262791e02f1f695903763c3a68eee5e3a57"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/edgar9025",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "772a853c948b",
+   "canon": "https://www.reddit.com/comments/1wxv91g",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wxv91g/im_building_a_solution_that_competes_with/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "Im building a solution that competes with Artifacts",
+   "text": "Follow/show some love if you want to see where this is headed:\n https://x.com/plannotator/status/2106875215170899992?s=20\n I've been in the coding agent's game since I made/spec'd out the hooks feature request for the claude team. \n Everything I do is built in the open, so take…",
+   "author": "backnotprop",
+   "publishedAt": "2026-10-05T00:45:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Y2N6bW5wZ2JwanRoMbeOI-RxzVRs7jtdnx3iBrpRq7Qc08s5HACWucqZP69f.png?width=640&crop=smart&auto=webp&s=3f0b9dcc72157d8fc8d6b622bb3ab278d053e3d5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/backnotprop",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "582b868d4459",
+   "canon": "https://www.reddit.com/comments/1wxuz9t",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1wxuz9t/took_opus_55_two_days/",
+   "addedAt": "2026-10-05T05:48:03.952Z",
+   "title": "Took Opus 5.5 Two Days",
+   "text": "Got open source decision model to play through day 3 on papers please. Full disclosure I yelled at claude to make the model too.\n repo: https://github.com/daseinlabs/tod_papers\n model: https://huggingface.co/parsecai/tod",
+   "author": "Popular_Sand2773",
+   "publishedAt": "2026-10-05T00:31:13+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cDdieWcyZnNranRoMQrdk_ZwAu7A_5K2sjyTy_7B4JUJA9Wu8NnCIn6CF0fb.png?width=640&crop=smart&auto=webp&s=e43a04e5763d387328cfee11c62fb86505ce6a87"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Popular_Sand2773",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-05T05:48:03.952Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
   {
    "id": "cecfad030e4f",
    "canon": "https://www.reddit.com/comments/1wxu8zi",
