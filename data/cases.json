@@ -1,7 +1,823 @@
 {
  "version": 1,
- "updatedAt": "2026-10-09T01:18:30.007Z",
+ "updatedAt": "2026-10-09T10:40:16.082Z",
  "cases": [
+  {
+   "id": "d29a32309de0",
+   "canon": "https://www.reddit.com/comments/1x1hyaz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1hyaz/in_the_last_18_years_i_tried_multiple_times_doing/",
+   "addedAt": "2026-10-09T10:40:16.054Z",
+   "title": "In the last 18 years, I tried multiple times doing my dream app. Did it in 14 days with Claude.",
+   "text": "I always wanted to do my own karaoke application. But not any application, I wanted something like commercial home units, with curated song packages, easy to use and full-featured printed and app-based catalog, something any person could use without fussing direct with files…",
+   "author": "hitnrun51",
+   "publishedAt": "2026-10-09T10:35:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/tbjg2lpa6fuh1.png?width=640&crop=smart&auto=webp&s=bfd491ed8201f6f97e27604e359ad94fd33c4f2e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/hitnrun51",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-09T10:40:16.054Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8ba82379cd27",
+   "canon": "https://www.reddit.com/comments/1x1hxhd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x1hxhd/meta_brings_immersive_college_football_to_quest/",
+   "addedAt": "2026-10-09T10:40:16.054Z",
+   "title": "Meta Brings Immersive College Football to Quest, Promises 100+ Live Sporting Events Next Year",
+   "text": "",
+   "author": "Miserable_Jelly721",
+   "publishedAt": "2026-10-09T10:34:28+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/3oNaamEfkMOfQwk9BPcG8eY27uNGdy-99bBkiiBnDJw.jpeg?width=640&crop=smart&auto=webp&s=99422612af4a8491ab9fa80febb3c54735362085"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Miserable_Jelly721",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-09T10:40:16.054Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b638d461c81d",
+   "canon": "https://www.reddit.com/comments/1x1htuv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1htuv/ill_take_things_that_age_poorly_for_1000/",
+   "addedAt": "2026-10-09T10:40:16.054Z",
+   "title": "I'll take things that age poorly for $1,000",
+   "text": "https://preview.redd.it/jy1g5lq93fuh1.png?width=1256&format=png&auto=webp&s=67834f3d60bb16eef1eae71fa273d2eb96b47b47\n A few months ago in this sub I said that eventually Adobe products would be vibe coded. All the replies were \"nOT goNA HaPPen!\" \n To see the that it actually…",
+   "author": "hereditydrift",
+   "publishedAt": "2026-10-09T10:28:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/jy1g5lq93fuh1.png?width=140&height=28&auto=webp&s=47c88254faab4cd96be307edb029b8d0a51ec83a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/hereditydrift",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-09T10:40:16.054Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "13b2200c4fd1",
+   "canon": "https://www.reddit.com/comments/1x1hrzq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1hrzq/shakespeare_fun_typing_stats_for_your_mac_menu_bar/",
+   "addedAt": "2026-10-09T10:40:16.054Z",
+   "title": "Shakespeare: fun typing stats for your Mac menu bar",
+   "text": "What I built\n Shakespeare is a macOS menu bar app that counts how much you type and turns it into fun stats. I built it with Claude Code. It's free and open source (MIT), and it works fully offline.\n What it does\n Shows keys today and over 14 days, a streak for days with 50+…",
+   "author": "whitew0lf",
+   "publishedAt": "2026-10-09T10:25:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ytgg69ar4fuh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=23cbf1b4d2326ad253e174c97006d5efb0812a5b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/whitew0lf",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-09T10:40:16.054Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9276857f9be7",
+   "canon": "https://www.reddit.com/comments/1x1hk10",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x1hk10/building_an_age_of_sail_game_with_ai_just_got_my/",
+   "addedAt": "2026-10-09T10:40:16.054Z",
+   "title": "Building an Age of Sail game with AI. Just got my clipper fleet sailing through a storm!",
+   "text": "I'm a solo developer working on an Age of Sail trading and exploration game, inspired by Uncharted Waters Online.\n I've been building it in Godot 4 with a lot of help from claude and codex.\n Recently, I've been working on the ocean simulation, stormy weather, and fleet sailing…",
+   "author": "Novel_Cucumber_1588",
+   "publishedAt": "2026-10-09T10:12:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NzZmMWl0bXcxZnVoMRdqAj8bPkWVuux1-so7tApgZ0k3-GilBpCCDz3nvu6H.png?width=640&crop=smart&auto=webp&s=d874412559d2410332fc67b2526113fec8149a6e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Novel_Cucumber_1588",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-09T10:40:16.054Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e0c78fc39d20",
+   "canon": "https://www.reddit.com/comments/1x1hih4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/singularity/comments/1x1hih4/ai_can_now_turn_a_text_description_into_a_working/",
+   "addedAt": "2026-10-09T10:40:16.054Z",
+   "title": "AI can now turn a text description into a working 3D game object entirely through code, a new 100-object test finds Astra is the most reliable, while people think Opus 5.5’s creations look better",
+   "text": "",
+   "author": "141_1337",
+   "publishedAt": "2026-10-09T10:09:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MGRoeGdmY3oxZnVoMcHBWu8E7K45CSsm7WIaVm0T3ZmKhyhNE4hi4JoHT_rA.png?width=640&crop=smart&auto=webp&s=a4f7a9a4f59ecd96f8296893e8bb3263b179c22c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/141_1337",
+   "where": "r/singularity",
+   "fetchedAt": "2026-10-09T10:40:16.054Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "7ca3cad2dfc8",
+   "canon": "https://www.reddit.com/comments/1x1hdjt",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x1hdjt/claude_code_freed_156_gb_from_my_local_disk_c/",
+   "addedAt": "2026-10-09T10:40:16.054Z",
+   "title": "Claude code freed 156 GB from my Local Disk C",
+   "text": "I know it's a dumb idea, but I still let Claude Code look up my local disk C because it was barely breathing and my computer was slow as hell. Literally, all of the storage was occupied, and there was hardly any space for the system to run. My PC was so slow, and it freed 170…",
+   "author": "Himanshu811",
+   "publishedAt": "2026-10-09T10:01:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/37cuzbf50fuh1.png?width=320&crop=smart&auto=webp&s=635a8a8526504601025b4474e61beb1ebf7fb86e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Himanshu811",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-09T10:40:16.054Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "59782d12ce25",
+   "canon": "https://www.reddit.com/comments/1x1hc9m",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/threejs/comments/1x1hc9m/our_nonprofit_built_a_digital_leonardo_da_vinci/",
+   "addedAt": "2026-10-09T10:40:16.054Z",
+   "title": "Our nonprofit built a digital Leonardo da Vinci museum in three.js. You walk it as a film recorded from the live scenes.",
+   "text": "This week our Museum of Ages opened its first wing. It's a digital museum we run from Germany, and this wing is Leonardo da Vinci's. It's built on three.js, and Claude wrote most of the code.\n Our mission is one sentence long: We rebuild what was, one place at a time, and make…",
+   "author": "AgoraCosmica",
+   "publishedAt": "2026-10-09T10:00:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZTRranFmYTUwZnVoMamRg6V3h5uhxz4TrnqVI6-nfH4ntp6JPidiy3QIdPB8.png?width=640&crop=smart&auto=webp&s=3ab4a02cb69a2a143a29ee2d2a9cf082fd553cad"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AgoraCosmica",
+   "where": "r/threejs",
+   "fetchedAt": "2026-10-09T10:40:16.054Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "95d6d544b179",
+   "canon": "https://www.reddit.com/comments/1x1h53t",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1h53t/our_nonprofit_built_a_digital_leonardo_da_vinci/",
+   "addedAt": "2026-10-09T10:40:16.054Z",
+   "title": "Our nonprofit built a digital Leonardo da Vinci museum. Claude wrote most of the code.",
+   "text": "This week our Museum of Ages opened its first wing. It's a digital museum we run from Germany, and this wing is Leonardo da Vinci's.\n Our mission is one sentence long: We rebuild what was, one place at a time, and make it as accessible as we can, so that everyone can learn from…",
+   "author": "AgoraCosmica",
+   "publishedAt": "2026-10-09T09:47:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MHN2MHhxdWF4ZXVoMamRg6V3h5uhxz4TrnqVI6-nfH4ntp6JPidiy3QIdPB8.png?width=640&crop=smart&auto=webp&s=b4177a22a44ce7ac815905a3343381097b7b1534"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AgoraCosmica",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-09T10:40:16.054Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bb8d88ed41ed",
+   "canon": "https://www.reddit.com/comments/1x1h525",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x1h525/claude_code_now_has_a_tiny_pixel_mascot_that/",
+   "addedAt": "2026-10-09T10:40:16.054Z",
+   "title": "Claude Code now has a tiny pixel mascot that celebrates when your job is done",
+   "text": "I love Claude Code, but watching it work felt like reading a wall of tool calls I couldn't follow. So I built Clawd View, a free, open-source plugin that shows what Claude is doing in plain English.\n What it does:\n A live checklist above your prompt with progress bars Tells you…",
+   "author": "Affectionate-Put8874",
+   "publishedAt": "2026-10-09T09:47:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/b2t1cmpyd2d4ZXVoMXdfBiozoG-xpPZL2vBRsKdIKcbR6kZnMNlgt6LP9vdU.png?width=640&crop=smart&auto=webp&s=e9183e6444ae2303f0c3270e16bbc421cb1a28a3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Affectionate-Put8874",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-09T10:40:16.054Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2f0acc8d4245",
+   "canon": "https://www.reddit.com/comments/1x1h38g",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1x1h38g/i_kept_meaning_to_research_my_candidates_and/",
+   "addedAt": "2026-10-09T10:40:16.054Z",
+   "title": "I kept meaning to research my candidates and never did, so I built a free tool with Claude Code instead",
+   "text": "not sure about you guys, but the midterms have crept up on me.\n I'm an independent. Every election I mean to look at each candidate, not just the party, and every election I run out of time and vote the way I already lean.\n I wouldn't have considered building this last election.…",
+   "author": "recmend",
+   "publishedAt": "2026-10-09T09:44:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YjJzYzhoeGprZXVoMfycPqQSaFjV4FkpF8t7AeMCZYvRaJcEkmPHhwTAtX-m.png?width=640&crop=smart&auto=webp&s=cdf8ede44504c9408a97cd575f9e14c77c4e70fc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/recmend",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-09T10:40:16.054Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b54c5428f28d",
+   "canon": "https://www.reddit.com/comments/1x1h2a6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1h2a6/claude_just_pulled_my_approved_startup_grant_offer/",
+   "addedAt": "2026-10-09T10:40:16.054Z",
+   "title": "Claude just pulled my approved startup grant offer🚨",
+   "text": "I was approved for Anthropic’s Claude for Startups program, but now they’ve removed the offer from my account and are re-reviewing applications due to overwhelming demand.\n Even previously approved startups may not receive the $1,000 API credits.\n Anyone else affected by this?…",
+   "author": "Substantial-Fig1846",
+   "publishedAt": "2026-10-09T09:42:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/vxpejog4xeuh1.jpeg?width=640&crop=smart&auto=webp&s=11db02744f1ebff80cef5ef1862246ab445563b4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Substantial-Fig1846",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-09T10:40:16.054Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "40e5a288aa3e",
+   "canon": "https://www.reddit.com/comments/1x1gz16",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1gz16/sonnet_55_gpt_6_instant/",
+   "addedAt": "2026-10-09T10:40:16.054Z",
+   "title": "Sonnet 5.5 - GPT 6 instant",
+   "text": "Which one would you favor for general Chat ?",
+   "author": "Present_Resource4022",
+   "publishedAt": "2026-10-09T09:36:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ll7m2c43weuh1.jpeg?width=640&crop=smart&auto=webp&s=df4ba9289dba0a592262cebb74324d3ae22ed18d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Present_Resource4022",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-09T10:40:16.054Z",
+   "lang": "en",
+   "model": "Sonnet 5.5"
+  },
+  {
+   "id": "647b57d0bcc4",
+   "canon": "https://www.reddit.com/comments/1x1gx0o",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1gx0o/claude_is_more_puzzled_than_i_am/",
+   "addedAt": "2026-10-09T10:40:16.054Z",
+   "title": "Claude is more puzzled than I am...",
+   "text": "",
+   "author": "Senior-Obligation54",
+   "publishedAt": "2026-10-09T09:33:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/80if1kvgveuh1.png?width=640&crop=smart&auto=webp&s=2c8734a8ef8aa86281e0282269d39ef061fce8b7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Senior-Obligation54",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-09T10:40:16.054Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d95c7f1daa0a",
+   "canon": "https://www.reddit.com/comments/1x1gvht",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x1gvht/after_math_claude_looks_set_to_conquer_music_next/",
+   "addedAt": "2026-10-09T10:40:16.054Z",
+   "title": "After math, Claude looks set to conquer music next.",
+   "text": "Saw someone made music by AI, and gave it try myself with Claude Code Opus 5.5, I thought it won't work as I don't have any music tools ready in my environment, but it worked, it was really impressive to me. \n Math, Programming, Writing and now the Music. \n I have a hypothesis:…",
+   "author": "nankezhishi",
+   "publishedAt": "2026-10-09T09:30:34+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bjJydTE2aDRtZXVoMYDpsafg-uoo_9DHLXBK23VwJ4yHc_SYR00CEEToMTsR.png?width=640&crop=smart&auto=webp&s=3c4a7e3f185d43272fb393f18b15f5e3b3d02a3a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/nankezhishi",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-09T10:40:16.054Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "4057f8242d79",
+   "canon": "https://www.reddit.com/comments/1x1fwma",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x1fwma/playing_beat_saber_on_the_vision_pro/",
+   "addedAt": "2026-10-09T10:40:16.054Z",
+   "title": "Playing Beat Saber on the Vision Pro",
+   "text": "Installed via AVP play app and assistance from Claude code to get it running.\n Tracking is definitely a bit floaty compared to the Quest 3 using the PS VR2 controllers, but I was able to get through a whole level on hard mode.\n For most songs, I would consider expert mode and…",
+   "author": "Time_Opportunity_225",
+   "publishedAt": "2026-10-09T08:28:28+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M3o5Z2Zydm5qZXVoMVl8IyfihYY2WG3HPxmFD5kp-5eLG91xV2slhZaFRq0P.jpeg?width=640&crop=smart&auto=webp&s=eb82c7b633cd6fa47180b94b84a92c4311df75ca"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Time_Opportunity_225",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-09T10:40:16.054Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a5b6378ec156",
+   "canon": "https://www.reddit.com/comments/1x1eprb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x1eprb/now_i_can_write_my_api_key_in_claude_code_without/",
+   "addedAt": "2026-10-09T10:40:16.054Z",
+   "title": "Now I can write my api key in Claude Code without let Claude know it.",
+   "text": "I got tired of Claude tells me you copy paste your own api key into env file, I have to open IDE and copy paste. Now I built a tool which can be a gate of sensitive data.\n So I built Hermie, a small local proxy that sits between Claude Code and the API. Before a request leaves…",
+   "author": "Otherwise_Ship_9782",
+   "publishedAt": "2026-10-09T07:11:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/8pgo7a6u4euh1.gif?width=640&crop=smart&s=d0382537e96cd8fb5d63599aabc295b6a2910382"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Otherwise_Ship_9782",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-09T10:40:16.054Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "82460eae91b9",
+   "canon": "https://www.reddit.com/comments/1x1ekpl",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1ekpl/i_had_claude_build_a_browser_extension_that_drops/",
+   "addedAt": "2026-10-09T10:40:16.054Z",
+   "title": "I had Claude build a browser extension that drops a spider, octopus or slime onto any web page. It hunts the links you ask for and wraps the rest in silk, ink or goo (free, open source)",
+   "text": "Claude wrote all the code: plain Manifest V3, no build step. Then it loaded the extension into a real Chromium with Playwright and measured it.\n - The planted feet and tentacle tips drift 0 px while walking.\n - Jev grabbed 6/6 spider links and wrapped 2/2 decoys on the test…",
+   "author": "Hanaoverflow",
+   "publishedAt": "2026-10-09T07:02:16+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dnR2NWh3OGg0ZXVoMRkD9J3i3cyf-msbel0gagb5h0rxsJ_5qROyDWPmS4A3.png?width=640&crop=smart&auto=webp&s=e9664e39348e763aa444f09fc359d1a1a89fa7ae"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Hanaoverflow",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-09T10:40:16.054Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "429a7442bfa3",
+   "canon": "https://www.reddit.com/comments/1x1eiuh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1eiuh/claude_startups_redeem/",
+   "addedAt": "2026-10-09T10:40:16.054Z",
+   "title": "Claude Startups Redeem",
+   "text": "New update from Claude \n Claude Startups has received hundreds of thousands of applications in the past few days, and we’ve paused the Claude Team and $1,000 API credit offer. If you’ve already claimed the Claude offers, they’ll remain in your account. Everything else is being…",
+   "author": "West-Future1316",
+   "publishedAt": "2026-10-09T06:59:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/qu2mcucv3euh1.png?width=140&height=59&auto=webp&s=e22138f7d1ceb2e2757bb6a38001489844211e11"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/West-Future1316",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-09T10:40:16.054Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "eaaefc971704",
+   "canon": "https://www.reddit.com/comments/1x1eiaz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x1eiaz/cannout_use_cloud_credits_for_some_reason_claude/",
+   "addedAt": "2026-10-09T10:40:16.054Z",
+   "title": "Cannout use cloud credits for some reason - Claude in the cloud VM tries to draw on subscription ahead of cloud credits.",
+   "text": "I can't work out what I'm doing wrong trying to use the ClaudCode-CLOUD credits I was given. I've $200 left. Right now on subscription I'm out of credits waiting for the weekly reset. It's an ideal time to show the core problem in a screenshot. I've otherwise been using…",
+   "author": "paul_h",
+   "publishedAt": "2026-10-09T06:58:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/895mrsbe3euh1.png?width=640&crop=smart&auto=webp&s=ab2a9f12d8592b22df841bc8310d04d26fee07d1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/paul_h",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-09T10:40:16.054Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "89fe7bf3a5f2",
+   "canon": "https://www.reddit.com/comments/1x1ebit",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vrdev/comments/1x1ebit/i_spent_the_last_few_days_building_a_realtime/",
+   "addedAt": "2026-10-09T10:40:16.054Z",
+   "title": "I spent the last few days building a real-time conversational 3D avatar in Three.js and WebGL from the behavior layer up.",
+   "text": "Can we make a 3D AI avatar feel less like a robot and more like a real person? 👀\n That’s what I’m exploring by building a conversational avatar with Three.js, React Three Fiber, and Gemini Live.\n I’m working on making lip-sync, eye movement, head motion, and gestures feel more…",
+   "author": "Defiant_Company_6015",
+   "publishedAt": "2026-10-09T06:46:25+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "ai",
+    "three",
+    "threejs",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Defiant_Company_6015",
+   "where": "r/vrdev",
+   "fetchedAt": "2026-10-09T10:40:16.054Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "78fa78feea7e",
+   "canon": "https://www.reddit.com/comments/1x1d69f",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x1d69f/vr_mod_for_void_bastards_anyone_keen_to_try_pcvr/",
+   "addedAt": "2026-10-09T10:40:16.054Z",
+   "title": "VR mod for Void Bastards. Anyone keen to try? [PCVR, WIP]",
+   "text": "Having a lot of fun with this game.\n Wanting to see if there's interest before I polish it up for release.\n Only tricky thing is the original game has hand-drawn flat pictures of your hand holding the gun drawn from FP perspective. So, at this stage, you rely on a laser…",
+   "author": "AdGroundbreaking6402",
+   "publishedAt": "2026-10-09T05:36:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/5OAvqqqtrcaDFw8HsxBwKN4tiWgMfYXiANIh42ChsmU.jpeg?width=320&crop=smart&auto=webp&s=c9bda128e5bc38c1d70a39e97e26f2915b8563bc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AdGroundbreaking6402",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-09T10:40:16.054Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "90bdf77c88d0",
+   "canon": "https://www.reddit.com/comments/1x1ahps",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x1ahps/no_mans_sky_foveated_rendering_update_is_out_i/",
+   "addedAt": "2026-10-09T10:40:16.054Z",
+   "title": "No Man's Sky Foveated Rendering update is out! I tested it to compare differences",
+   "text": "The latest experimental branch version of No Man's Sky VR enables Foveation! You can find the update notes here: https://steamcommunity.com/app/275850...\n To use this, you will need to be on the experimental branch (10/08)\n Test 1: Quest 3, Fixed Foveation (Virtual Desktop,…",
+   "author": "lunchanddinner",
+   "publishedAt": "2026-10-09T03:07:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eXVsOXNocDl5Y3VoMe6bQUjj4C8EYMV-Rmq-qb3EzwgIOn96NMaNXgknb-0J.png?width=640&crop=smart&auto=webp&s=d37c461e7cb34558464e28c1e620ba1382ced075"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/lunchanddinner",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-09T10:40:16.054Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e3bd846515f5",
+   "canon": "https://www.reddit.com/comments/1x1ad32",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1x1ad32/a_month_of_using_display_glasses_as_a/",
+   "addedAt": "2026-10-09T10:40:16.054Z",
+   "title": "A month of using display glasses as a teleprompter at work",
+   "text": "Running two or three sessions a week, 45 to 75 minutes each. For years that was either a tablet on a mini stand off to the side or printed cue cards I would thumb through, and losing eye contact to the stand was starting to show in feedback.\n Monochrome green display sits in the…",
+   "author": "JasonReed1",
+   "publishedAt": "2026-10-09T03:00:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/x8drnb0dxcuh1.jpeg?width=640&crop=smart&auto=webp&s=9a535ae8167e679472b026d9d84ee716f2374d5a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/JasonReed1",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-09T10:40:16.054Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3d249b116c9c",
+   "canon": "https://www.reddit.com/comments/1x19zkg",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x19zkg/i_spent_years_making_a_historically_grounded_vr/",
+   "addedAt": "2026-10-09T10:40:16.054Z",
+   "title": "I spent years making a historically grounded VR jousting game set in 15th-century Salzburg",
+   "text": "After years of working on it, I finally released my historically inspired VR jousting game, The Lists VR.\n The idea started after a backpacking trip through Europe where I spent time in Salzburg and visited Fortress Hohensalzburg. I also loved A Knight’s Tale growing up, which…",
+   "author": "ScriptOceanGames",
+   "publishedAt": "2026-10-09T02:41:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/amgzNjN1Zmp0Y3VoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=0615559533e7bc8c10ba7a32bbeef41896bd7e56"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ScriptOceanGames",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-09T10:40:16.054Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "317fc2bcfdeb",
    "canon": "https://www.reddit.com/comments/1x187yv",
