@@ -1,8 +1,918 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-10-09T18:27:22.423Z",
+ "updatedAt": "2026-10-10T00:57:36.998Z",
  "cases": [
+  {
+   "id": "3b5b5d47afea",
+   "canon": "https://www.reddit.com/comments/1x21svm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x21svm/project_sentinel_got_a_huge_update_queues/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "Project Sentinel got a huge update: queues, watchers, agent control, cache protection, handoffs + more",
+   "text": "I posted an early version of Project Sentinel here a couple of days ago, and since then I’ve added a pretty big set of features, so I wanted to share the current version + a new video showing the whole thing properly.\n Project Sentinel is an open-source Claude Code Mod built for…",
+   "author": "Arjun0014",
+   "publishedAt": "2026-10-10T00:43:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MWowdTh0dzNkanVoMQclFKns2cwQ3IdLaZlFTE_Mfxc6e5TdIFAzad4QHOxO.png?width=640&crop=smart&auto=webp&s=aaad141293fd0c68a0f750962aa4b94f9b36b93e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Arjun0014",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "17f2402f4394",
+   "canon": "https://www.reddit.com/comments/1x21kxh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x21kxh/i_found_56_of_my_claude_usage_was_rereading_my/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "I found 56% of my Claude usage was re-reading my own context, so I built a tool to catch it",
+   "text": "￼I built optimAIzr, an open-source AI usage optimizer for Claude Code + Codex.\n I work as a senior SWE so I got curious where my Claude usage was actually going. In my own logs, 56% of the cost was Claude re-reading my existing conversation (which I shared 3 nights ago). Coming…",
+   "author": "stichstichstich",
+   "publishedAt": "2026-10-10T00:32:48+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cnBpNGN0bnZianVoMWhCDIRFNLNMajFnQpXnju5QaQXRAyZ7_SfG37qtzJSz.png?width=640&crop=smart&auto=webp&s=dd84e7690dd025c0195f50d964f1e38b0200a97d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/stichstichstich",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ed39fb423a5f",
+   "canon": "https://www.reddit.com/comments/1x215rs",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x215rs/made_my_first_claude_mod/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "made my first claude mod",
+   "text": "great new-ish feature of claude code - made my own progress tracker for bigger jobs - auto updates as the job progresses thru phases — there is also actual tracking too",
+   "author": "Escobar747",
+   "publishedAt": "2026-10-10T00:12:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/pzh073698juh1.jpeg?width=640&crop=smart&auto=webp&s=8970f89e12c8e3e83f76ce933a600640e92b0aa2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Escobar747",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8928314a434a",
+   "canon": "https://www.reddit.com/comments/1x20wbh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1x20wbh/rokid_teases_full_color_smart_glasses_announcement/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "ROKID teases FULL COLOR SMART GLASSES announcement",
+   "text": "",
+   "author": "xrosspost",
+   "publishedAt": "2026-10-10T00:00:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/pa7lq250mguh1.png?width=640&crop=smart&auto=webp&s=565a1016ecbb9c79a5a8b95033505b9c5eb0c746"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/xrosspost",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8de820051200",
+   "canon": "https://www.reddit.com/comments/1x20t4h",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x20t4h/claude_created_my_dream_game_and_got_approved_for/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "Claude created my dream game, and got approved for Apple iOS store!",
+   "text": "",
+   "author": "Caninetechnology",
+   "publishedAt": "2026-10-09T23:56:43+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Caninetechnology",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "48cffaa0a600",
+   "canon": "https://www.reddit.com/comments/1x20ljc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x20ljc/i_know_how_expensive_are_gpus_right_now_so_heres/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "I know how expensive are GPU's right now so here's one free, made by Opus 5.5",
+   "text": "Everything was build by opus 5.5 at xhigh using my blender skills.",
+   "author": "LostRequirement4828",
+   "publishedAt": "2026-10-09T23:46:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/yxgfxnz63juh1.png?width=140&height=78&auto=webp&s=93003fe73710d4bc6ad682920b9489434ec2ecdf"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/LostRequirement4828",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "3ba99bc7bd67",
+   "canon": "https://www.reddit.com/comments/1x20knu",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x20knu/i_made_an_avp_game_shoot_down_paint_troopers/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "I made an AVP game: shoot down paint troopers before they cover your walls",
+   "text": "Hi all! I've been building Splash Fall, a mixed reality arcade game. Paint troopers parachute through hatches that burst open in your real ceiling. Look at one and pinch to shoot it. Miss, and the paint lands on your walls.\n I have included a few codes. If you have…",
+   "author": "chiptang211",
+   "publishedAt": "2026-10-09T23:45:10+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NW81dGM1NDczanVoMdcBDy8EzqDbSuaeb7euotdx6x7WidnqUPz7aqQLSToQ.png?width=640&crop=smart&auto=webp&s=e57a40b6de06a00bb4767f418003f90b7f347afb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/chiptang211",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bf6edb39dd8b",
+   "canon": "https://www.reddit.com/comments/1x1zq4o",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x1zq4o/built_a_menu_bar_app_so_i_stop_getting_surprised/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "Built a menu bar app so I stop getting surprised by session limits",
+   "text": "Every time I got deep into a Claude Code session I'd hit the limit out of nowhere. So I made Tokenbar, a small native macOS menu bar app that shows your session and weekly usage, when each one resets, and how many tokens you've burned today. It pings you at 90% so you can wrap…",
+   "author": "Affectionate-Leg8114",
+   "publishedAt": "2026-10-09T23:05:02+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Affectionate-Leg8114",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8dee028998fe",
+   "canon": "https://www.reddit.com/comments/1x1z99j",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x1z99j/a_filipino_street_food_inspired_bbq_cooking_game/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "a Filipino street food inspired bbq cooking game",
+   "text": "Hello guys!\n Just wanted to share a work in progress of a game i’ve been working on for the past 3 months\n Right now it’s browser based and fully built with Claude and Gemini for the pixel-art\n Mechanics of the game is to cook filipino bbq by fanning the grill through swiping…",
+   "author": "zehehed",
+   "publishedAt": "2026-10-09T22:43:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Yjh5aHphZWZzaXVoMX40rHS4Po7injKgO6iK86U6DQe5cZjkvSnO1GM7fSTZ.jpeg?width=640&crop=smart&auto=webp&s=6db500dc905bc79f4b0137177b98e33fd1860026"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/zehehed",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4694513a8ca0",
+   "canon": "https://www.reddit.com/comments/1x1z7rn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x1z7rn/built_a_wordle_plugin_for_claude_code/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "Built a wordle plugin for Claude Code",
+   "text": "Ever felt like you don't know what to do when Claude's doing the work?\n I didn't enjoy how often I was just endlessly doom scrolling so I built a wordle plugin within claude code for you to play in between coding sessions.\n Give it a shot and let me know what you think!\n Install…",
+   "author": "MetallicSubZer0",
+   "publishedAt": "2026-10-09T22:41:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/whm1oz23siuh1.png?width=140&height=117&auto=webp&s=475bb12cb9b7fc5d9f6af7caa895fac4d95ef085"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MetallicSubZer0",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "378d2703d448",
+   "canon": "https://www.reddit.com/comments/1x1z70y",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x1z70y/a_claude_code_session_asked_for_bash_permission/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "A Claude Code session asked for Bash permission at minute three. I noticed at minute forty. So I built a session tree for VS Code and Cursor",
+   "text": "I usually have five or six Claude Code sessions open: two in editor tabs, a few in tmux, one over SSH on a build box. Once a session asked \"can I run this Bash command?\" three minutes in, and I found it forty minutes later by paging through terminals. Nothing had broken. It was…",
+   "author": "sociosim",
+   "publishedAt": "2026-10-09T22:40:49+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/sociosim",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f8dd9caa2032",
+   "canon": "https://www.reddit.com/comments/1x1z1cz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x1z1cz/remnants_a_ghost_story_in_apple_immersive_video/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "Remnants, a ghost story in Apple Immersive Video",
+   "text": "Remnants, a 27-minute ghost story directed by Ti West, is coming to Apple Immersive Video next Friday (Oct. 16).",
+   "author": "RandomVision2027",
+   "publishedAt": "2026-10-09T22:33:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/3qe62vulqiuh1.jpeg?width=640&crop=smart&auto=webp&s=d4dbcd37c75444f87e65607f74194e5e023a14f8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RandomVision2027",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "01bd8dc45fb5",
+   "canon": "https://www.reddit.com/comments/1x1yzie",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1yzie/every_ai_video_tool_butchered_my_product_claude/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "Every AI video tool butchered my product. Claude nailed it in one shot",
+   "text": "I needed a product video for a device I'm working on. Since it's a new product, every AI video tool I tried messed it up. They kept turning it into some generic phone, changing the buttons and the shape, and the details were all over the place. Super frustrating.\n So I tried a…",
+   "author": "shery97",
+   "publishedAt": "2026-10-09T22:31:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aHZsbm95ajdxaXVoMdNSWqXKj6sYYCsK9GBgjf7RmHezckNh2j_6XNxKlo-q.jpeg?width=320&crop=smart&auto=webp&s=fc3bb3dcdd91bd04ea2ab205944e72dc68ed9a25"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/shery97",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1dfed0c80030",
+   "canon": "https://www.reddit.com/comments/1x1yvwb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x1yvwb/vboy_color_a_free_virtual_boy_emulator_for_quest/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "VBoy Color: a free Virtual Boy emulator for Quest and PC, now in color!",
+   "text": "Hey everyone,\n I created a Virtual Boy emulator for Quest and PC with Claude. It plays the games in color instead of red on black, while keeping the real stereoscopic 3D. It's called VBoy Color.\n What it does:\n Color packs for 15 games, built in: Wario Land, Mario's Tennis,…",
+   "author": "Existing_Whole640",
+   "publishedAt": "2026-10-09T22:26:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OHNvaTdxOG5uaXVoMaN2KX1carMHq7VDTTMh9raRfxOuiGIw_S-RtTzO0IyS.png?width=640&crop=smart&auto=webp&s=1fab2c5df1e3f7e19cf832689aa02c3bcf2896f5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Existing_Whole640",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "04060b8aa099",
+   "canon": "https://www.reddit.com/comments/1x1yshx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x1yshx/orgtree_v4_rust_hubchat_and_mac_linux_builds/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "Orgtree v4: Rust, Hubchat, and Mac + Linux Builds",
+   "text": "Welcome back! I'm pleased to announce the release of v4 of Orgtree, my free and open source desktop agentic orchestrator app. Download the latest release here:\n https://github.com/Maurdekye/orgtree/releases/latest\n For those unfamiliar with Orgtree, this is my agentic…",
+   "author": "DynaBeast",
+   "publishedAt": "2026-10-09T22:22:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/y3sj8irvkiuh1.png?width=140&height=76&auto=webp&s=2a73aae54b48fb7eadb76350add12824e750846c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/DynaBeast",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "87e2123602aa",
+   "canon": "https://www.reddit.com/comments/1x1yrzy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x1yrzy/my_claude_strategy_for_building_a_vertical_slice/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "My Claude strategy for building a vertical slice instead of one-shotting a whole game (template + full prompt)",
+   "text": "Slight PSA - showing off one-shotting games is somewhat impressive, but also makes AI game dev look sloppy and unimaginative. The anti-AI crowd don't need more ammunition. \n Asking Claude to “make me a Zelda game” works, technically. You get a game, but it’s going to be a VERY…",
+   "author": "Comet7777",
+   "publishedAt": "2026-10-09T22:21:49+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Comet7777",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "798760b63f61",
+   "canon": "https://www.reddit.com/comments/1x1yg65",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x1yg65/orbusvr_reborn_and_orbusvr_classic_community/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "OrbusVR: Reborn and OrbusVR: Classic Community Editions",
+   "text": "",
+   "author": "StarCenturion",
+   "publishedAt": "2026-10-09T22:07:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/pcpnKuAFjh7eOigHAvcfnNxac8o5479-eyqUGboHBkg.png?width=640&crop=smart&auto=webp&s=ee06f640fefdac4e5026764d72ee03b4d940038e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/StarCenturion",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b8ff28ed5fcb",
+   "canon": "https://www.reddit.com/comments/1x1ydfl",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x1ydfl/spirula_blender_53_pretentious_arty_test_i_made/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "Spirula + Blender 5.3 pretentious arty test I made",
+   "text": "I have been experimenting with Spirula. I like it - a lot! Using the geometry models to calculate normals and depth help a great deal with capturing interiors.\n Combine THAT with the latest alpha build of Blender 5.3 that can render splats, and things suddenly become very…",
+   "author": "SnipperAndClipper",
+   "publishedAt": "2026-10-09T22:04:00+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ajhvZnRzeThsaXVoMcRYJA9cI_O9pprk-dXbZ7VMmrkZcCV_NPdOSwRpJfh1.png?width=320&crop=smart&auto=webp&s=9e73c84dc4391f45cbbce681f3b3073838522f87"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SnipperAndClipper",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2b9786abb8f5",
+   "canon": "https://www.reddit.com/comments/1x1ybiq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x1ybiq/claude_making_mods/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "Claude making mods",
+   "text": "So I am having Claude make mods, but god damn it is struggling way more then it should. I don't know if it is just me but I asked it make the buttons bigger and it said it couldn't. Also things like struggling to get the minimization functionality working correctly, or changing…",
+   "author": "King-Dino",
+   "publishedAt": "2026-10-09T22:01:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/hk8rsuljjiuh1.png?width=140&height=19&auto=webp&s=b6eaa2b4a786b024963d99d16a1ea4a543759c41"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/King-Dino",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3d3ae05028d3",
+   "canon": "https://www.reddit.com/comments/1x1xrom",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1xrom/i_built_a_little_neural_network_clicker_game_with/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "I built a little neural network clicker game with Claude while on the train",
+   "text": "I was on the train and had this random idea for a mobile game where you could just mindlessly tap away during your commute, but actually learn something about neural networks in the process. Something simple enough to play with one hand, where the gameplay helps you get a feel…",
+   "author": "standardofiron",
+   "publishedAt": "2026-10-09T21:37:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eDYwd2lpZm9naXVoMUiECTSsyPyiiH6Cotk4MWjaJ8fyhuUkBbI6C2scKgdD.png?width=640&crop=smart&auto=webp&s=3b01331523d3d1aab794dcfc58aa3cdee96ab19e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/standardofiron",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4fbb8f5b7af3",
+   "canon": "https://www.reddit.com/comments/1x1xr7c",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x1xr7c/coming_soon_anthropics_windows_app_bundles/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "COMING SOON: Anthropic's Windows app bundles per-folder worktree controls for Claude Code",
+   "text": "",
+   "author": "ryanmerket",
+   "publishedAt": "2026-10-09T21:37:20+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dJjwCnhKDlk0WT73QlYx3MvBiDmEBIHGw1_qB2UtkDM.jpeg?width=640&crop=smart&auto=webp&s=05372204877eec322a5ddf7016e6a9d86f8c2501"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ryanmerket",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7161b6ef53c7",
+   "canon": "https://www.reddit.com/comments/1x1xo2a",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/threejs/comments/1x1xo2a/i_built_a_shared_lowpoly_zoo_in_threejs_every/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "I built a shared low-poly zoo in three.js: every visitor sees the same animals doing the same thing, with no simulation server",
+   "text": "Hi r/threejs! I’ve been working on this side project for a while: zooki.world, a low-poly zoo you walk around in the browser. Other visitors walk around next to you, and everyone sees the same monkey doing the same backflip at the same moment.\n About AI, up front: this is a mix.…",
+   "author": "One_Turnover9394",
+   "publishedAt": "2026-10-09T21:33:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/emR6Y2Z1eXlmaXVoMR7jWiFkbWlZLD2vn77QMlVt6WRU7jlNsO3-Lu3F6yxX.png?width=640&crop=smart&auto=webp&s=7a32af27747b4c1ac398d8930d904ca94708cdb9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/One_Turnover9394",
+   "where": "r/threejs",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "052f992dc2e9",
+   "canon": "https://www.reddit.com/comments/1x1xmwr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1x1xmwr/astrotour_spatial_observatory_for_apple_vision/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "AstrotouR: Spatial observatory for Apple Vision Pro and iOS is finally live!",
+   "text": "Hi everyone! I am Kate, a co-creator of AstrotouR! \n I wanted to share with you very happy news for us. Today, after 7 years of work by just three people we finally can say that AstrotouR is released and ready to be downloaded!\n Endless brainstorming sessions on how to make the…",
+   "author": "astrotour_app",
+   "publishedAt": "2026-10-09T21:32:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ubria12qfiuh1.jpg?width=140&height=78&auto=webp&s=9d369dd43e5b51da7bd648f230dd493b163c2bca"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/astrotour_app",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3e3dd96ee3d0",
+   "canon": "https://www.reddit.com/comments/1x1xhl0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x1xhl0/superb_news_for_the_upcoming_game_exd_coming_to/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "SUPERB NEWS FOR THE UPCOMING GAME EXD COMING TO PSVR2",
+   "text": "Great news for psvr2 on the upcoming exd extra dimensional game",
+   "author": "No_Echo6023",
+   "publishedAt": "2026-10-09T21:26:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/uKBMr8JGIayaFmpWv5VxC392siLcUMcCKckpGvC9OlE.jpeg?width=320&crop=smart&auto=webp&s=619f4581ec3a9cdc9304e9c235191d90a66b3404"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No_Echo6023",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bd155672e18f",
+   "canon": "https://www.reddit.com/comments/1x1xea5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x1xea5/i_finally_got_around_to_building_a_backpack/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "I finally got around to building a backpack battler that fit my taste for roguelite power fantasy",
+   "text": "I love chasing the roguelite \"godlike\" runs in RoR where planning and commitment pays off, but hadn't found a backpack battler game that really scratched that itch. \n I took a PRD software engineering approach to the problem to setup a Claude Code pipeline which managed the…",
+   "author": "TheWellKnownEIP",
+   "publishedAt": "2026-10-09T21:21:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/azB3aXUzcmhhaXVoMeTTt1HCX9IMiR8b5AR7xKlkEaJ9Qup-YxhnGdljFIQs.png?width=640&crop=smart&auto=webp&s=b7231e186696c3414f89a94fe88820e3019d3c5c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TheWellKnownEIP",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "54879435967c",
+   "canon": "https://www.reddit.com/comments/1x1wpt8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x1wpt8/beat_saber_expert_mode_running_natively_on_the/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "Beat Saber Expert mode - running natively on the AVP M5",
+   "text": "Worked flawlessly with phenomenal tracking in 4k 120 hz and gorgeous oled",
+   "author": "Phonafied",
+   "publishedAt": "2026-10-09T20:53:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZnIydXloNm44aXVoMezqwgzRLiSkHNbIsPz_MmefzBoIQGJoWJ-i6WMMq5Vh.jpeg?width=640&crop=smart&auto=webp&s=2dab2ee905b03c1dcd078a50728e2cd829df7a43"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Phonafied",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fbc1d46bc01e",
+   "canon": "https://www.reddit.com/comments/1x1vpuu",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/WebXR/comments/1x1vpuu/calma_professor_vr_my_classroom_game_for_meta/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "Calma, Professor! VR — my classroom game for Meta Quest / WebXR (51-second gameplay)",
+   "text": "I'm Samuel, a teacher and the creator of Calma, Professor! VR at Quanta. This is my own project, not an independent recommendation.\n The clip shows actual classroom gameplay: answering questions, keeping the queue under control, and dealing with the director's arrival.\n Try it…",
+   "author": "Typical-Instance-376",
+   "publishedAt": "2026-10-09T20:13:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/N3BpbDl2Z2kxaXVoMe3-lB-sfez64i2uoMmiaY4Fj-y9-MRpS9nlasfBJOQa.png?width=640&crop=smart&auto=webp&s=41dae7c32738b61b0375c28ab36ded53f7455740"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Typical-Instance-376",
+   "where": "r/WebXR",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "efea3604a83d",
+   "canon": "https://www.reddit.com/comments/1x1uh49",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x1uh49/i_made_a_quest_fitness_app_using_real_resistance/",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "I made a Quest fitness app using real resistance bands, and I've just added multiplayer",
+   "text": "A couple of weeks ago I released PullFit, a mixed reality fitness app for Quest that uses real resistance bands instead of controllers.\n I've always enjoyed VR fitness, but wanted something more focused on strength training rather than cardio, so I decided to build it myself.…",
+   "author": "HuffyMedia",
+   "publishedAt": "2026-10-09T19:24:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Njd5d3RqNGZzaHVoMVzc8Gt5cPSpEiC1TIXJjhMMBi3rlVxT5aEcVeQhH00v.png?width=640&crop=smart&auto=webp&s=c864f3b7553000c8eb0be1bf62257cfdcb37bd58"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/HuffyMedia",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "47732332f4fc",
    "canon": "https://www.reddit.com/comments/1x1ss46",
@@ -3221,6 +4131,58 @@ window.CASES_DB = {
    "fetchedAt": "2026-10-09T01:18:29.983Z",
    "lang": "en",
    "model": null
+  },
+  {
+   "id": "7ce0cd61244b",
+   "canon": "https://x.com/i/status/2108303873538683065",
+   "platform": "x",
+   "url": "https://x.com/0xAidanAi/status/2108303873538683065",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "",
+   "text": "ARTHUR MORGAN LEARNED TO BUILD\n\nasked opus 5.5 to put minecraft into rdr2\n\nnow arthur builds tiny houses on cliffs and watches sunsets\n\nhonestly he deserves it https://t.co/btteufD6DR",
+   "author": "0xAidanAi",
+   "publishedAt": "2026-10-08T21:09:48.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108303545007271936/img/KqDUkKrQ9pRcaSgT.jpg",
+    "video": "https://video.twimg.com/amplify_video/2108303545007271936/vid/avc1/1920x1080/8-vaEshbsSMeWL78.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 5273,
+    "views": 169319,
+    "comments": 29
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/rdr2-minecraft",
+     "categories": [
+      "voxel"
+     ],
+     "date": "2026-10-09",
+     "credit": "0xAidanAi",
+     "metrics": {
+      "likes": 3542,
+      "views": 117276
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "voxel",
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/0xAidanAi",
+   "where": null,
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": "Opus 5.5"
   },
   {
    "id": "4f58a70e1e20",
@@ -9198,6 +10160,58 @@ window.CASES_DB = {
    "fetchedAt": "2026-10-07T20:42:02.835Z",
    "lang": "en",
    "model": null
+  },
+  {
+   "id": "ca851f774653",
+   "canon": "https://x.com/i/status/2107843676135100870",
+   "platform": "x",
+   "url": "https://x.com/bonnyxen/status/2107843676135100870",
+   "addedAt": "2026-10-10T00:57:34.983Z",
+   "title": "",
+   "text": "OPUS 5.5, WHAT THE F*CK IS THIS \n\ni asked it to put Minecraft inside GTA 5 and now there's a Nether portal in Los Santos, creepers between cars and piglins under the freeway while everything catches fire\n\nnow i'm thinking about adding survival mode, imagine getting five stars…",
+   "author": "bonnyxen",
+   "publishedAt": "2026-10-07T14:41:08.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107842904655822848/img/5B6ckwvoZGwgu1QD.jpg",
+    "video": "https://video.twimg.com/amplify_video/2107842904655822848/vid/avc1/1280x720/nh8YY5oZGQOWenFO.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 1736,
+    "views": 131597,
+    "comments": 35
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/gta-minecraft",
+     "categories": [
+      "voxel"
+     ],
+     "date": "2026-10-07",
+     "credit": "bonnyxen",
+     "metrics": {
+      "likes": 1695,
+      "views": 116091
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "voxel",
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/bonnyxen",
+   "where": null,
+   "fetchedAt": "2026-10-10T00:57:34.983Z",
+   "lang": "en",
+   "model": "Opus 5.5"
   },
   {
    "id": "269ada54dc0a",
