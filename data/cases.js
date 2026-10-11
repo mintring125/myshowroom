@@ -1,8 +1,914 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-10-10T21:51:30.107Z",
+ "updatedAt": "2026-10-11T05:54:27.188Z",
  "cases": [
+  {
+   "id": "7e9e40f54635",
+   "canon": "https://www.reddit.com/comments/1x309y9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x309y9/gaussian_splats_lidar_colliders_turning_my_room/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "Gaussian splats + LiDAR colliders: turning my room scan into an interactive robot simulation",
+   "text": "",
+   "author": "No_Quail6685",
+   "publishedAt": "2026-10-11T05:50:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/EHERbV3N1hFW1Ix4hOd59ugEhHWbVj2F5VqVbW6RcsQ.jpeg?width=320&crop=smart&auto=webp&s=d655c031c930d7e97eb1a6cdfd94250c83c6aaab"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No_Quail6685",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "200b4665a136",
+   "canon": "https://www.reddit.com/comments/1x301my",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x301my/got_tired_of_claude_guessing_why_my_app_broke_so/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "got tired of claude guessing why my app broke so i built this",
+   "text": "claude kept saying \"this should fix it\" and it never did lol. the problem? it can't see what your app actually did.\n so i built a thing (with claude code obv).\n click something in your app. shrike records the whole request through your code and db, then shows you exactly which…",
+   "author": "S_m_nt",
+   "publishedAt": "2026-10-11T05:36:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/djdoaGlnZHZ5cnVoMRMfS5ax1Rkkl7oeCN0BK8V8-5Tsz0rT4lyqadyMKGI6.png?width=640&crop=smart&auto=webp&s=d2f1177f3e6ac9ae7093de73d2b24b9a75d9b970"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/S_m_nt",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c204a21d8416",
+   "canon": "https://www.reddit.com/comments/1x2zsls",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2zsls/anthropic_just_gave_us_1000_in_api_credits_and_up/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "Anthropic just gave us $1,000 in API credits and up to $7,500 in Claude Team Discounts!",
+   "text": "Anthropic just gave our startup $1,000 in API credits and up to $7,500 in Claude Team discounts. Pretty amazing feeling!\n We're a small startup from Pakistan, building AI infrastructure and developer tools, mostly bootstrapping everything ourselves.\n A few days ago, we got…",
+   "author": "em-abbas",
+   "publishedAt": "2026-10-11T05:21:11+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/vts64m9awruh1.png?width=140&height=115&auto=webp&s=de6814dab0f4850bb46ed85000fa85c902f9ea41"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/em-abbas",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "70c241694697",
+   "canon": "https://www.reddit.com/comments/1x2zqrq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x2zqrq/anthropic_just_gave_us_1000_in_api_credits_up_to/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "Anthropic Just Gave Us $1,000 in API Credits + Up to $7,500 in Claude Team Discounts!",
+   "text": "Anthropic just gave our startup $1,000 in API credits and up to $7,500 in Claude Team discounts. Pretty amazing feeling!\n We're a small startup from Pakistan, building AI infrastructure and developer tools, mostly bootstrapping everything ourselves.\n A few days ago, we got…",
+   "author": "em-abbas",
+   "publishedAt": "2026-10-11T05:18:16+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/dpzdc1cmvruh1.png?width=140&height=115&auto=webp&s=3f08e17d097325610e51a5cd37c4a1db098e7fdb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/em-abbas",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d4c8b9a0a1db",
+   "canon": "https://www.reddit.com/comments/1x2ziyd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x2ziyd/new_hd2d_detective_game/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "New HD2D Detective Game",
+   "text": "I’m working on a vertical slice of a game idea called Neon Echoes. An HD2D Cyberpunk-style detective game where you are a detective trying to determine who killed a shady echo dealer. Echoes are people’s recorded memories. \n Basically that person from last week that posted the…",
+   "author": "mrwolf214",
+   "publishedAt": "2026-10-11T05:05:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/52iyom4I8PplMwwp8tOq6GvDQHDihkH9MRXxRjAwMZ0.jpeg?width=320&crop=smart&auto=webp&s=79ddde65067bc7b0e6c53be7088dd839f1771bf9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/mrwolf214",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a37e089cf499",
+   "canon": "https://www.reddit.com/comments/1x2zaij",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x2zaij/i_rebuilt_my_5yearold_browser_extension_with/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "I rebuilt my 5-year-old browser extension with Claude Code. What worked, what didn't",
+   "text": "I built TabMerger (a tab manager for Chrome, Firefox and Edge) about 5 years ago. This year I rewrote it from scratch, with Claude Code.\n Site: https://tabmerger.vercel.app\n Repo: https://github.com/lbragile/TabMerger\n What worked\n Custom agents per domain (extension, web,…",
+   "author": "lbragile_dev",
+   "publishedAt": "2026-10-11T04:52:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/emg2YzB0YXFxcnVoMRFqVBM4kihYqgztZwWp74P3fJ6kBteaOJK9hnag85kT.png?width=640&crop=smart&auto=webp&s=611babc09ca5a1208fb4185eda33d91781c5d5ab"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/lbragile_dev",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "09887da50d46",
+   "canon": "https://www.reddit.com/comments/1x2yjg4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x2yjg4/kept_missing_when_claude_code_finished_in_other/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "Kept missing when Claude Code finished in other tabs, so now it takes me there when I'm ready [Windows Terminal]",
+   "text": "Made this for two situations:\n You step away from your PC with earbuds or a headset on and still want to hear when Claude is done or needs your input. You're running one or a few Claude Code sessions at once while doing other stuff, and keep missing when one is finished. It only…",
+   "author": "Emptyhead16",
+   "publishedAt": "2026-10-11T04:09:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/4jzahmbajruh1.gif?width=640&crop=smart&s=cb3237eb5c0bf1b3935d9486c4675261718ba439"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Emptyhead16",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c8c1b8c0e60b",
+   "canon": "https://www.reddit.com/comments/1x2yi6h",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1x2yi6h/i_used_claude_opus_55_to_turn_todays_news_into/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "I Used Claude Opus 5.5 to Turn Today’s News Into Finished Short Videos",
+   "text": "I gave Claude Opus 5.5 the task of researching major news stories online and turning them into a short-form news video.\n It researched the stories and sources, planned 6 scenes, created the visuals and captions, handled transitions, checked contrast and frames, detected and…",
+   "author": "FreshnessAi",
+   "publishedAt": "2026-10-11T04:07:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Y3ZyZmx5ajNqcnVoMeZJ62OmHPdG1HYgoT58TcEXEnrzu24F4euJZdLEijRg.png?width=640&crop=smart&auto=webp&s=2743c161468a540f47bfb049718c877b12bc8e59"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/FreshnessAi",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "155c809c3fab",
+   "canon": "https://www.reddit.com/comments/1x2yc6f",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2yc6f/kept_missing_when_claude_code_finished_in_other/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "Kept missing when Claude Code finished in other tabs, so now it takes me there when I'm ready [Windows Terminal]",
+   "text": "Made this for two situations:\n You step away from your PC with earbuds or a headset on and still want to hear when Claude is done or needs your input. You're running one or a few Claude Code sessions at once while doing other stuff, and keep missing when one is finished. It only…",
+   "author": "Emptyhead16",
+   "publishedAt": "2026-10-11T03:59:08+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/jlswxdw2hruh1.gif?width=640&crop=smart&s=9438baea2960519cd77b558e1f3a2ecb68ef707c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Emptyhead16",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b59314c8f347",
+   "canon": "https://www.reddit.com/comments/1x2y04s",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2y04s/i_built_a_multiplayer_game_where_claude_can/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "I built a multiplayer game where Claude can change the rules while you play",
+   "text": "I built frenslop, a free multiplayer sandbox that runs in the browser, kind of like Garry's Mod. You and your friends join a shared world, and anyone can type a request like \"add a giant bouncing cheese wheel\" or \"make gravity flip every 10 seconds.\" Claude writes that into the…",
+   "author": "Confident-Honeydew66",
+   "publishedAt": "2026-10-11T03:40:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bTRlanlzcmFlcnVoMf8Pv1zH_TCzW7j4ScHmHaE0wFuM2rz9xUJWde6xrdSj.png?width=640&crop=smart&auto=webp&s=8fd279bd42e63576ea6c32e451e5d993b8ca3ae0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Confident-Honeydew66",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "45d64c1bbebb",
+   "canon": "https://www.reddit.com/comments/1x2xzrz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1x2xzrz/i_made_an_ai_production_studio_where_claude/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "I made an AI production studio where Claude writes, casts, directs and performs a sketch comedy show. Episode 1 is out now!",
+   "text": "Almost Television is a sketch comedy show performed by a troupe of felt puppets. The studio that makes it is run by Claude. I'm the showrunner: I pick the ideas and give notes, and Claude's crew does the rest.\n The writers' room. Several Claude agents pitch sketches blind to…",
+   "author": "Slackluster",
+   "publishedAt": "2026-10-11T03:39:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eml3NHlqZjhkcnVoMe8SyNu1O6Os_A4jmtb9iPeseQy6eb10J6Tu2SV59_R5.png?width=640&crop=smart&auto=webp&s=1691dc50dafcd4bffc0cb0ddaa3082cafd17cd51"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Slackluster",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5c0265a83aaf",
+   "canon": "https://www.reddit.com/comments/1x2xuci",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x2xuci/updated_collection/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "Updated collection",
+   "text": "",
+   "author": "Safe-Bottle4230",
+   "publishedAt": "2026-10-11T03:31:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ksc0ldoqcruh1.jpeg?width=640&crop=smart&auto=webp&s=c485b9e5156fb9d627b5561a7809b05f325c9d25"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Safe-Bottle4230",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "17ce6085bc6c",
+   "canon": "https://www.reddit.com/comments/1x2xmhj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2xmhj/claude_code_running_locally_on_my_android_phone/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "Claude Code running locally on my Android phone, with per message model routing",
+   "text": "I Spent an evening on this, maybe someone finds it interesting.\n I wanted to be able to use Claude Code on my phone, without needing a PC or server. So this is the Claude Code CLI running locally in Termux, not the cloud version from the app. The files stay on my phone. I'm only…",
+   "author": "SuspenseAndSurprise",
+   "publishedAt": "2026-10-11T03:19:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/fidmlmularuh1.jpeg?width=640&crop=smart&auto=webp&s=9414f9a97110806690559cd4131567741cea70a1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SuspenseAndSurprise",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "707bb13f4151",
+   "canon": "https://www.reddit.com/comments/1x2x7de",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2x7de/creating_games_to_help_my_kids_with_their_homework/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "Creating Games to Help My Kids With Their Homework",
+   "text": "I feel like part of the reason I've had a successful career in a math related field is because my parents encouraged me to play games like Treasure MathStorm as a kid (yes I am old). There are a lot of \"educational\" games available online, but most of them are not quite right…",
+   "author": "qrayons",
+   "publishedAt": "2026-10-11T02:57:46+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/qrayons",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "57fb614a89a0",
+   "canon": "https://www.reddit.com/comments/1x2x5qq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x2x5qq/im_building_a_norse_horror_bossrush_game_with_a/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "I'm building a Norse horror boss-rush game with a team of Claude Code agents running in parallel. Devlog #1 + free demo",
+   "text": "Solo dev here. Gleipnir is a Norse horror action game (Hollow Knight meets Cuphead) built in Godot. I pick the mechanics and the look, and Claude Code agents build features in parallel, each in its own git worktree.\n The 3D models come from a tool I made called Oddlings: agents…",
+   "author": "Dense_Sympathy6412",
+   "publishedAt": "2026-10-11T02:55:17+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/lDBCqTo-S6sWFAsRIxWsZyGBgxPbCdyD1sQDtEfwfUY.jpeg?width=320&crop=smart&auto=webp&s=d6c69ef5523cf53a77d767f55e0155b8a3bf7345"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Dense_Sympathy6412",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8b25aee9735f",
+   "canon": "https://www.reddit.com/comments/1x2wtz9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x2wtz9/ad_for_my_site/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "Ad For My Site",
+   "text": "Its the Second of many ads with this one showing its use case in a situation of \"I got a big upload and no one will take it\"\n https://coderook.com/\n I have uploaded my skill for the site via Anthropic so if anyone wants to use it they can. The connector is still waiting for…",
+   "author": "Batty25111",
+   "publishedAt": "2026-10-11T02:38:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aGJsa2pwOHUycnVoMUUUDpN57bY3LkL2hqW5H_EJruPzV97inGLFUvSnngXL.png?width=640&crop=smart&auto=webp&s=59f9ba153254d63f1f757e917b614ec985c191ac"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Batty25111",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "71bd31355139",
+   "canon": "https://www.reddit.com/comments/1x2wshe",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2wshe/i_asked_claude_to_make_a_cinematic_mv_for_my_music/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "I asked claude to make a cinematic MV for my music",
+   "text": "sorry for the poor music i made but the MV is not bad.",
+   "author": "Pleasant_Salt6810",
+   "publishedAt": "2026-10-11T02:35:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dDkwdzlyNDUycnVoMXlC3p1_CeeamoqTsPD3e61IfjpeovuKSGXSuMdcs-bY.png?width=640&crop=smart&auto=webp&s=2d07a74a574963adb302d5306378469956b1b524"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Pleasant_Salt6810",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2e1b55382c4a",
+   "canon": "https://www.reddit.com/comments/1x2w0mi",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2w0mi/this_is_my_browserbased_music_visualizer_there/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "This is my browser-based music visualizer. There are many like it. but this one is mine.",
+   "text": "I made a music visualizer that runs in the browser as a single HTML file. No install, no dependencies.. Point it at whatever you're playing and it reacts.\n Try it: https://malakachakra.github.io/dsViz/\n Code: https://github.com/malakachakra/dsViz\n Best on desktop. Fully…",
+   "author": "VibinVentricles",
+   "publishedAt": "2026-10-11T01:54:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/djZlZmU0NHB1cXVoMT5KF6D7mqiK-dSUSIj5dw49N1-4yH7RerUjBDCxyVrF.png?width=640&crop=smart&auto=webp&s=1ba39a6455bb91184910608ed593a7c580e32f8e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/VibinVentricles",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5a7e1a67e28f",
+   "canon": "https://www.reddit.com/comments/1x2vjhb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x2vjhb/openais_decision_api_navigating_avp_spatial_data/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "OpenAI’s decision API navigating AVP spatial data",
+   "text": "Some more details here",
+   "author": "jamiepinheiro",
+   "publishedAt": "2026-10-11T01:29:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZWxocm5lMXhxcXVoMWCPIjC3s6YZ8hdVOcTbzJp7CDQN1Ks7GdXwH3jeUldC.jpeg?width=640&crop=smart&auto=webp&s=201c884a280211972a43427222989c81f91b57fd"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/jamiepinheiro",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "85e2f181739e",
+   "canon": "https://www.reddit.com/comments/1x2vair",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x2vair/made_a_roblox_story_game_with_claude_from_code_to/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "Made a Roblox story game with Claude, from code to lighting to thumbnails",
+   "text": "so i connected claude to roblox studio (there’s an mcp connector) and asked it to make a story game about the meaning of life, kinda wes anderson style. it built pretty much everything itself. the code, the map, the dialogue, the lighting, all of it.\n then i kept asking for more…",
+   "author": "titilopegas",
+   "publishedAt": "2026-10-11T01:16:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/2nc2dn2unquh1.png?width=140&height=75&auto=webp&s=721ac37d4f3733ade16e4383b087f21154ad13c4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/titilopegas",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a775ae3bcea5",
+   "canon": "https://www.reddit.com/comments/1x2v4fp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x2v4fp/work_smart_not_hard_or_how_i_waste_my_200/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "Work smart, not hard. Or how I “waste” my $200 subscription making my city builder",
+   "text": "I'm a solo dev making a small city builder in Godot.\n What I learned recently is not very glamorous: I was wasting way more time on bad approaches than on actual hard problems.\n That’s also where a good chunk of my $200/month went.\n For a while I kept trying to invent everything…",
+   "author": "Kiko_Production",
+   "publishedAt": "2026-10-11T01:07:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ajVkczMyaGZscXVoMWWf-WEqjgFlT2taRkycl27mRNFxv-foT3vwzdapnxuO.png?width=640&crop=smart&auto=webp&s=f7229605f5a041b1d216dbe958cf6e8f9501001f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Kiko_Production",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "272add2695fb",
+   "canon": "https://www.reddit.com/comments/1x2v19x",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x2v19x/my_prediction_6_months_ago_about_ai_mods_i/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "My prediction 6 months ago about AI mods, I thought it would take 3-5 years, it took less than 6 months lol",
+   "text": "",
+   "author": "Admirable_Zombie5245",
+   "publishedAt": "2026-10-11T01:02:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/971m45r1mquh1.png?width=640&crop=smart&auto=webp&s=65f9068d885845342eccfde31b4be13716dbff38"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Admirable_Zombie5245",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fd40aa2f534a",
+   "canon": "https://www.reddit.com/comments/1x2v19g",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x2v19g/fresho_a_samewifi_paint_war_built_with_claude/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "FRESHO: a same-Wi-Fi paint war built with Claude Code (trailer, web build, and what I learned)",
+   "text": "**Trailer:** https://youtu.be/InjNqggXobc\n **Play it (browser, Windows, VR):** https://isthisrequired.itch.io/fresho\n **FRESHO** is a top-down paint war. Every step you take paints the map in your team's colour. Your own paint speeds you up and heals you, enemy paint slows you…",
+   "author": "Beautiful-Today-2166",
+   "publishedAt": "2026-10-11T01:02:57+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/emh6ZHU2MmNrcXVoMaPrAg89SB3MVsmNEVsDkKBVmkcoqF6rAd-0ksWoqaNa.png?width=640&crop=smart&auto=webp&s=dbffe2425b7320c57cadc88cf444cda9d7908968"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Beautiful-Today-2166",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "09cf8d7c69ce",
+   "canon": "https://www.reddit.com/comments/1x2uvru",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2uvru/i_built_an_ai_bot_tournament_with_claude_code/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "I built an AI bot tournament with Claude Code",
+   "text": "What I built: a tournament for a light-cycle game called Trails, like Tron or Snake without food: leave a trail, hit nothing, outlast everyone. Five AI models each wrote a bot, and the bots played each other.\n How Claude helped: I built the whole thing with Claude Code (Opus…",
+   "author": "Miserable_Tiger_5742",
+   "publishedAt": "2026-10-11T00:55:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/wtsfvsuqkquh1.png?width=140&height=73&auto=webp&s=662344364472ccfd81da5fd6d1a7d42a2adcaed8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Miserable_Tiger_5742",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "823df3ce7d3c",
+   "canon": "https://www.reddit.com/comments/1x2u0bj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x2u0bj/new_apple_immersive_horror_film_remnants_out_on/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "New Apple Immersive Horror Film: Remnants out on 16th October",
+   "text": "30 min short film out on the 16th October!",
+   "author": "_HipStorian",
+   "publishedAt": "2026-10-11T00:10:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/BXVzA3FtQFERyQV2G4RfIv2pf-D_RhP5X_j49_6hIyM.jpeg?width=640&crop=smart&auto=webp&s=04bf4015c32d778aee876f28ebcd5f85c72aa36b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/_HipStorian",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "296f009e59aa",
+   "canon": "https://www.reddit.com/comments/1x2tq5n",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x2tq5n/easier_way_to_run_halflife_alyx_natively_on_avp/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "Easier way to run Half-Life: Alyx natively on AVP",
+   "text": "",
+   "author": "JasonQG",
+   "publishedAt": "2026-10-10T23:57:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/T01kyh189mmRyitjJ4uNogWJXUQxls20criEdW_rLAM.jpeg?width=640&crop=smart&auto=webp&s=c38ff73f188a5f9a7c0f87db3c44c9a336eb209f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/JasonQG",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "42df3eac5d2a",
+   "canon": "https://www.reddit.com/comments/1x2sjuu",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vrdev/comments/1x2sjuu/getting_a_busy_vr_towerdefense_battlefield/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "Getting a busy VR tower-defense battlefield smoother: a lesson from my latest update",
+   "text": "I’m the dev behind Warlords at the Gate, a tabletop-style VR tower defense game where you can also command the attacking army in Beastmaster. It’s now on Quest 3/3S.\n One lesson from the latest update: test first-use stutters separately from the busiest part of a battle. A calm…",
+   "author": "Miserable-Data1284",
+   "publishedAt": "2026-10-10T22:59:40+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Miserable-Data1284",
+   "where": "r/vrdev",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a88ac6a32f44",
+   "canon": "https://www.reddit.com/comments/1x2rfpv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x2rfpv/undisputed_on_avp/",
+   "addedAt": "2026-10-11T05:53:20.772Z",
+   "title": "Undisputed on AVP!",
+   "text": "Trying out another title is all",
+   "author": "OrchidFew7220",
+   "publishedAt": "2026-10-10T22:06:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/apquBAk3iQF9ed3qaJV1vJWJjfYpQjLiJX0Rhz5TYGU.jpeg?width=320&crop=smart&auto=webp&s=b3986c7b42eddd645f4968e24b94e85161ec4b1b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/OrchidFew7220",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-11T05:53:20.772Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "5ab470bc578d",
    "canon": "https://www.reddit.com/comments/1x2r03l",
