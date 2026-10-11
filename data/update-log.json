@@ -1,6 +1,40 @@
 {
  "runs": [
   {
+   "at": "2026-10-11T12:58:42.772Z",
+   "ms": 286254,
+   "added": 32,
+   "updated": 106,
+   "failed": 0,
+   "deferred": 0,
+   "total": 1130,
+   "found": {
+    "ohmyopus": 16,
+    "ai:reddit": 19,
+    "ai:x": 0,
+    "ai:threads": 0,
+    "ar:reddit": 48,
+    "ar:x": 0,
+    "ar:threads": 0,
+    "xr:reddit": 48,
+    "xr:x": 0,
+    "xr:threads": 0,
+    "gsplat:reddit": 60,
+    "gsplat:x": 0,
+    "gsplat:threads": 0
+   },
+   "messages": [
+    "참고 사이트 ohmyopus 확인 중…",
+    "ohmyopus: 원문 링크 없음 https://ohmyopus.com/c/senko-3games",
+    "  새 사례 16건",
+    "[ai] reddit 자동 발견 19건",
+    "[ar] reddit 자동 발견 48건",
+    "[xr] reddit 자동 발견 48건",
+    "[gsplat] reddit 자동 발견 60건",
+    "규칙에 맞지 않아 숨긴 자동 발견 글: 49건"
+   ]
+  },
+  {
    "at": "2026-10-11T05:54:27.232Z",
    "ms": 244484,
    "added": 28,
@@ -905,56 +939,39 @@
     "  ohmyopus: 103건은 다음 실행에서 확인",
     "  새 사례 40건"
    ]
-  },
-  {
-   "at": "2026-10-04T23:07:50.988Z",
-   "ms": 44868,
-   "added": 6,
-   "updated": 0,
-   "failed": 0,
-   "deferred": 0,
-   "total": 6,
-   "found": {
-    "ohmyopus": 6
-   },
-   "messages": [
-    "참고 사이트 ohmyopus 확인 중…",
-    "  ohmyopus: 143건은 다음 실행에서 확인",
-    "  새 사례 6건"
-   ]
   }
  ],
  "last": {
-  "at": "2026-10-11T05:54:27.232Z",
-  "ms": 244484,
-  "added": 28,
-  "updated": 103,
+  "at": "2026-10-11T12:58:42.772Z",
+  "ms": 286254,
+  "added": 32,
+  "updated": 106,
   "failed": 0,
   "deferred": 0,
-  "total": 1098,
+  "total": 1130,
   "found": {
-   "ohmyopus": 12,
-   "ar:reddit": 50,
+   "ohmyopus": 16,
+   "ai:reddit": 19,
+   "ai:x": 0,
+   "ai:threads": 0,
+   "ar:reddit": 48,
    "ar:x": 0,
    "ar:threads": 0,
-   "xr:reddit": 44,
+   "xr:reddit": 48,
    "xr:x": 0,
    "xr:threads": 0,
    "gsplat:reddit": 60,
    "gsplat:x": 0,
-   "gsplat:threads": 0,
-   "ai:reddit": 20,
-   "ai:x": 0,
-   "ai:threads": 0
+   "gsplat:threads": 0
   },
   "messages": [
    "참고 사이트 ohmyopus 확인 중…",
    "ohmyopus: 원문 링크 없음 https://ohmyopus.com/c/senko-3games",
-   "  새 사례 12건",
-   "[ar] reddit 자동 발견 50건",
-   "[xr] reddit 자동 발견 44건",
+   "  새 사례 16건",
+   "[ai] reddit 자동 발견 19건",
+   "[ar] reddit 자동 발견 48건",
+   "[xr] reddit 자동 발견 48건",
    "[gsplat] reddit 자동 발견 60건",
-   "[ai] reddit 자동 발견 20건",
    "규칙에 맞지 않아 숨긴 자동 발견 글: 49건"
   ]
  }
