@@ -1,6 +1,40 @@
 {
  "runs": [
   {
+   "at": "2026-10-12T21:23:02.104Z",
+   "ms": 348978,
+   "added": 50,
+   "updated": 112,
+   "failed": 0,
+   "deferred": 0,
+   "total": 1278,
+   "found": {
+    "ohmyopus": 17,
+    "gsplat:reddit": 63,
+    "gsplat:x": 0,
+    "gsplat:threads": 0,
+    "ai:reddit": 22,
+    "ai:x": 0,
+    "ai:threads": 0,
+    "ar:reddit": 52,
+    "ar:x": 0,
+    "ar:threads": 0,
+    "xr:reddit": 42,
+    "xr:x": 0,
+    "xr:threads": 0
+   },
+   "messages": [
+    "참고 사이트 ohmyopus 확인 중…",
+    "ohmyopus: 원문 링크 없음 https://ohmyopus.com/c/senko-3games",
+    "  새 사례 17건",
+    "[gsplat] reddit 자동 발견 63건",
+    "[ai] reddit 자동 발견 22건",
+    "[ar] reddit 자동 발견 52건",
+    "[xr] reddit 자동 발견 42건",
+    "규칙에 맞지 않아 숨긴 자동 발견 글: 49건"
+   ]
+  },
+  {
    "at": "2026-10-12T11:00:09.219Z",
    "ms": 343659,
    "added": 36,
@@ -937,67 +971,25 @@
     "  새 사례 0건",
     "규칙에 맞지 않아 숨긴 자동 발견 글: 50건"
    ]
-  },
-  {
-   "at": "2026-10-04T23:48:05.416Z",
-   "ms": 273533,
-   "added": 73,
-   "updated": 0,
-   "failed": 0,
-   "deferred": 0,
-   "total": 246,
-   "found": {
-    "ohmyopus": 11,
-    "ai:reddit": 44,
-    "ai:x": 0,
-    "ai:threads": 0,
-    "ar:reddit": 0,
-    "ar:x": 0,
-    "ar:threads": 0,
-    "xr:reddit": 14,
-    "xr:x": 0,
-    "xr:threads": 0,
-    "gsplat:reddit": 49,
-    "gsplat:x": 0,
-    "gsplat:threads": 0
-   },
-   "messages": [
-    "참고 사이트 ohmyopus 확인 중…",
-    "ohmyopus: 원문 링크 없음 https://ohmyopus.com/c/senko-3games",
-    "  새 사례 11건",
-    "reddit r/ClaudeCode: 429 https://www.reddit.com/r/ClaudeCode/new/.rss?limit=50",
-    "reddit r/singularity: 429 https://www.reddit.com/r/singularity/new/.rss?limit=50",
-    "reddit r/vibecoding: 429 https://www.reddit.com/r/vibecoding/new/.rss?limit=50",
-    "reddit r/threejs: 429 https://www.reddit.com/r/threejs/new/.rss?limit=50",
-    "[ai] reddit 자동 발견 44건",
-    "reddit r/augmentedreality: 429 https://www.reddit.com/r/augmentedreality/new/.rss?limit=50",
-    "reddit r/AR_MR_XR: 429 https://www.reddit.com/r/AR_MR_XR/new/.rss?limit=50",
-    "reddit r/Spectacles: 429 https://www.reddit.com/r/Spectacles/new/.rss?limit=50",
-    "reddit r/vrdev: 429 https://www.reddit.com/r/vrdev/new/.rss?limit=50",
-    "reddit r/WebXR: 429 https://www.reddit.com/r/WebXR/new/.rss?limit=50",
-    "reddit r/VisionPro: 429 https://www.reddit.com/r/VisionPro/new/.rss?limit=50",
-    "[xr] reddit 자동 발견 14건",
-    "[gsplat] reddit 자동 발견 49건"
-   ]
   }
  ],
  "last": {
-  "at": "2026-10-12T11:00:09.219Z",
-  "ms": 343659,
-  "added": 36,
-  "updated": 114,
+  "at": "2026-10-12T21:23:02.104Z",
+  "ms": 348978,
+  "added": 50,
+  "updated": 112,
   "failed": 0,
   "deferred": 0,
-  "total": 1228,
+  "total": 1278,
   "found": {
-   "ohmyopus": 15,
+   "ohmyopus": 17,
    "gsplat:reddit": 63,
    "gsplat:x": 0,
    "gsplat:threads": 0,
-   "ai:reddit": 23,
+   "ai:reddit": 22,
    "ai:x": 0,
    "ai:threads": 0,
-   "ar:reddit": 50,
+   "ar:reddit": 52,
    "ar:x": 0,
    "ar:threads": 0,
    "xr:reddit": 42,
@@ -1007,10 +999,10 @@
   "messages": [
    "참고 사이트 ohmyopus 확인 중…",
    "ohmyopus: 원문 링크 없음 https://ohmyopus.com/c/senko-3games",
-   "  새 사례 15건",
+   "  새 사례 17건",
    "[gsplat] reddit 자동 발견 63건",
-   "[ai] reddit 자동 발견 23건",
-   "[ar] reddit 자동 발견 50건",
+   "[ai] reddit 자동 발견 22건",
+   "[ar] reddit 자동 발견 52건",
    "[xr] reddit 자동 발견 42건",
    "규칙에 맞지 않아 숨긴 자동 발견 글: 49건"
   ]
