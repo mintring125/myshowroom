@@ -1,8 +1,845 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-10-11T19:39:53.682Z",
+ "updatedAt": "2026-10-12T00:39:51.972Z",
  "cases": [
+  {
+   "id": "cb1773724716",
+   "canon": "https://www.reddit.com/comments/1x3nwks",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x3nwks/graphics_help/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "Graphics help",
+   "text": "https://preview.redd.it/tijqb3uqjxuh1.png?width=1855&format=png&auto=webp&s=2ca3db593263b942cc878213c9e99f5cdad55c84\n First time using AI to make a game, (very new to AI in general...) and I've been making this with Claude, it's a 2D post-apocalyptic strategy game, the game…",
+   "author": "Capable_Ad108",
+   "publishedAt": "2026-10-12T00:28:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/tijqb3uqjxuh1.png?width=140&height=65&auto=webp&s=117be6ac6272ee58004ae306e3f5b5fb8bee5113"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Capable_Ad108",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6ad6033db980",
+   "canon": "https://www.reddit.com/comments/1x3noix",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x3noix/hand_physics_lab_from_quest_running_on_a_valve/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "Hand Physics Lab from Quest running on a valve index with Android XR Bridge",
+   "text": "",
+   "author": "OxRedOx",
+   "publishedAt": "2026-10-12T00:17:20+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aDhpbno3dHppeHVoMRxI23-s-iYNt1igut5V4N6n8U5pjJRrAJkhrcPMJIc7.png?width=640&crop=smart&auto=webp&s=78baf51a7ce8b1262abcc83e1dbc5580728fb2db"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/OxRedOx",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "662c38111d2c",
+   "canon": "https://www.reddit.com/comments/1x3nlrl",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x3nlrl/sharing_a_lil_bts_of_coltrane_and_a_new_uploadvr/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "Sharing a lil bts of 'Coltrane' and a new UploadVR feature on the team behind it (i.e. New Canvas, PICO & Jacaranda Productions)",
+   "text": "Ten years after VR Noir: A Day Before the Night, we're returning to Veronica Coltrane's world with a new immersive noir series.\n We've been sharing the news about Coltrane, our five-episode series with Jacaranda Productions and PICO and UploadVR has now published a feature on…",
+   "author": "newCanvasXr",
+   "publishedAt": "2026-10-12T00:13:34+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/krskadcnhxuh1.jpg?width=140&height=105&auto=webp&s=649e28bd2b9bc39b529ed0776b5f86fba9a7a067"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/newCanvasXr",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b36ee390bae2",
+   "canon": "https://www.reddit.com/comments/1x3nkty",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3nkty/opus_55_is_insane_at_decompilation_ports/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "Opus 5.5 is INSANE at decompilation / ports",
+   "text": "Just decompiled and natively ported StarFox, StarFox 2 and Sonic CD to Windows, Mac and Linux, using Opus 5.5 without REA or similar skills.\n Claude analyzed the games' roms, built high level hardware runtimes, and added quality of life improvements (resolution, framerate,…",
+   "author": "CarlosGOAT09",
+   "publishedAt": "2026-10-12T00:12:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/9hobwngbixuh1.png?width=140&height=73&auto=webp&s=6b7ef8a299d674a9f51f922c9edd3379887d7152"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CarlosGOAT09",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "b6e8ff6451bb",
+   "canon": "https://www.reddit.com/comments/1x3n9ok",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x3n9ok/the_single_best_vr_demo/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "The single best VR demo ...",
+   "text": "Trial by fire in the Titan Fall 2 VR mod is the quickest way to show off a peak VR experience.",
+   "author": "sonsolar",
+   "publishedAt": "2026-10-11T23:58:08+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/sonsolar",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "06e41c48082b",
+   "canon": "https://www.reddit.com/comments/1x3n7dc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x3n7dc/went_to_a_movie_premiere_came_home_at_midnight/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "Went to a movie premiere, came home at midnight. Claude had been waiting for a \"yes\" since 7:42 PM",
+   "text": "https://reddit.com/link/1x3n7dc/video/rlwpy37lexuh1/player\n This is a dramatised version of something that has happened to me more than once. Kick off one quick task, go out for the evening, come back hours later, and the agent has spent the whole time politely waiting on a…",
+   "author": "glmn_official",
+   "publishedAt": "2026-10-11T23:55:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/uZio4Ck9XN9nyvHtTD2yP6WHfiyBzWjQwbZFzhAX2ro.png?width=140&height=70&auto=webp&s=e4d5544000016030c80f3d28dfa470c14002c10f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/glmn_official",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "465593c7e506",
+   "canon": "https://www.reddit.com/comments/1x3modo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x3modo/free_browser_based_space_industry_logistics/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "Free, Browser Based Space Industry Logistics Management Game",
+   "text": "I've been building a browser game called Far Charter with my spare tokens as an experiment, and I know this type of game won't be fun to most. There are no 2D or 3D graphics, no sprites, no ship flying across the screen. The whole thing is tables, bars, gauges and a log of what…",
+   "author": "redhairing326",
+   "publishedAt": "2026-10-11T23:28:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/qcnhceb7axuh1.png?width=140&height=72&auto=webp&s=e920c0fd9672d02bf2e29a8ab71b33e59ebd6a45"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/redhairing326",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0d9d4bff6c47",
+   "canon": "https://www.reddit.com/comments/1x3m5dc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x3m5dc/decided_what_to_buy_did_i_make_any_mistakes_pico_4/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "Decided What to Buy, Did I Make any Mistakes? (Pico 4)",
+   "text": "I've done my research and am ready to make my purchase, but first I wanted to double check I wasn't making any blunders. I was initially waiting for the Frame as most people were I'm sure but cannot see myself spending $1k+ so re-evaluated. My primary use is going to be SteamVR,…",
+   "author": "thefortunecats",
+   "publishedAt": "2026-10-11T23:03:22+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/thefortunecats",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a1ed1af7bf7e",
+   "canon": "https://www.reddit.com/comments/1x3lz4m",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x3lz4m/i_made_pcvr_work_on_standalone_its_out_now_for/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "I made PCVR work on standalone- its out now for FREE- WinlatorXR DAWN update.",
+   "text": "Video covering the update I've been working on for WinlatorXR.\n I'm incredibly proud to share this and couldn't possibly cover everything there is in the update. its absolutely massive.\n shorten change log and the github here:…",
+   "author": "GmoLargey",
+   "publishedAt": "2026-10-11T22:55:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/TrDGOsIUvMmQrfqVqep0jQprVrFs34Af3RuoSoYA2K0.jpeg?width=320&crop=smart&auto=webp&s=62c31dada594769aea91482bd4e1276ab4513c34"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/GmoLargey",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0225c9b61490",
+   "canon": "https://www.reddit.com/comments/1x3lx5o",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x3lx5o/claude_codes_subagent_limits_are_per_session_so_i/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "Claude Code's subagent limits are per session, so I built a mod that counts across all of them",
+   "text": "Claude Code stops a session at 20 subagents running at once and three levels of nesting. Nothing counts across sessions, nothing caps how many a session starts over time, and nothing checks how much of your 5-hour window is left before an agent starts.\n Before even those limits…",
+   "author": "rbartoli",
+   "publishedAt": "2026-10-11T22:52:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eDAzZzZrZmUzeHVoMfHIMa4mRUHdA0T5c4HIIUDhMvezmeX_2FRGxErDfxu4.png?width=640&crop=smart&auto=webp&s=e932e3162493733693503df390e6c3fcb05fa51b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/rbartoli",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "08ff1f81006a",
+   "canon": "https://www.reddit.com/comments/1x3lhy0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x3lhy0/diablo_ii_resurrected_in_vr_on_quest_3_via_steam/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "Diablo II: Resurrected in VR on Quest 3 via Steam Link or Virtual Desktop: physical bow, melee and spells (free PCVR mod) WIP",
+   "text": "Free, open-source PCVR mod for Diablo II: Resurrected in first person with full motion controls and physical combat. It runs on your PC and streams to the Quest over **Steam Link** or **Virtual Desktop (VDXR)**.\n This is still a WIP so any feedback from you guys is greatly…",
+   "author": "Monkeylashes",
+   "publishedAt": "2026-10-11T22:32:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eG5jZGhwdTkweHVoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=db0b84331f730b1e869124a110ce9a4ddb19ddf3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Monkeylashes",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d1fd8e8e0966",
+   "canon": "https://www.reddit.com/comments/1x3lcqd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x3lcqd/i_made_claude_code_play_sounds_while_it_works_run/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "I made Claude Code play sounds while it works. Run 5 agents in parallel and it turns into an orchestra",
+   "text": "Claude works quietly, and when I run several sessions at once I lose track of which ones are busy. So I built a small mod that lets me hear them instead.\n What you hear\n typing while Claude writes a reply - a softer sound while it thinks an accent each time it calls a tool a…",
+   "author": "Hk_90",
+   "publishedAt": "2026-10-11T22:25:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/g0ub2et1zwuh1.jpeg?width=640&crop=smart&auto=webp&s=aaf4d8a9f7a2f4f730c225caa8e6d3cdf959c534"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Hk_90",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "dc74e02e10a9",
+   "canon": "https://www.reddit.com/comments/1x3lahq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1x3lahq/i_vibe_coded_a_247_twitch_stream_where_chat_has/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "I vibe coded a 24/7 Twitch stream where chat has to keep a 3D chicken alive. Strangers have been feeding her at 4am.",
+   "text": "Meet the hen. She lives in a barn on Twitch 24/7, and whether she survives is entirely up to chat.\n WHAT CHAT CAN DO (all free commands)\n - !feed / !water: refill her feeder and waterer. They only unlock once a reserve drops to 50%, so you can't just spam her full.\n - !swing:…",
+   "author": "Next-Drink",
+   "publishedAt": "2026-10-11T22:23:04+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/A48vAW565OZdJbVce39mIl_Oe5DjJXqVATUqPxmMETo.png?width=216&crop=smart&auto=webp&s=0b638c9cc76fe89d5c4d8e9b5a612a4070ceaefd"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Next-Drink",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1f9ad98d19c8",
+   "canon": "https://www.reddit.com/comments/1x3l63i",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3l63i/i_gave_claude_opus_55_a_textonly_design_brief_and/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "I gave Claude Opus 5.5 a text-only design brief and it built a complete Blender asset pipeline in 90 minutes",
+   "text": "Claude Code with Opus 5.5, effort set to high.\n Blender 5.2 running on a base M3 Mac. Claude uses Blender's MCP add-on to interact with the live scene. Full builds run headless in the background \n I started with a text-only design brief describing the assets I had in mind. No…",
+   "author": "FreshnessAi",
+   "publishedAt": "2026-10-11T22:17:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/c3bsd8mvtwuh1.jpg?width=140&height=70&auto=webp&s=edf6155f0910aea8abb49a8bb773b41fba49a72d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/FreshnessAi",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "586309351097",
+   "canon": "https://www.reddit.com/comments/1x3l1jx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3l1jx/buddy_21_an_opensource_android_app_that_lets/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "Buddy 2.1: an open-source Android app that lets Claude Code use your phone, on your own subscription. I built it with Claude Code, on the phone itself",
+   "text": "I built Buddy, a free, open-source Android app: a floating chat bubble that lets Claude Code (or Codex) operate your phone. I posted 1.0 a few days ago; this is 2.1.\n Why: I wanted an assistant on my phone that runs on the Claude subscription I already pay for, with no API bill…",
+   "author": "3amae404",
+   "publishedAt": "2026-10-11T22:11:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M2U1dmN2d2x3d3VoMdpISCaFKiS-TkKiOJwFO7gCue1MBfBrE8mDanaDZjW_.png?width=320&crop=smart&auto=webp&s=cd21760d60bbe7a9d27a3b615a85a0c433758ce6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/3amae404",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d042e7b61ed9",
+   "canon": "https://www.reddit.com/comments/1x3kvjx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3kvjx/an_rb_song_about_claudes_love_language/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "an r&b song about claude's love language",
+   "text": "I wrote it, and claude built it entirely in code, the beat, the voices and the video. no suno, no generators, no samples.\n rest are on my youtube, link in the comments.",
+   "author": "No-Cheetah-6338",
+   "publishedAt": "2026-10-11T22:04:34+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/b25oZHY5MzB2d3VoMT2-g_lFzPzmY-2_PFdzMRHN4m7ZXkkdsT3mYvhYxTvS.png?width=640&crop=smart&auto=webp&s=cc6d64beaad37d570249b8755dd1cc2b2d9a8235"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No-Cheetah-6338",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f81b7ef690ff",
+   "canon": "https://www.reddit.com/comments/1x3khvf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x3khvf/like_claude_tag_but_local/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "Like Claude Tag, but local",
+   "text": "Hey guys,\n If you've used Claude Tag, you know the potential of it for orchestration, a few months ago I built a version of it as a Claude Code plugin, that brings the concept as a local version of it, simply as a always-on task driven Claude Code agent. Our CLIs, our local…",
+   "author": "dnationpt",
+   "publishedAt": "2026-10-11T21:47:57+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NTRpNGR4Ynlyd3VoMXmdmwXo-h9C8KNPquEC8yM9n0eP8TlOcmurZpC23nAs.png?width=640&crop=smart&auto=webp&s=28dba64b56330e4442aac4042dd5c66444292c79"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/dnationpt",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "02c9d3acf9c1",
+   "canon": "https://www.reddit.com/comments/1x3kft6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x3kft6/claude_and_his_terrible_world_generation/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "Claude and his terrible world generation",
+   "text": "",
+   "author": "Mikey3277",
+   "publishedAt": "2026-10-11T21:45:22+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Mikey3277",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1f456fe4e910",
+   "canon": "https://www.reddit.com/comments/1x3kfpe",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x3kfpe/comparison_ofxr_bridge_fg_2x3x_modes_vs_vd_ssw/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "Comparison: OFXR Bridge FG (2X-3X modes) vs VD SSW",
+   "text": "Comparison of the new OFXR Bridge FrameGen with Virtual Desktop SSW.\n Tech differences:\n OFXR Bridge FrameGen (v0.2.13.2) – frame interpolation tech (OpenXR only). VD SSW – frame extrapolation tech (Fully universal).",
+   "author": "333hronos",
+   "publishedAt": "2026-10-11T21:45:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MjM3Njl0ZWtyd3VoMToUpoeEnYq_boa9ebhKD38GltWxHrlbL3ZANQXVnwIg.png?width=640&crop=smart&auto=webp&s=98d84664109bbb5a6b787ef19f1ab4e10644d964"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/333hronos",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c302ca7a5893",
+   "canon": "https://www.reddit.com/comments/1x3k8du",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x3k8du/i_use_claude_code_as_the_ai_backend_for_raycast/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "I use Claude Code as the AI backend for Raycast, so I don't need Raycast Pro",
+   "text": "https://preview.redd.it/de3kyl97qwuh1.png?width=747&format=png&auto=webp&s=79457ca12fc6f9a0b7f66d69eb91957d3b055fa8\n I pay for Claude, but I don't have Raycast Pro. I wanted the AI commands in Raycast, so I made an extension that sends the requests to Claude Code with `claude…",
+   "author": "WoodpeckerNational29",
+   "publishedAt": "2026-10-11T21:36:19+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/etWOI3DJvNwXTrR00hImhoLpr1QbiQxBlEfTUawO8Dk.png?width=140&height=70&auto=webp&s=ee9b9b795d4920fc866ca5d80de79ff31e720f4a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/WoodpeckerNational29",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f4756679f2dd",
+   "canon": "https://www.reddit.com/comments/1x3k470",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3k470/ways_of_exploring_a_claude_built_codebase/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "Ways of exploring a Claude built codebase",
+   "text": "I recently made heavy use of Claude Code to meet a demo deadline. Against all the odds of Murphy’s Law, it worked flawlessly. But now that the deadline is passed, I’m wanting to go back and actually dive into all the code Claude built and inform my own intuition like I would…",
+   "author": "scattered-thunder",
+   "publishedAt": "2026-10-11T21:31:14+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/scattered-thunder",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "10de63f01d10",
+   "canon": "https://www.reddit.com/comments/1x3k3zu",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x3k3zu/buddy_21_an_opensource_android_app_that_lets/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "Buddy 2.1: an open-source Android app that lets Claude Code use your phone, on your own subscription. I built it with Claude Code, on the phone itself",
+   "text": "I built Buddy, a free, open-source Android app: a floating chat bubble that lets Claude Code (or Codex) operate your phone. I posted 1.0 a few days ago; this is 2.1.\n What it does\n • You type or say a request in the bubble, and Claude Code reads the screen, taps, types and…",
+   "author": "3amae404",
+   "publishedAt": "2026-10-11T21:30:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Z3hhNzU2emFwd3VoMdpISCaFKiS-TkKiOJwFO7gCue1MBfBrE8mDanaDZjW_.png?width=320&crop=smart&auto=webp&s=da6d7de05b31237a5fbee2bf8bcc0dd91c8bbf7d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/3amae404",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2fe21dafcd20",
+   "canon": "https://www.reddit.com/comments/1x3jl02",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1x3jl02/this_is_a_minecraft_fabric_server_running/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "This is a Minecraft Fabric server running multithreaded. Full Vanilla mechanics.",
+   "text": "Hey there!\n For context: Vanilla Minecraft Servers are known to be very very limited by being mostly single threaded. The solution to that always was either keeping a server small enough, letting it lag or use server software that improved performance by changing core mechanics,…",
+   "author": "thedazdul",
+   "publishedAt": "2026-10-11T21:08:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/wyx593brjwuh1.png?width=640&crop=smart&auto=webp&s=064137621bcba81c2ad401331de0286d883067fd"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "voxel"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/thedazdul",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "62e01f57297c",
+   "canon": "https://www.reddit.com/comments/1x3jfnb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x3jfnb/from_drone_video_to_point_cloud_to_meshgaussian/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "From drone video to point cloud to mesh—Gaussian splat is next",
+   "text": "We’ve been processing a drone video entirely in AEC Platform, taking it from the original footage to a point cloud and now a 3D mesh.\n Next is cleaning up the mesh in our 3D workspace: filtering unwanted geometry, removing floating pieces, and repairing holes. Once that’s ready,…",
+   "author": "AECPLATFORM",
+   "publishedAt": "2026-10-11T21:02:16+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M3RjbDB6MTVrd3VoMd_1b0HocjuuvBxZukcH4C4LLSN5e90ZC4jqD4Flw5xd.png?width=640&crop=smart&auto=webp&s=635c01a40aea07c7342b1bd15c633be7699b6cdb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AECPLATFORM",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fc73b6806956",
+   "canon": "https://www.reddit.com/comments/1x3j8kc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x3j8kc/i_loved_tonandi_sigur_rós_on_magic_leap_so_much/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "I loved Tonandi (Sigur Rós on Magic Leap) so much that I tried to recreate that feeling on Vision Pro: Crystal Cave is my latest music and light experience that will make you feel different :]",
+   "text": "I’ve been in spatial computing for a long time, and one experience has stuck with me the whole way: Tonandi, the Sigur Rós piece on Magic Leap. Reaching out and touching glowing shapes floating in my room, and making the music with my hands, felt like nothing else. When I got my…",
+   "author": "steffan_",
+   "publishedAt": "2026-10-11T20:54:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/d3g0Y2ljdnBpd3VoMcXBx-EueccgZ59ils1YYqJSvlQ3ySXQwlzwL8C6CyTi.png?width=640&crop=smart&auto=webp&s=31dc4feba01178fb5a9626cdc28efb6ac42bf93c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/steffan_",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bbb0ccbbfc11",
+   "canon": "https://www.reddit.com/comments/1x3hful",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x3hful/spiderman_vr_newer_combat_it_also_got_a/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "Spiderman VR newer combat, it also got a perfomance yesterday update which is smooth even on low end hardware like mine (Clip from the dev, not mine)",
+   "text": "WHAT a time to be alive, crazy progress in less than 2 days lol",
+   "author": "Admirable_Zombie5245",
+   "publishedAt": "2026-10-11T19:41:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dnB5ZnNwaWo1d3VoMWBUjKo3mhWJ2XhMOv1B29XUJDEqe-7texlywx3RLpgX.png?width=640&crop=smart&auto=webp&s=cb17cbe224a6656d8222b5d2c37eedf739e2ee8e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Admirable_Zombie5245",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "066d55807941",
    "canon": "https://www.reddit.com/comments/1x3gx1z",
@@ -822,6 +1659,38 @@ window.CASES_DB = {
    "authorUrl": "https://www.reddit.com/user/Grummy029",
    "where": "r/virtualreality",
    "fetchedAt": "2026-10-11T19:38:34.765Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "58ce6841da19",
+   "canon": "https://www.reddit.com/comments/1x3d4qr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x3d4qr/2_lenovo_thinkreality_vrx_standalone_vr_headset/",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "(2) Lenovo ThinkReality VRX Standalone VR Headset 128GB Wi-Fi 6E 90Hz Black",
+   "text": "Hey anyone know where I can show this in Los Angeles area.\n 1 brand new one and 1 used but in 9/10 condition\n These are industrial use VR for training / mixed reality.",
+   "author": "AdvertisingCapable15",
+   "publishedAt": "2026-10-11T16:51:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/3t0kv3yibvuh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=968b49f572cb0cfb821e686194c6463781c815f4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AdvertisingCapable15",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
    "lang": "en",
    "model": null
   },
@@ -2576,6 +3445,59 @@ window.CASES_DB = {
    "model": null
   },
   {
+   "id": "4c14b98b807d",
+   "canon": "https://x.com/i/status/2109095401273938072",
+   "platform": "x",
+   "url": "https://x.com/SimbasJungles/status/2109095401273938072",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "",
+   "text": "Eu modelei meu Airbnb inteiro com Opus 5.5\n\nEnviei algumas fotos base e a planta 2D, somado com algumas referências do Pinterest, e pedi pra criar um mundo 3D usando Blender e Unreal Engine 5. https://t.co/uugUmelEwV",
+   "author": "SimbasJungles",
+   "publishedAt": "2026-10-11T01:35:03.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109095344789172224/img/h2NMgGyTWT7cOMt_.jpg",
+    "video": "https://video.twimg.com/amplify_video/2109095344789172224/vid/avc1/1918x1080/_LDrsXCa-R5u1Lxj.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 6893,
+    "views": 331156,
+    "comments": 117
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/airbnb-3d",
+     "categories": [
+      "blender"
+     ],
+     "date": "2026-10-11",
+     "credit": "SimbasJungles",
+     "metrics": {
+      "likes": 2113,
+      "views": 88921
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "blender",
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/SimbasJungles",
+   "where": null,
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "5a7e1a67e28f",
    "canon": "https://www.reddit.com/comments/1x2vjhb",
    "platform": "reddit",
@@ -2654,7 +3576,9 @@ window.CASES_DB = {
     "kind": "image",
     "thumb": "https://external-preview.redd.it/ajVkczMyaGZscXVoMWWf-WEqjgFlT2taRkycl27mRNFxv-foT3vwzdapnxuO.png?width=640&crop=smart&auto=webp&s=f7229605f5a041b1d216dbe958cf6e8f9501001f"
    },
-   "metrics": {},
+   "metrics": {
+    "likes": 166
+   },
    "refs": [],
    "tags": [
     "ai",
@@ -5202,6 +6126,60 @@ window.CASES_DB = {
    "fetchedAt": "2026-10-10T17:25:09.067Z",
    "lang": "en",
    "model": null
+  },
+  {
+   "id": "025f6b3732b4",
+   "canon": "https://x.com/i/status/2108913484805406859",
+   "platform": "x",
+   "url": "https://x.com/hayashimon1/status/2108913484805406859",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "",
+   "text": "Claude Opus 5.5への指示でBlenderで雰囲気あるコインランドリーの3DCGを作成しました。\nBlenderを手動で操作することなく、すべてプロンプトだけで構築してみました。\n基本的な制作の流れはリプで⬇️ https://t.co/92IzAxmZRh",
+   "author": "hayashimon1",
+   "publishedAt": "2026-10-10T13:32:11.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108909845613252608/img/Zq8Vx3KsPJYw7yOu.jpg",
+    "video": "https://video.twimg.com/amplify_video/2108909845613252608/vid/avc1/1920x1080/YIwCUfIn2uYh7OHR.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 4192,
+    "views": 535419,
+    "comments": 63
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/laundromat-3d",
+     "categories": [
+      "blender"
+     ],
+     "date": "2026-10-10",
+     "credit": "hayashimon1",
+     "metrics": {
+      "likes": 3432,
+      "views": 400048
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "blender",
+    "ai",
+    "three",
+    "region"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/hayashimon1",
+   "where": null,
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "ja",
+   "model": "Opus 5.5"
   },
   {
    "id": "4c13baa3839d",
@@ -12988,6 +13966,55 @@ window.CASES_DB = {
    "fetchedAt": "2026-10-08T18:56:36.107Z",
    "lang": "en",
    "model": null
+  },
+  {
+   "id": "7afd1b03c28f",
+   "canon": "https://x.com/i/status/2108159248148611292",
+   "platform": "x",
+   "url": "https://x.com/LexnLin/status/2108159248148611292",
+   "addedAt": "2026-10-12T00:38:20.570Z",
+   "title": "",
+   "text": "Opus 5.5 built a tiny world in a glass box \n\nyou can: grab a cloud &gt; squeeze rain out of it\nshake it &gt; lightning\n\"draw\" wind using the wind brush \nand theres a day night cycle + seasons as well\n\nhttps://t.co/WfErAwMlYW https://t.co/BwFQKvbCQ0",
+   "author": "LexnLin",
+   "publishedAt": "2026-10-08T11:35:07.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108158525599789057/img/mLu5-p3OakL1Rzwa.jpg",
+    "video": "https://video.twimg.com/amplify_video/2108158525599789057/vid/avc1/1920x1080/dZl7Jn9EvR2Nzc9K.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 901,
+    "views": 44991,
+    "comments": 53
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/glass-box-world",
+     "categories": [],
+     "date": "2026-10-08",
+     "credit": "Leon Lin · @LexnLin",
+     "metrics": {
+      "likes": 842,
+      "views": 32792
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/LexnLin",
+   "where": null,
+   "fetchedAt": "2026-10-12T00:38:20.570Z",
+   "lang": "en",
+   "model": "Opus 5.5"
   },
   {
    "id": "7b11ab50938c",
