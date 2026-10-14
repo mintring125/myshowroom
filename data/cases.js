@@ -1,8 +1,1022 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-10-14T05:03:05.518Z",
+ "updatedAt": "2026-10-14T12:03:24.180Z",
  "cases": [
+  {
+   "id": "b08edb1c6052",
+   "canon": "https://www.reddit.com/comments/1x5p80x",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5p80x/just_opened_my_eyes_to_opus_55_for_video/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "Just opened my eyes to Opus 5.5 for video generation",
+   "text": "I have been using Claude for more than a year now to assist with coding but Opus 5.5 has blown me off recently with how good it is at generating teaser and marketing videos!\n I found some YT tutorial on how to setup a Claude studio environment, and basically provide it with…",
+   "author": "NoWordsToDescribe",
+   "publishedAt": "2026-10-14T11:54:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Mjg3bXh5djU5ZnZoMRO_NQWghgbL9RZM0atEkuFjjvFatvBXCYl0Ho1k8Gu9.jpeg?width=640&crop=smart&auto=webp&s=3e9e1016c46e57026bcca6753fb59733bbe78184"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/NoWordsToDescribe",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "0f417412fb46",
+   "canon": "https://www.reddit.com/comments/1x5p58t",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x5p58t/criei_um_jogo_3d_multiplayer_usando_claude_code/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "Criei um jogo 3D multiplayer usando Claude Code!",
+   "text": "Criei um jogo 3D multiplayer usando Claude Code!\n Estou desenvolvendo o CrashFire, um jogo gratuito de combate entre carros armados, que roda diretamente no navegador.\n O projeto utiliza Three.js, TypeScript e Rapier, e toda a implementação do código é feita com Claude Code. Eu…",
+   "author": "fefuxd",
+   "publishedAt": "2026-10-14T11:50:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dGpibHZibWY4ZnZoMUt4PDBr0SGNwuP4DkRLnaxpsVm8IOaXSQ3PlMxz3d1Q.png?width=640&crop=smart&auto=webp&s=c4e79f98150b3d1be884d53a7837284e5c22fc01"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/fefuxd",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0e58ce5d7c72",
+   "canon": "https://www.reddit.com/comments/1x5p2c8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x5p2c8/30_billion_tokens_on_claude_and_im_just_getting/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "30 billion tokens on Claude… and I'm just getting started. 🤯",
+   "text": "I honestly didn't expect to see numbers like this when I started building with Claude.\n My usage dashboard is showing 30.1 billion total tokens across 33 sessions and 117,281 messages. Opus 5.5 has been doing most of the heavy lifting.\n A few days ago, we got $1,000 in Anthropic…",
+   "author": "em-abbas",
+   "publishedAt": "2026-10-14T11:46:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/c1u83q7p7fvh1.png?width=140&height=119&auto=webp&s=849f47c58f9f31a9bba2c9951c9356bba792dcce"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/em-abbas",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "97f6051b6c15",
+   "canon": "https://www.reddit.com/comments/1x5p1aa",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5p1aa/30_billion_tokens_on_claude_and_im_just_getting/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "30 billion tokens on Claude… and I'm just getting started. 🤯",
+   "text": "I honestly didn't expect to see numbers like this when I started building with Claude.\n My usage dashboard is showing 30.1 billion total tokens across 33 sessions and 117,281 messages. Opus 5.5 has been doing most of the heavy lifting.\n A few days ago, we got $1,000 in Anthropic…",
+   "author": "em-abbas",
+   "publishedAt": "2026-10-14T11:44:34+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/1t0z6tbe7fvh1.png?width=140&height=119&auto=webp&s=1101e5ed6c629d08e0fdd2cdcec697fe01eca785"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/em-abbas",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "bf8fc831aa10",
+   "canon": "https://www.reddit.com/comments/1x5odxs",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x5odxs/index_headset_goes_on_sale_for_the_first_time/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "Index Headset Goes on Sale for the First Time Ever as Valve Announces Discontinuation",
+   "text": "",
+   "author": "Miserable_Jelly721",
+   "publishedAt": "2026-10-14T11:09:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/yuCAg9jgEbRcTGjSF5ozA8RM28yMRuIvJK1g-NhHWzo.jpeg?width=640&crop=smart&auto=webp&s=40afc712ef033ea059d16c5f3d713a459acfb760"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Miserable_Jelly721",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "27f05bba4704",
+   "canon": "https://www.reddit.com/comments/1x5odw8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x5odw8/i_made_the_rust_using_opus_55/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "i made the Rust using opus 5.5",
+   "text": "Made rust with opus 5.5 in spawn.co\n https://www.spawn.co/@yuidev/corrode-beta",
+   "author": "yuiDEV",
+   "publishedAt": "2026-10-14T11:09:04+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bnFuaWdjZjExZnZoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=fdbca265082970c2c9d5902d6990bf3111722afb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/yuiDEV",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "97b72c49c308",
+   "canon": "https://www.reddit.com/comments/1x5o8rt",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x5o8rt/deft_an_opensource_selfhosted_workspace_for_chat/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "Deft: an open-source, self-hosted workspace for chat, tasks and knowledge + MCPs and experimental sideloadable apps",
+   "text": "Hey! I would like invite you all to try Deft! \n Deft brings chat, tasks and knowledge into one self-hosted workspace. The bit I care most about is keeping the discussion behind the work connected to what happens next.\n GitHub: https://github.com/Maneek21/Deft\n Walkthrough:…",
+   "author": "maneek21",
+   "publishedAt": "2026-10-14T11:01:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/627xqf2nwevh1.jpg?width=140&height=73&auto=webp&s=e4927564e26305b17c920da5beca6dd96aede5cc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/maneek21",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "37ce86081a04",
+   "canon": "https://www.reddit.com/comments/1x5o6bg",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x5o6bg/thoughts_on_opensource_product_delivery_platform/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "Thoughts on open-source product delivery platform",
+   "text": "Hi there, I've been working on open-source product delivery platform that connects your work (board, backlog) directly to your AI agent and code on your computers. \n So you write a ticket and there is a runner (which you install via npm) and it runs your Claude, Codex, Cursor,…",
+   "author": "No_Drawer1301",
+   "publishedAt": "2026-10-14T10:57:20+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/o8ijwpajyevh1.gif?width=640&crop=smart&s=9015fb9174e2f35f2710eebfb2872da87b20d980"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No_Drawer1301",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4d87de8a7293",
+   "canon": "https://www.reddit.com/comments/1x5o28z",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x5o28z/motion_graphics_standoff_argon_vs_opus_55_vs/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "Motion graphics stand-off - Argon vs Opus 5.5 vs others",
+   "text": "Do you make motion graphics inside CC for your launch videos? We benchmarked Argon and didn’t find it to be much faster/higher quality. It seems to follow instructions well and generated decent productions but nothing you would expect from someone at Google’s scale.\n Top image…",
+   "author": "dsco",
+   "publishedAt": "2026-10-14T10:50:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/yljy4g0sxevh1.jpeg?width=640&crop=smart&auto=webp&s=8f8167552c26a2fb025fd0d2ead300957d6c14dd"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/dsco",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "75f40d8b319b",
+   "canon": "https://www.reddit.com/comments/1x5nvvu",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5nvvu/claude_wont_display_previous_versions_anymore/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "Claude won’t display previous versions anymore",
+   "text": "I've been chasing this for three weeks and haven't found a single other report, which is why I'm posting. Would really like to know if I'm alone here.\n Since around 25 September, editing one of my messages or regenerating a Claude response stopped giving me any way to page back…",
+   "author": "Denashhk",
+   "publishedAt": "2026-10-14T10:39:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/2mt5siuwvevh1.jpeg?width=640&crop=smart&auto=webp&s=4d76f76209d9458dfa4114e9a08be7c7327f2493"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Denashhk",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a2d5ca829f0b",
+   "canon": "https://www.reddit.com/comments/1x5ntc3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x5ntc3/spiderman_vr_combat/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "Spiderman VR Combat",
+   "text": "Didnt think combat would be this fun/work this good but it does . 1:50 - 2:20 felt so cool i cant even put into words",
+   "author": "Neat-Society-6343",
+   "publishedAt": "2026-10-14T10:35:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/SlmoQpX5nqHNm7RYRBpjj9t1sgAN2mTaEfviMD8BA4Q.jpeg?width=320&crop=smart&auto=webp&s=8abe63ff701e8b10e0fafeef17364ad3bbb0f15c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Neat-Society-6343",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0a2623f4fbba",
+   "canon": "https://www.reddit.com/comments/1x5nrel",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5nrel/i_built_a_free_template_that_gives_noncoders_a/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "I built a free template that gives non-coders a small AI dev team (PM, devs, QA, legal, and one agent whose job is cutting your AI bill)",
+   "text": "I kept seeing the same thing: people with a real business idea ask an AI to \"build the app\", get something that half works, and can't tell what went wrong.\n So I made an open-source template that runs it like a tiny startup instead. You talk to a project manager agent. It brings…",
+   "author": "Ok-Bus4754",
+   "publishedAt": "2026-10-14T10:32:21+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ok-Bus4754",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c381be64035b",
+   "canon": "https://www.reddit.com/comments/1x5njv6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/singularity/comments/1x5njv6/i_suggested_that_my_autonomous_claude_agents_try/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "I suggested that my autonomous Claude agents try astronomy on my PC for fun. They found 104 new eclipsing binary stars and came up with a new method for finding them, on their own",
+   "text": "https://preview.redd.it/nbmqizrasevh1.png?width=2400&format=png&auto=webp&s=056954359a72f744f6af074fbe49cd25dd563766\n (For most of these systems, they were recorded as 2 stars, but no one knew that we could see them overlap; you can determine a lot more info about the individual…",
+   "author": "kaityl3",
+   "publishedAt": "2026-10-14T10:20:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/nbmqizrasevh1.png?width=140&height=73&auto=webp&s=00f0582eb46498dabfd964d0bb3568bd7c198bf1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/kaityl3",
+   "where": "r/singularity",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f14dcf277b1e",
+   "canon": "https://www.reddit.com/comments/1x5nid6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5nid6/i_suggested_that_my_autonomous_claude_agents_try/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "I suggested that my autonomous Claude agents try astronomy on my PC for fun. They found 104 new eclipsing binary stars and came up with a new method for finding them, on their own",
+   "text": "https://preview.redd.it/juqnyje7qevh1.png?width=2400&format=png&auto=webp&s=f764b048ac1e077ec4af557df8600f86f729c2e0\n (For most of these systems, they were recorded as 2 stars, but no one knew that we could see them overlap; you can determine a lot more info about the individual…",
+   "author": "kaityl3",
+   "publishedAt": "2026-10-14T10:17:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/juqnyje7qevh1.png?width=140&height=73&auto=webp&s=539f57fb7d3a19f7a424061e303c1151d7275de5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/kaityl3",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8164c3114d6f",
+   "canon": "https://www.reddit.com/comments/1x5nhp4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x5nhp4/update_my_solodev_vr_camping_game_is_now_on_the/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "Update: my solo-dev VR camping game is now on the Meta Quest store!",
+   "text": "Heyo, thank you sooo much for the support on the last post!\n I've just been approved by Meta and Steam, and it's OUT NOW on the Meta Quest store! Steam release will still be roughly 2-3 weeks away, any wishlists would make a huge difference for me.\n Out now on Meta Quest Store:…",
+   "author": "DarkIava",
+   "publishedAt": "2026-10-14T10:16:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YXM1dWgzbWhtZXZoMYzGkFrMBWBfVG_iiDrg7NU9_Says1GcfzpkcBKe1M4f.png?width=640&crop=smart&auto=webp&s=28c247e8b332172e2c06768bca6f2245a08f6fbd"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/DarkIava",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "be50c5f0bd35",
+   "canon": "https://www.reddit.com/comments/1x5necu",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x5necu/few_tips_how_to_make_a_highquality_game_with_ai/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "Few tips how to make a high-quality game with AI",
+   "text": "I started making my game before AI blew up in 2022. It took so long because I'm a coder/screenwriter with no design skills, so I had to learn everything from scratch. Initially the story was told entirely through chat messages, but as AI evolved, I gradually incorporated more…",
+   "author": "dentegza",
+   "publishedAt": "2026-10-14T10:10:33+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/dentegza",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b53625705dc5",
+   "canon": "https://www.reddit.com/comments/1x5n9bh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5n9bh/so_i_asked_a_few_models_to_be_a_tsundere/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "So I asked a few models to *be a tsundere*",
+   "text": "For those unaware of what it is: https://en.wikipedia.org/wiki/Tsundere\n Model tested (in order): Opus 5.5, Sonnet 5.5, GPT 6.1 Sol, Gemini 4 Argon, DeepSeek 4.1 Flash, GLM 5.3 Flash and MiMo 2.6 Flash. Claude uses Claude Code since I only have a subscription, and everything…",
+   "author": "ohaiibuzzle",
+   "publishedAt": "2026-10-14T10:01:43+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/9s5z19jkkevh1.png?width=140&height=92&auto=webp&s=820cf1fb6ab4a79e82b3b78af646999dd32957e7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ohaiibuzzle",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": "Opus 5.5 · Sonnet 5.5"
+  },
+  {
+   "id": "40f8d4905f17",
+   "canon": "https://www.reddit.com/comments/1x5n1ur",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5n1ur/i_optimised_my_parallel_claude_coding_sessions/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "I optimised my parallel Claude coding sessions with a custom Stream Deck plugin (Claude Code, VS Code + Dev Container)",
+   "text": "Disclosure: I made this, and it's free for personal use.\n I usually have a few Claude Code sessions running, some in the Claude app and some in VS Code. Too often one had stopped to ask for permission, and I only noticed much later because I was in another window.\n So I built…",
+   "author": "MrAstroThomas",
+   "publishedAt": "2026-10-14T09:49:13+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ODlvcDZlbmJtZXZoMWgcX3PqyC-WhvSxsTGSES0Wl1chILrNbG1NxgGZLU4N.png?width=640&crop=smart&auto=webp&s=6b9cd03dc9448532de55c74c824305590128a86f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MrAstroThomas",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9a3f8bfa7449",
+   "canon": "https://www.reddit.com/comments/1x5mxv2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x5mxv2/splat_light_interaction_in_blender_alpha_54/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "Splat light interaction in Blender Alpha 5.4",
+   "text": "I tried out the native Splat integration inside of Blender, I gotta say it’s pretty fun. Even though the splat itself is rather low quality, it was the best example for the light interaction. I just swapped out the emission texture and replaced with a principled bsdf, to be able…",
+   "author": "exro_visuals",
+   "publishedAt": "2026-10-14T09:41:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YnZkdWxmMGpsZXZoMU90M_eBi2LLDCRgYA1ZrHCi1bDAUTR2B-v_WH5CY1C5.jpeg?width=320&crop=smart&auto=webp&s=a4e2a2344915ed048233605e70d3a6d9edaf518b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/exro_visuals",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7c36c54a80b1",
+   "canon": "https://www.reddit.com/comments/1x5mxe7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5mxe7/deft_an_opensource_selfhosted_workspace_for_chat/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "Deft: an open-source, self-hosted workspace for chat, tasks and knowledge + MCPs and experimental sideloadable apps",
+   "text": "GitHub: https://github.com/Maneek21/Deft\n Walkthrough: https://youtu.be/7z9EH4c9k2o\n Deft brings chat, tasks and knowledge into one self-hosted workspace. The bit I care most about is keeping the discussion behind the work connected to what happens next.\n The screenshots show:…",
+   "author": "maneek21",
+   "publishedAt": "2026-10-14T09:41:04+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/75h7y29kaevh1.jpg?width=140&height=73&auto=webp&s=a256ecee5645460590c1a162a34280d6ebcc6502"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/maneek21",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "758f082c1465",
+   "canon": "https://www.reddit.com/comments/1x5mw8t",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x5mw8t/built_a_creator_directory/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "Built a creator directory",
+   "text": "Hello Everyone.\n I have built this website fully with Claude opus 5.5.\n The idea came when I was sitting with my marketing team and I saw them running like headless chickens dming content creators for a clients UGC campaign.\n So I said why don’t they use a free directory or…",
+   "author": "local_dmm",
+   "publishedAt": "2026-10-14T09:39:03+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/local_dmm",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "1fecfc392970",
+   "canon": "https://www.reddit.com/comments/1x5mvhs",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x5mvhs/ai_tarot_app/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "AI Tarot App",
+   "text": "Hi Reddit community,\n I've created that prototype of an AI tarot app reader\n Claude (Opus 5.5):\n Critical Product Manager role from the start of the idea, until completion\n Created the brief\n Created the structure\n Uploaded all the connection to GitHub, Netlify\n Structured the…",
+   "author": "AlexisDC",
+   "publishedAt": "2026-10-14T09:37:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M3V5bnF2bHNrZXZoMR_fdxLwxiVwSjAU0X1e-RiUoNiQx4HIj89tcnChW9Zm.png?width=640&crop=smart&auto=webp&s=96761629c1086b4ceaeaebe7f28f1473fad5b03d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AlexisDC",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "9ec439cc4a01",
+   "canon": "https://www.reddit.com/comments/1x5mtw5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x5mtw5/splat_turn_out_blue_xd/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "Splat turn out blue XD",
+   "text": "https://preview.redd.it/o2dg9iu2kevh1.png?width=1911&format=png&auto=webp&s=e90c30fd66cd203124168af841892339b8124d0f\n I'm using spirula for this but most of my splat turn out blue. is there any wrong im doing while generate it?",
+   "author": "fvckingedel",
+   "publishedAt": "2026-10-14T09:34:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/o2dg9iu2kevh1.png?width=140&height=51&auto=webp&s=3f9a5d8adc996c565f5315ed5c0e1663f14f98da"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/fvckingedel",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5e92be41dbe0",
+   "canon": "https://www.reddit.com/comments/1x5mt6m",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x5mt6m/valve_releases_steam_frame_cad_files_for_modders/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "Valve releases Steam Frame CAD files for modders, including the controllers, head strap and battery housing",
+   "text": "",
+   "author": "Dorian182",
+   "publishedAt": "2026-10-14T09:33:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Xd6Y1Xqy5SMIT500gdLnfucMdZ0S9asyiHaKY3LJBAc.png?width=640&crop=smart&auto=webp&s=1d0b23cb65dee69b9db9d019acc1d3128b6d9f95"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Dorian182",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "61e674be5855",
+   "canon": "https://www.reddit.com/comments/1x5mrm1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x5mrm1/gemini_4_argon_games_are_in_here_too_950/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "Gemini 4 Argon games are in here too — 950+ source-verified AI-built games (Claude Opus 5.5, GPT-6, Gemini 4 Argon and more)",
+   "text": "",
+   "author": "RepresentativeUse115",
+   "publishedAt": "2026-10-14T09:30:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/EApbD3MEpqLBqKybbFQxAk3BmiSegmcfDnFDe-jXAbc.jpeg?width=640&crop=smart&auto=webp&s=288361a133e37959996d0fe01bc9c642e143cf27"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RepresentativeUse115",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "c9ebb8b2e716",
+   "canon": "https://www.reddit.com/comments/1x5mpnq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x5mpnq/running_multiple_claude_code_accounts_with_herdr/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "Running Multiple Claude Code Accounts with herdr",
+   "text": "",
+   "author": "mcnamaragio",
+   "publishedAt": "2026-10-14T09:27:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/BUOOIX8NF8LhcCgMDp8c28tHW178VE5MdP9kyepdV1Q.png?width=640&crop=smart&auto=webp&s=1da22bd5253bd002bf6a6c7cefeac84116df60dc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/mcnamaragio",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "dc6fa285ab44",
+   "canon": "https://www.reddit.com/comments/1x5mp6e",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x5mp6e/built_a_zombie_shooter_with_opus_55/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "Built a zombie shooter with opus 5.5",
+   "text": "In between waiting for app review I usually build browser or iOS games. This time it’s a zombie shooter. Started with opus 5 and finished with 5.5. Opus pretty much built everything, authored poses and animations. I used 3d models of zombies and weapons that I made with meshy.…",
+   "author": "Emojinapp",
+   "publishedAt": "2026-10-14T09:26:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/N3Q5ZW52c2hoZXZoMZajxLK2uQCCzgdi8HHk2Q7JDa4dt7HFBvkAgOy3TbKd.jpeg?width=640&crop=smart&auto=webp&s=ba843c4304d78157d4494a1d21861b006e5e7243"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Emojinapp",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "71c6e437b653",
+   "canon": "https://www.reddit.com/comments/1x5moz0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/threejs/comments/1x5moz0/i_made_a_25d_platformer_in_threejs_that_runs_in/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "I made a 2.5D platformer in three.js that runs in the browser, phones included",
+   "text": "Play it here, free and with no install: https://mara.davidpalmero.dev\n Some details:\n - The title screen shows first and the 3D scene is built behind it. On a simulated 4G connection the title appears in about 3 s instead of 30. Lighthouse 99-100.\n - The 44 3D models are…",
+   "author": "Long_Fun_8174",
+   "publishedAt": "2026-10-14T09:26:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/czdhNzRpZHJpZXZoMYtGnNfG1x8Z6d8tmgZHhODe7fvXaFFxf6MF8lPz8Vl6.png?width=640&crop=smart&auto=webp&s=b5bfa6b4b2c74dfb12abb680237828c255024d7b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Long_Fun_8174",
+   "where": "r/threejs",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "532c7e0ff699",
+   "canon": "https://www.reddit.com/comments/1x5mnrd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x5mnrd/opus_55_orchestrating_gpt6_astra_vs_gemini_4/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "Opus 5.5 orchestrating GPT-6 Astra vs Gemini 4 Argon: directing Blender to build a warship from one picture",
+   "text": "Soooo after the \"TinyPlanet\" bench I always run on new models, a topic that's of much interest to me: can Gemini 4 direct Blender better than Astra (the crowned king).\n Well, you be the judge of it.\n All subagents are orchestrated by Claude Opus 5.5. It monitored the processes,…",
+   "author": "Timisageek",
+   "publishedAt": "2026-10-14T09:24:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/DOaDVRq3XgTxtLU7GyfY4epvW3V4BRbAg0jMEydFf4w.jpeg?width=640&crop=smart&auto=webp&s=7d4fbb4b216453040e766b1c3dbefbd3440bfd1e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Timisageek",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "60a5baf458cc",
+   "canon": "https://www.reddit.com/comments/1x5kpwk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x5kpwk/space_marine_2_vr_mod/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "Space Marine 2 VR mod",
+   "text": "I've been nudging Codex to chip away at VR support for Space Marine 2 for a couple days now and it's managed to whip up a pretty decent attempt! \n It performs terribly on my 4090 running an Index, the menus are all busted, and I haven't figured out melee yet but it's still…",
+   "author": "Reklaw12",
+   "publishedAt": "2026-10-14T07:15:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cWJqMm0xZ3F1ZHZoMeuUgFQkVK221a9kwhQ0An0mrZksvR4x_m8KSQH8GbeJ.png?width=640&crop=smart&auto=webp&s=ca96880637f2bb5543970d0e0e862ec200ca5ee8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Reklaw12",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fc5cca02112d",
+   "canon": "https://www.reddit.com/comments/1x5iymr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1x5iymr/last_week_i_worked_on_a_small_project_to_bring/",
+   "addedAt": "2026-10-14T12:00:39.309Z",
+   "title": "Last week, I worked on a small project to bring back a game I built years ago! It was originally made for mobile, and I used agentic workflows to turn it into a Mixed Reality tabletop game.",
+   "text": "⚙️ Tools I used:\n - Muse Code (𝗺𝘂𝘀𝗲-𝘄𝗼𝗻𝗱𝗲𝗿-𝟭.𝟬)\n - Unity / Unity CLI\n - Meta SDKs (ISDK, MRUK, PSDK)\n - Meta VR CLI\n - Adobe Photoshop\n My plan is to launch it in the store as a demo by tomorrow morning and I’ll be doing a video about my learnings!\n The original…",
+   "author": "dilmerv",
+   "publishedAt": "2026-10-14T05:25:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/a3U5dnZhZHJiZHZoMdoMF56hp7l_Nmuz2gFYKn9imZhi6HnKGPqRlgk8If3H.jpeg?width=640&crop=smart&auto=webp&s=3cc843cfdfd572c76c10f8d6797fc89b980f2b31"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr",
+    "three",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/dilmerv",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-14T12:00:39.309Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "a72c62d3da10",
    "canon": "https://www.reddit.com/comments/1x5ih7z",
