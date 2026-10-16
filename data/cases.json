@@ -1,7 +1,427 @@
 {
  "version": 1,
- "updatedAt": "2026-10-16T21:18:22.534Z",
+ "updatedAt": "2026-10-16T23:44:01.711Z",
  "cases": [
+  {
+   "id": "5203c7f92681",
+   "canon": "https://www.reddit.com/comments/1x7v5jt",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1x7v5jt/the_2015_hololens_minecraft_demo_never_shipped_so/",
+   "addedAt": "2026-10-16T23:41:23.845Z",
+   "title": "The 2015 HoloLens Minecraft demo never shipped, so I built it for Quest 3: a live Minecraft server on my desk in passthrough (free and open source)",
+   "text": "Ever since Microsoft's 2015 HoloLens demo put a Minecraft world on a coffee table, I've wanted it for real. It never shipped, so I built it for Quest 3.\n Tabletop Craft AR shows a live Minecraft: Java Edition server as a miniature on your real table. Players keep playing on PC…",
+   "author": "NicoSwag33",
+   "publishedAt": "2026-10-16T23:22:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cmZyeWs5YnF4d3ZoMYtGnNfG1x8Z6d8tmgZHhODe7fvXaFFxf6MF8lPz8Vl6.png?width=640&crop=smart&auto=webp&s=c284f24f54fafe34f6974866c6694e67e67116cd"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr",
+    "voxel"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/NicoSwag33",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-16T23:41:23.845Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fa728968dd40",
+   "canon": "https://www.reddit.com/comments/1x7v1f3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x7v1f3/the_house_of_the_dead_1996_arcade_in_real_3d_vr/",
+   "addedAt": "2026-10-16T23:41:23.845Z",
+   "title": "The House of the Dead (1996 arcade) in REAL 3D VR on Quest 3: the zombies walk right up to you, your gloved hand holds a 3D gun.",
+   "text": "The House of the Dead is out in VR.\n Thank you again for Time Crisis: we're now 294 on the Discord, and your bug reports and wishes shape every releases and updates.\n This time you're in the Curien mansion, at real scale, in the game's own 3D, and the zombies walk right up to…",
+   "author": "alloxrinfo",
+   "publishedAt": "2026-10-16T23:17:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cm04ZmVjd3B3d3ZoMTzmtPXwrSKGaPz-ASygUU_4dCyQ-mtYKa3mkZ_ZB7Sw.png?width=640&crop=smart&auto=webp&s=1fbc8b1669eb60c429185b32e05af1c20236d052"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/alloxrinfo",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-16T23:41:23.845Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e95ed2d9ad5d",
+   "canon": "https://www.reddit.com/comments/1x7una9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1x7una9/augmented_reality_i_made_a_nice_ar_activation_on/",
+   "addedAt": "2026-10-16T23:41:23.845Z",
+   "title": "[Augmented Reality] I made a nice AR activation on my friend's challenge coin",
+   "text": "",
+   "author": "Stukwan",
+   "publishedAt": "2026-10-16T22:59:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NXJhbWFpbWt0d3ZoMV6jYWt3rD0FMDOJz_0Gun578i4-uzHvJZpIyFn7NOzZ.png?width=320&crop=smart&auto=webp&s=48a495030a4fa801ef838f46e44f6241196327b3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Stukwan",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-10-16T23:41:23.845Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "97a00f7d7bb2",
+   "canon": "https://www.reddit.com/comments/1x7ujz1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x7ujz1/portal_in_mixed_reality/",
+   "addedAt": "2026-10-16T23:41:23.845Z",
+   "title": "portal in mixed reality",
+   "text": "It's kinda weird seeing yourself from above. for now I'll keep it as an optional beta feature\n I'm still testing it out",
+   "author": "flokiXR",
+   "publishedAt": "2026-10-16T22:54:48+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Z2U3a2J3NnRzd3ZoMcCpLA-4lhdgL_HIzzdBFzFPjKfH1NM3wq3nyleX7xaI.png?width=640&crop=smart&auto=webp&s=cc3504fa0d0e1c19b0bf2ed702e28d574ba95e01"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/flokiXR",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-16T23:41:23.845Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f8e0a5762305",
+   "canon": "https://www.reddit.com/comments/1x7uggc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x7uggc/gravitas_plague_end_times_survival_horror_with_a/",
+   "addedAt": "2026-10-16T23:41:23.845Z",
+   "title": "Gravitas Plague - end times survival horror with a twist",
+   "text": "Hey all, so excited to share that Gravitas Plague is now available for preorder and launches on October 24th. I really wanted to do something different. Something which could only be accomplished on the Apple Vision Pro hardware. You know justify the cost. So this does a bunch…",
+   "author": "SouthpawEffex",
+   "publishedAt": "2026-10-16T22:50:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cXZjZ256dHJxd3ZoMXwkLXg8sV8bgRvh3Dn8-JInTfae4epK6_zonwUOM5tt.png?width=640&crop=smart&auto=webp&s=6a0e15cbb080b035382e24a048ad3e1303bad9d9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SouthpawEffex",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-16T23:41:23.845Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0a4e3660882f",
+   "canon": "https://www.reddit.com/comments/1x7tc6l",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vrdev/comments/1x7tc6l/vr_character_fidelity_versus_performance_my/",
+   "addedAt": "2026-10-16T23:41:23.845Z",
+   "title": "VR character fidelity versus performance: my SLASHER NIGHT WIP comparison",
+   "text": "A development tradeoff from my VR slasher project SLASHER NIGHT: I wanted more distinct NPC faces, but needed to keep performance acceptable. I tried MetaHumans, then kept optimizing; the short shows the old characters and the current result.\n The useful lesson for me has been…",
+   "author": "N0N_00000",
+   "publishedAt": "2026-10-16T22:00:53+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/N0N_00000",
+   "where": "r/vrdev",
+   "fetchedAt": "2026-10-16T23:41:23.845Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cc4e69513e4a",
+   "canon": "https://www.reddit.com/comments/1x7t5yn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x7t5yn/modded_morrowind_is_great_in_vr_using_openmw_vr/",
+   "addedAt": "2026-10-16T23:41:23.845Z",
+   "title": "Modded Morrowind is great in VR. Using OpenMW VR",
+   "text": "",
+   "author": "BogNakamura",
+   "publishedAt": "2026-10-16T21:54:19+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dTNnbmg5ejBpd3ZoMe8OsZUpdFChmCmUj4YgtX47TdCPKrBbGwFxFOi4rvBY.jpeg?width=320&crop=smart&auto=webp&s=6d3377cc9d8c11b63a062852776e9b2d6ec4ce0f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/BogNakamura",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-16T23:41:23.845Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9705617f6d55",
+   "canon": "https://www.reddit.com/comments/1x7t3a3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1x7t3a3/trying_out_portals_in_mixed_reality/",
+   "addedAt": "2026-10-16T23:41:23.845Z",
+   "title": "trying out portals in mixed reality",
+   "text": "It's kinda weird seeing yourself from above. for now I'll keep it as an optional beta feature\n I'm still testing it out",
+   "author": "flokiXR",
+   "publishedAt": "2026-10-16T21:51:11+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NGtteGt5dmdod3ZoMcCpLA-4lhdgL_HIzzdBFzFPjKfH1NM3wq3nyleX7xaI.png?width=640&crop=smart&auto=webp&s=2aa59795ce11b2eca4f714f4e0c8bd45490a5308"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/flokiXR",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-16T23:41:23.845Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "54ca9d9aee87",
+   "canon": "https://www.reddit.com/comments/1x7t1ux",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1x7t1ux/trying_out_portals_in_mixed_reality/",
+   "addedAt": "2026-10-16T23:41:23.845Z",
+   "title": "trying out portals in mixed reality",
+   "text": "It's kinda weird seeing yourself from above. for now I'll keep it as an optional beta feature\n I'm still testing it out",
+   "author": "flokiXR",
+   "publishedAt": "2026-10-16T21:49:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bjFoZnMzOTZod3ZoMcCpLA-4lhdgL_HIzzdBFzFPjKfH1NM3wq3nyleX7xaI.png?width=640&crop=smart&auto=webp&s=28e07569e19624df36e720297300552a290bd2b7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/flokiXR",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-10-16T23:41:23.845Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8321cdeebf10",
+   "canon": "https://www.reddit.com/comments/1x7sldr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1x7sldr/space_harrier_for_specs_ar_glasses/",
+   "addedAt": "2026-10-16T23:41:23.845Z",
+   "title": "Space Harrier for Specs AR Glasses",
+   "text": "An arcade classic on Specs AR Glasses",
+   "author": "rex_xzec",
+   "publishedAt": "2026-10-16T21:29:51+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ODFubWk1am5kd3ZoMT5TIIqIFYbes99_r8fP_tRF1DqxWFaW8ytN9dDCw8g0.jpeg?width=640&crop=smart&auto=webp&s=ce0e32e487ed04f0c63c48bb5f81cf48fd7bebcc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/rex_xzec",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-10-16T23:41:23.845Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "537debbd13ae",
+   "canon": "https://www.reddit.com/comments/1x7skxa",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x7skxa/batman_arkham_shadows_in_pc_at_120fps/",
+   "addedAt": "2026-10-16T23:41:23.845Z",
+   "title": "Batman Arkham Shadows In pc at 120fps",
+   "text": "",
+   "author": "5shen",
+   "publishedAt": "2026-10-16T21:29:20+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OHUzZ2xmNWRkd3ZoMSdpGU0bqyqYuM4fUcwEZmFdOXJAcTjEmzIFVYoujNbn.png?width=640&crop=smart&auto=webp&s=cabefcf6464f5b7515358ac2390e01909dc8d0d3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/5shen",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-16T23:41:23.845Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a37b3bf2a2b4",
+   "canon": "https://www.reddit.com/comments/1x7sk1z",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x7sk1z/i_brought_a_bit_of_spring_into_the_hallway/",
+   "addedAt": "2026-10-16T23:41:23.845Z",
+   "title": "I brought a bit of spring into the hallway...",
+   "text": "Vitre Experiment #4.⁣\n ⁣\n Winter is coming, so I brought a bit of spring into the hallway by adding synthetic 3DGS assets to the scene.⁣\n ⁣\n Still running smoothly. ⁣",
+   "author": "smallfly-h",
+   "publishedAt": "2026-10-16T21:28:17+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dXE1bWU3eWNkd3ZoMUzSTHWqKjO8prht1aZPbIqcyYYDCHZQT-ypR9wnS6-m.png?width=640&crop=smart&auto=webp&s=0f9070ad5d497acfc2a18285abf8d69829dae1fb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/smallfly-h",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-16T23:41:23.845Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "da4fc16b7e8f",
+   "canon": "https://www.reddit.com/comments/1x7sg9f",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x7sg9f/the_best_pc_vr_demos_out_now_ahead_of_steam_next/",
+   "addedAt": "2026-10-16T23:41:23.845Z",
+   "title": "The Best PC VR Demos Out Now Ahead Of Steam Next Fest",
+   "text": "Rustmourne The Rifted Skies RAID VR Board Of The Future Hyperlane Highway STUFFED Two Foot Hero CRASHLAND Interlocked Puzzle Islands https://www.uploadvr.com/rustmourne-the-rifted-skies-pc-vr-demos-available-now-next-fest/\n anyone play any of these? what's cool? or everybody…",
+   "author": "Night247",
+   "publishedAt": "2026-10-16T21:23:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/FfKslwmCu9st9KdU0IFJoL7Nl_ByvRISyMobx-kejsI.png?width=640&crop=smart&auto=webp&s=71c161bffc6d37de3297df77393cf1f2cab7f2b7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Night247",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-16T23:41:23.845Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "1b863885d7f4",
    "canon": "https://www.reddit.com/comments/1x7s5yg",
