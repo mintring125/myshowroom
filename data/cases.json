@@ -1,7 +1,299 @@
 {
  "version": 1,
- "updatedAt": "2026-10-16T16:47:54.429Z",
+ "updatedAt": "2026-10-16T21:18:22.534Z",
  "cases": [
+  {
+   "id": "1b863885d7f4",
+   "canon": "https://www.reddit.com/comments/1x7s5yg",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x7s5yg/spatial_shooting_range_v30/",
+   "addedAt": "2026-10-16T21:16:31.721Z",
+   "title": "Spatial Shooting Range v3.0",
+   "text": "I dropped another update (3.0) for Spatial Shooting Range. \n It’s a fun game to practice shooting with. My shot count is over 106k, (spiking drastically since I added the mini-gun) \n You will probably never need to shoot from a moving helicopter, but I'd hate for you to get…",
+   "author": "AHApps",
+   "publishedAt": "2026-10-16T21:11:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/anMzZnN3YXM5d3ZoMWb-oXj_cPp3GWgvmZqtFvwKjOphJNmOHHMkN2H9x7hd.png?width=640&crop=smart&auto=webp&s=6c170443be111a048b3b987930230b351689908f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AHApps",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-16T21:16:31.721Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "eff68e8e47e4",
+   "canon": "https://www.reddit.com/comments/1x7rn25",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vrdev/comments/1x7rn25/i_made_my_first_vr_climbing_game_for_meta_quest_3/",
+   "addedAt": "2026-10-16T21:16:31.721Z",
+   "title": "I made my first VR climbing game for Meta Quest 3! Would love for you guys to check it out",
+   "text": "",
+   "author": "javiergame4",
+   "publishedAt": "2026-10-16T20:50:42+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/javiergame4",
+   "where": "r/vrdev",
+   "fetchedAt": "2026-10-16T21:16:31.721Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d0610d3af86f",
+   "canon": "https://www.reddit.com/comments/1x7qj43",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x7qj43/3dgs_render_engine_for_blender_53/",
+   "addedAt": "2026-10-16T21:16:31.721Z",
+   "title": "3DGS Render Engine for Blender 5.3",
+   "text": "I've been finding the default render engines in Blender don't really handle native 3DGS models very well.\n I've been working on an improvement that combines cycles with the render engines used in Spirula.\n It is still very experimental, but it can relight models and map shadows…",
+   "author": "timfennell_",
+   "publishedAt": "2026-10-16T20:05:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/aop7fdspyvvh1.gif?frame=1&width=140&height=78&auto=webp&s=bf8b9cd108c6fb7f1bf6ccbf9d38407528a07dc1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/timfennell_",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-16T21:16:31.721Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fd6b11ce22fe",
+   "canon": "https://www.reddit.com/comments/1x7p2y0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x7p2y0/testing_portal_in_mixed_reality/",
+   "addedAt": "2026-10-16T21:16:31.721Z",
+   "title": "testing portal in mixed reality",
+   "text": "It's kinda weird seeing yourself from above. for now I'll keep it as an optional beta feature",
+   "author": "flokiXR",
+   "publishedAt": "2026-10-16T19:09:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bTJ3Y2s2dGxvdnZoMakd4lSGGMeVIOXb9LBU9AbqbcnR2JQ1u97VIMxMBkqb.png?width=640&crop=smart&auto=webp&s=78cf6ea23ec783da61b996950cd7de5ab6379d5b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/flokiXR",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-16T21:16:31.721Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b94a2636516b",
+   "canon": "https://www.reddit.com/comments/1x7oz1q",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x7oz1q/avp_paris_auto_show/",
+   "addedAt": "2026-10-16T21:16:31.721Z",
+   "title": "AVP Paris Auto Show",
+   "text": "Thought it was interesting how many manufacturers were using AVP for demos at the Paris Auto Show this year.",
+   "author": "iboy195",
+   "publishedAt": "2026-10-16T19:05:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/2whw45uwnvvh1.jpg?width=140&height=104&auto=webp&s=276ff5a3a9aeaceaae32415ffd410aac27c499cb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/iboy195",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-16T21:16:31.721Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a53f72aa8c72",
+   "canon": "https://www.reddit.com/comments/1x7o5rp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x7o5rp/ursovngarde_skyrim_vr_coop_mod/",
+   "addedAt": "2026-10-16T21:16:31.721Z",
+   "title": "urSovngarde – Skyrim VR coop Mod",
+   "text": "My girlfriend and I have been playing Skyrim VR together for a while now (with our own mod), and I still get excited every time we load in. I thought maybe a lot of you feel the same way and want to experience Skyrim VR in coop too, so I wanted to share this here. We both…",
+   "author": "ur-sg",
+   "publishedAt": "2026-10-16T18:33:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ems4aG05aThmdnZoMUSDgKI5RSbsB6QZjrs8wBc6DAqRTQ7H2L7VJA3NQc5w.png?width=640&crop=smart&auto=webp&s=6f7784370e7e94509090ede375cf6b7eacfeb6c4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ur-sg",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-16T21:16:31.721Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ac0adbdd9900",
+   "canon": "https://www.reddit.com/comments/1x7np5z",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x7np5z/shatter_punch_v2_update_is_out/",
+   "addedAt": "2026-10-16T21:16:31.721Z",
+   "title": "Shatter Punch V2 update is out",
+   "text": "I'm back with an update on Shatter Punch! \n V2 was already in the works when I launched the game on October 3, and it's finally here!\n I've expanded the campaign from 25 to 40 levels, added more objects to smash (270+ now), a new Industrial Loft room, and spent quite a bit of…",
+   "author": "jadoome",
+   "publishedAt": "2026-10-16T18:16:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M3diczI2bGpldnZoMb4qi56VG73nhKK0nDp9ergdQ0ieop7_ULOQT_sCfNjj.png?width=640&crop=smart&auto=webp&s=cf3a1718def7e4fe69e1b9cd4ea871bcde6da688"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/jadoome",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-16T21:16:31.721Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "de89c4b6f364",
+   "canon": "https://www.reddit.com/comments/1x7ndp3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vrdev/comments/1x7ndp3/im_making_a_vr_beach_volleyball_game_where_you/",
+   "addedAt": "2026-10-16T21:16:31.721Z",
+   "title": "I'm making a VR beach volleyball game where you call the play and your AI teammate sets you up to spike (early prototype, real Quest 2 footage)",
+   "text": "Solo-ish dev here, building Side Out Beach VR for Meta Quest.\n What you're seeing: I call the play, my AI partner sets the ball to that spot, and I spike it with an actual arm swing. The game measured that one at 76 km/h. Hits are all physical: forearm bump, overhead set, swing…",
+   "author": "SideOutBeachVR",
+   "publishedAt": "2026-10-16T18:04:44+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SideOutBeachVR",
+   "where": "r/vrdev",
+   "fetchedAt": "2026-10-16T21:16:31.721Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c511b391e6bb",
+   "canon": "https://www.reddit.com/comments/1x7m3o3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x7m3o3/remember_drawing_flight_paths_with_one_finger_on/",
+   "addedAt": "2026-10-16T21:16:31.721Z",
+   "title": "Remember drawing flight paths with one finger on early iPhone games? I rebuilt that feeling as a tiny island on your real table",
+   "text": "https://apps.apple.com/us/app/tabletop-tower-air-traffic/id6821861663 \n Hi all, Adam- indie VisionOS dev here. Remember the early App Store days, when a game was one gesture and \"just one more round\"? I wanted that feeling in spatial computing, so I made Tabletop Tower.\n A tiny…",
+   "author": "steffan_",
+   "publishedAt": "2026-10-16T17:15:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZHdieXA5djYydnZoMXHyWjriYGGSRtyH5ja-SgPxvlrxcxF25pM70VgxZAIO.png?width=640&crop=smart&auto=webp&s=827ddbd488058113fae066436016f00ec9be0cd1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/steffan_",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-16T21:16:31.721Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "0c0fdf6c165c",
    "canon": "https://www.reddit.com/comments/1x7l9cj",
