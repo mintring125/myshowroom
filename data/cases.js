@@ -1,8 +1,1007 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-10-15T21:30:55.511Z",
+ "updatedAt": "2026-10-16T04:40:54.292Z",
  "cases": [
+  {
+   "id": "2f9de5e7f2ba",
+   "canon": "https://www.reddit.com/comments/1x76saz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x76saz/i_made_a_minecraft_mod_to_prompt_agents_who_build/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "I made a Minecraft mod to prompt agents who build in the world using the existing terrain as specs",
+   "text": "This mod is basically WorldEdit but with AI : First off you select your region (by picking two corners or just by looking where you want your structure to be), then you prompt in a chat command. That prompt is sent to the agent along with the selected region, and the agent work…",
+   "author": "Acclynn",
+   "publishedAt": "2026-10-16T04:28:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cHIxN3kwenJhcnZoMf9lLbpQbqPZ_MXXH-Z7xhn1u1PFfqbmNScaK2y42Zw1.png?width=640&crop=smart&auto=webp&s=b122bf7f9d8b09904913ada346b4d81223fe3d04"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "voxel"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Acclynn",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6f8d48dde98a",
+   "canon": "https://www.reddit.com/comments/1x76k70",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1x76k70/i_made_a_minecraft_server_plugin_to_prompt_agents/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "I made a Minecraft server plugin to prompt agents to build in the world using the existing terrain as specs",
+   "text": "This mod is basically WorldEdit but with AI : First off you select your region (by picking two corners or just by looking where you want your structure to be), then you prompt in a chat command. That prompt is sent to the agent along with the selected region, who has a…",
+   "author": "Acclynn",
+   "publishedAt": "2026-10-16T04:15:57+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bXRiczN6M2k4cnZoMf9lLbpQbqPZ_MXXH-Z7xhn1u1PFfqbmNScaK2y42Zw1.png?width=640&crop=smart&auto=webp&s=4c6adca58421aae11cb988b05d94a86efcbb181f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "voxel"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Acclynn",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b5a358ac38f0",
+   "canon": "https://www.reddit.com/comments/1x76ich",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x76ich/hip_hip_hooray_the_obsolescence_song/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "Hip Hip Hooray (The Obsolescence Song)",
+   "text": "This started as a small test: could Claude handle a full animated video on its own? I got hooked and kept going until it became this.\n The animation was made with Claude Opus 5.5, with no image or video generator: every frame is drawn by Python code Claude wrote. The song is…",
+   "author": "emagech",
+   "publishedAt": "2026-10-16T04:13:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/rYsnkN2jSnlybYYXrmb8z_s0OffYau9jFOhXNOBBUOg.jpeg?width=320&crop=smart&auto=webp&s=b1620fa0973fe7e7b370042fd3461793b9911683"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/emagech",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "f51252a7d06e",
+   "canon": "https://www.reddit.com/comments/1x76146",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x76146/after_building_a_website_with_claude_im_curious/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "After building a website with Claude, I'm curious how professional developers actually code",
+   "text": "Hi everyone,\n I'm not a full-time software developer, but I have some basic knowledge of HTML, CSS, and JavaScript. Recently, I built a website with Claude by describing what I wanted, and Claude generated the code and helped me make changes.\n It made me wonder how much the…",
+   "author": "Global-Adventures",
+   "publishedAt": "2026-10-16T03:47:13+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Global-Adventures",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d797f1da48da",
+   "canon": "https://www.reddit.com/comments/1x760mt",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x760mt/built_this_using_gpt_6_astra_blender_mcp/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "Built this using GPT 6 Astra + Blender MCP 🔥",
+   "text": "These models are fucking crazy. Astra is particularly good at generating reference images and assets, and Opus 5.5 is good for the game mechanics",
+   "author": "Huge_Coat9691",
+   "publishedAt": "2026-10-16T03:46:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/a3l0cmZscW4zcnZoMWkU1twJAGj6Bkt0oOLkGVj1C5VRouYVcBPwEUGrCvqc.png?width=640&crop=smart&auto=webp&s=44d1850012bfdcf24721e4c94aeb4b49ca68eb4c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Huge_Coat9691",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "a265e9e41e50",
+   "canon": "https://www.reddit.com/comments/1x75pyz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x75pyz/steam_frame_support_is_here/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "STEAM FRAME SUPPORT IS HERE!",
+   "text": "The ARMORY-R1 just got an upgrade\n We're excited to announce that our NEW Steam Frame Controller Adapters are AVAILABLE NOW at VR Tactical Gear!\n We've developed TWO adapter options to fit your playstyle:\n OFFICIAL STRAP COMPATIBLE\n Designed to work seamlessly with the official…",
+   "author": "VR_Tactical_Gear",
+   "publishedAt": "2026-10-16T03:30:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/yu0l22mz0rvh1.png?width=640&crop=smart&auto=webp&s=fb3dde3307999ee67ff192cbfea242bd4d9371e7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/VR_Tactical_Gear",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "98b1be0f86bf",
+   "canon": "https://www.reddit.com/comments/1x75b83",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x75b83/cinedepth_is_expiring_so_i_spent_two_sleepless/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "CineDepth is expiring, so I spent two sleepless nights trying to build an alternative for myself and fellow users 😅",
+   "text": "If you also love this Cinedepth app and also don't want to lose it th'ats for you. \n Hi guys!\n For the past few months, I've been using this amazing little app called CineDepth from developper Aaron Brannan which adds a really nice sense of depth to regular 2D movies in real…",
+   "author": "Gloomy_Blackberry525",
+   "publishedAt": "2026-10-16T03:09:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/dgm4iulewqvh1.png?width=640&crop=smart&auto=webp&s=4fc14c5b92278b3c1fb66820401f75f79cc99550"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Gloomy_Blackberry525",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9185a6359238",
+   "canon": "https://www.reddit.com/comments/1x756ji",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/singularity/comments/1x756ji/accenture_tells_employees_they_can_now_spend_only/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "Accenture Tells Employees They Can Now Spend Only $29 on Claude Per Month",
+   "text": "",
+   "author": "Traditional-Chip8339",
+   "publishedAt": "2026-10-16T03:02:12+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/qMSQz1H1aQrcBWwa-CVGOKMz4MJIq-fHJtLWG3VASd0.jpeg?width=640&crop=smart&auto=webp&s=4ffd90a0a0d585d752c033bf3faeaed2c4e3ed88"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Traditional-Chip8339",
+   "where": "r/singularity",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4b4eb3e60c14",
+   "canon": "https://www.reddit.com/comments/1x752p2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1x752p2/the_teleprompter_glaze_why_loading_full_sentences/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "The \"teleprompter glaze\": why loading full sentences onto HUD glasses ruins your delivery",
+   "text": "The biggest mistake people make when testing prompt displays or smart glasses for presentations is treating them like a television teleprompter. The second you put full sentences in front of your eye—whether on a podium confidence monitor or floating on a frame like the RayNeo…",
+   "author": "PsychologicalTop0",
+   "publishedAt": "2026-10-16T02:56:51+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/nvlkgqpzuqvh1.jpeg?width=640&crop=smart&auto=webp&s=aa0cc971e9545142295be5a874684d376307baea"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/PsychologicalTop0",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "dbffeb3f4ccf",
+   "canon": "https://www.reddit.com/comments/1x74thw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x74thw/my_demo_is_up_on_steam_infinigon_made_in_flutter/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "My demo is up on steam: Infinigon, made in Flutter",
+   "text": "Hello,\n I've been building a game with Opus 5.5, it's pretty insane at least for me. I've done some games before back in the flash games era, so really enjoying it now with how much the AI can speed up the process. \n Game is made in Flutter, since it's 2D and I might release for…",
+   "author": "CiocatzeL",
+   "publishedAt": "2026-10-16T02:43:12+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CiocatzeL",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "ede47233d55c",
+   "canon": "https://www.reddit.com/comments/1x74mbo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x74mbo/i_benchmarked_haiku_45_and_55_against_gpt6_luna/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "I benchmarked Haiku 4.5 and 5.5 against GPT-6 Luna, Gemini Flash-Lite and two decision models on 1,000 support chats",
+   "text": "I ran 6 models on the same 1,000 customer-service chats (public ABCD dataset), 7 questions each, scored against the store's system logs. Both Haikus at default settings, same prompt, structured output. \n Claude results:\n - Haiku 5.5: best of the cheap LLMs on \"how far did the…",
+   "author": "misterespresso",
+   "publishedAt": "2026-10-16T02:32:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aNL6OLhseQrlOkqgTTlAWloaCihExoNvO0aF_WRw9b0.jpeg?width=320&crop=smart&auto=webp&s=d3845fa7254563f4171b1fdcbf521a5157115f08"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/misterespresso",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1794b11d4302",
+   "canon": "https://www.reddit.com/comments/1x74i2w",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x74i2w/i_built_a_site_that_scores_how_much_people_regret/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "I built a site that scores how much people regret a purchase after the honeymoon phase wears off, heavily assisted with Claude Opus 5.5",
+   "text": "https://reddit.com/link/1x74i2w/video/3w2uy4bxpqvh1/player\n I built this, so full disclosure: it’s my project.\n Most reviews are written in the first week. Regret usually shows up around month six. So I spent about 2 months building Regret Radar, which gives products a Regret…",
+   "author": "TipSecure8834",
+   "publishedAt": "2026-10-16T02:26:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/1CNG2DIDzYRiU6ckstCajJZ2GNmOcDDw5aV5sVWTK6s.jpeg?width=140&height=73&auto=webp&s=29884b04a7854c8c28b3aaeb7bca476b7128483c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TipSecure8834",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "fb9a4c7e1886",
+   "canon": "https://www.reddit.com/comments/1x74d3n",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x74d3n/this_film_has_no_editor_an_ai_agent_cut_graded/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "This film has no editor. An AI agent cut, graded, keyed and captioned it entirely through kimo tool calls",
+   "text": "kimo is a free, open-source (MIT) video editor with no GUI. Your agent drives it over MCP from Claude Code, Cursor or any MCP client: cuts, color, keying, tracking, captions, keyframes, audio, transitions, and now 3D scenes. Runs on CPU. \n Working on building a GUI next to see…",
+   "author": "LieTop7965",
+   "publishedAt": "2026-10-16T02:19:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YnRmazNqZHlucXZoMRYJQhC8-u6CjjS8_qgvshBWcfxEq0CtmGpiwEVaODj7.png?width=640&crop=smart&auto=webp&s=f74bd5152ff1a67409eff773805842a608b20c72"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/LieTop7965",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6bd93a4c5b74",
+   "canon": "https://www.reddit.com/comments/1x7498y",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x7498y/ive_been_vibe_coding_deep_fried_a_dungeondiving/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "I've been vibe coding Deep Fried, a dungeon-diving roguelite inspired by Delicious in Dungeon!",
+   "text": "This is a fun side project for me and has been helping me learn about the game devlopment pipeline. Claude is doing the majority of the heavy lifting with code and execution, while Gemini is contributing the character and food artwork!\n It's free, plays in your browser, and is…",
+   "author": "rychder",
+   "publishedAt": "2026-10-16T02:13:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ajNtczdrMmFucXZoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=f1ce11c62cad38194df2c35b8c5f130d086fd4fe"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/rychder",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e4a25e7e1efb",
+   "canon": "https://www.reddit.com/comments/1x741ud",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x741ud/some_images_from_my_casinoresort/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "Some images from my casino/resort",
+   "text": "I’m working on a casino that has a slots and table floor but also a fully working arcade and many other areas to explore. This is just a teaser of some areas I am working on.\n I know everyone is building pixel games here but I’ve been working on this since fable released and…",
+   "author": "TheUniverseOrNothing",
+   "publishedAt": "2026-10-16T02:02:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ly9u8tjflqvh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=e3112cc29c391d57af015b2bd570a1b1270a393e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TheUniverseOrNothing",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "76c6f86929aa",
+   "canon": "https://www.reddit.com/comments/1x73jfn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x73jfn/ive_spent_the_last_ten_months_building_a_project/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "I've spent the last ten months building a project with Claude, and tonight I asked it to show me a bit of the code that he thinks is very clever and he's proud of",
+   "text": "I'll pick the barcode scanner listener, src/hooks/useLabelScan.ts. It's about 50 lines, and one of them does nearly all the work:\n // A scanner's keys come well under this apart; a person's, well over.\n const GAP_MS = 60;\n const onKey = (event: KeyboardEvent) => {\n if…",
+   "author": "GodRaine",
+   "publishedAt": "2026-10-16T01:37:06+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/GodRaine",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e09725aba7e4",
+   "canon": "https://www.reddit.com/comments/1x73j1i",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x73j1i/openai_has_ruined_standard_voice_mode_is_claude/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "OpenAI has ruined standard voice mode. Is Claude the only voice left that can speak long chunks of text",
+   "text": "",
+   "author": "obammala",
+   "publishedAt": "2026-10-16T01:36:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/h1nbghzrgqvh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=27f321ddb849546bd48cf976d521b16e00c867eb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/obammala",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "81711202a3a9",
+   "canon": "https://www.reddit.com/comments/1x73haj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x73haj/openai_has_ruined_standard_voice_mode_is_claude/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "OpenAI has ruined standard voice mode. Is Claude the only voice left that can speak long chunks of text",
+   "text": "",
+   "author": "obammala",
+   "publishedAt": "2026-10-16T01:34:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/u5qvvgbcgqvh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=5764d98225ac31eddf20827e576816fba252b015"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/obammala",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8d510dc51cdb",
+   "canon": "https://www.reddit.com/comments/1x73gpb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x73gpb/super_agents_show/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "Super Agents Show",
+   "text": "Repost to include video.\n I built an animated show about Al agents. A few episodes are up now: https://m.youtube.com/@SuperAgentsShow\n 'Super Agents' is a sitcom about four Al agents in a workplace: DMZ, Baua, Fume and Bimini.\n It's an Al show that's actually written by Al…",
+   "author": "ComprehensiveLime654",
+   "publishedAt": "2026-10-16T01:33:16+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dIZh9utQMu9M8-Vq94IGVtH_UTlym5KdwtbgR6Hk0ao.jpeg?width=320&crop=smart&auto=webp&s=ee39baae9df160166e3cfb1e0dde523e3051dd07"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ComprehensiveLime654",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "244d2e10a095",
+   "canon": "https://www.reddit.com/comments/1x73eoo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x73eoo/argon_4_human_animations/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "Argon 4 Human Animations",
+   "text": "Put your pride away, its not welcome here. Is this post real? The animations are so good that it's jaw dropping.\n I want everyone to see the animations and push Anthropic and OpenAI to provide the same quality. Ignore the word Google, ignore the word Gemini. Is this video real?…",
+   "author": "StrongLegStrongMan",
+   "publishedAt": "2026-10-16T01:30:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cTNvM2RlOGlwaHZoMV5kwlZKPfKvF8MnsqpwF6VMx9niyNaq7MER4KtwjOEn.png?width=320&crop=smart&auto=webp&s=67ddbefe1f6e2e73ae20dc3ef04752a93cf2a1d5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/StrongLegStrongMan",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c27b6c9ece1e",
+   "canon": "https://www.reddit.com/comments/1x73dpx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x73dpx/a_clean_aigenerated_patch_can_still_carry_the/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "A clean AI-generated patch can still carry the wrong system assumptions",
+   "text": "I'm James Luan, CTO of Zilliz, the company behind the open-source Milvus vector database. These are notes from using Claude Code on our cross-platform database build.\n The lesson I kept returning to after using coding agents on our cross-platform build was about the target I had…",
+   "author": "No_Engineer_1224",
+   "publishedAt": "2026-10-16T01:29:10+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No_Engineer_1224",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6628765f142d",
+   "canon": "https://www.reddit.com/comments/1x739zr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x739zr/i_built_a_browser_extension_thats_2x_faster_than/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "I built a browser extension that's ~2x faster than Claude in Chrome. It's open source and uses your existing Claude and JEV subscriptions.",
+   "text": "Most of my daily work happens in a browser, and I’d rather spend less time navigating through pages and filling out forms. Claude in Chrome is nice, but I wanted something that could handle these tasks faster and let me work through voice.\n So I built Noa, an open-source Chrome…",
+   "author": "m0dE",
+   "publishedAt": "2026-10-16T01:24:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/b3JiaWp3bzFjcXZoMe8CPdhiVcA7KHVC61WS2hpIsrwQ3ZixQoN1rTcf7saX.png?width=640&crop=smart&auto=webp&s=b7d0108ee2b62763f22899c30c6f5ed3440e2eea"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/m0dE",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ddc2d32c0a94",
+   "canon": "https://www.reddit.com/comments/1x738eq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x738eq/3_new_immersive_tours_just_dropped_in_arluma360/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "3 new immersive tours, just dropped in Arluma360",
+   "text": "We just dropped 3 new immersive 360 tours in Arluma360 (v2.0.3)! if you like long walks on the beach, you have a taste for adventure and occasionally like to 'swan' around, then check out these clips from beautiful Noosa, Queensland. Enjoy!",
+   "author": "melrand",
+   "publishedAt": "2026-10-16T01:21:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M2xjdHBhanlkcXZoMb-2wdxIRK-MajmQYmimC8LjWj2iaKURdXDN1QA79oON.png?width=640&crop=smart&auto=webp&s=de7f71d3a9c7ebabed6b9d9c669e61aea9d1c941"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/melrand",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2c3c764bb635",
+   "canon": "https://www.reddit.com/comments/1x72xcx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x72xcx/week_6_update_using_ai_to_build_a_game_with_no/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "Week 6 update! Using AI to build a game with no dev experience",
+   "text": "Keeping it short and simple. Started building a cozy game with claude in the beginning of September. Having no background in anything remotely like this, it took a lot of error, learning and wasted tokens to get to here, Its far from done but I'm genuinely very proud!…",
+   "author": "Gambo7592",
+   "publishedAt": "2026-10-16T01:06:04+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cDJyMzdvNWdhcXZoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=46cb81c501c4fef0da644ae2babf481f0d3d9d3c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Gambo7592",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4c47cd094b54",
+   "canon": "https://www.reddit.com/comments/1x72tbs",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x72tbs/playing_vr_games_on_ps5_with_quest_3/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "Playing VR games on PS5 with Quest 3",
+   "text": "",
+   "author": "-Venser-",
+   "publishedAt": "2026-10-16T01:00:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bmhvejFkaGpmM3VoMZ7cPzs8Ac2xtNvEAeXLQrJX_vFhVuyP7NCweQS2a3a3.png?width=320&crop=smart&auto=webp&s=a57dc7b816de5d50f72fb74ef326cae0740aff94"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/-Venser-",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "12620c45906a",
+   "canon": "https://www.reddit.com/comments/1x72sc6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x72sc6/claudebackuprestorelauncher/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "Claude-Backup-Restore-Launcher",
+   "text": "Find every Claude Code session on your computer, recognise each one at a glance, relaunch it with a click, back sessions up, and export chats. Windows / macOS / Linux.\n Unofficial community tool — not affiliated with or endorsed by Anthropic. It only reads the transcript files…",
+   "author": "SlyFoxCatcher",
+   "publishedAt": "2026-10-16T00:59:19+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SlyFoxCatcher",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "020c8fe73deb",
+   "canon": "https://www.reddit.com/comments/1x72pfm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x72pfm/remnants_apples_first_immersive_horror_film_is/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "Remnants, Apple’s first immersive horror film is now streaming!",
+   "text": "",
+   "author": "iBanks3",
+   "publishedAt": "2026-10-16T00:55:19+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/BXVzA3FtQFERyQV2G4RfIv2pf-D_RhP5X_j49_6hIyM.jpeg?width=640&crop=smart&auto=webp&s=04bf4015c32d778aee876f28ebcd5f85c72aa36b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/iBanks3",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4a7541ccf69f",
+   "canon": "https://www.reddit.com/comments/1x728yv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x728yv/playing_flatscreen_games_in_3d_with_dynamic/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "Playing flatscreen games in 3D with dynamic lighting on a massive screen is underrated",
+   "text": "",
+   "author": "RememberMementoMori",
+   "publishedAt": "2026-10-16T00:32:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/2zRfcoyqDccc7RHdtNW192LpHuCKx2YV_WI1ohJksWU.jpeg?width=320&crop=smart&auto=webp&s=ecc24ab3093f7a2ee53c6af85f873efb6e0e86dd"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RememberMementoMori",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1a57d9771edb",
+   "canon": "https://www.reddit.com/comments/1x71fr4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x71fr4/sorry_have_a_free_dlc/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "Sorry! Have a free DLC!",
+   "text": "A huge thank you to everyone who tried Infinity during launch!\n Unfortunately, a major issue slipped through the initial release build which caused crashes for some players. The problem has now been identified and fixed, and I really appreciate everyone who took the time to…",
+   "author": "richardmuthwill",
+   "publishedAt": "2026-10-15T23:55:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/d2k5ODd4dWx5cHZoMS3Q6j1BpakAotRkQYRZMdTCxcxmr6AAYXlHQXtBKE7W.png?width=640&crop=smart&auto=webp&s=9ed3d3bade5e36d689e95119c582d2559283050d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/richardmuthwill",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8da038b454db",
+   "canon": "https://www.reddit.com/comments/1x6zvl0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x6zvl0/your_head_is_the_crosshair_head_aiming_in_our_game/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "Your head is the crosshair — head aiming in our game",
+   "text": "I'm one of the developers of Abduct & Destroy VR. Here's a clip showing how you aim using your head, with me on camera so you can see how the movements match up.\n I'm still fine-tuning the aiming angles and limits, but it's feeling pretty good so far. What do you think?",
+   "author": "vr_alien_dev",
+   "publishedAt": "2026-10-15T22:43:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eHR0cHRxbzZscHZoMYc-xaSf_eVXIrloi-mIIPBvSxXXDNMUCBriQ3CAR8uD.png?width=640&crop=smart&auto=webp&s=8d1af6d569365c40e9dbeb8dcad07bf527814e1f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/vr_alien_dev",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "57b1a0a4e797",
+   "canon": "https://www.reddit.com/comments/1x6yskd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x6yskd/lord_master_apashe_free_song_update_synth_riders/",
+   "addedAt": "2026-10-16T04:38:17.596Z",
+   "title": "Lord & Master - Apashe | Free Song Update | Synth Riders VR Meta Quest + PSVR2 + SteamVR",
+   "text": "It’s that time of year again! Our annual Spooky Update is here and it’s free for everyone. A free song: “Lord & Master” by Apashe Sneak Peak: https://youtu.be/LeErfoZ3vLU \n https://preview.redd.it/ju3lj33scpvh1.jpg?width=1920&format=pjpg&auto=webp&s=138f71813adf42046f5da7778a845f…",
+   "author": "heyfalcon_",
+   "publishedAt": "2026-10-15T21:56:10+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/LGBbyv7l1a0y6M-MP1Q7uGu1RaHOJSeqvuXDQP_ieJ8.jpeg?width=140&height=105&auto=webp&s=8561cf75792c31626e7f832f65f1a8446e62dbe4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/heyfalcon_",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-16T04:38:17.596Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "cd8ab464bcff",
    "canon": "https://www.reddit.com/comments/1x6xsp4",
