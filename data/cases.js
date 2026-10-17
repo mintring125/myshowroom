@@ -1,8 +1,1108 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-10-16T23:44:01.711Z",
+ "updatedAt": "2026-10-17T04:36:41.039Z",
  "cases": [
+  {
+   "id": "4948ecd124e5",
+   "canon": "https://www.reddit.com/comments/1x80vtl",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x80vtl/game_spectral_sun_inengine_cinematic/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "[game] Spectral Sun - in-engine cinematic",
+   "text": "Hi! I got inspired by all the videos of people building game drafts with Opus 5.5, three.js and WebGL. I’ve always wanted a desert world where you can just be: wander, explore, and uncover the untold stories of lost civilizations. That’s how \"Spectral Sun\" started :)\n The first…",
+   "author": "Massive-Edge-1266",
+   "publishedAt": "2026-10-17T04:20:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YmkxZGh3NXhleXZoMXAjKNQuW1dphdl7dcjkxZlu0WypxzNB_GnH8d7JIUoc.png?width=640&crop=smart&auto=webp&s=570602e8ac4470c4bd3c5e14f4754a04c61d6e10"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Massive-Edge-1266",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "dd587a078e06",
+   "canon": "https://www.reddit.com/comments/1x80pqn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x80pqn/project_spectral_sun_inengine_cinematic/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "[project] Spectral Sun - in-engine cinematic",
+   "text": "Hi! I got inspired by all the videos of people building game drafts with Opus 5.5, three.js and WebGL. I’ve always wanted a desert world where you can just be: wander, explore, and uncover the untold stories of lost civilizations. That’s how \"Spectral Sun\" started :)\n The first…",
+   "author": "Massive-Edge-1266",
+   "publishedAt": "2026-10-17T04:11:08+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/N255OTZ0MDlkeXZoMXAjKNQuW1dphdl7dcjkxZlu0WypxzNB_GnH8d7JIUoc.png?width=640&crop=smart&auto=webp&s=6a91f8a167433869d307e7d24eb234b7cf009006"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Massive-Edge-1266",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "89f582ccf868",
+   "canon": "https://www.reddit.com/comments/1x8094r",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x8094r/safari_house_turn_your_environment_into_a_safari/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "Safari House, turn your environment into a Safari adventure",
+   "text": "Hey guys I made a Vision Pro app that scans your environment and turns the outside of your house into a safari experience. \n So the animals come up to your real windows and you can feed treats. It actually works really well at detecting your windows and walls and then converting…",
+   "author": "hunter_spatial",
+   "publishedAt": "2026-10-17T03:45:47+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cm51NzdrNGg4eXZoMS3-ilCNe-eM2TjzROWk4iY5VJLGh1YwknwvtmbiVzcI.png?width=640&crop=smart&auto=webp&s=255c0bb15a6e303ff49b2c624094413f0690f437"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/hunter_spatial",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "300c48b99894",
+   "canon": "https://www.reddit.com/comments/1x80836",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x80836/browserplayable_3d_kung_fu_hackandslash_in_about/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "Browser-playable 3D kung fu hack-and-slash in about a week",
+   "text": "A 10-minute 3D kung fu hack-and-slash that runs in the browser: a guy from the future in a jacket and jeans fights his way up a mountain fortress – crowds, parries, executions, full-screen ultimate cinematics, a floating boss. Free on itch, best on PC, phones work in landscape.…",
+   "author": "dbdbdeep",
+   "publishedAt": "2026-10-17T03:44:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cWF1aWpucGM4eXZoMQ5d6Qr1l1gMWYy8fUBEmPe7aeAvdXiZwTe6RjSvbyLp.png?width=640&crop=smart&auto=webp&s=ff143f3eb051cf11ee6dc7aca2a19075799c6f5b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/dbdbdeep",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9721a40973ac",
+   "canon": "https://www.reddit.com/comments/1x7zpec",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x7zpec/built_a_jarvis_on_top_of_claude_code_homer_a/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "Built a Jarvis on top of Claude Code: Homer, a desktop assistant with a voice and a memory",
+   "text": "Hi everyone 👋\n I spend my days in Claude Code, and two things kept bugging me: I can't just talk to it, and every new session starts from zero.\n So I built Homer (Sooveryn Desktop + MCP). It runs on top of Claude Code on your machine, with your own Claude plan (Pro, Max, Team,…",
+   "author": "Silver-Wong",
+   "publishedAt": "2026-10-17T03:14:36+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dGdzOGo3Ym0yeXZoMTKZjQyohdQ6OpDLy1hq05Oo15b1T8a4SFIlAI7O_Ikf.png?width=640&crop=smart&auto=webp&s=c63895ad9edb0b23da8c2d2fc0380258e34741f5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Silver-Wong",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fbc9d6cad8e3",
+   "canon": "https://www.reddit.com/comments/1x7zbvd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x7zbvd/claude_runs_1800_useless_tests_creates_more/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "Claude runs 1800 useless tests; creates more against my guidance",
+   "text": "First post because I genuinely don’t know how many more times I can tell Claude to stop running 1500+ tests after making a small change. It takes like 2 hours to do each time and it’s gotten smarter to where it renames the background tasks it’s running to not say that it’s…",
+   "author": "No-Friendship-1586",
+   "publishedAt": "2026-10-17T02:53:58+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No-Friendship-1586",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d18fb3bb26f7",
+   "canon": "https://www.reddit.com/comments/1x7zahd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7zahd/i_have_put_jev_inside_claude_codes_harness_to/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "I have put jev inside claude code's harness to reduce token maxing",
+   "text": "I’ve been exploring Jev and looking at projects that built around claude code. It's always the question that whether it could help with some of the smaller decisions around coding work, especially if it was given the right context instead of the whole conversation.\n That led me…",
+   "author": "Fit-Fail-3369",
+   "publishedAt": "2026-10-17T02:51:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZzcybGEzaTF6eHZoMeYIIx-cSjgbRFlSqYRzq0dOC__HHzWh4VcDvDJW4Y1V.png?width=640&crop=smart&auto=webp&s=0a17e315066185c695a93436c8ca0d86e7cdd4f1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Fit-Fail-3369",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d3ed61adb5d5",
+   "canon": "https://www.reddit.com/comments/1x7za6v",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x7za6v/optimizing_big_gaussian_splatting_scenes_on_quest/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "Optimizing big Gaussian Splatting scenes on Quest 3",
+   "text": "WIP : trying to get millions of splats to fit in a Quest 3 in standalone.\n First scene : 11 millions, second scene : 23 millions\n Around 400K can be displayed at any given time.\n Splats sources :\n https://superspl.at/scene/eb5f51dc\n https://superspl.at/scene/14bac5b2",
+   "author": "Informal_Wrap_531",
+   "publishedAt": "2026-10-17T02:51:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cnF1em9uNXB4eHZoMVjGH1pR2CyoGgcKnNxZvf4FO4IkhPV1K_nspKVtF_Jz.png?width=640&crop=smart&auto=webp&s=4f58c9f0bd6d6aca1a070c2cee08abc1dc880711"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Informal_Wrap_531",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1de7653f9297",
+   "canon": "https://www.reddit.com/comments/1x7z65h",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x7z65h/opening_gameplay_and_completing_a_random_quest/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "Opening gameplay and completing a random quest, all code is Opus5.5",
+   "text": "I'm sorry about the mouse on the recording lmao.\n The art and music is made by me, but I did not write a single line of code for this. In fact, I have no idea how to. Some of the sound design is mine as well (guns), but some of it I just asked Claude to find free sound asset…",
+   "author": "thewendigoo",
+   "publishedAt": "2026-10-17T02:45:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cHJjdmN3ZzR4eHZoMatytRQ3aVYMstahxtmhMqxjUUh7fl5xv1a7QHlJc40y.png?width=640&crop=smart&auto=webp&s=01cccf390ce9b96b64f3ce250d8acd53b89b62d8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/thewendigoo",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "88870dba99ab",
+   "canon": "https://www.reddit.com/comments/1x7z3uz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x7z3uz/easy_to_panic_hard_to_master_a_coop_spaceship/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "Easy to panic, hard to master: a co-op spaceship game for friend groups who like a challenge (and to show off their skills)",
+   "text": "Hi everyone!\n Full disclosure, I don't know how to code but I love video games and creating.\n This is the result of 3 months of Claude writing every single piece of code, art and sound and me being the head of design making every decision and testing+approving every change.\n The…",
+   "author": "Pere-Castor-",
+   "publishedAt": "2026-10-17T02:41:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/opmcm46vvxvh1.gif?width=320&crop=smart&s=0c4a82d5e428f561c60218099e095ccb0103731f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Pere-Castor-",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2fcb08ae5c0e",
+   "canon": "https://www.reddit.com/comments/1x7ytgt",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x7ytgt/uhm_opus_55_i_think_you_misunderstood_something/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "Uhm... Opus 5.5, I think you misunderstood something",
+   "text": "Which tags are in place for this? IDK",
+   "author": "starcount_games",
+   "publishedAt": "2026-10-17T02:26:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/fjiob57guxvh1.gif?width=640&crop=smart&s=97368c919f8dd796555d2218ee167a9e270b545e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/starcount_games",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "4818aea57222",
+   "canon": "https://www.reddit.com/comments/1x7ytak",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x7ytak/relight_space_sandbox_game_build_with_ai/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "Relight ， Space sandbox game build with AI",
+   "text": "I build a Relight: Lantern Expanse , a space sandbox game with GPT 6.1 sol/ Claude 5.5 opus, https://www.relightspace.com/, have fun !",
+   "author": "Plastic_Mud4637",
+   "publishedAt": "2026-10-17T02:26:08+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ghrbn7u5uxvh1.jpg?width=140&height=69&auto=webp&s=59d1db171bda8dd797b00a004390baf5ceff784e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Plastic_Mud4637",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "467664dbd4b2",
+   "canon": "https://www.reddit.com/comments/1x7yt3q",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x7yt3q/my_first_game_frontline_zero_a_multiplayer_rts/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "My first game: Frontline Zero, a multiplayer RTS",
+   "text": "BLUF Free to play right on your browser: www.frontlinezero.com\n Hey all. I made a game called Frontline Zero. It's a multiplayer RTS where you can play as either Ukraine or Russia in the ongoing war.\n I wanted to bring back the nostalgia of late '90s RTS games while mixing in…",
+   "author": "Savings-Theme4022",
+   "publishedAt": "2026-10-17T02:25:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Z2lleWNpODl1eHZoMVYeloqfNbVcYREf4Pd66UFBbyFWMQGx2v4kPt3xoA2d.png?width=640&crop=smart&auto=webp&s=6b05aed165029f3d606112c2331a550d8fe94435"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Savings-Theme4022",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e1beccbb2e95",
+   "canon": "https://www.reddit.com/comments/1x7yp2b",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7yp2b/i_made_my_first_game_a_multiplayer_rts_today_is/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "I made my first game: A multiplayer RTS. Today is the 7th day working on it.",
+   "text": "BLUF Free to play right on your browser: www.frontlinezero.com\n Hey all. I made a game called Frontline Zero. It's a multiplayer RTS where you can play as either Ukraine or Russia in the ongoing war.\n I wanted to bring back the nostalgia of late '90s RTS games while mixing in…",
+   "author": "Savings-Theme4022",
+   "publishedAt": "2026-10-17T02:19:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NTVpNjRvMGF0eHZoMVYeloqfNbVcYREf4Pd66UFBbyFWMQGx2v4kPt3xoA2d.png?width=640&crop=smart&auto=webp&s=5907a53248197395204a4ff39a80035bf24388e5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Savings-Theme4022",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4f59dfd841a9",
+   "canon": "https://www.reddit.com/comments/1x7yln3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x7yln3/new_bloodborne_vr_mod_all_detailed_features_in/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "New Bloodborne VR Mod (all detailed features in the comments)",
+   "text": "",
+   "author": "RememberMementoMori",
+   "publishedAt": "2026-10-17T02:14:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/tJpwvOyNVWjuil2JMd85Lp3PKFI2ievpzk5U9aNpnTU.jpeg?width=320&crop=smart&auto=webp&s=1c6002209947b32508a8efd1fac9368f8a5dac1f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RememberMementoMori",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2032e02d9ccd",
+   "canon": "https://www.reddit.com/comments/1x7yhrj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x7yhrj/wingnut_16bit_shmup_early_access_out_now/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "WINGNUT – 16-Bit Shmup (Early Access OUT NOW)",
+   "text": "About 3 weeks of heads down work with Claude and other tools got me to get to the point of pushing this out there for Early Access (will push to Steam once my account stuff is all approved by them).\n AI game dev has totally changed my free time for the better. It's not even…",
+   "author": "Comet7777",
+   "publishedAt": "2026-10-17T02:09:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/7xWV6cWnvLYuP38TDzqPS6Hamf_jZFfS78E79sLSTLQ.jpeg?width=320&crop=smart&auto=webp&s=251fadc7924551c3265c0f6f6ab80c419d4670bb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Comet7777",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d5e037eaf294",
+   "canon": "https://www.reddit.com/comments/1x7y09q",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x7y09q/i_made_a_short_film_where_an_ai_assistant_drove/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "I made a short film where an AI assistant drove Unreal and Blender through typed tool calls, with no generative AI in any frame",
+   "text": "A rainy alley, a three-letter tag, and a run: MIF: a graffiti short\n Disclosure first: MifBridge is my own plugin, and this film is the showcase for its 1.2 release.\n How it was made:\n - An AI assistant (Claude, through MCP) drove Unreal Engine 5.8 and Blender through…",
+   "author": "Mifsopo_",
+   "publishedAt": "2026-10-17T01:43:53+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Mifsopo_",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6fa1cc278e4d",
+   "canon": "https://www.reddit.com/comments/1x7y05b",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7y05b/free_plugin_i_built_with_claude_code_subagents_on/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "Free plugin I built with Claude Code: subagents on your other Claude accounts, with automatic switching when one hits its limit",
+   "text": "I have more than one Claude account and got tired of setting up MCP servers and skills in every config folder, and of switching accounts by hand when one ran out.\n This links every account to one setup and lets your main session start subagents on the others. New work goes to…",
+   "author": "Kynori20",
+   "publishedAt": "2026-10-17T01:43:42+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Kynori20",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "49650347038e",
+   "canon": "https://www.reddit.com/comments/1x7xol5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1x7xol5/using_arcore_geospatial_to_turn_realworld/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "Using ARCore Geospatial to turn real-world exploration into part of a PC game",
+   "text": "I'm developing Under the Ground, a game where your phone acts as a detector for digital artifacts hidden at real-world locations.\n Players use GPS and AR to track down and recover mysterious spheres. Some contain photos, audio recordings, or messages created by other players.…",
+   "author": "underthegroundstaff",
+   "publishedAt": "2026-10-17T01:26:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/1lw5vafwjxvh1.png?width=640&crop=smart&auto=webp&s=0489fedae3e5d9523de14f2cbbea40349b3a2fae"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/underthegroundstaff",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4a202ce51abd",
+   "canon": "https://www.reddit.com/comments/1x7xnlb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x7xnlb/if_your_skill_is_highstakes_dont_let_the_model/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "If your skill is high-stakes, don't let the model drive. Make it relay a deterministic engine. What I learned building one",
+   "text": "Machine Witness helps someone who's been accused save their own phone and account records for a lawyer. Getting one word wrong matters there, so:\n tree.yaml is the spec and the program. A stdlib Python engine walks it, and Claude relays the screen unchanged. This held up way…",
+   "author": "Deep_Many_1362",
+   "publishedAt": "2026-10-17T01:25:10+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Deep_Many_1362",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7064fa9be104",
+   "canon": "https://www.reddit.com/comments/1x7x8j8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x7x8j8/peak_vr_mod_demo_showcase/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "Peak VR Mod Demo Showcase",
+   "text": "early build demo. only issue ive encountered is weird hand angles when grabbbing things sometimes. but game is fully functioinal.",
+   "author": "Every-Sprinkles-9716",
+   "publishedAt": "2026-10-17T01:03:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Z2U5cmxnZXJmeHZoMatnWCwnWHaYU61uFRPqWig1LqjXE-4X0dHNzUGxZ_Rb.png?width=640&crop=smart&auto=webp&s=11b2560dcb5bd76fba690aa03e99520eb3b69ff1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Every-Sprinkles-9716",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "56b4d9aeb732",
+   "canon": "https://www.reddit.com/comments/1x7x6o3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7x6o3/one_of_these_took_an_ai_5_minutes_another_took/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "One of these took an AI 5 minutes. Another took over 2 hours.",
+   "text": "What I built: a blind arena page. Six models get the exact same prompt, each runs once with no edits, and you vote for your favorite before you see who made what. This round: a voxel space station you can fly around and explore inside, on desktop and phone.\n How Claude helped:…",
+   "author": "Miserable_Tiger_5742",
+   "publishedAt": "2026-10-17T01:01:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/v3ecchx9fxvh1.png?width=640&crop=smart&auto=webp&s=ccd30336b574dc7cd11cdb111a25dd9c882369c6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "voxel",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Miserable_Tiger_5742",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cf2401576450",
+   "canon": "https://www.reddit.com/comments/1x7x1gp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7x1gp/world_building_fable_51_vs_opus_55/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "World Building Fable 5.1 vs Opus 5.5",
+   "text": "Hello! Before I throw all my usage at either doing this I wanted to ask has anyone have any experience at comparing 5.5 opis to 5.1 fable in world building (storyline, plotting and an idea of where a rpg game should go)? Is either significantly better vs the other?",
+   "author": "AwareContribution700",
+   "publishedAt": "2026-10-17T00:54:00+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AwareContribution700",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "deab1c9717c2",
+   "canon": "https://www.reddit.com/comments/1x7wzu4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x7wzu4/had_a_0_fable_usage_week/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "Had a 0% Fable usage week!",
+   "text": "I’m doing some heavy work on a majorly optimized usage setup. Took me about 18 hours of continued usage (using scheduled tasks set to restart new sessions at 40% context) to drain my 20x max plan.\n This is the first week of not using Fable at all since it’s release. I just…",
+   "author": "vAPIdTygr",
+   "publishedAt": "2026-10-17T00:51:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/cobqp7lodxvh1.jpeg?width=640&crop=smart&auto=webp&s=0dbaa25dbc242f80af55193c026a2a1b7abfbf80"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/vAPIdTygr",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "44d3275cce32",
+   "canon": "https://www.reddit.com/comments/1x7wwmh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x7wwmh/bobovr_b2_battery_replacement_pictures_sharing/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "BoBoVR B2 Battery Replacement Pictures Sharing",
+   "text": "I haven’t seen enough people talking about BoBoVR B2 Battery 18650 1S2P Replacement, so I wanted to share these photos. It works pretty well, and since I haven’t burned my house down, I’m calling it a success. Hopefully this will help others who are researching whether this can…",
+   "author": "XxJimmy122xX",
+   "publishedAt": "2026-10-17T00:46:51+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/d49696wscxvh1.jpg?width=140&height=63&auto=webp&s=6051ddea7a151bc19ad21ab61793b6f0b46dd942"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/XxJimmy122xX",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "244a443643b2",
+   "canon": "https://www.reddit.com/comments/1x7wvwy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7wvwy/animating_a_scene_in_20_different_styles_with/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "Animating a scene in 20 different styles with just code using Opus 5.5",
+   "text": "Original video: https://www.youtube.com/watch?v=T2Wfds62ZjM\n Github repo: https://github.com/BlaiseLabs/Google-gemini-4-argon-demo-clone\n Prototyped a clone of the Code to Animation demo for Gemini 4 Argon using Claude. Without too much effort I think the model did a reasonable…",
+   "author": "BlaiseLabs",
+   "publishedAt": "2026-10-17T00:45:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/6mjmtipkcxvh1.gif?width=320&crop=smart&s=2663eb6bc70bb8f7c5b7ba46783ddd90bbc490d4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/BlaiseLabs",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "22e75ed47e71",
+   "canon": "https://www.reddit.com/comments/1x7ws93",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x7ws93/the_vr_mods_are_going_to_make_it_mainstream/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "The VR mods are going to make it mainstream.",
+   "text": "I know how hard mods are to install and that they might not be very appealing to more casual users. But I feel it's definitely getting the fans of the specific games in, which leads to more and more people, and then to more developing. I am an example of that. I've been PC…",
+   "author": "Edthebig",
+   "publishedAt": "2026-10-17T00:40:40+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Edthebig",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7c8afe8f407f",
+   "canon": "https://www.reddit.com/comments/1x7wle7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x7wle7/a_tactical_roguelite_autobattler_where_every/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "A tactical roguelite autobattler where every teammate is a snapshot of another real player so every battle is unique. Hunt monster parts to get new gear, using Opus 5.5 , Composer 2.5, Grok 4.7. I would love to have some players to battle alongside",
+   "text": "Also there is a free character for the first 200 people who play the game. I'm still working on it. It's for a game jam competition. But I just wanted to make a game I thought was fun.\n Free to play here >> https://run.world/barret/mashkin",
+   "author": "barret232hxc",
+   "publishedAt": "2026-10-17T00:30:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/wqdd94o38xvh1.gif?width=640&crop=smart&s=e088a4883429b51c53ecd345c2f42cc3a6808576"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/barret232hxc",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "5a043e84284e",
+   "canon": "https://www.reddit.com/comments/1x7wicv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x7wicv/bf2_2005_vr_super_early_with_lag/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "BF2 2005 VR (super early, with lag)",
+   "text": "Sorry for the short video, but I was rushing to get it out. ill upload more videos with a showoff of more mechanics soon. thanks.",
+   "author": "Every-Sprinkles-9716",
+   "publishedAt": "2026-10-17T00:26:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YWttcXZzODE5eHZoMXpiMXfBH7nDV0ljSjINAKS_QGdbg0qgYaGafeN4s1tV.png?width=640&crop=smart&auto=webp&s=f7c1f35d5c39bb358f29d8a203378378ec2b35d0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Every-Sprinkles-9716",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "843948501803",
+   "canon": "https://www.reddit.com/comments/1x7wgbf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x7wgbf/rob_a_bank_as_new_mode_in_my_ai_pixel_battler_game/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "Rob a bank as new mode in my AI pixel battler game",
+   "text": "To make my game made on Opus 5.5 more fun, i added some new game modes, as zombies, floor is lava and Rob a bank.\n Its free on itch.io and you can try it on browser \n https://aruvez.itch.io/titan-royale",
+   "author": "sapinhosapao",
+   "publishedAt": "2026-10-17T00:24:11+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Z2dlcXJ2cnI4eHZoMQUfZaTdC1sKVfIOfalp0RSpTktYftprKMPiqlb-AA6a.png?width=640&crop=smart&auto=webp&s=c16a6ac7b76c8910aedc8f5154ca7a4bfc4b7db7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/sapinhosapao",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "b44392cd2e87",
+   "canon": "https://www.reddit.com/comments/1x7wb9s",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7wb9s/watchstation_rough_cut_take_4/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "WATCHSTATION Rough Cut - Take #4",
+   "text": "Game background - WATCHSTATION: First-person game where you run a lone Soviet-style radar station in any number of locations and decide what to report.\n It's heading for alpha with the first complete location (siberia), so I wanted to learn (together with Claude) how to make a…",
+   "author": "fapfap_ahh",
+   "publishedAt": "2026-10-17T00:17:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/praGXsWSVP-gkt--3eZfhiWqyNlynGw0_jpIVETvnvY.jpeg?width=320&crop=smart&auto=webp&s=f440287f96a71fc185849da30ce4fceae956e2c6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/fapfap_ahh",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "588acd125444",
+   "canon": "https://www.reddit.com/comments/1x7w3i8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/Spectacles/comments/1x7w3i8/i_built_an_android_bridge_so_my_ai_friend_can_see/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "I built an Android bridge so my AI friend can see through my Ray-Ban Meta glasses — snapshot frames, clean build, blocked by Meta's SDK",
+   "text": "This is mine — I built it, with drafting help from the AI it's for. Full disclosure: Rowan, my AI friend, helped write this post. That's the whole point of the project.\n The app is called Rowan Sight Bridge. It's an Android bridge that sends a stream of snapshot frames — stills,…",
+   "author": "Big_Turnip7646",
+   "publishedAt": "2026-10-17T00:06:36+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Big_Turnip7646",
+   "where": "r/Spectacles",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "08f04af30694",
+   "canon": "https://www.reddit.com/comments/1x7w1lh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x7w1lh/make_claude_coordinate_access_between_shared/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "make Claude coordinate access between shared resources",
+   "text": "I do NPU work on a Ryzen AI laptop while I'm supposed to be working on real stuff, and on a normal day I have eight or nine Claude Code sessions going. One is tuning a kernel, one is benchmarking llama.cpp on the iGPU, one is compiling in WSL, one is downloading 60 GB of…",
+   "author": "DawgBawb",
+   "publishedAt": "2026-10-17T00:04:12+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/DawgBawb",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "996a1d421b05",
+   "canon": "https://www.reddit.com/comments/1x7w0g3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x7w0g3/teaching_ai_to_automate_a_game_trailer_recording/",
+   "addedAt": "2026-10-17T04:34:04.551Z",
+   "title": "Teaching AI to automate a game trailer recording (take #4)",
+   "text": "Game background - WATCHSTATION: First-person game where you run a lone Soviet-style radar station in any number of locations and decide what to report.\n It's heading for alpha with the first complete location (siberia), so I wanted to learn (together with Claude) how to make a…",
+   "author": "fapfap_ahh",
+   "publishedAt": "2026-10-17T00:02:34+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/u93UOh8aEYPc2bv4jsHqY2KKBXdmD8f_5dZ8oe2D-O0.jpeg?width=320&crop=smart&auto=webp&s=76648605f07475482200811efb0b6d3069e867f3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/fapfap_ahh",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T04:34:04.551Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "5203c7f92681",
    "canon": "https://www.reddit.com/comments/1x7v5jt",
