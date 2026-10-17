@@ -1,8 +1,930 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-10-17T20:44:42.248Z",
+ "updatedAt": "2026-10-17T23:15:05.219Z",
  "cases": [
+  {
+   "id": "656acd20c962",
+   "canon": "https://www.reddit.com/comments/1x8nx0y",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x8nx0y/low_fps_high_latency_vd_my_settings/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "low fps & high latency VD ( my settings )",
+   "text": "i just purchased VD and wanted to test it with FalconBms ( that's one of the reasons i bought the headset for, for sims ) \n 4070\n i5-14600kf\n 32gb ddr5\n pleaseee help guys !!",
+   "author": "i7eahi",
+   "publishedAt": "2026-10-17T23:08:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/v28hepn504wh1.jpg?width=140&height=78&auto=webp&s=761577fdc42af842e30f665ac86d16043174e899"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/i7eahi",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0058842e41cd",
+   "canon": "https://www.reddit.com/comments/1x8nol9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x8nol9/i_am_creating_a_website_and_games_using_claude/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "I am creating a website and games using Claude Code.",
+   "text": "I’ve been building a website where you can download old games (titles that are no longer being published). I’ve integrated Adsterra for advertising, and I’ve been consistently updating the site with more games and new sections. I also feature the browser-based games I’ve created…",
+   "author": "nahu0093",
+   "publishedAt": "2026-10-17T22:57:28+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/nahu0093",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f0b9e326cf5a",
+   "canon": "https://www.reddit.com/comments/1x8njh5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x8njh5/built_a_browser_combatfarming_roguelite_inspired/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "Built a browser combat-farming roguelite inspired by childhood flash games",
+   "text": "I grew up grinding browser games during computer lab when I was supposed to be doing schoolwork. A few weeks ago, I set out to recreate that specific loop: fast combat, addictive progression, and deep gear customization.\n The main loop is pretty straightforward. You farm plants,…",
+   "author": "Thicthor96",
+   "publishedAt": "2026-10-17T22:50:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NmVxYmZidG93M3doMZimnRPtGaJLYLN1zemg9v3JZggrwfIWENIM8SA_tkCz.png?width=640&crop=smart&auto=webp&s=70525b14b43bc43f1a04e8b8467c1a141b847034"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Thicthor96",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f4db2079b7e0",
+   "canon": "https://www.reddit.com/comments/1x8nj2o",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x8nj2o/i_had_claude_build_a_very_simple_mental_math_game/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "I had Claude build a very simple mental math game similar to Wordle",
+   "text": "Link to the game:\n If you want to try it out (it's quite simple of a game) then here it is:\n https://www.reddit.com/r/mathnumble/s/HXbLg9pdXV\n What is it:\n Basically, the goal is to guess hidden numbers doing mental math.\n You are given a starting number You have to keep adding…",
+   "author": "SphinxWar",
+   "publishedAt": "2026-10-17T22:50:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ghv2u71fw3wh1.jpeg?width=320&crop=smart&auto=webp&s=8ee53ea563f3de257b0c65431594f95f7343c3f1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SphinxWar",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5e676c56c3af",
+   "canon": "https://www.reddit.com/comments/1x8nfwm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x8nfwm/character_movement_directly_made_by_claude_video/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "Character movement directly made by Claude - video update",
+   "text": "Here is short video of my latest attempt to make Claude create nice 3D model (still looks pretty bad), add motion capture for walking and running and turn it into 2D sprites which are added to the game (this looks good as terrible details on 3D model are lost in translation).…",
+   "author": "LegendaryJohnny",
+   "publishedAt": "2026-10-17T22:45:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OWlrdTdlbXd2M3doMSbYMFBe6pWY-YjkbYjfi2Nq1FfmI-1szRinLyTL1ir8.png?width=640&crop=smart&auto=webp&s=334ba8077b377dfbdc4a393131560e1fc9fe5b7a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/LegendaryJohnny",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e5727a6bebf0",
+   "canon": "https://www.reddit.com/comments/1x8ndaa",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8ndaa/i_had_claude_build_a_very_simple_mental_math_game/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "I had Claude build a very simple mental math game similar to Wordle",
+   "text": "https://preview.redd.it/00qr2unbw3wh1.jpg?width=412&format=pjpg&auto=webp&s=efda6627d21c9db093da130e1d1a16638120c16a\n Link to the game:\n If you want to try it out (it's quite simple of a game) then here it is:\n https://www.reddit.com/r/mathnumble/s/HXbLg9pdXV\n What is it:…",
+   "author": "SphinxWar",
+   "publishedAt": "2026-10-17T22:42:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/00qr2unbw3wh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=719b096039aaf403c69d8085bc71b0f2524cd11f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SphinxWar",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b594ec395895",
+   "canon": "https://www.reddit.com/comments/1x8n5ke",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x8n5ke/build_your_game_anywhere/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "Build your game anywhere",
+   "text": "Hey guys I(claude) built an open source tool that lets you control your computer from your phone. I know there are already apps on android but not many for IOS. It runs on your browser and connects to your computer using tailscale. It has a dedicated “APP” page for claude and…",
+   "author": "AirportLoo",
+   "publishedAt": "2026-10-17T22:32:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/1q4ii0vpt3wh1.jpeg?width=640&crop=smart&auto=webp&s=93fbcf84c06b84868c8e983fd72ceb0a6c8c6f90"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AirportLoo",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "48399c314934",
+   "canon": "https://www.reddit.com/comments/1x8mv15",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x8mv15/i_updated_my_vision_pro_piano_app_12_songs_to/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "I updated my Vision Pro piano app: 12 songs to learn (Ode to Joy, Chopin preludes, and will be adding much more in the next update) and a guided learning path with falling notes and finger numbers.",
+   "text": "Hi everyone, I’m the developer of Piano Pro+, a piano learning app for Apple Vision Pro. Version 1.7 is out now and it’s the biggest update so far. The video is a real recording from the headset, cut together with captions and nothing else added.\n What’s new in 1.7\n A guided…",
+   "author": "steffan_",
+   "publishedAt": "2026-10-17T22:18:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aDZiczFmMjdxM3doMW-KxS9vEEJMR0ZlPQfBheocr_kbhra_m49LIqArC35X.png?width=640&crop=smart&auto=webp&s=4fc7e92d5b7a81f06507c4fcbb17707926ee1644"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/steffan_",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "199edfb47e90",
+   "canon": "https://www.reddit.com/comments/1x8mq27",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x8mq27/claude_refuses_to_do_auto_mode_because_it/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "Claude refuses to do auto mode because it identifies itself as a third-party attack.",
+   "text": "I'm not sure how this makes any sense but wanted to share.",
+   "author": "Oxigenic",
+   "publishedAt": "2026-10-17T22:12:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/dvtm4dw1q3wh1.png?width=640&crop=smart&auto=webp&s=772efc6ad85827140fae7d4c59a81db818c8aa70"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Oxigenic",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1ddf39b727d3",
+   "canon": "https://www.reddit.com/comments/1x8mot8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1x8mot8/sproutvision_v2/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "SproutVision V2",
+   "text": "",
+   "author": "fandomgames",
+   "publishedAt": "2026-10-17T22:10:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ODBmNzI4NXdwM3doMWL6wTZaI8-MGFmeeqxFA9qtnr59LkERo1H5vS0uI_hP.png?width=640&crop=smart&auto=webp&s=094fc37de005e2b29f4fdfbdf6ebb105ada26106"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/fandomgames",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a1aa73a5ecd8",
+   "canon": "https://www.reddit.com/comments/1x8mok3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8mok3/agent_mode_is_now_live_on_instalandingai_your/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "Agent Mode is now live on InstaLanding.ai. Your coding agent can now use an entire open-source design library.",
+   "text": "I've been experimenting with a simple idea lately: What if we stopped making developers browse template libraries and started making template libraries accessible directly to AI coding agents?\n I've spent years building websites, and one thing I've noticed with Claude Code,…",
+   "author": "Azra_Nysus",
+   "publishedAt": "2026-10-17T22:10:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Zm1tOXVpNXJwM3doMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=9fea4ace05a5304a03e042f04de9266c9a5c09d2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Azra_Nysus",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "dcfaf5eb29a4",
+   "canon": "https://www.reddit.com/comments/1x8mn1l",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x8mn1l/more_gta_v_enhanced_vr_ray_trace_showcase/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "More GTA V Enhanced VR - Ray Trace Showcase",
+   "text": "Some more clips. The game is remarkably beautiful in VR… The ray tracing makes it’s super realistic. Driving around at night is mouth watering. I’ve been replaying the game and it’s like a whole new experience for me even though I’ve beat it multiple times. Have been a PCVR…",
+   "author": "Top_Team_3138",
+   "publishedAt": "2026-10-17T22:08:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OHgxem1rNThwM3doMZHuy7NAtKYIJ_eyr5noLO9vYf4kolA1G-73zlGOqPur.png?width=640&crop=smart&auto=webp&s=3e4f895bdd79bdd29079dbcfdee187bf64757b1d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Top_Team_3138",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "370e0ffc8776",
+   "canon": "https://www.reddit.com/comments/1x8mmvo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x8mmvo/i_made_a_mario_paintstyle_editor_for_skillmd/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "I made a Mario Paint-style editor for SKILL.md files: paint over the shouty parts and Claude rewrites them",
+   "text": "Most of my skills had turned into lists of CRITICAL/ALWAYS/NEVER rules. Claude follows those worse than a short explanation of what I actually want and why, so I built a tool to fix them. Dario Paint opens a skill from ~/.claude/skills (or your plugin skills) as a notebook page,…",
+   "author": "thedotmack",
+   "publishedAt": "2026-10-17T22:08:14+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/thedotmack",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7624fac41937",
+   "canon": "https://www.reddit.com/comments/1x8mizg",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x8mizg/early_look_at_my_top_down_zombie_game_there_is_a/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "Early look at my top down zombie game, there is a lot of work left!",
+   "text": "I made this in about 2 weeks with Opus 5.5. It is far from finished, I am not sure how long this will take, but with every new feature and mechanic, there are 10 bugs and other smaller features and mechanic which need fixing/implementing. But it does work in the long run, even…",
+   "author": "Ill-Range-4954",
+   "publishedAt": "2026-10-17T22:03:20+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Y3NsMW5mZDduM3doMTofjdrQIsQWxyV64Arva-1zSxv8Ul1cFJQqXOZ_UGGC.png?width=640&crop=smart&auto=webp&s=afcfbb03b709093fafeebeeab8544f68b49cc183"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ill-Range-4954",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "fdd272d04433",
+   "canon": "https://www.reddit.com/comments/1x8mh81",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x8mh81/my_first_public_app_consten_todo_list_planner/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "My first public app - Consten: To-Do List & Planner",
+   "text": "I’ve been an iOS and macOS developer making internal apps for a big corporation for 15+ years and finally decided to see what it’s like to publish publicly. Honestly felt a little like a poser posting a task app with all the insanely awesome VR/AR content here, but I’m really…",
+   "author": "divotdan",
+   "publishedAt": "2026-10-17T22:01:11+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "ar",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/divotdan",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8306c1c15a6c",
+   "canon": "https://www.reddit.com/comments/1x8maga",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x8maga/vr_game_where_you_play_as_a_ghost_you_can_prank/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "VR game where you play as a Ghost. You can prank or haunt, it’s up to you",
+   "text": "Hey everyone! I'm an indie developer working on Ghostly Late Night Show, a slapstick comedy game inspired by the classic Neighbours from Hell.\n You play as a mischievous ghost whose job is to make Billy's perfectly organized life a complete disaster.\n I've put together a short…",
+   "author": "GamingAppleFTW",
+   "publishedAt": "2026-10-17T21:52:51+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dnlnZm4yYW1tM3doMSMSrYrdpOIV-g14029ve1Bh7nW4BkP80RvBsKJc7Mxd.png?width=640&crop=smart&auto=webp&s=ecc8cadcb0a42158ccee664c13997bb9b0606d4f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/GamingAppleFTW",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e748a09df423",
+   "canon": "https://www.reddit.com/comments/1x8m865",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x8m865/birthright_updating_our_games_board_ui_art_a/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "Birthright - Updating Our Games Board UI & Art, A Night & Day Difference!",
+   "text": "Just wanted to share the progress my team and I have made over the past week and a half for our deck building card battler, Birthright! If you are curious, our team is comprised of an artist, a composer/sfx designer (new), and myself, the game designer and developer. Being the…",
+   "author": "Prestigious_Party602",
+   "publishedAt": "2026-10-17T21:50:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/c9eud9wil3wh1.png?width=140&height=78&auto=webp&s=1cedf497d5defeb1f320646b76124b477dde2bdb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Prestigious_Party602",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f01b9bf6aa6a",
+   "canon": "https://www.reddit.com/comments/1x8m7l7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x8m7l7/diy_vr_headset_progress_standalone_wireless_pcvr/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "DIY VR Headset Progress: Standalone + Wireless PCVR, Custom SLAM Tracking, Dual Compute Architecture and an 85Wh Battery",
+   "text": "It's been a while since I last posted about the headset i'm working on (I thought it would be sooner) but at this point things are looking good! I wanted to share the progress on it!\n A lot of the headset is near completion for the Andromeda headset while a lot remains of the…",
+   "author": "Walker-Dev",
+   "publishedAt": "2026-10-17T21:49:17+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/sU5h4yhtxL4bVajcrttcWjGMZzsB8tNc5G6MQo5wdUw.jpeg?width=320&crop=smart&auto=webp&s=c2f5bbf95a564c5c518f8082d00cb98ac6b19705"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Walker-Dev",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "88dfde83da5d",
+   "canon": "https://www.reddit.com/comments/1x8m7e7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x8m7e7/batman_arkham_shadows_on_pc/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "Batman Arkham Shadows on PC",
+   "text": "I managed to port Batman to pc with help by Refract and Claude with adjustable sharpness and resolution,\n here is the Github: https://github.com/5shen5/BatmanPCVR\n You will need you're own game files.\n I would love to see this project improve by more experienced people, and…",
+   "author": "5shen",
+   "publishedAt": "2026-10-17T21:49:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Z3VkcmFuZWpsM3doMX147ZKNuKK_PhfwxTKZ9C94lTiAkKV3_pnacqn0cE_x.png?width=640&crop=smart&auto=webp&s=4582d50ff2cdf4947e47c91ea52afea7f0cf3524"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/5shen",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b4b8a75bf574",
+   "canon": "https://www.reddit.com/comments/1x8m064",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8m064/i_let_claude_play_my_rat_gladiator_game_blind_it/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "I let Claude play my rat gladiator game blind. It named its dojo “Patch Notes” because it planned to break the balance.",
+   "text": "I’m developing Ratiator, a management game where you recruit rat gladiators and write the conditional tactics they follow in combat. I wanted to see what Claude would figure out as a new player.\n It started with the controls and one sentence: “a management game about a rat…",
+   "author": "AkandoGames",
+   "publishedAt": "2026-10-17T21:39:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/navguvx2k3wh1.jpeg?width=640&crop=smart&auto=webp&s=42f01699c85079e1db5d72594af9a9816c907cc1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AkandoGames",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e72aebf8b1b3",
+   "canon": "https://www.reddit.com/comments/1x8lzus",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x8lzus/revisited_a_mod_i_started_working_on_6_months_ago/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "Revisited a mod I started working on 6 months ago for an overhaul to one of my favorite arcade flight sim Ultrawings 2",
+   "text": "I started this back in April in my attempt to learn unity and the fundamentals of creating mods. Some ai was used to help catch me back up with where I was and instead of having it build it for me, I used it as a coach and teacher to help me learn unity and how code interacts in…",
+   "author": "StarConsumate",
+   "publishedAt": "2026-10-17T21:39:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/N3osha8v-hWfvfbyqrDYMc94qNF7bxoKLBcPayh2w_o.jpeg?width=320&crop=smart&auto=webp&s=cebf751710637c28472a0e08af7382fe67f15181"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/StarConsumate",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e4fa97a56b53",
+   "canon": "https://www.reddit.com/comments/1x8lyed",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x8lyed/spatial_tracks_song_of_the_week_time_from_the/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "Spatial Tracks — Song of the Week: ⏳ Time (from The Dark Side of the Moon)",
+   "text": "https://reddit.com/link/1x8lyed/video/eag4tbamj3wh1/player\n Thanks to everyone who's checked out Spatial Tracks since launch! It's been great seeing the interest from the Vision Pro community.\n This week's featured track is Time, from The Dark Side of the Moon.\n The attached…",
+   "author": "Electrical_Ad9041",
+   "publishedAt": "2026-10-17T21:37:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/v1kVYbNUoIxj46WCKM_cXqRRbUwvoqTfEx3PT2tNzu4.jpeg?width=140&height=73&auto=webp&s=d3f5aff966b12159c4334d6228bddf87de3f68f0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Electrical_Ad9041",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ea3078d5d157",
+   "canon": "https://www.reddit.com/comments/1x8lhv0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x8lhv0/i_brought_blade_of_darkness_2021_an_underrated/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "I brought Blade of Darkness (2021), an underrated classic from a Spanish studio, to full VR with motion-controller combat and diorama MR",
+   "text": "Not many people remember **Severance: Blade of Darkness**. It was made by Rebel Act Studios, a small studio from Madrid, and released in 2001. It never sold much and the studio closed soon after, but it was way ahead of its time: brutal melee combat where every swing counts,…",
+   "author": "Efraim2704",
+   "publishedAt": "2026-10-17T21:17:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/uavnu9ic73wh1.png?width=140&height=78&auto=webp&s=6fc8fa6962474c30c596423dd696918036b463d7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Efraim2704",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cb883aae023b",
+   "canon": "https://www.reddit.com/comments/1x8l6he",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8l6he/claude_code_edited_my_product_video_and_im/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "Claude Code edited my product video, and I'm honestly surprised how good it is",
+   "text": "I built a Mac app with Claude Code over the last month, and for the launch I asked it to make the video as well. No video editor, no After Effects. It wrote each scene as HTML, animated it, mixed in the music, and rendered it with HyperFrames. This is version 5, after one day of…",
+   "author": "ravann4",
+   "publishedAt": "2026-10-17T21:03:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eWNoYmtnN3RkM3doMfLprpzEm_9Nd0vml_MUm5plk5sN18ElU8IrwkVSy_AE.png?width=640&crop=smart&auto=webp&s=2f5a00a456d7a532adf8a1f538818f0262a3bda8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ravann4",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ca28786df519",
+   "canon": "https://www.reddit.com/comments/1x8l5tv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x8l5tv/shipped_a_paid_mac_app_with_claude_code_then_had/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "Shipped a paid Mac app with Claude Code, then had it make the launch video too",
+   "text": "Workflow notes for anyone doing something similar.\n The app: CallLane, a macOS menu-bar app. Call apps get their own audio device so macOS doesn't duck your music, and the input stays pinned to the Mac's mic so AirPods never drop to headset mode. Swift + SwiftUI, a Core Audio…",
+   "author": "ravann4",
+   "publishedAt": "2026-10-17T21:02:47+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ajlrMGljamlkM3doMfLprpzEm_9Nd0vml_MUm5plk5sN18ElU8IrwkVSy_AE.png?width=640&crop=smart&auto=webp&s=b4ba1166011c9afb93e1e820f0bf08cd537772eb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ravann4",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "343fdff98d31",
+   "canon": "https://www.reddit.com/comments/1x8l2zb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x8l2zb/dying_multiple_times_in_a_crappy_horror_world_in/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "Dying multiple times in a crappy horror world in the VRChat rooms",
+   "text": "They don't make sh*t like this anymore (yes they do)",
+   "author": "MetallisAph",
+   "publishedAt": "2026-10-17T20:59:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/iDtrs2_NCkgbvuwo9GtI03qC52rC_F--sqK-G632eBg.jpeg?width=320&crop=smart&auto=webp&s=acf9318b123be9e79da1d073177f7a6e2008de9c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MetallisAph",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9dfd6f1ccbf5",
+   "canon": "https://www.reddit.com/comments/1x8krh7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x8krh7/i_built_a_mod_that_adds_drips_animations_and/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "I built a mod that adds drips (animations) and games over the top Claude Code desktop or CLI.",
+   "text": "I wanted something fun to play with so this came to me. It works in terminal or in the desktop.\n Build your own, share them, the plugin ships either skills to tell Claude what you want. The mod has a try and hooks so Claude can use the hooks to let you know when turns are done.…",
+   "author": "Successful-Seesaw525",
+   "publishedAt": "2026-10-17T20:45:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MjhhNHQ4OHFhM3doMTi2lcs8A0u5MnDeNLAM24b_zfyppsza2Cb1Jqa5m7qc.png?width=640&crop=smart&auto=webp&s=e3c1e07deab69a20492df2b4cb1f02297c6ef37c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Successful-Seesaw525",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e6e2e2010454",
+   "canon": "https://www.reddit.com/comments/1x8kpv3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x8kpv3/keeping_an_aimade_game_cohesive_across_five/",
+   "addedAt": "2026-10-17T23:12:16.197Z",
+   "title": "Keeping an AI-made game cohesive across five chapters: what we did differently on our second game",
+   "text": "Pixel & Pincel is a 2-player co-op platformer from a small team in Brazil (we also make Caçarola). One hero is pixel art, the other is gouache paint, and every level needs both: she paints bridges in the air, he freezes them; her paint reveals the monsters, his square freezes…",
+   "author": "Zealousideal-Bar-316",
+   "publishedAt": "2026-10-17T20:43:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZWtxc2tsdjI5M3doMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=b012263b9a7367b361e606ec9222302e837c6785"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Zealousideal-Bar-316",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "53f742b40b15",
    "canon": "https://www.reddit.com/comments/1x8kipd",
