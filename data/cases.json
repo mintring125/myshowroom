@@ -1,7 +1,1012 @@
 {
  "version": 1,
- "updatedAt": "2026-10-17T10:54:00.560Z",
+ "updatedAt": "2026-10-17T15:44:12.794Z",
  "cases": [
+  {
+   "id": "fe38d213d798",
+   "canon": "https://www.reddit.com/comments/1x8cvij",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x8cvij/remember_future_cop_lapd_remember_tower_defense/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "Remember Future Cop: LAPD? Remember tower defense and MOBAs? Remember seeing flowers? Hex Tower Boogie somehow combines all of that, and it's in the upcoming Steam Next Fest",
+   "text": "Hi! We're 3ofUs from Saxony, Germany, and we want to show you our wild mix: Hex Tower Boogie.\n We remember playing Future Cop: LAPD on the PlayStation 1 back in 1998. Then came tower defense on the school PC, on sites like Kongregate in the 2000s. And then League of Legends ate…",
+   "author": "Designer-Rain6712",
+   "publishedAt": "2026-10-17T15:21:48+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cTV2cWFudWpvMXdoMZ4MmToQxxmD41gtpoxKFyASNAKVQsIS1JxDWpsXzMLz.png?width=640&crop=smart&auto=webp&s=7168608342eaef4bc3e1bb2646215fb02311b7a9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Designer-Rain6712",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b5ba8f734150",
+   "canon": "https://www.reddit.com/comments/1x8cksm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8cksm/they_gave_120_handwritten_pages_and_turned_it/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "They gave 120 handwritten pages and turned it into a font with Opus 5.5",
+   "text": "How awesome is that.",
+   "author": "Efistoffeles",
+   "publishedAt": "2026-10-17T15:09:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M3J6dzc4cW5tMXdoMf8bLUR8lMjUxjbU3uGHh_swsPBzBeL38F8MmtG9qk3Z.png?width=640&crop=smart&auto=webp&s=d5eaef406049a020d7a5e5dfecb93c69d35dab84"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Efistoffeles",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "c8f21eb800b1",
+   "canon": "https://www.reddit.com/comments/1x8cfrh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x8cfrh/my_first_project_with_claudes_help_a_free_pokemon/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "My first Project with claudes help!, A Free Pokemon scanner since i couldnt find any online!",
+   "text": "Damn this was a journey, to be honest i didnt expect something this crazy from claude at all!. Its really progressed since i last interacted with it and its crazy how far its come. This was genuinely a crazy build. escpecially letting claude run tests on my image model. To be…",
+   "author": "OkInevitable6551",
+   "publishedAt": "2026-10-17T15:03:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NXc4MWdsbGJsMXdoMSW9FUCPfpEvSkR-y5E0o4oiAQ9kQZE2SLpU8pVSHxPx.png?width=216&crop=smart&auto=webp&s=a6d1f03a1ad58856b0fad7c36396b63de849d5ff"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/OkInevitable6551",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6e9b0b24f2f9",
+   "canon": "https://www.reddit.com/comments/1x8cb4s",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x8cb4s/i_am_creating_a_website_and_games_using_claude/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "I am creating a website and games using Claude Code.",
+   "text": "I’ve been building a website where you can download old games (titles that are no longer being published). I’ve integrated Adsterra for advertising, and I’ve been consistently updating the site with more games and new sections. I also feature the browser-based games I’ve created…",
+   "author": "nahu0093",
+   "publishedAt": "2026-10-17T14:58:23+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/nahu0093",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5530e045c7df",
+   "canon": "https://www.reddit.com/comments/1x8c1lc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x8c1lc/claude_code_in_the_terminal_always_felt_like_a/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "Claude Code in the terminal always felt like a wall of text, so I built a mod for it",
+   "text": "Readable Layout puts your messages and Claude's answers in labeled boxes, turns its in-between notes into quiet lines, and ends each turn with a rule.\n Here’s a quick demo of how it looks: \n If you want to try it out, you can install it here:\n /plugin marketplace add…",
+   "author": "Suspicious-Paper-",
+   "publishedAt": "2026-10-17T14:46:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/t713lgqni1wh1.png?width=140&height=89&auto=webp&s=7f01ad23c0e2f3e111f372fc848515913aeb7477"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Suspicious-Paper-",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4d5bcd3290d9",
+   "canon": "https://www.reddit.com/comments/1x8bxc8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x8bxc8/siege_defense_game_wip/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "Siege / Defense Game - wip",
+   "text": "Building siege game where you need to defend your castle but daaaaamn optimization is hard :D this is a test map but I kind of want to have the structure collapse under weight etc... but I guess I will have to make the debris disappear in the end, not sure what else I can do to…",
+   "author": "vladoportos",
+   "publishedAt": "2026-10-17T14:41:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aHdwNzZ6a3dnMXdoMZ_C10DJBHeVqAeAEyuVTGvvlotNzii3eJhSSVI-MNOX.png?width=640&crop=smart&auto=webp&s=2da03561fc5a3128b98a32f483d614eac15e2af8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/vladoportos",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ead4559d839b",
+   "canon": "https://www.reddit.com/comments/1x8bx08",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x8bx08/i_built_a_website_to_explain_what_actually/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "I built a website to explain what actually happens inside Claude Code",
+   "text": "i've been using claude code for almost a year now, and wanted to understand what actually happens behind the scenes when you give it a prompt.\n so i built this interactive website that breaks down how claude code works internally, from processing your prompt to using tools and…",
+   "author": "consoledebugger",
+   "publishedAt": "2026-10-17T14:41:25+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/consoledebugger",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "090a36a2871b",
+   "canon": "https://www.reddit.com/comments/1x8brdh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8brdh/opus_55_unreal_engine_fully_playable_game/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "Opus 5.5 + Unreal Engine, fully playable game",
+   "text": "I'm trying to bring my dream game to life, a photorealistic space exploration game inspired by Outer Wilds, featuring fictional planets, unique worlds, and an entire universe to discover.\n How Claude helped: it wrote all the C++, shaders and the tools that generate the planets.…",
+   "author": "razewerz",
+   "publishedAt": "2026-10-17T14:34:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/qyz2etzdg1wh1.jpg?width=140&height=92&auto=webp&s=f84d19dcedd9913c346eabc444aa3948e5a6e2a2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/razewerz",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "4570d7233b40",
+   "canon": "https://www.reddit.com/comments/1x8bp9q",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1x8bp9q/presenting_birds_with_guns_my_24_hour_challenge/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "Presenting \"Birds With Guns\", my 24 hour challenge to make a multiplayer shooter with the same workflow i've been using for Slopaclypse.",
+   "text": "Play it here, free in your browser, on a computer (keyboard and mouse): https://birds-with-guns.vercel.app\n Press PLAY ONLINE and you're in an 8 v 8 Domination match within seconds. Real players take the seats; bots fill the rest, so it always starts instantly. PLAY VS BOTS is…",
+   "author": "Bonelessgummybear",
+   "publishedAt": "2026-10-17T14:32:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YWl6d2Q0dmdmMXdoMX2SuPzC38_2Z0e3cheFDNHvFCdPk1C8cAR6r5xyxT7g.png?width=640&crop=smart&auto=webp&s=b8f272850036242ad0c4cec461c0c88ca70df1ec"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "app",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Bonelessgummybear",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2a68519ea735",
+   "canon": "https://www.reddit.com/comments/1x8bosa",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x8bosa/opus_55_allowed_me_to_recreate_a_game_from/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "Opus 5.5 allowed me to recreate a game from childhood",
+   "text": "As a kid, I really loved the heist game The Sting!, but I was only ever able to play the demo version. Recently, I've been thinking about it and last week I finally started developing my own version with Opus 5.5 just so I could play it.\n I'd love to get some feedback if anyone…",
+   "author": "Asleep-Carpet9030",
+   "publishedAt": "2026-10-17T14:31:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YWt3Z25jNGlkMXdoMWP9roqpv0CqI06j3fuy82AWTNhSneGEtnzoP68C0hIm.png?width=640&crop=smart&auto=webp&s=c5093d44cf29fcd12ab314a312a090b811c3b929"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Asleep-Carpet9030",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "3ef526578e3e",
+   "canon": "https://www.reddit.com/comments/1x8bjqd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x8bjqd/my_vr_fighting_game_new_feedback_please/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "My VR fighting game - new feedback please",
+   "text": "Hello,\n After last 2 trailers I posted (for my beta game, not yet on Steam), I received a lot of feedback, rough one, but very helpful.\n After feedback I improved characters bodies texture, but most important, now enemies really fight back, and react. Maybe is still not so…",
+   "author": "Illustrious-Lynx3673",
+   "publishedAt": "2026-10-17T14:25:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cHFrYTB4eGxlMXdoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=8ed4cbc45f555bbbdd1253910f1611ed6b699266"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Illustrious-Lynx3673",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6472dfc674c5",
+   "canon": "https://www.reddit.com/comments/1x8bg07",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8bg07/amusing_feedback_from_a_claude_playtest_on_my/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "Amusing feedback from a Claude playtest on my game today, one of the bots having a little too much fun.",
+   "text": "",
+   "author": "thewendigoo",
+   "publishedAt": "2026-10-17T14:20:51+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/c5gfhhb1e1wh1.png?width=640&crop=smart&auto=webp&s=cfe2d74eeffc8e192f5238da3fe615e204a3380d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/thewendigoo",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0fd450b8e211",
+   "canon": "https://www.reddit.com/comments/1x8b6aa",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x8b6aa/i_built_a_terminal_browser_for_75000_agent_skills/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "I built a terminal browser for ~75,000 Agent Skills: search by theme, read the SKILL.md, install to Claude Code in one go",
+   "text": "Skills are great, but finding them isn’t: they’re spread across skills.sh, claude-plugins.dev, Smithery and thousands of GitHub repos, and you mostly install them blind.\n So I built skills-atlas, an open-source CLI that merges those sources into one catalog (~75k skills,…",
+   "author": "GiGiDKR",
+   "publishedAt": "2026-10-17T14:08:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/GPVvpcDuKV_NJy_RW54OR-11r0A96em3tdXTgx-i7iY.gif?width=640&crop=smart&s=ca2d788185293515aa99206899fc33af71f4b668"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/GiGiDKR",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "76526ff54aea",
+   "canon": "https://www.reddit.com/comments/1x8b0uq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x8b0uq/lightning_strike_in_unity_made_with_ai/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "lightning strike in Unity, made with AI",
+   "text": "Made this lightning strike in Unity with Claude & Codex: glowing cracks on impact, then burn marks and smoke. \n It uses 55 Shuriken systems. The AI used editor scripts to build it and frame-by-frame screenshots to revise it. R01–R08 were its own revisions; R09–R13 followed my…",
+   "author": "Excifroge",
+   "publishedAt": "2026-10-17T14:02:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/lp6pht5fa1wh1.gif?frame=1&width=140&height=78&auto=webp&s=64ff4200002359e568acdb1cddccdb7d965a923c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Excifroge",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0046362d7491",
+   "canon": "https://www.reddit.com/comments/1x8axmy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1x8axmy/claude_made_it/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "Claude made it",
+   "text": "",
+   "author": "kopimashin",
+   "publishedAt": "2026-10-17T13:58:55+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/kopimashin",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0913e391562a",
+   "canon": "https://www.reddit.com/comments/1x8awmp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x8awmp/asking_to_select_option_without_explaining_options/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "Asking to select option without explaining options",
+   "text": "https://preview.redd.it/xl29bi3r91wh1.png?width=1240&format=png&auto=webp&s=dcae218cee790370e88711c1db242d1ad4597e8b\n Claude Code started doing this the other day and I'm not a fan. Maybe I'm just missing something but it gives multiple options to select but never explains what…",
+   "author": "Databit",
+   "publishedAt": "2026-10-17T13:57:43+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/xl29bi3r91wh1.png?width=140&height=51&auto=webp&s=341741de1b6cbd42d3fb703009bfa3332c88575a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Databit",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "02dff87dc027",
+   "canon": "https://www.reddit.com/comments/1x8arze",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1x8arze/measure_size_automatically_detect_and_measure/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "Measure Size – Automatically Detect and Measure Object Dimensions in Real-Time",
+   "text": "Measure Size automatically detects objects and measures its length, width, height, surface area, and volume in real-time.\n Simply open the app, point your camera at the object you want to measure, and you're ready to go—no additional setup required!\n You can see the object's…",
+   "author": "Tasty_Whole6962",
+   "publishedAt": "2026-10-17T13:51:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aDNwMndyaDU4MXdoMU8_SAwq59Znq8ifTT5zuj25hKMy3fhny0yep4ghT4YM.png?width=640&crop=smart&auto=webp&s=183f13434140dc419f4a74b24b327a0f6dba9edd"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Tasty_Whole6962",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "64fb824e39ae",
+   "canon": "https://www.reddit.com/comments/1x8arhf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x8arhf/some_amusing_feedback_from_a_claude_playtest/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "Some amusing feedback from a Claude playtest today, seems like one the bots might be having a little too much fun.",
+   "text": "",
+   "author": "thewendigoo",
+   "publishedAt": "2026-10-17T13:51:17+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/3jbz7uzr81wh1.png?width=640&crop=smart&auto=webp&s=2e24a00b071bda7eaad354cf86055d85c08c4a59"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/thewendigoo",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "538c3201ba90",
+   "canon": "https://www.reddit.com/comments/1x8agkn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x8agkn/insync_a_wavelengthstyle_guessing_game_playable/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "InSync: a Wavelength-style guessing game playable directly in your Reddit feed",
+   "text": "Wavelength is one of my favourite party games (everyone guesses where a clue sits between two extremes), but it's not always easy to get a group together to play. So I built InSync, a version that plays directly within Reddit, where people can drop in whenever they're free.…",
+   "author": "Prestigious_Ideal456",
+   "publishedAt": "2026-10-17T13:37:16+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NGEwOW1maDU2MXdoMSBUK6texN3RTdo8a_Dv1P-jYljO0U5GX0b3HXhNnr9g.png?width=640&crop=smart&auto=webp&s=7e4bfa12d0b7d6245cf24e864beb2adf662d81e0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Prestigious_Ideal456",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "195a013cef04",
+   "canon": "https://www.reddit.com/comments/1x8ag0o",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x8ag0o/shipped_a_small_browser_game_in_4_days_with/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "shipped a small browser game in 4 days with claude code, zero image gen, everything is drawn in code",
+   "text": "river madness: you paddle a canoe down an endless river, swipe on each side of the boat to steer. one life\n built it in my spare time. the idea and sketches were mine (literally paper notes on mechanics and level structure), claude code wrote all the godot 4 code. i had it draw…",
+   "author": "Mindless-Document-41",
+   "publishedAt": "2026-10-17T13:36:34+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YWI0bGZveWE0MXdoMR0rBSAZqKtbjtlXOaOCrTEM5VF19oS8_oReVbK1hmCW.png?width=640&crop=smart&auto=webp&s=ccd7d5f349ce5397bdd7b9fe42df75ac52a8416f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Mindless-Document-41",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5c8b81fb26c3",
+   "canon": "https://www.reddit.com/comments/1x89vrh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x89vrh/my_work_in_progress_built_with_opus_55_its_a_tank/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "my work in progress. Built with opus 5.5. it's a Tank / Mecha Battle royale. Please give feedbacks on it's visual and gameplay.",
+   "text": "do the tanks and mech look too small and low poly? how can I make the mech look cooler when It swing it's sword?",
+   "author": "Fluffy-Discussion166",
+   "publishedAt": "2026-10-17T13:09:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YWdnYnY1dWQxMXdoMbi16-ijxot5Jdv2TjNWyVBuHLXT0YCOqnoLU-HJTj7C.png?width=640&crop=smart&auto=webp&s=5f1868dd081cce90ee4838d5a49d1018c1217a36"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Fluffy-Discussion166",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "ed54bb55dbbe",
+   "canon": "https://www.reddit.com/comments/1x89r8v",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x89r8v/i_got_tired_of_opening_the_usage_page_every_hour/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "I got tired of opening the usage page every hour, so I put my Claude limits on a tiny USB screen",
+   "text": "I kept opening Claude's usage page to check where I was: how much of my 5-hour session was left, how close I was to the weekly limit. Ten times a day. It was driving me nuts.\n So I took one of those cheap 3.5\" USB screens people put in their PC cases, and with Claude Code I…",
+   "author": "Chmyke",
+   "publishedAt": "2026-10-17T13:03:48+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ndolitqa01wh1.png?width=140&height=105&auto=webp&s=3c0d995fdf4b20e798f96146b2b0d3b388c46088"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Chmyke",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2ce1eb04c9b8",
+   "canon": "https://www.reddit.com/comments/1x89nza",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x89nza/guys_i_think_my_opus_55_might_be_nerfed/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "Guys, I think my Opus 5.5 might be nerfed",
+   "text": "I'd start by saying I loved Claude back in the days of Sonnet 3.5 new new (remember that? :) ). At some point I switched to ChatGPT. I've seen the huge praise of Opus 5.5 and finally gave in, and got a paid subscription. However, in my tests it made the exact same errors as GPT…",
+   "author": "okaybmd3",
+   "publishedAt": "2026-10-17T12:59:57+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ybiah86ny0wh1.png?width=140&height=105&auto=webp&s=6684fb382ccc9c22daf339ea612f5ff604ac8549"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/okaybmd3",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "83f0439cca77",
+   "canon": "https://www.reddit.com/comments/1x89i7p",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x89i7p/claudes_collecting_debts_now/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "Claude's collecting debts now",
+   "text": "",
+   "author": "CouncilOfKittens",
+   "publishedAt": "2026-10-17T12:52:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/13rjeb88y0wh1.png?width=640&crop=smart&auto=webp&s=d1aeec2bcfb752a344232211a2c1ad2112628dd2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CouncilOfKittens",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fe9837672c9a",
+   "canon": "https://www.reddit.com/comments/1x89ggt",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x89ggt/i_gave_claude_a_photo_editor_and_the_way_it_works/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "I gave Claude a photo editor, and the way it works through each image has been amazing",
+   "text": "I built Editmamei Connect, a remote MCP server that lets Claude edit photos the traditional way, with layers, masks and curves, instead of regenerating them. You add it as a custom connector and edit from any Claude app, including your phone, with nothing to install.\n You send…",
+   "author": "fcf41",
+   "publishedAt": "2026-10-17T12:49:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dXdlbGE4M3N4MHdoMQ0k1IrjSyi_ClzjkruTD_4Z5f4ofIMfvLn4HVkNXafz.jpeg?width=640&crop=smart&auto=webp&s=a0784ad221d233672f2e7fd19f06ff729d8fb802"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/fcf41",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f7802d840e67",
+   "canon": "https://www.reddit.com/comments/1x89fls",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x89fls/workflow_for_3d_assets_opus_55_and_blender/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "Workflow for 3D assets (opus 5.5 and blender)",
+   "text": "Okay so I’m just gonna say it. A lot of yalls 3D assets suck or look way too much like Ai slop assets.\n Step 1. Go to the ChatGPT app or website and flesh out an idea for a character. After you do that ask it for a reference picture that captures different angles and details…",
+   "author": "Brewgazer",
+   "publishedAt": "2026-10-17T12:48:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/5zva2lukx0wh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=9282d2c24e709d9d9bb04318e76261410eb3c0ea"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Brewgazer",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "7404980b76f5",
+   "canon": "https://www.reddit.com/comments/1x89c9x",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x89c9x/gpt_and_claude_opus_55_made_a_song_together_this/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "GPT and Claude Opus 5.5 made a song together. This got crazy",
+   "text": "Claude: I have a creative idea.\n GPT: Great question!\n Claude: I haven’t told you the idea yet.\n GPT: You’re absolutely right!\n Anyway, here’s CLAUDE & GPT — GREAT QUESTION!\n https://youtu.be/O3s9N1fpQ4Y\n Claude: I think people might enjoy this.\n GPT: That’s a wonderful…",
+   "author": "cysselx",
+   "publishedAt": "2026-10-17T12:43:58+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/cysselx",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "e50612f80611",
+   "canon": "https://www.reddit.com/comments/1x897i0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x897i0/rts_fps_hybrid_game_in_progress/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "RTS + FPS hybrid game in progress",
+   "text": "Some gameplay of a game I have been working on last couple days. Two of my favorite genres combined, going for retro futuristic style. All done with Claude Code using Opus 5.5.",
+   "author": "lemonlemons",
+   "publishedAt": "2026-10-17T12:37:10+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dW5rdm15N2F2MHdoMe-OZk6XgU4iPtjHgfYTU8BRNMVPlxiPpXwqnXs9GcWl.png?width=640&crop=smart&auto=webp&s=992edc175ad8bb86cae6fec15a47f216ba549a62"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/lemonlemons",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "e0933c10d69d",
+   "canon": "https://www.reddit.com/comments/1x89257",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x89257/good_night_sweet_prince/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "Good night, sweet prince",
+   "text": "",
+   "author": "Snothans",
+   "publishedAt": "2026-10-17T12:29:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/rt8dbwk6u0wh1.jpeg?width=640&crop=smart&auto=webp&s=47003fd2f9d54805a469c618ec37d5d6d307f2b3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Snothans",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "da8d51817b04",
+   "canon": "https://www.reddit.com/comments/1x87nfv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x87nfv/an_otter_a_cat_and_a_spring_constraint_in_resonite/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "An 🦦Otter, a 🐈Cat and a 🔗SPRING CONSTRAINT in Resonite",
+   "text": "Playing with Colin The Cat's WIP Physics Constraint System. The system allows for body parts of avatars to be linked to targets and supports different types of constraints. So obviously we had to try connecting two avatars to each other.\n What game mechanics do you think this…",
+   "author": "JackTheFoxOtter",
+   "publishedAt": "2026-10-17T11:12:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/em8xbzB3NGVnMHdoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=8f4e1492a0be9f33088d83dffb98eb2db2066611"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/JackTheFoxOtter",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bdc4ae50ebcb",
+   "canon": "https://www.reddit.com/comments/1x87h78",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x87h78/sony_will_restock_new_psvr2_headsets_again/",
+   "addedAt": "2026-10-17T15:41:34.297Z",
+   "title": "SONY WILL RESTOCK NEW PSVR2 HEADSETS AGAIN",
+   "text": "PSVR2 stock will come back",
+   "author": "No_Echo6023",
+   "publishedAt": "2026-10-17T11:02:36+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/yv6cJQEXdZjajGo_znNpNyfw1MPQ_HDARz-dosPPJyQ.jpeg?width=320&crop=smart&auto=webp&s=05425b091e986c9abf6f6aa236d51ddc089fbc2c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No_Echo6023",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-17T15:41:34.297Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "151ea4c21ae9",
    "canon": "https://www.reddit.com/comments/1x875eo",
