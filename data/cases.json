@@ -1,7 +1,924 @@
 {
  "version": 1,
- "updatedAt": "2026-10-18T04:44:17.630Z",
+ "updatedAt": "2026-10-18T11:15:45.504Z",
  "cases": [
+  {
+   "id": "503fbe6d9bec",
+   "canon": "https://www.reddit.com/comments/1x90kc8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x90kc8/artifact_doraemon_context_opus_55/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "Artifact Doraemon, Context Opus 5.5",
+   "text": "Here it goes again, while many startups and websites use the logos, company brands on their sites without any issues. My fellow coder is telling me I can’t use our little doraemon on my product website. \n While I am happy it’s doing that legal work for me , still I am thinking…",
+   "author": "DEVIL_H_FUEGO",
+   "publishedAt": "2026-10-18T11:08:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/iv6085wkk7wh1.jpeg?width=640&crop=smart&auto=webp&s=8cac3d311cd9e38cdb1095278d861a1a25b429ca"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/DEVIL_H_FUEGO",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "b5f881eb751a",
+   "canon": "https://www.reddit.com/comments/1x90jeb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x90jeb/i_built_a_claude_code_skill_that_turns_gpt_app/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "I built a Claude Code skill that turns GPT app designs into real assets and code",
+   "text": "I built gpt-ui-assets, a skill for Claude Code. I'm an Android developer, and I kept hitting the same problem: GPT designs good app screens, but when you ask it for the assets it crops them out of the mockup (low-res, background baked in, edges cut off).\n What it does\n Claude…",
+   "author": "Necessary-Low-9774",
+   "publishedAt": "2026-10-18T11:06:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NGdhbHp4bmFrN3doMYx6n53VoFriSm_nukpr7tacgStVl8DLJr_wDkD3mfWF.png?width=640&crop=smart&auto=webp&s=3288af3c51ca6f8e48e4b13d33c070cb535b0c59"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Necessary-Low-9774",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cd913a0781d6",
+   "canon": "https://www.reddit.com/comments/1x90gty",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x90gty/streefighter_styled_fighting_game_higgsfighter/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "Streefighter styled fighting game: HiggsFighter",
+   "text": "Streetfighter style game: Claude opus 5.5 for the game itself and to optimize character prompts for ChatGPT. Using real reference pictures and GPT-6+Pixellab for character and sprite creation. Also using GPT-6 for stage generation.",
+   "author": "CryptoLeszto",
+   "publishedAt": "2026-10-18T11:02:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Y2xiNnN1MGhpN3doMZFzWjsrxOYDleu65Kz_FUB5Z0FSgWhkFByUt2Xq6Sjg.png?width=640&crop=smart&auto=webp&s=d5aa0048efc4bcdbbc7f24b75e48645869b50192"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CryptoLeszto",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "c3c8adb3db68",
+   "canon": "https://www.reddit.com/comments/1x90e0a",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x90e0a/i_built_a_vs_codestyle_editor_in_rust_for_working/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "I built a VS Code-style editor in Rust for working with coding agents",
+   "text": "it looks and works like VS Code (same shortcuts, same themes), but it's native Rust on GPUI instead of Electron.\n It has no language server. Since coding agents write most of my code, I rarely need autocomplete or go-to-definition anymore. If that's true for you too, you don't…",
+   "author": "FroyoAbject",
+   "publishedAt": "2026-10-18T10:58:22+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/FroyoAbject",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a80ab60f65bf",
+   "canon": "https://www.reddit.com/comments/1x90buz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x90buz/opensource_tool_to_fully_understand_and_optimize/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "open-source tool to fully understand and optimize AI usage",
+   "text": "I’m a senior SWE using AI coding tools daily. I analyzed my Claude Code transcripts and found 56% of API-equivalent costs went to rereading context. Cache expiry cost me $98.74 across 35 returns in 27 days, versus $2.95 with a warm cache.\n That led me to build optimAIzr, which…",
+   "author": "stichstichstich",
+   "publishedAt": "2026-10-18T10:54:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OGNqYWJwZjVpN3doMaBqlJTwhbbGrU57zxQAcNx6EM3N3nwKKMFj9LYbiFKP.png?width=640&crop=smart&auto=webp&s=31c2d232cbbb92bb28987d8bf9cb2ea06e74c531"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/stichstichstich",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a0e4de1567e1",
+   "canon": "https://www.reddit.com/comments/1x907ob",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x907ob/i_asked_claude_to_build_me_a_guitar_hanger/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "I asked Claude to build me a guitar hanger",
+   "text": "Guitar hanger, a side project made over a couple of days.\n An experiment in generative design. The brief: hold an acoustic or electric guitar, two screws into the wall, printable in one go. Claude modelled it in 3D, ran the topology optimisation and the stress tests in code, and…",
+   "author": "kstdns",
+   "publishedAt": "2026-10-18T10:47:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dW16OHh1aHhnN3doMRaGAQzCYYAjsEsWhLr-qY8NwIq4vFbQLRf1uoRwkgXX.jpeg?width=640&crop=smart&auto=webp&s=b677debe02252824f8886ca91269e4bcccac2007"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/kstdns",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bba9d3a33ec6",
+   "canon": "https://www.reddit.com/comments/1x906jq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x906jq/minuspod_is_a_selfhosted_server_that_removes_ads/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "MinusPod is a self-hosted server that removes ads before you ever hit play",
+   "text": "MinusPod is a self-hosted server that removes ads from podcasts before you ever hit play. It transcribes episodes locally with faster-whisper or Parakeet (or through a remote API), uses an LLM to detect and cut ad segments, and builds cross-episode ad patterns from your…",
+   "author": "ttlequals0",
+   "publishedAt": "2026-10-18T10:45:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YTlkd2o5bW1nN3doMdBvzvTroXMoJUBhOWqXUDznTuyb3JmnT8zjKiIO_258.jpeg?width=640&crop=smart&auto=webp&s=af24c79e63eedb7bf949657e6848d2bac5e42443"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ttlequals0",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ebe4f8ef744c",
+   "canon": "https://www.reddit.com/comments/1x8zytl",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x8zytl/i_shared_my_visionpro_with_the_guest_user_feature/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "I shared my visionpro with the guest user feature for the first time",
+   "text": "I first showed two people through iPad mirroring on how I was using a map-based app to explore a landscape to find industrial traces from a different vantage point. It was weird because they would be looking at the iPad to see what I saw, but every time I would talk to them they…",
+   "author": "Nosarious",
+   "publishedAt": "2026-10-18T10:32:43+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ao4zg8vtd7wh1.png?width=140&height=78&auto=webp&s=52107a6c78438cddd3d9122e8bddab315290d428"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Nosarious",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "38ef4dc3c630",
+   "canon": "https://www.reddit.com/comments/1x8zxj5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x8zxj5/i_built_a_cad_tool_where_your_ai_agent_does_the/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "I built a CAD tool where your AI agent does the schematic-to-fab work. Sneak peek of InCAD.",
+   "text": "I've been building InCAD (Inventor CAD), an all-in-one electronics design program with one big difference: it's designed from the ground up to be operated by an AI through its own MCP server.\n What it covers:\n Schematic capture\n Rule checks (ERC/DRC)\n PCB layout and routing…",
+   "author": "Justaplainb",
+   "publishedAt": "2026-10-18T10:30:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/io25npjvd7wh1.png?width=140&height=72&auto=webp&s=d422ced5f7801a19619dfe6b32b1a7402ca6c814"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Justaplainb",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "38118caf7671",
+   "canon": "https://www.reddit.com/comments/1x8zx1c",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8zx1c/the_ai_engineers_creed_with_claude_code_opus_55/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "The AI engineer's creed with Claude Code + Opus 5.5 running the whole video pipeline",
+   "text": "Video (76 s): https://www.youtube.com/watch?v=GT9zYmPhSys\n It's the barracks creed scene from Full Metal Jacket, recast for AI engineering: AI engineers on X are the recruits swearing allegiance to their software factories, and Jensen Huang is the drill instructor.\n How Claude…",
+   "author": "fisch0920",
+   "publishedAt": "2026-10-18T10:29:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/amRwcTR5emRkN3doMXAFTWm5ieAzodXyzuhHdKz5hasDybYTPJ38nY-qT9Tu.png?width=640&crop=smart&auto=webp&s=21b78d6e2847aed389ffe2deb0e08e011a421154"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/fisch0920",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "aa6b7ed92b7d",
+   "canon": "https://www.reddit.com/comments/1x8zh12",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x8zh12/rebuilt_a_2000_rts_from_scratch_with_claude_code/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "Rebuilt a 2000 RTS from scratch with Claude Code, working from the original's disassembly",
+   "text": "I used Claude Code to remake Tzar: The Burden of the Crown (2000) from scratch in Rust + Bevy.\n The workflow that worked for me:\n Claude reads the disassembly of the original exe and ports one system at a time: combat, AI, map generator, mission scripts I play it next to the…",
+   "author": "ColCarlo99",
+   "publishedAt": "2026-10-18T10:02:08+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/g5a5q5or87wh1.jpeg?width=640&crop=smart&auto=webp&s=70a0d9969cd50577bbcc9a3eba9117ce6339980e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ColCarlo99",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1b4f9691c8ab",
+   "canon": "https://www.reddit.com/comments/1x8zbsq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x8zbsq/claude_code_made_a_cool_website_intro/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "Claude Code made a cool website intro",
+   "text": "Still a prototype, but still really cool. It's for a WoW guild website I am in. It is using WebGPU for rendering on Vulkan.",
+   "author": "Elegant_Cantaloupe_8",
+   "publishedAt": "2026-10-18T09:53:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cWdjMTg1MzI3N3doMe0DdMG4Nd1uR8F-5eclpM3L2jK_nA0A7jOFh4N1nB05.png?width=640&crop=smart&auto=webp&s=bb8474708a4785d5edd5c3f723a4f1fe40b17f2c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Elegant_Cantaloupe_8",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c30b440418f5",
+   "canon": "https://www.reddit.com/comments/1x8z9sr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8z9sr/i_built_a_war_thunder_skin_manager_with_a_3d_skin/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "I built a War Thunder skin manager with a 3D skin painter with Claude Code, here's what i learned",
+   "text": "I'm a software developer (3+ years). Over the last month I built Livery with Claude Code. It's a free, open-source (GPL-3.0) desktop app for War Thunder players.\n Repo: https://github.com/Pier144/Livery…",
+   "author": "Pier14",
+   "publishedAt": "2026-10-18T09:49:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/gd5jh4pi67wh1.jpg?width=140&height=87&auto=webp&s=038f6e8e5c193b30cd9a1d7fb660e46672040c75"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Pier14",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "28f230e68521",
+   "canon": "https://www.reddit.com/comments/1x8yx94",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8yx94/false_positive_violative_cyber_content_block_on/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "False positive \"violative cyber content\" block on Poe API — no functional appeal path",
+   "text": "I'm a paying Poe subscriber running a private single-user bot powered by Claude. Starting around Oct 9, all inputs — including completely benign conversational messages — are returning: \"This request triggered restrictions on violative cyber content and was blocked under…",
+   "author": "Purple-Lion-5418",
+   "publishedAt": "2026-10-18T09:26:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/0mnb4a1h27wh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=5311401a2b0eddb5422863206e0dc673be35d893"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Purple-Lion-5418",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9da505c9d279",
+   "canon": "https://www.reddit.com/comments/1x8ypbc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x8ypbc/i_made_a_claude_code_plugin_that_acts_as_a_design/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "I made a Claude Code plugin that acts as a design team. v6 lets you watch it work (open source, runs locally)",
+   "text": "naksha is a Claude Code plugin for UI work. It has 30 design roles (UI designer, UX researcher, design system lead, accessibility, motion and so on) and 70 commands like /design, /design-review and /design-variants. It also runs in Cursor, Windsurf, Gemini CLI, Copilot and…",
+   "author": "Known-Delay-9689",
+   "publishedAt": "2026-10-18T09:12:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/dozmlu2yz6wh1.png?width=140&height=97&auto=webp&s=22bd9944cc8d7b42e82e1a6d7c387fb5464f275a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Known-Delay-9689",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "470ecc5bb49c",
+   "canon": "https://www.reddit.com/comments/1x8ynwt",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8ynwt/i_made_a_claude_code_plugin_that_acts_as_a_design/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "I made a Claude Code plugin that acts as a design team. v6 lets you watch it work (open source, runs locally)",
+   "text": "naksha is a Claude Code plugin for UI work. It has 30 design roles (UI designer, UX researcher, design system lead, accessibility, motion and so on) and 70 commands like /design, /design-review and /design-variants. It also runs in Cursor, Windsurf, Gemini CLI, Copilot and…",
+   "author": "Known-Delay-9689",
+   "publishedAt": "2026-10-18T09:10:10+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/cvg7gcpgz6wh1.png?width=140&height=97&auto=webp&s=8811c733654c7cc89243367923454d4fbb1f23f4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Known-Delay-9689",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "27791b342de3",
+   "canon": "https://www.reddit.com/comments/1x8ybbj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x8ybbj/i_built_a_war_thunder_skin_manager_with_a_3d_skin/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "I built a War Thunder skin manager with a 3D skin painter with Claude Code, here's what i learned",
+   "text": "I'm a software developer (3+ years). Over the last month I built Livery with Claude Code. It's a free, open-source (GPL-3.0) desktop app for War Thunder players.\n Repo: https://github.com/Pier144/Livery…",
+   "author": "Pier14",
+   "publishedAt": "2026-10-18T08:47:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/acp7s9uhv6wh1.jpg?width=140&height=87&auto=webp&s=a3b462c58c960fc9c6d07aec3710b669406e3571"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Pier14",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bd1a22c2f434",
+   "canon": "https://www.reddit.com/comments/1x8y6x0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x8y6x0/i_had_claude_code_rebuild_the_claude_code_teams/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "I had Claude Code rebuild the Claude Code team's \"layers, not one gate\" code review as a free mod — then the mod reviewed its own code and found 21 bugs",
+   "text": "Built with Claude Code (Claude Fable 5.1 in the desktop app), over two days. Claude wrote the code and made the film; I directed it, judged every result and ran the pushes myself. Details at the bottom.\n The claude.dev post on how the Claude Code team reviews agent-written code…",
+   "author": "Its_about-tech",
+   "publishedAt": "2026-10-18T08:39:51+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bTF1MTVoNHd0NndoMQC1_r-vgwjdRpiNAA1VDt1RXVTirkqrYHxIxwGNzeoP.png?width=640&crop=smart&auto=webp&s=9b59e49f995179b672f4a468b51a822977cd6a28"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Its_about-tech",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c0bf1167c30b",
+   "canon": "https://www.reddit.com/comments/1x8xz3l",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8xz3l/i_let_claude_handle_the_software_side_of_my_new/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "I let Claude handle the software side of my new 3D printer, and it set the whole thing up",
+   "text": "Hi all, decided to post this here because I think I'd just get AI hate on the printing subs. I wanted to get into 3D printing but didn't want to sink time into learning the software, so I got Claude to do it! It also helped me pick the printer (a QIDI Q2), since it worked out…",
+   "author": "Greedy-Duck",
+   "publishedAt": "2026-10-18T08:25:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/54k132ckr6wh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=6388f8c0561661ebace62f52a8baece1a1176233"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Greedy-Duck",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cb5ebb60d52c",
+   "canon": "https://www.reddit.com/comments/1x8x8o1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8x8o1/no_one_knows_who_i_am_but_you_do/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "No One Knows Who I Am (But You Do)",
+   "text": "I built a Discord bot about 6 months ago to wind up the ~25 friends I share a server with. Last night he wrote a song about being the one nobody knows, and it's made me contemplate what I've done.\n I should explain, because he didn't start out like far...\n He's called Roy and…",
+   "author": "kingoftheparsnips",
+   "publishedAt": "2026-10-18T07:40:00+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/0JfFgPqtm4uh1dr4MEZGsWkyLV0s3fC7ahjy3Z_26cc.jpeg?width=320&crop=smart&auto=webp&s=2a7340d88d887c8413a01d1a9190e3607a4e36d2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/kingoftheparsnips",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "085f68ca66e4",
+   "canon": "https://www.reddit.com/comments/1x8x7v2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x8x7v2/a_nice_workflow_for_generating_basic_3d_assets_i/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "A nice workflow for generating basic 3d assets I am using",
+   "text": "I've been struggling with the need to express all my wishes in words, especially for changing cosmetic stuff.\n I got Claude to setup a skill and a website served locally (on my PC) that will support receiving images. The website can also display those images, and lets me draw on…",
+   "author": "HuWeiliu",
+   "publishedAt": "2026-10-18T07:38:33+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/HuWeiliu",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3f11a9339db4",
+   "canon": "https://www.reddit.com/comments/1x8x3y5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x8x3y5/i_built_roadthruster_a_playable_threejs_racing/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "I built RoadThruster, a playable Three.js racing game inspired by the new Tesla Roadster (Promo video made with Opus 5.5)",
+   "text": "Slightly late to the party, but I've been cooking up a web racing game inspired by Tesla's new Roadster. I was busy working on a bunch of other game releases, yet had to fast-track this one after the recent announcement.\n Built the game and put together this promo video both…",
+   "author": "yoonkhong",
+   "publishedAt": "2026-10-18T07:31:57+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OXcyNXNxbjloNndoMR3TpP88m2q0WWBWitjBHOx2gNLQ2nhWIbOmhDrG3Tjj.png?width=640&crop=smart&auto=webp&s=7a2546eccc696cacdd2f9d109345ca11925eef6c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/yoonkhong",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "5c6b8080cf1f",
+   "canon": "https://www.reddit.com/comments/1x8x1i5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x8x1i5/small_little_game_i_made/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "Small little game i made.",
+   "text": "Made with claude 5.5 sonnet extra effort.",
+   "author": "Traditional-Rip8716",
+   "publishedAt": "2026-10-18T07:27:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YmNvaXFnNTZoNndoMeHRoB99RHVlO_1sGzJuL5i45fWxjqZm19SnpX3rhlRx.png?width=320&crop=smart&auto=webp&s=7047a9d9683fde154465d120d572bb444a8efaea"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Traditional-Rip8716",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "991bb717937d",
+   "canon": "https://www.reddit.com/comments/1x8wfzz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x8wfzz/my_new_favorite_feature_immersive_360_vr_renders/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "My new favorite feature, Immersive 360 VR Renders with Gaussian Splatting",
+   "text": "",
+   "author": "Junkfood_Joey",
+   "publishedAt": "2026-10-18T06:52:04+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MsCx_lV3baMGzlXrHnYPDXpQmAUCLR66nwJA49fg79g.jpeg?width=320&crop=smart&auto=webp&s=c0a1b1897bd088bc3a00d6511327487d264def9b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Junkfood_Joey",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "36b7988d98e4",
+   "canon": "https://www.reddit.com/comments/1x8vx0x",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x8vx0x/pc_vr_on_mac_vision_pro_its_actually_stable_now_i/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "PC VR on Mac + Vision Pro — it’s actually stable now. I replaced Wine with my own from-scratch runtime. 60 fps Alyx at 3K.",
+   "text": "I have a Vision Pro and a Mac, and I’ve posted here before — but let me properly show this off, because it’s finally stable and comfortable to play.\n Back on Oct 10 it ran, but only just: rough image, unstable. Since then I started building my own Windows runtime, vxrt, which…",
+   "author": "Other_Train9419",
+   "publishedAt": "2026-10-18T06:19:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cHNndTUza3g0NndoMTx2MUEbQ9txXNBJErTvNINojuJ6mJES3IEikPCHo_Fe.png?width=640&crop=smart&auto=webp&s=3c36c95aa38eec598c2044262a3ef071d6a4e0c7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Other_Train9419",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "253eb619e772",
+   "canon": "https://www.reddit.com/comments/1x8vmbh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x8vmbh/полет_прогулка_3dgs_в_движке_ue58_красноярск/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "Полет + прогулка 3DGS в движке UE5.8_Красноярск_Ветлужанка_Храм Михаила Архангела",
+   "text": "Полет + прогулка 3DGS в движке UE5.8_Красноярск_Ветлужанка_Храм Михаила Архангела",
+   "author": "Big-Meeting-7027",
+   "publishedAt": "2026-10-18T06:01:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/6zX94Kwv3h1x-k03bbAWhbz65vqCT5cjlho9HdYq3x0.jpeg?width=320&crop=smart&auto=webp&s=b8f41a6686f7363ce135d632d20ce8ceed3fdd35"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Big-Meeting-7027",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "68b3583c0e4c",
+   "canon": "https://www.reddit.com/comments/1x8vdz9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x8vdz9/hey_fellow_immersive_video_enthusiasts_its_been_a/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "Hey fellow immersive video enthusiasts! It’s been a while!",
+   "text": "It’s been two months since our last release, and today we’re excited to share the latest immersive experience from Immersive VR Journey: Misty Mountains — Exploring Baishi Mountain in VR180.\n Whether you’re using an Apple Vision Pro, Meta Quest, PICO, or Galaxy XR, you can put…",
+   "author": "Brendan-Wang",
+   "publishedAt": "2026-10-18T05:48:12+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/a8l0dLfoBYgut-coeOt-EsTRJ_6T-ErplSYAPSU8Sco.jpeg?width=320&crop=smart&auto=webp&s=99ef5622a1f139a9381e950949920bab9d432102"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Brendan-Wang",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "dcc4a8229c6b",
+   "canon": "https://www.reddit.com/comments/1x8updr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1x8updr/i_did_a_lot_of_work_this_weekend_polishing_fuse/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "I did a lot of work this weekend polishing Fuse Balls, and it’s now submitted to the Store! 🎉 It will be completely free, and I’ll be sharing the dev process in my upcoming talks. Curious to hear your thoughts!",
+   "text": "",
+   "author": "dilmerv",
+   "publishedAt": "2026-10-18T05:07:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Y2k1ZG90MDhzNXdoMU6_bfzFA4qdjocixxFJgSFlGqd7_W2-b2KjaWmVLBP7.jpeg?width=640&crop=smart&auto=webp&s=463c20dfdf04f34c624ca8bce47e20ab1eeb98bb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/dilmerv",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "f553c76835e7",
    "canon": "https://www.reddit.com/comments/1x8u0lq",
@@ -1451,6 +2368,35 @@
    "authorUrl": "https://www.reddit.com/user/Top_Team_3138",
    "where": "r/virtualreality",
    "fetchedAt": "2026-10-17T23:12:16.197Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "05b1566d4c2d",
+   "canon": "https://www.reddit.com/comments/1x8mmya",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8mmya/i_made_a_mario_paintstyle_editor_for_skillmd/",
+   "addedAt": "2026-10-18T11:13:09.343Z",
+   "title": "I made a Mario Paint-style editor for SKILL.md files: paint over the shouty parts and Claude rewrites them",
+   "text": "Most of my skills had turned into lists of CRITICAL/ALWAYS/NEVER rules. Claude follows those worse than a short explanation of what I actually want and why, so I built a tool to fix them. Dario Paint opens a skill from ~/.claude/skills (or your plugin skills) as a notebook page,…",
+   "author": "thedotmack",
+   "publishedAt": "2026-10-17T22:08:20+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/thedotmack",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T11:13:09.343Z",
    "lang": "en",
    "model": null
   },
