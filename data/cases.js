@@ -1,8 +1,1013 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-10-18T16:01:13.374Z",
+ "updatedAt": "2026-10-18T20:53:05.003Z",
  "cases": [
+  {
+   "id": "ba4518541dfb",
+   "canon": "https://www.reddit.com/comments/1x9dw79",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x9dw79/asked_claude_to_add_a_whole_planet_creator_to_my/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "Asked Claude to add a whole planet creator to my game that you can share, remix, and share.",
+   "text": "Claude and I have been making a browser game called Worldseed. \n retro-inspired massive open-world fantasy adventure that invites you to step off the beaten path and discover a world filled with possibilities.\n The new version (v46) adds a Maker that lets players create worlds…",
+   "author": "niklasdaking",
+   "publishedAt": "2026-10-18T20:44:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bjBxdXpsZDFmYXdoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=19d656e7aa41e6b6dd888b7641a74157e242d364"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/niklasdaking",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "95e79d4341d8",
+   "canon": "https://www.reddit.com/comments/1x9dro8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x9dro8/school_dream_made_with_ai_release_date_july_2027/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "School Dream - made with AI (release date July 2027)",
+   "text": "With AI NPC and voice input. Game code is developed with Claude code.",
+   "author": "godwater8",
+   "publishedAt": "2026-10-18T20:39:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/3dcgpWX5W3pZJ8MimO-BKQ8Be75VwSF-0DedVMMmEOg.jpeg?width=640&crop=smart&auto=webp&s=d0f87f67843ba38ef117a14e50d7b571d46099b4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/godwater8",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "568628c9f4a6",
+   "canon": "https://www.reddit.com/comments/1x9dl1f",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9dl1f/adobe_office_outlook_elevenlabs_ai_is_cloning_all/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "Adobe, Office, Outlook, ElevenLabs: AI is cloning all of it in Rust",
+   "text": "(Made a lil trailer for this, starring the apps themselves. Every clip is the real app running btw.)\n BrowseCraft: a small web browser written in Rust, with tabs, a built-in ad blocker, and its own rendering engine.\n (They built their own HTML/CSS layout & rendering engine in…",
+   "author": "Numerous-Campaign844",
+   "publishedAt": "2026-10-18T20:31:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bnd5N2xndzJkYXdoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=872e0b949b7c66d2046565de88bf2d6dfbe37c60"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Numerous-Campaign844",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7b8e5b1b52ae",
+   "canon": "https://www.reddit.com/comments/1x9d7fb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x9d7fb/solo_dev_openworld_superpower_sandbox_in_unreal/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "Solo dev, open-world superpower sandbox in Unreal 5.8 built with Claude: 6 weeks, free Steam Playtest",
+   "text": "Hi! I'm a solo developer. Since early September I've been building Superpower Sandbox, an open-world superpower sandbox in Unreal Engine 5.8 (C++), with Claude as my main collaborator.\n You fly over a city, charge your Qi, fight with kung fu and energy beams, throw people and…",
+   "author": "Phabdev",
+   "publishedAt": "2026-10-18T20:16:13+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/GZzgdCxMWjFi6JjfsHAY78LKShYKi8P6niU2T2EPREY.jpeg?width=140&height=80&auto=webp&s=82ff59ce8ed16cae36620b9ece92de462f006134"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Phabdev",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e6fa8f99138d",
+   "canon": "https://www.reddit.com/comments/1x9d52u",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1x9d52u/vibe_coding_didnt_make_me_a_developer_it_made_me/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "Vibe coding didn’t make me a developer. It made me a manager of code I can’t read",
+   "text": "Vibe coding didn’t make me a developer. It made me a manager of code I can’t read\n Took me like 8 months to admit this to myself. I used to tell people I’m learning to code with AI, but I’m not learning to code, I’m learning to give instructions to something that codes and then…",
+   "author": "lazyEmperer",
+   "publishedAt": "2026-10-18T20:13:35+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/lazyEmperer",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "66f8e706f8ec",
+   "canon": "https://www.reddit.com/comments/1x9d2ek",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9d2ek/i_built_a_browser_city_builder_with_claude_code/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "I built a browser city builder with Claude Code: every citizen is simulated, and there's a London demo you can watch for free",
+   "text": "I built Civitas, a 3D city builder that runs in the browser, as an experiment. The question was how far Claude Code can take a big game project if I steer it but don't write the code. I picked the features, set the priorities and made the trade-offs. Claude wrote the code, the…",
+   "author": "ragmondo",
+   "publishedAt": "2026-10-18T20:10:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZW42eTd3bDc5YXdoMYjamCwV7qk_3O9p0VEnU9pOcHHH8lsUEO8hw53jtBG5.png?width=640&crop=smart&auto=webp&s=9a0152edef436d4cecb706bcf3001601a1063a20"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ragmondo",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9cce9db9022b",
+   "canon": "https://www.reddit.com/comments/1x9cwix",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x9cwix/making_a_vibeable_game_maker_system_for_artists/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "making a vibe-able game maker system for artists.",
+   "text": "its not anytging you download really. but more a set of instructions you send to ai. \n meant for artists to use to take away the engineering from the process. \n (am software and audio engineer and artist)",
+   "author": "atastycrow",
+   "publishedAt": "2026-10-18T20:04:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/xHhJpqKiSy11mW91E4Dm4Z5o1U6RlMJgl2m2mO7O8DU.jpeg?width=320&crop=smart&auto=webp&s=28288e2eb211db5014bb2fe2f2267e8510292205"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/atastycrow",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fd4e54fe4b24",
+   "canon": "https://www.reddit.com/comments/1x9cqpo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x9cqpo/shout_out_to_the_creator_of_fieldveil/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "Shout out to the creator of FieldVeil",
+   "text": "For context I am an engineer working on projects day in day out and taking a breather is really important.\n There are many meditation apps but I have recently been playing around inside this app called FieldVeil. This is a genuine experience that is unmatched from typical…",
+   "author": "unclebazrq",
+   "publishedAt": "2026-10-18T19:58:21+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/unclebazrq",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3cecbc93b544",
+   "canon": "https://www.reddit.com/comments/1x9cq67",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9cq67/i_gave_a_crew_of_claude_code_agents_star_trek/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "I gave a crew of Claude Code agents Star Trek ranks and a 3D Enterprise. They shipped 106 features to my journal app last week while I was on vacation.",
+   "text": "I've been exploring what software built for exactly one user looks like when AI agents do the building. My journal app (LCARS, Star Trek styled) has a crew: each engineer is a Claude Code session in its own git worktree, running in herdr so it survives me closing the page. A…",
+   "author": "CatalinMihaiSafta",
+   "publishedAt": "2026-10-18T19:57:43+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cG1lazJ0dnc2YXdoMQ_qHhtB-NzDWGpuQOr_bdlxxvDXeaRWZFoibjBagNXi.png?width=640&crop=smart&auto=webp&s=95e080461eb3d57904d0419b6db311e9b089ccee"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CatalinMihaiSafta",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e57e90f58e3f",
+   "canon": "https://www.reddit.com/comments/1x9cins",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/WebXR/comments/1x9cins/volarium_a_webxr_flight_sim_demo/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "Volarium - a WebXR flight sim demo",
+   "text": "You can fly on PC and in VR. It uses a fly-by-wire design, by which I mean that the controls adjust aerodynamic surfaces, which in turn cause the plane to move under physics. It also has:\n - two modes: free flight and time trial around a track, which has boosts and turbulence\n -…",
+   "author": "ParticularReason8267",
+   "publishedAt": "2026-10-18T19:49:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/xyeuwujf5awh1.jpeg?width=640&crop=smart&auto=webp&s=c3b3965988e23a40ea266acbf051e86111534b79"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ParticularReason8267",
+   "where": "r/WebXR",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b4f907527207",
+   "canon": "https://www.reddit.com/comments/1x9c9aw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x9c9aw/iterating_a_cutscene_version_15_vs_version_1/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "Iterating a cutscene: Version 15 vs Version 1",
+   "text": "This is all done in claude-code, no outside libraries or sprite drawings.\n Paraphrasing claude remarks on how the technical side works:\n The background furniture and everything is built from geometric shapes (mostly boxes and upright cylinders). The light is done by working out…",
+   "author": "Rcraft",
+   "publishedAt": "2026-10-18T19:38:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/so7b18og3awh1.png?width=140&height=79&auto=webp&s=f0d096174f1d6095c4b6c33058d061eb7b04b89b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Rcraft",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a8f2f39964d2",
+   "canon": "https://www.reddit.com/comments/1x9c8lp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x9c8lp/made_with_ai_a_catanstyle_board_game_with_59/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "Made with AI: a Catan-style board game with 59 islands. What the image model painted and what stayed code",
+   "text": "Hearthsea is a Catan-style board game that runs in the browser (not affiliated with CATAN GmbH). It's made with AI, and since this sub asks how, here's the split.\n The paintings come from an image model (GPT Image): the 17 character portraits, the card art and the 22 trophy…",
+   "author": "herXhim_official",
+   "publishedAt": "2026-10-18T19:37:41+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/herXhim_official",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f88c267d7439",
+   "canon": "https://www.reddit.com/comments/1x9c4ph",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x9c4ph/nobody_knew_which_model_made_which_opus_still_won/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "Nobody knew which model made which. Opus still won 5 of 8 rounds.",
+   "text": "Two weeks ago I started a blind arena: top AI models get the exact same prompt, each runs once with no re-rolls and no edits, and you vote on what they made before you find out who made it. Eight rounds and 2,116 votes later, here's where it stands.\n - Round 1, an arcade game…",
+   "author": "Miserable_Tiger_5742",
+   "publishedAt": "2026-10-18T19:33:20+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/2m5hc48m2awh1.png?width=640&crop=smart&auto=webp&s=51a664304a30570338ae38dbc76118b50688084b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Miserable_Tiger_5742",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6719ae017ec3",
+   "canon": "https://www.reddit.com/comments/1x9c4ax",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x9c4ax/lazyagents_a_lazygitstyle_tui_for_managing_skills/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "lazyagents – a lazygit-style TUI for managing skills, sessions and usage across Claude Code, Codex, Gemini CLI, OpenCode and others",
+   "text": "I use more than one coding agent day to day (mostly Claude Code and Codex, sometimes OpenCode and Pi), and every one of them keeps its stuff in a different place. Skills live in different dirs, session history is JSONL in one and SQLite in another, hooks use different config…",
+   "author": "RogerioJunior31",
+   "publishedAt": "2026-10-18T19:32:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/uce3bldk2awh1.gif?frame=1&width=140&height=88&auto=webp&s=7638276d01cb5aa590e91144826969c61ac685ca"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RogerioJunior31",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "79906d752620",
+   "canon": "https://www.reddit.com/comments/1x9c3mn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9c3mn/nobody_knew_which_model_made_which_opus_still_won/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "Nobody knew which model made which. Opus still won 5 of 8 rounds.",
+   "text": "Two weeks ago I started a blind arena: top AI models get the exact same prompt, each runs once with no re-rolls and no edits, and you vote on what they made before you find out who made it. Eight rounds and 2,116 votes later, here's where it stands.\n - Round 1, an arcade game…",
+   "author": "Miserable_Tiger_5742",
+   "publishedAt": "2026-10-18T19:32:08+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/e1wgmdac2awh1.png?width=640&crop=smart&auto=webp&s=b915b5cbfa27aa0016a1fbee7017681c4b649876"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Miserable_Tiger_5742",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3ef48dd38e64",
+   "canon": "https://www.reddit.com/comments/1x9by88",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x9by88/6_months_into_creating_a_f2p_3d_smashlike_steam/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "6 Months into creating a F2P 3D Smash-like : Steam closed playtest!",
+   "text": "Hey all,\n I have been hard at work these last few months creating my dream game. It's been a journey, and I never thought i'd this this far. As the game's playtest is finally on steam and i'm getting ready to talk more about the game, I thought i'd to a write-up.\n The game is…",
+   "author": "Binoui",
+   "publishedAt": "2026-10-18T19:26:16+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Binoui",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "63ba624ab859",
+   "canon": "https://www.reddit.com/comments/1x9bjmh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1x9bjmh/my_first_game_made_in_bevy/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "My first game made in bevy",
+   "text": "It’s a 2d sandbox about manipulating physics in ways to creatively build things(someone has made a computer) or kill virtual creatures\n All of the code was handled by Claude but I made the assets myself",
+   "author": "Fine_Salamander_8691",
+   "publishedAt": "2026-10-18T19:10:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OTqttEZEuTICIZ6K0PerOdo7X_x8HntszRY9BEXVxEM.png?width=640&crop=smart&auto=webp&s=515577ce3beae853ce5ab611eaa5e7c7e19eea9a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Fine_Salamander_8691",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "41222de8776a",
+   "canon": "https://www.reddit.com/comments/1x9bf8x",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x9bf8x/sphinx_a_hook_that_quizzes_you_on_claudes_changes/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "Sphinx: a hook that quizzes you on claude's changes before you push to prod.",
+   "text": "FOSS, free. site github",
+   "author": "parthh-01",
+   "publishedAt": "2026-10-18T19:05:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/lcz2m7yix9wh1.gif?width=640&crop=smart&s=6232234d90572e09926bd0c571f09de4be13a825"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/parthh-01",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d631d53167ce",
+   "canon": "https://www.reddit.com/comments/1x9b3fb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9b3fb/i_made_a_free_mcp_connector_that_lets_claude_find/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "I made a free MCP connector that lets Claude find class-action settlements you might qualify for",
+   "text": "I built Redra, a free connector that lets Claude find class-action settlements you might qualify for.\n Most people qualify for a few class-action settlements and never find out. The money goes unclaimed because nobody is going to dig through settlement sites checking every…",
+   "author": "Imploded42",
+   "publishedAt": "2026-10-18T18:52:48+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OGgwaHdlamZ2OXdoMetxkx1G1mTNS6DcLJIk0oQlezUJBOC-KorDvvj_dMUW.png?width=640&crop=smart&auto=webp&s=f88bcb47d465bea1d0e75676af1ada18330245fb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Imploded42",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b10f889bcbed",
+   "canon": "https://www.reddit.com/comments/1x9b344",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9b344/managed_agents_are_underrated/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "Managed Agents are underrated!",
+   "text": "It surprises me that Managed Agents are so underrated.\n We've been working with Managed Agents so far and had really good results in terms of its simplicity to build and \"aways on\" nature.\n The only issue we had was its availability with our team or customers. Each time we had a…",
+   "author": "DarasStayHome",
+   "publishedAt": "2026-10-18T18:52:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/c3lwNjYzdGR2OXdoMVkGfAYM9YekyN0ngRQ1ccC3TKT_4hQPZ4Baf__K2MQY.png?width=640&crop=smart&auto=webp&s=e82bc35aaa3248593896a87d896addae000755a2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/DarasStayHome",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0a4754ca8d53",
+   "canon": "https://www.reddit.com/comments/1x9b2nd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x9b2nd/added_a_simple_planetworld_maker_to_my_game/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "added a simple \"Planet/world maker\" to my game",
+   "text": "I recently asked Cladue to building a browser game called Worldseed (worldseed) and we have been working hard on bug fixes and new features the v46 update adds a Maker mode that lets players do things I couldn't have designed alone.\n Maker has yet to be released due to some…",
+   "author": "niklasdaking",
+   "publishedAt": "2026-10-18T18:51:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aXlqem1oeGF1OXdoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=842b0080ff70b71052510e51ff19fee9a19a21e5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/niklasdaking",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b70d633d52c0",
+   "canon": "https://www.reddit.com/comments/1x9au2z",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x9au2z/tokens_burning_fast/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "Tokens burning fast",
+   "text": "its been less than 12 hours since i started a normal session on the same project that could go all day only eating 9%. is claude eating up tokens like last time?",
+   "author": "Rorqualx",
+   "publishedAt": "2026-10-18T18:42:28+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/colkbj2bt9wh1.png?width=640&crop=smart&auto=webp&s=19eb2b7a4f320c28c8c52a8f06cf507986d44a92"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Rorqualx",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e9a652c4e4a1",
+   "canon": "https://www.reddit.com/comments/1x9asvl",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9asvl/i_asked_how_to_check_whether_my_isp_gives_me_a/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "I asked how to check whether my ISP gives me a dynamic IP, and Claude started acting like I was requesting classified nuclear launch codes.",
+   "text": "https://preview.redd.it/agotjsy5r9wh1.png?width=3258&format=png&auto=webp&s=2be10b8317ab60ab7f3bce951b5a446b9b072443\n Claude successfully transformed a 30-second networking question into a five-minute hostage negotiation with an imaginary compliance department. \n So I hit a rate…",
+   "author": "No-Chocolate3038",
+   "publishedAt": "2026-10-18T18:41:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/agotjsy5r9wh1.png?width=140&height=74&auto=webp&s=bfd282a18a0eba5f58d978cbf200d79f782631d4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No-Chocolate3038",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6e9eb3a06d32",
+   "canon": "https://www.reddit.com/comments/1x9as71",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9as71/claude_is_burning_my_weekly_usage_instead_of/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "Claude is burning my weekly usage instead of projects usage, despite using only projects",
+   "text": "https://preview.redd.it/s8rrhr55t9wh1.png?width=1272&format=png&auto=webp&s=b89cb3c802a75c621456930fc0c97d2152f68a9a\n Does anyone else have this issue?",
+   "author": "Kyxstrez",
+   "publishedAt": "2026-10-18T18:40:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/s8rrhr55t9wh1.png?width=140&height=108&auto=webp&s=f69a888c8caab55cdb2a93800785f98f8e186051"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Kyxstrez",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b558ae3e18be",
+   "canon": "https://www.reddit.com/comments/1x9ajpu",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1x9ajpu/my_first_game_is_nearly_out_on_mobile_godot/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "My first game is nearly out on mobile! (Godot + Claude + Gemini)",
+   "text": "Been working on my first game called Puzzle Rush. It's currently in closed beta on Android, should be public in about one week. (If anyone is interested in joining the closed beta, let me know I'll invite you)\n Been working on it for about 3 months, using Godot as the engine,…",
+   "author": "Ukawok92",
+   "publishedAt": "2026-10-18T18:30:43+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bzJrNDVzdWdyOXdoMQtT9OmcyZTqEhCifVlJq4bdG3xyWJd5F27umrWJmOsi.png?width=640&crop=smart&auto=webp&s=19a2449273f7579c30a87875d3cd90057fd52215"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ukawok92",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "346f83c7e825",
+   "canon": "https://www.reddit.com/comments/1x9aivo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x9aivo/my_biggest_claude_code_chat_was_dragging_514k/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "My biggest Claude Code chat was dragging 514k tokens into every message. Half of it was junk.",
+   "text": "Every time you claude --resume a long session, Claude drags the entire history into every single message. That includes all the old stuff: tool output from hours ago, files it read five times, test runs that already passed, detours you abandoned.\n /compact \"fixes\" that by…",
+   "author": "Free-Perspective1986",
+   "publishedAt": "2026-10-18T18:29:51+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/17zhi7v6r9wh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=3b4cdff2dda8e868a395923be8cd9cb20977b5c2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Free-Perspective1986",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "53401ad94ba9",
+   "canon": "https://www.reddit.com/comments/1x9agor",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x9agor/my_first_game_is_nearly_out_on_mobile_godot/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "My first game is nearly out on mobile! (Godot + Claude + Gemini)",
+   "text": "Been working on my first game called Puzzle Rush. It's currently in closed beta on Android, should be public in about one week. (If anyone is interested in joining the closed beta, let me know I'll invite you)\n Been working on it for about 3 months, using Godot as the engine,…",
+   "author": "Ukawok92",
+   "publishedAt": "2026-10-18T18:27:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/anVlYzljZXlwOXdoMQtT9OmcyZTqEhCifVlJq4bdG3xyWJd5F27umrWJmOsi.png?width=640&crop=smart&auto=webp&s=b804c841ef3e34a635120e892264f54f28d7f323"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ukawok92",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7a321b276dc0",
+   "canon": "https://www.reddit.com/comments/1x99zkw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1x99zkw/remote_mixed_reality_i_checked_out_how_honda/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "Remote Mixed Reality : I checked out how Honda teleoperates their Avatar Robot",
+   "text": "I took this photo at the Honda booth at CEATEC earlier this week, where they were demoing their Honda Avatar Robot assembling an engine part via remote teleoperation. Honda uses what can best be called Remote Mixed Reality. Looking at the monitor on the right wall, it looks like…",
+   "author": "AR_MR_XR",
+   "publishedAt": "2026-10-18T18:08:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/3kvlo879f9wh1.jpeg?width=640&crop=smart&auto=webp&s=8c38284e7cc817dc25e191ed90e9cf3491ca2788"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AR_MR_XR",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e960b66bfedf",
+   "canon": "https://www.reddit.com/comments/1x98nit",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x98nit/i_tested_sadbois_dying_light_vr_beta/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "I tested Sadboi's Dying Light VR Beta!",
+   "text": "I love Dying Light and this VR mod plays so well! if you're seeing the recording square and thinking it looks choppy, its on the recording. gameplay is quite decent with fixes coming for any issues people may have. This one is defo one to watch!",
+   "author": "Nervy_Parasite",
+   "publishedAt": "2026-10-18T17:15:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/7d6ug0RYm6PfTSoLHjcPbCxza2LaRDUAT9lYUQdohgc.jpeg?width=320&crop=smart&auto=webp&s=307b68d5828194df6f9f5f5a287db9845372f406"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Nervy_Parasite",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0378e3e90503",
+   "canon": "https://www.reddit.com/comments/1x98mg6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x98mg6/im_making_a_vr_waterbending_game_and_wanted_to/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "I’m making a VR water-bending game and wanted to share a little progress",
+   "text": "I’ve been working on a water-bending game in VR, and put together this short clip of where it’s at. It’s still pretty early, but I wanted to share it and see what people think.\n what would you most want to be able to do in a game like this?",
+   "author": "Ok-Vegetable-9632",
+   "publishedAt": "2026-10-18T17:14:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eXppcHd3dHBkOXdoMc_xI3id3Gq4qmemsC3a1K3DHaBAEsKKW8sGBNYPYuXe.png?width=640&crop=smart&auto=webp&s=dcda4ef76ca22697480b8443f988f0be1da11ce7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ok-Vegetable-9632",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5eb1720eb8cb",
+   "canon": "https://www.reddit.com/comments/1x970vx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1x970vx/at_the_inmo_booth_in_tokyo_me_do_you_speak/",
+   "addedAt": "2026-10-18T20:50:16.134Z",
+   "title": "At the INMO booth in Tokyo — Me: Do you speak English? — Staff in Japanese: Sorry, no. — Me: \"Why don't you use your glasses?\" 🤷‍♂️",
+   "text": "Nothing says confidence in your live-translation smart glasses like your booth staff not using them when a visitor doesn't speak the language.\n Stopped by the INMO booth at an expo in Tokyo and asked if anyone spoke English. They answered in Japanese that they don't and that was…",
+   "author": "AR_MR_XR",
+   "publishedAt": "2026-10-18T16:10:00+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/rat7elm009wh1.jpg?width=140&height=105&auto=webp&s=5be5fb29623b74cb851320349d7a247aaaefee6d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AR_MR_XR",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-18T20:50:16.134Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "fdbad568d4cc",
    "canon": "https://www.reddit.com/comments/1x96or7",
