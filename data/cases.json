@@ -1,7 +1,648 @@
 {
  "version": 1,
- "updatedAt": "2026-10-18T20:53:05.003Z",
+ "updatedAt": "2026-10-18T23:22:14.513Z",
  "cases": [
+  {
+   "id": "ab6c2a4375fe",
+   "canon": "https://www.reddit.com/comments/1x9gzsv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9gzsv/coverband_any_song_as_a_guitar_hero_rock_band/",
+   "addedAt": "2026-10-18T23:19:35.899Z",
+   "title": "CoverBand: any song as a guitar hero / rock band chart all in your browser",
+   "text": "Hey everyone, I made CoverBand because I wanted to easily be able to play any mp3 on a guitar hero guitar, and figured there had to be a way to do so all running in the browser.\n Drop in any mp3, it splits it into stems locally in the browser and runs beat analysis, along with a…",
+   "author": "Sonnyc56",
+   "publishedAt": "2026-10-18T23:00:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/a3MybzZoNWszYndoMYtGnNfG1x8Z6d8tmgZHhODe7fvXaFFxf6MF8lPz8Vl6.png?width=640&crop=smart&auto=webp&s=6a330a0d76025f681ca1551c0e5d3925a8c655d5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Sonnyc56",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T23:19:35.899Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b8303de8a172",
+   "canon": "https://www.reddit.com/comments/1x9gt95",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x9gt95/show_us_what_youve_built_with_claude_code_sites/",
+   "addedAt": "2026-10-18T23:19:35.899Z",
+   "title": "Show us what you’ve built with Claude Code (sites, platforms, tools, anything)",
+   "text": "Let’s make this the thread for showing real work. If you’ve built something with Claude Code, whether a website, platform, app, CLI, game, or an internal tool nobody else uses, share it here.\n Drop the link (or a screenshot or demo if it isn’t public) and tell us a bit about…",
+   "author": "polsaayipols",
+   "publishedAt": "2026-10-18T22:51:41+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/polsaayipols",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-18T23:19:35.899Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6fff65c839de",
+   "canon": "https://www.reddit.com/comments/1x9gr8k",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/singularity/comments/1x9gr8k/ai_is_getting_better_at_doing_real_science_while/",
+   "addedAt": "2026-10-18T23:19:35.899Z",
+   "title": "AI is getting better at doing real science while becoming dramatically cheaper. GPT-6 Astra takes #1 in scientific research, beating Claude Sonnet 5.5 while using 22× fewer tokens. GPT-6.1 Sol also beats Sonnet at nearly 1/10th the cost. Scientific research is starting to scale with compute.",
+   "text": "",
+   "author": "141_1337",
+   "publishedAt": "2026-10-18T22:48:57+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/vjg1w53m1bwh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=da416c0e9efc283be33bb53afeb656426d5c2d24"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/141_1337",
+   "where": "r/singularity",
+   "fetchedAt": "2026-10-18T23:19:35.899Z",
+   "lang": "en",
+   "model": "Sonnet 5.5"
+  },
+  {
+   "id": "9e6a511299d1",
+   "canon": "https://www.reddit.com/comments/1x9gfw9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9gfw9/i_built_my_first_mac_app_with_claude_code_heres/",
+   "addedAt": "2026-10-18T23:19:35.899Z",
+   "title": "I built my first Mac app with Claude Code. Here's how I used it.",
+   "text": "Hey everyone! I'm a solo developer from London and I've just launched my first Mac app, Stillworlds. I've used Claude Code throughout the build, so thought I'd share what that actually looked like.\n The idea was to make my Mac feel like a window onto somewhere quieter: little…",
+   "author": "ninja81702",
+   "publishedAt": "2026-10-18T22:34:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NzBndnVyMWZ0YXdoMUZsUMUnn5PSUFpaoPxhOuYaIMQn46Wuy0WMVuIkMq17.png?width=640&crop=smart&auto=webp&s=a2e26482969b19c7cea0bb48435103e63480ea22"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ninja81702",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T23:19:35.899Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "da33caebf152",
+   "canon": "https://www.reddit.com/comments/1x9gci2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x9gci2/my_games_levels_live_in_the_part_of_the_photo_the/",
+   "addedAt": "2026-10-18T23:19:35.899Z",
+   "title": "My game's levels live in the part of the photo the AI made up. Now you can drop a light there and make it real again.",
+   "text": "Two weeks ago I posted here about how much of a Marble world you can actually walk on: about a walk-in closet's worth of floor the photos never saw. Quick recap: I'm building Unpictured, a game where your photo becomes a dream you can walk through, and the levels live in the…",
+   "author": "Key-Obligation-1065",
+   "publishedAt": "2026-10-18T22:29:57+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Key-Obligation-1065",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-18T23:19:35.899Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b3183d475660",
+   "canon": "https://www.reddit.com/comments/1x9g5hm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9g5hm/claude_gives_10x_chatgpt_usage/",
+   "addedAt": "2026-10-18T23:19:35.899Z",
+   "title": "Claude gives 10X Chatgpt Usage",
+   "text": "I’m on the 100X plans for both Claude and ChatGPT. ChatGPT reset today, so I tested the tokens and something is seriously wrong with ChatGpt. \n ChatGPT is giving reset because their usage has gone drastically down",
+   "author": "Makkish_SWG",
+   "publishedAt": "2026-10-18T22:21:04+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/7hd3vm1fwawh1.png?width=140&height=66&auto=webp&s=252902e554aafb807686c2bfa7c8ea2b15b4ede9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Makkish_SWG",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T23:19:35.899Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c200cc2044a2",
+   "canon": "https://www.reddit.com/comments/1x9g4d9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x9g4d9/ported_a_geometry_dash_mod_loader_to_the_latest/",
+   "addedAt": "2026-10-18T23:19:35.899Z",
+   "title": "Ported a geometry dash mod loader to the latest geometry dash version in 30 minutes using claude code, /plan, and a very simple prompt :p",
+   "text": "/plan is a very interesting command to use",
+   "author": "HenriCIMS",
+   "publishedAt": "2026-10-18T22:19:43+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/amh2cjh6azh3YXdoMWWpQlKV-Nx5nD2k1dbIAB3RxUBVTtrJ3srbWIebHDhM.png?width=640&crop=smart&auto=webp&s=fe573910fd22bbbf259dede2023966fc8e31fb54"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/HenriCIMS",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-18T23:19:35.899Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "38dad7cf263e",
+   "canon": "https://www.reddit.com/comments/1x9g3vv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9g3vv/we_built_a_video_editor_where_claude_code_writes/",
+   "addedAt": "2026-10-18T23:19:35.899Z",
+   "title": "We built a video editor where Claude Code writes new features into the app while it's running",
+   "text": "Powermove is a video editor for Mac. If you want a panel, effect, or workflow it doesn't have, you ask Claude Code and it writes an extension that loads into the app you already have open. If it's wrong, tell it what to fix. Every change can be undone.\n Pretty much the whole…",
+   "author": "Asleep_Struggle4443",
+   "publishedAt": "2026-10-18T22:19:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/d2lvM2c5ajl3YXdoMeyaFGAh6RT-M1-43Q-RS65G0Fz_ehfpm6DS336o2iht.png?width=640&crop=smart&auto=webp&s=a655da227c4a4ef2d136ae7854aa65d17fbbef8e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Asleep_Struggle4443",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T23:19:35.899Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4a393a0d5dc7",
+   "canon": "https://www.reddit.com/comments/1x9g20n",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x9g20n/i_built_zeuss_lens_a_code_generator_for/",
+   "addedAt": "2026-10-18T23:19:35.899Z",
+   "title": "I built ZEUSS LENS — a code generator for third-party Vision Pro lenses",
+   "text": "Hey everyone! \n I created ZEUSS LENS for people who can’t buy official ZEISS Optical Inserts in their country and rely on third-party lenses.\n Getting the lenses is only part of the problem: Vision Pro’s official setup expects a pairing code. \n Apple hasn’t published an open…",
+   "author": "stacklikemind",
+   "publishedAt": "2026-10-18T22:16:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/1ty3utzuvawh1.jpeg?width=640&crop=smart&auto=webp&s=d23929ea077e796908bbfdd58c4659e8145eb1fc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/stacklikemind",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-18T23:19:35.899Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7c2b0049fc3e",
+   "canon": "https://www.reddit.com/comments/1x9fwk4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x9fwk4/the_world_has_changed/",
+   "addedAt": "2026-10-18T23:19:35.899Z",
+   "title": "The world has changed",
+   "text": "Opus 5.5 suggested I get a web cam pointed at this ESP32 based screen so it could catch what was happening on the screen as it tried to find out what the maximum frame rate could be. The Waveshare drivers are not good in portrait mode and only got 4fps.\n It got to 60fps in a…",
+   "author": "Imaginary_Data_708",
+   "publishedAt": "2026-10-18T22:09:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/z98elwwnuawh1.jpeg?width=640&crop=smart&auto=webp&s=07ed79260bb93e0630e73b86a1b92c67d7ea76e8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Imaginary_Data_708",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-18T23:19:35.899Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "acbf932e13b8",
+   "canon": "https://www.reddit.com/comments/1x9fup1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x9fup1/now_you_can_play_call_of_duty_2003_in_vr_in/",
+   "addedAt": "2026-10-18T23:19:35.899Z",
+   "title": "Now you can play Call of Duty 2003 in VR (In development)",
+   "text": "Hello friends, as I mentioned earlier, I am releasing a version of the COD1 VR mod.\n I’ve tested the initial levels and everything is working fine, though there are still some adjustments to be made.\n Mod Link:\n https://github.com/lambda-gab/cod1-vr\n This Git repository contains…",
+   "author": "gbrlvcas",
+   "publishedAt": "2026-10-18T22:07:47+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/gjZGWAWYt41B2WERLf1LdzoTapDKH1I4aK4LkehzEK4.jpeg?width=320&crop=smart&auto=webp&s=95ca5d642614fde1f1f546eeb778449d1e03cfeb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/gbrlvcas",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-18T23:19:35.899Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8b64acbc040d",
+   "canon": "https://www.reddit.com/comments/1x9fo35",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9fo35/i_made_a_skill_that_keeps_coding_agents_on_track/",
+   "addedAt": "2026-10-18T23:19:35.899Z",
+   "title": "I made a skill that keeps coding agents on track for multi-session projects (spec + task log in your repo, narrow sub-agent context)",
+   "text": "I kept watching coding agents fall apart on long jobs. After a restart they'd lose the plan, sub-agents would read half the repo to change one file, and \"done\" sometimes meant a test got quietly skipped. So I wrote a skill for it: big-project-manager. It works with Claude Code,…",
+   "author": "DarkGoatie",
+   "publishedAt": "2026-10-18T22:00:04+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/DarkGoatie",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T23:19:35.899Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "de87978faf8b",
+   "canon": "https://www.reddit.com/comments/1x9fh8u",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x9fh8u/claude_ta_me_roubando/",
+   "addedAt": "2026-10-18T23:19:35.899Z",
+   "title": "Claude ta me roubando",
+   "text": "Galera, não sei mais o que fazer, já limpei minhas configurações do claude, apaguei memória, limpei conversas, apaguei conversas, tentei falar com o bot inútil.\n Simplesmente meu limite está sendo 100% esgotado assim que renova sem eu realizar absolutamente ação nenhuma, com o…",
+   "author": "CommonResolution5126",
+   "publishedAt": "2026-10-18T21:51:51+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/a9lolf89rawh1.png?width=140&height=29&auto=webp&s=02fa48e64681d5868bc330f2010c9856ba74c5a9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CommonResolution5126",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-18T23:19:35.899Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "73998b6f0dcd",
+   "canon": "https://www.reddit.com/comments/1x9feqf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9feqf/i_ported_a_windows_claude_code_usage_widget_to_a/",
+   "addedAt": "2026-10-18T23:19:35.899Z",
+   "title": "I ported a Windows Claude Code usage widget to a native Mac menu bar app, built with Claude Code",
+   "text": "I came across Enhed's Claude Code usage widget (https://github.com/Enhed/clawd-usage-winwidget) and wanted something like it on my Mac. The original is Windows-only, so I ported it to Swift and SwiftUI and adapted it for the macOS menu bar. The result is Claudy Usage.\n How I…",
+   "author": "juliobianco",
+   "publishedAt": "2026-10-18T21:48:52+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/juliobianco",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T23:19:35.899Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d7f7619205ee",
+   "canon": "https://www.reddit.com/comments/1x9fdxh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9fdxh/neo_apartment_from_matrixclaude_x_blender/",
+   "addedAt": "2026-10-18T23:19:35.899Z",
+   "title": "Neo Apartment from Matrix-Claude x Blender MCP-Breakdown VFX- Fan made 3D Recreation",
+   "text": "The pipeline ran locally using Windows MCP and Blender MCP, rendered on an RTX 3070.\n Feel free to ask any questions below!\n More info on the original post here:\n https://www.reddit.com/r/ClaudeAI/comments/1x6x6x7/3d_recreation_of_neo_apartment_from_the_matrix/",
+   "author": "Repulsive-Rush3505",
+   "publishedAt": "2026-10-18T21:47:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/N3d5NHR1cGFvYXdoMXGsABwhhhg6kcvrQsns-UssFQxXAGASCLtgUnkCo-Yv.png?width=640&crop=smart&auto=webp&s=3174cdd8b057bfec3a31198277c51876c217ebc5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Repulsive-Rush3505",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T23:19:35.899Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3fd50c2af84e",
+   "canon": "https://www.reddit.com/comments/1x9enjl",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9enjl/i_tried_to_rebuild_road_rash_in_the_browser_with/",
+   "addedAt": "2026-10-18T23:19:35.899Z",
+   "title": "I tried to rebuild Road Rash in the browser with Opus 5.5 to see how it handles a real game",
+   "text": "Grew up on Road Rash and wanted to see if Opus 5.5 could actually build a proper game, not another spinning cube demo. So I let it write basically all the code through Claude Code while I played it, complained, and steered.\n First version was rough lol. The riders were literally…",
+   "author": "jain_harsh21",
+   "publishedAt": "2026-10-18T21:16:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dGhiN3gzaGFrYXdoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=f8531088a9e8d86034a2c0c0f204cd5745bb856d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/jain_harsh21",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T23:19:35.899Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "f3fa8d5e79a7",
+   "canon": "https://www.reddit.com/comments/1x9eakl",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9eakl/i_build_my_ideal_version_of_a_cad_software_with/",
+   "addedAt": "2026-10-18T23:19:35.899Z",
+   "title": "I build my ideal version of a CAD software with claude",
+   "text": "https://preview.redd.it/utslqrgcgawh1.png?width=2552&format=png&auto=webp&s=710ad4c9cf0c743fdfaef6702afd1f9aa800afeb\n Inspired by Shapr3D and FreeCAD\n I firstly used FreeCAD as a free open source alternative, but found the UI was quite the change from the first CAD software I…",
+   "author": "XapuRs",
+   "publishedAt": "2026-10-18T21:01:10+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/raU2P3JqS9ce8Af0VBk1HSvvcP_yxTD55IV2fCDYN9E.png?width=140&height=74&auto=webp&s=18ef23d36f15e2d80d9aa197c985d61295ea5618"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/XapuRs",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T23:19:35.899Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4e18f94c6c6b",
+   "canon": "https://www.reddit.com/comments/1x9e2wk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x9e2wk/call_of_juarez_gunslinger_vr_v01_need_help_with/",
+   "addedAt": "2026-10-18T23:19:35.899Z",
+   "title": "Call of Juarez Gunslinger VR - v0.1 Need help with tests",
+   "text": "Link to Full gameplay: https://youtu.be/4wApmoByrps\n Link to GitHub: https://github.com/Senatauro/coj-gunslinger-vr\n Only download if you don't care to play an in-development mod! Hello again everyone! Today I'm sharing v0.1 of the Gunslinger VR mod for people who want to play…",
+   "author": "Upper-Concern6608",
+   "publishedAt": "2026-10-18T20:52:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/czZwYXIxN3RnYXdoMcAjJZglDgnshcApGQBE55HsyFuvFB7p1-ajlTVXqfkk.png?width=640&crop=smart&auto=webp&s=835fc07f16618162c2cce20d5f588fcf06c0fe05"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Upper-Concern6608",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-18T23:19:35.899Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a75b05ae6db3",
+   "canon": "https://www.reddit.com/comments/1x9e2ft",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x9e2ft/i_have_good_news/",
+   "addedAt": "2026-10-18T23:19:35.899Z",
+   "title": "I have good news",
+   "text": "I did some budgeting, made some sacrifices in favor of saving, and by my math....I will be ready to buy the Meta VR glasses even before Spring!",
+   "author": "Ford_Crown_Vic_Koth",
+   "publishedAt": "2026-10-18T20:52:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/iwqsb9iqgawh1.jpeg?width=640&crop=smart&auto=webp&s=f828706c0b491d3340933fb6d38f20796d9578b5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ford_Crown_Vic_Koth",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-18T23:19:35.899Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a02f8dbfe9fd",
+   "canon": "https://www.reddit.com/comments/1x9dzrm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9dzrm/anthropic_may_get_a_lot_of_stick_for_certain/",
+   "addedAt": "2026-10-18T23:19:35.899Z",
+   "title": "Anthropic may get a lot of stick for certain things but they’re a joy to develop with",
+   "text": "I’ve been working on my own GUI (quick clip above) that you can use for any agent. One of the big decisions to make is how you talk to the various agents out there. One option is to talk to the agents directly. Another is to use an intermediary layer. I went with the latter…",
+   "author": "japt77",
+   "publishedAt": "2026-10-18T20:48:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cTg3OHZnejZnYXdoMUzRs-wukPR64o9KmVTt399xpr5ku59YTq0sT-duXb69.jpeg?width=640&crop=smart&auto=webp&s=dc90d10d6c5eb72e670ec680a9423035fb112abb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/japt77",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-18T23:19:35.899Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "ba4518541dfb",
    "canon": "https://www.reddit.com/comments/1x9dw79",
