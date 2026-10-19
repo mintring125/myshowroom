@@ -1,8 +1,1022 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-10-19T04:51:01.401Z",
+ "updatedAt": "2026-10-19T13:28:19.056Z",
  "cases": [
+  {
+   "id": "2be9c60cca58",
+   "canon": "https://www.reddit.com/comments/1x9wftg",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9wftg/social_engineering_performed_through_lostcity/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "social engineering performed through lostcity server using TypeScript SDK called RS-SDK",
+   "text": "Max who wrote RS-SDK claims the code he developed functions so that the language model can interact with it as code, he created custom agents that are using different reasoning abilities to interact within lostcity through the SDK. These custom agents experience what is called…",
+   "author": "TinFoilHat_69",
+   "publishedAt": "2026-10-19T13:08:19+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/g_6KLQMe767-5ZCiXSqvZ0jqRw1FU0QsTEB9pNi6CNE.jpeg?width=320&crop=smart&auto=webp&s=7b82954e1f18b4fd54faf776db3294c2d2c551c5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TinFoilHat_69",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "90b9640be1db",
+   "canon": "https://www.reddit.com/comments/1x9wcu7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9wcu7/i_used_claude_to_save_my_marriage_it_built_me_a/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "I used Claude to save my marriage (it built me a journal nobody else can read)",
+   "text": "it also built this sleek promo video! I'm very happy with it!\n This was quite a trip: this whole project was done from my iphone. Setup a public git repo, created a vercel hobby account to host with analytics turned on. \n I really dig the 'add to home screen' web page app on…",
+   "author": "simbonk",
+   "publishedAt": "2026-10-19T13:04:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/amxnbDN0dHY3ZndoMSZ2QDfgUI9wf-GSlVAKXjwdZ5W2Lm4hAwUHMPvz6SWk.png?width=640&crop=smart&auto=webp&s=d2f29757d9761d57a589a24b0089dc58aab6e6be"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/simbonk",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6fbcf0b1b4c5",
+   "canon": "https://www.reddit.com/comments/1x9w50i",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9w50i/i_got_fed_up_with_premier_league_fantasy_football/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "I got fed up with Premier League fantasy football, so I built my own with Claude Code (as a designer, not an engineer)",
+   "text": "Every fantasy football season I'd mess up one week and fall so far behind there was no point carrying on. So I built 5ives., a free Premier League game where you open a new pack of player cards each matchweek, pick 5 out of the 11 and choose a captain. The scoring is designed so…",
+   "author": "Long-Balance3177",
+   "publishedAt": "2026-10-19T12:55:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZTIzbzhjZTQ3ZndoMXLM3rpprngOa4tGRfzw_66t0mAZmojCUh1nzdqQyxwD.png?width=640&crop=smart&auto=webp&s=67da17be05d922008d34d3814049048f58bdc9d8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Long-Balance3177",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1bdfa1c88701",
+   "canon": "https://www.reddit.com/comments/1x9w4t7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x9w4t7/my_top_10_learning_building_print_on_demand/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "My top 10 learning building Print On Demand Bitcoin Zero To Hero",
+   "text": "I built a Bitcoin book and course site completely with Claude Code and here are my top 10 learnings I have built Bitcoin Zero To Hero, a Bitcoin book and course for beginners in several languages, with Claude Code. It also includes a Bitcoin directory, blog, and newsletter.\n You…",
+   "author": "htmoh",
+   "publishedAt": "2026-10-19T12:55:14+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/htmoh",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b70fb3c3165a",
+   "canon": "https://www.reddit.com/comments/1x9w4em",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9w4em/built_with_claude_by_a_nondeveloper_two_music/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "Built with Claude by a non-developer: two music guessing games that started as a game for my sister",
+   "text": "Less than a year ago, my sister Shani was diagnosed with cancer. She spent almost three months in the hospital, and to give us something fun to do together during those days, I started building a music game for the two of us.\n She passed away on August 29th, before I finished…",
+   "author": "roy979",
+   "publishedAt": "2026-10-19T12:54:45+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/roy979",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "26b81b3fcdcc",
+   "canon": "https://www.reddit.com/comments/1x9w17m",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9w17m/archivision_a_3d_isometric_map_of_your_codebase/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "archivision: a 3D isometric map of your codebase (or your architecture docs)",
+   "text": "I built archivision to see a codebase from above instead of scrolling file trees. It has two modes:\n - archivision repo: maps a TypeScript, JavaScript, Python or Go repo with no AI. Parsers find the files, functions, calls, data stores, Lambda handlers and tests. Every block…",
+   "author": "giamme1",
+   "publishedAt": "2026-10-19T12:50:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/mvtrr35q7fwh1.jpeg?width=640&crop=smart&auto=webp&s=12115ca1835ecb24227370810c247749f805c77b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/giamme1",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "70724bcaa1b7",
+   "canon": "https://www.reddit.com/comments/1x9vqpg",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9vqpg/i_used_claude_opus_to_create_a_procedural/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "I used Claude Opus to create a procedural narrowboat generator for Blender",
+   "text": "https://preview.redd.it/gae3u1kc2fwh1.jpg?width=1600&format=pjpg&auto=webp&s=6f8fb7dad760f1250966ceebd24bc65e734bd5f7\n https://preview.redd.it/3vbi0hif2fwh1.jpg?width=1600&format=pjpg&auto=webp&s=ee57325eb6b46eb56f301179fdcedd45ae619f44…",
+   "author": "megagodstar",
+   "publishedAt": "2026-10-19T12:37:11+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/gae3u1kc2fwh1.jpg?width=140&height=78&auto=webp&s=44e43a677cafb51e60f7246e6edcf4ca5a6ceaa8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/megagodstar",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "77d1b8c07cca",
+   "canon": "https://www.reddit.com/comments/1x9vcvb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x9vcvb/build_with_opus_55_old_school_pc_you_can_pick_up/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "Build with opus 5.5 - old school pc you can pick up parts, setup bios and run it.",
+   "text": "hi!\n when i was a kid i remember those old school msdos computers, heavy, slow and loud. Sure, today i dont want this old hardware on my desk anymore but i was thinking - can AI today do as realistic as possible simulation of old pc hardware, so I can configure literally any…",
+   "author": "No_Twist_678",
+   "publishedAt": "2026-10-19T12:18:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eWU3MTc3aDEyZndoMSmWNUeMg828a0qZ1ZJuLmShFCaibSTa3bl6lzIlkiH4.png?width=640&crop=smart&auto=webp&s=808ce781ebf3ec1ea7468a5edc0767e964a83d67"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No_Twist_678",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "fbf62ed03a2d",
+   "canon": "https://www.reddit.com/comments/1x9vaow",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9vaow/build_with_opus_55_old_school_pc_you_can_pick_up/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "Build with opus 5.5 - old school pc you can pick up parts, setup bios and run it.",
+   "text": "hi!\n when i was a kid i remember those old school msdos computers, heavy, slow and loud. Sure, today i dont want this old hardware on my desk anymore but i was thinking - can AI today do as realistic as possible simulation of old pc hardware, so I can configure literally any…",
+   "author": "No_Twist_678",
+   "publishedAt": "2026-10-19T12:15:48+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Mms3eHFxM24wZndoMSmWNUeMg828a0qZ1ZJuLmShFCaibSTa3bl6lzIlkiH4.png?width=640&crop=smart&auto=webp&s=043a308bd2bdc43c114df1f1541fa1a8176b1ddc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No_Twist_678",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "6e0784f2e24e",
+   "canon": "https://www.reddit.com/comments/1x9v79b",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/threejs/comments/1x9v79b/building_threejs_super_soldier_battle_game_with/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "Building Threejs Super Soldier Battle Game with Grok Bot and Claude AI",
+   "text": "",
+   "author": "shanebrumback",
+   "publishedAt": "2026-10-19T12:11:10+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/O-hFQklTAtvmtVeCkSuqwnCxf4rwbX23KAq9uE5tZBc.jpeg?width=320&crop=smart&auto=webp&s=74033b6b3416cf398ba3a02c24de485d03199239"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/shanebrumback",
+   "where": "r/threejs",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4cbec0586a32",
+   "canon": "https://www.reddit.com/comments/1x9v2gj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x9v2gj/i_run_my_claude_code_agents_like_a_starship_crew/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "I run my Claude Code agents like a starship crew: engineers in worktrees, a Number One that reviews and deploys, one seat at a time",
+   "text": "For two months a crew of Claude Code sessions has built my personal journal app (Star Trek styled, single user) while I give orders from my phone. There's a demo you can click around in, on a made-up journal: https://public.mihai-safta.dev/lcars-demo/index.html\n The method is…",
+   "author": "CatalinMihaiSafta",
+   "publishedAt": "2026-10-19T12:05:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MjZ2NGJta2N6ZXdoMQ_qHhtB-NzDWGpuQOr_bdlxxvDXeaRWZFoibjBagNXi.png?width=640&crop=smart&auto=webp&s=80892085fde98eb1f0db95865a6e9d7c77b34ada"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CatalinMihaiSafta",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "967251567c1d",
+   "canon": "https://www.reddit.com/comments/1x9uwwg",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9uwwg/i_made_an_app_to_find_any_photo_on_my_laptop_with/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "I made an app to find any photo on my laptop with Claude. I found it useful, so I thought I'd open source it",
+   "text": "The app was built mostly with Opus 5.5. It even made the launch video!\n Here's the repo: https://github.com/chaseleantj/orchard-photos\n Everything is fully local, and it works on Mac, Windows and Linux.\n A few small things I learnt from this project:\n - You can optimize…",
+   "author": "chasedev21",
+   "publishedAt": "2026-10-19T11:58:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MWk1a2t4N3pzZXdoMR0ifnYuFpJhmrdnGxv7LaFfLJmhKnfEPlmExzRJO5bs.png?width=640&crop=smart&auto=webp&s=228571bd3284b21233703eb22dfd86dbf8feeeaa"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/chasedev21",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "0b2d148c6993",
+   "canon": "https://www.reddit.com/comments/1x9uq79",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x9uq79/claude_code_now_draws_pie_charts_gantt_charts_and/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "Claude Code now draws pie charts, gantt charts and Korean text in the terminal (prismantis 0.30)",
+   "text": "prismantis 0.30 draws mermaid pie charts as round circles right inside Claude Code’s terminal. Figures handle Korean, Japanese and Chinese now too, thanks to a bug report from Korea. 17 days old, 47 releases, 13 outside contributors.\n claude plugin marketplace add…",
+   "author": "Fabulous-Confection6",
+   "publishedAt": "2026-10-19T11:48:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ytbpugrowewh1.png?width=640&crop=smart&auto=webp&s=718c73183dbd0f07bb925c91e8396c4ded013504"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Fabulous-Confection6",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3e95001e8c40",
+   "canon": "https://www.reddit.com/comments/1x9upbm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9upbm/claude_code_now_draws_pie_charts_gantt_charts_and/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "Claude Code now draws pie charts, gantt charts and Korean text in the terminal (prismantis 0.30)",
+   "text": "prismantis is a free Claude Code mod that redraws Claude's replies: tables, mermaid diagrams, charts, code, Hebrew right to left. Built with heavy Claude Code use, most PRs co-authored with it.\n New in 0.30: - mermaid pie charts draw as a round circle with a colored legend (set…",
+   "author": "Fabulous-Confection6",
+   "publishedAt": "2026-10-19T11:47:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ga36q7dhwewh1.png?width=640&crop=smart&auto=webp&s=ac67306567d45f7e465768652331bb382e708e47"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Fabulous-Confection6",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6181298dfe8a",
+   "canon": "https://www.reddit.com/comments/1x9umac",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9umac/ive_been_working_on_my_first_ever_game_called/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "I’ve been working on my first ever game called Working The Margins with the help of Claude Code. It is an election simulation game and I would really appreciate some feedback! The link to the demo is down below.",
+   "text": "I have been making this game for a couple of months now, using Claude to help with everything, including coding, image generation, ideas on how to make it better (like what features would be fun), etc. I plan to eventually sell the game on Steam with 25% of all profits going to…",
+   "author": "HeWhoShallNotBNamed0",
+   "publishedAt": "2026-10-19T11:42:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/k4p21jjpvewh1.jpg?width=140&height=86&auto=webp&s=81862df9daa4a5d6efe1dbdd27a08d4ad468cca0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/HeWhoShallNotBNamed0",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e54be90881bd",
+   "canon": "https://www.reddit.com/comments/1x9ugko",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x9ugko/gta_v_running_standalone_on_m2_in_full_immersive/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "GTA V Running Standalone on M2 in Full Immersive with Hand Gesture Controls",
+   "text": "I got GTA V to run standalone in full stereo immersive 6dof on M2 Apple Vision Pro; in this video, you'll notice framerate and warping failures are extremely noticeable...this is because GTA V already hogs about everything the M2 has to offer, and I'm personally shocked the game…",
+   "author": "MRrealitybender",
+   "publishedAt": "2026-10-19T11:35:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aHo0a2Nrb3lzZXdoMX8wW161kx1_G7Lg1fvqAGwutGqyxwVYdwBI53lPhMQD.png?width=640&crop=smart&auto=webp&s=d8733f37d84edbf28b75d6c1988f1b6a24a67c9d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MRrealitybender",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cf05464ed08e",
+   "canon": "https://www.reddit.com/comments/1x9udh4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x9udh4/scifi_survival_game_combatfishing_hang_pictures/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "Sci-Fi Survival Game Combat/Fishing/ Hang pictures in your base.",
+   "text": "https://store.steampowered.com/app/5269640/Survive_The_Reset/\n Please message me for a free KEY!! I need testers.\n Made over months with Claude and GPT",
+   "author": "Regular-Dingo-2872",
+   "publishedAt": "2026-10-19T11:30:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bTN2bWZiNDN0ZXdoMXJBqsD5ZhWgV69w7JY-FwDaysx8ky66KYY3luBctA0z.png?width=640&crop=smart&auto=webp&s=207222c2c2fde7c4cf5612e359911eabdfc4b5d0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Regular-Dingo-2872",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7455da6b0aa4",
+   "canon": "https://www.reddit.com/comments/1x9u2ox",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x9u2ox/chaos_chess_because_every_chess_game_should_have/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "Chaos Chess! Because every chess game should have dragons attack mid-match.",
+   "text": "Several years ago I had launched a website chaoschess.online where players could play a chess variant that used SVG images for traditional pieces and would have \"crazy events\" occur mid-way through a match. After using Coursera's study program on Blender and a metric ton of pdf…",
+   "author": "JordanMilas",
+   "publishedAt": "2026-10-19T11:14:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OTVzZjd5YmNxZXdoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=1d69ce44665a88f32cf5bbdcae40aac984613244"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender",
+    "game",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/JordanMilas",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2c9bcd1186d8",
+   "canon": "https://www.reddit.com/comments/1x9tyx2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x9tyx2/360_camera_footage_to_gaussian_splatting_testing/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "360° camera footage to Gaussian Splatting – testing my own reconstruction pipeline",
+   "text": "I've been working on my own 3D reconstruction pipeline for the past few years, with a particular focus on challenging datasets, reconstruction completeness, accuracy, speed, and hardware efficiency.\n One of the biggest challenges has been dealing with datasets that reconstruct…",
+   "author": "Beginning_Street_375",
+   "publishedAt": "2026-10-19T11:09:12+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NG00MHlrdGVwZXdoMZPC7EB7cSn5ldqVmUA3fgdJ6BdQ-Vr5TWzw64Og5eyW.png?width=640&crop=smart&auto=webp&s=c71e3a3ad1ff94314649af4d31f140d5405c349d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Beginning_Street_375",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1bf09b7f6ae3",
+   "canon": "https://www.reddit.com/comments/1x9tyfb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x9tyfb/i_built_a_trackmaniastyle_racer_where_youre_a/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "I built a Trackmania-style racer where you’re a single wheel, in 3 weeks with Claude Opus 5.5: the trick was making the AI measure instead of guess",
+   "text": "Rim Runner is a Trackmania-style time-attack racer where you are a wheel: lean into corners, land clean, chase hundredths on online leaderboards. Godot 4 + Jolt, solo, started 27 September. Claude Code wrote almost all of the code (39k lines, 678 automated checks); I play, judge…",
+   "author": "RepublicLatter4835",
+   "publishedAt": "2026-10-19T11:08:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eTExZzYxMHdvZXdoMb4WAfkk7WDfnDoT-xYXYWRkUBNVn2Dw5p93Na2A5tgG.png?width=640&crop=smart&auto=webp&s=a301264848943d66bf45194c291b27fcd12f94c6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RepublicLatter4835",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "5f308a0bc50f",
+   "canon": "https://www.reddit.com/comments/1x9t9y7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x9t9y7/neiteys_xwing_alliance_vr_for_standlaone_is/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "Neitey's X-Wing Alliance VR for Standlaone is available for download now. +60 starfighters test in the video.",
+   "text": "Neitey's X-Wing Alliance VR is available for download now. It's running natively on Quest 2/3/3s\n I am a massive X-Wing series fan and was glad i could help out with some testing.\n If you are a X-Wing series fan as we are, you should check this out!\n In the video you see a test…",
+   "author": "VR_Bummser",
+   "publishedAt": "2026-10-19T10:30:00+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YWR2M25lNGRpZXdoMU8_e7eO6z76HD-nMIB8LUbQeBIuvm67QLIeEQDxSLFx.png?width=640&crop=smart&auto=webp&s=c55a0041e78341fe41a4549bacdb9d618dc332be"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/VR_Bummser",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "593e341e901f",
+   "canon": "https://www.reddit.com/comments/1x9t9hw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x9t9hw/halo_ce_vr_stand_alone_on_meta_quest_3s/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "Halo CE VR stand alone on Meta Quest 3S",
+   "text": "Credits to Stefan Maier. I thought this was absolutely fun to play in VR and the framerate is really nice. Check this one out! https://github.com/Cesarus85/ringfall-mjolnir-vr",
+   "author": "AssociateOk73",
+   "publishedAt": "2026-10-19T10:29:12+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/N3licmRzcDdpZXdoMVQt_Wzld6M7H9SrCs3HBfCvDAfaxo-A2aLdE6k0YIbv.png?width=640&crop=smart&auto=webp&s=b2f9982c2c7bce48c64a4d32dcc48b7fc933ce1f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AssociateOk73",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a13b50577b98",
+   "canon": "https://www.reddit.com/comments/1x9t6f1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1x9t6f1/almagris_un_soulslite_oscuro_en_voxel_pixelart/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "Almagris: un souls-lite oscuro en voxel pixel-art, con motor propio en Three.js",
+   "text": "I’ve been working on this for about three months and I finally felt like showing it.\n No Unity, no Godot. I built my own engine on top of Three.js and everything runs in the browser. The first months I worked with Claude, and this last month with Astra + Opus 5.5 on the engine.…",
+   "author": "Protocontext",
+   "publishedAt": "2026-10-19T10:24:11+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NG4yb3l2emVoZXdoMcbseVHFUZd_NjPMmfxhVxNmKhXy0QNZuOOYX2lCw6ud.png?width=640&crop=smart&auto=webp&s=45b52f5c866e836a0cc8bab52b6873889214ae2e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs",
+    "voxel"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Protocontext",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "fcaa23aed831",
+   "canon": "https://www.reddit.com/comments/1x9sxqo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x9sxqo/i_built_a_claude_code_plugin_where_a_small_buddy/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "I built a Claude Code plugin where a small buddy named Blink explains whatever you Ctrl-click (open source)",
+   "text": "The Claude Code desktop pet is officially live! \n It lives on your screen and answers the moment you ask Hold Ctrl and click a paragraph, and Blink explains it in a small card right beside your page\n No API key, no fees \n It uses the Claude Code you already have \n Like Remote…",
+   "author": "Arthur122103",
+   "publishedAt": "2026-10-19T10:09:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/8i2ez8s2fewh1.gif?width=640&crop=smart&s=1953c322af3cd80c73925471f9b5d8c87e98426f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Arthur122103",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ae51335f454b",
+   "canon": "https://www.reddit.com/comments/1x9svqw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1x9svqw/i_made_a_claude_code_mod_for_sidebyside_diffs/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "I made a Claude Code mod for side-by-side diffs",
+   "text": "Hi everyone! This is my first post in this subreddit.\n I wanted to share something I built: cc-split-diff-view, a Claude Code mod for displaying diffs side by side.\n When Claude Code modifies a file, the changes are normally shown in a unified diff view. Personally, I prefer…",
+   "author": "oskarnrk",
+   "publishedAt": "2026-10-19T10:06:34+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/34gathgucfwh1.png?width=140&height=55&auto=webp&s=d277cf71c07819597d2d2d9c1fd90b5534db1c38"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/oskarnrk",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "46790e77a03b",
+   "canon": "https://www.reddit.com/comments/1x9s1be",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vrdev/comments/1x9s1be/i_made_a_vr_horror_game_and_somehow_managed_to/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "I made a VR horror game… and somehow managed to scare myself while testing it",
+   "text": "I been developing my VR horror game, FORBIDDEN SILENVIL, on my own.\n The funny thing is, even though I know exactly where the scares are, I've still managed to jump a few times while testing it. 😂\n One of the main mechanics is using your actual microphone to speak ritual words.…",
+   "author": "iQoxi",
+   "publishedAt": "2026-10-19T09:13:54+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/iQoxi",
+   "where": "r/vrdev",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "429793bde1fc",
+   "canon": "https://www.reddit.com/comments/1x9rmes",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x9rmes/black_ops_iii_zombies_vr_trailer/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "Black Ops III Zombies VR - Trailer",
+   "text": "Hey guys I think the other one was removed so im posting it again.\n I had the absolute pleasure of playing black ops 3 zombies in VR in multiplayer with the creators of this mod, VR Stereo Hub (Bioshock VR and Dishonored) and the experience was just insane. This trailer is a mix…",
+   "author": "Nervy_Parasite",
+   "publishedAt": "2026-10-19T08:48:34+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Ls0JGtX-HDBiZ6vj4fh3Gjo8tYR_jJQf3rEnZRjdJB8.jpeg?width=320&crop=smart&auto=webp&s=6d46572b0c496a9a8e0c4d65d34b1bc10add9abe"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Nervy_Parasite",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "758fbf7d7d75",
+   "canon": "https://www.reddit.com/comments/1x9qgcq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x9qgcq/im_worried_about_impact_reality_i_dont_think/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "I'm worried about Impact Reality. I don't think they're gonna make it.",
+   "text": "I was just thinking about their business model. They go to a company and convince them to let them mod their flat game and create a new release of the game and charge money for it. \n I don't think this business model works in the new world we live in. By the time they hang up…",
+   "author": "No-Dark-7873",
+   "publishedAt": "2026-10-19T07:33:40+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No-Dark-7873",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1a700ceb0a9c",
+   "canon": "https://www.reddit.com/comments/1x9q3hn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x9q3hn/open_source_sideby_vr_viewer_lowcost_mobile_vr/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "[Open Source] SideBy VR Viewer: Low-Cost Mobile VR SBS Viewer — Just Android + VR Headset Box + Bluetooth Gamepad",
+   "text": "Hello everyone! Here is the open source mobile VR viewer project I've been working on, SideByVR Viewer:\n GitHub Repository: GitHub - SideByStudio/SideByVR: Android local SBS image/video viewer with gamepad controls\n Why SideByVR? VR headsets (like Meta Quest or PCVR rigs) are…",
+   "author": "Redoer_7",
+   "publishedAt": "2026-10-19T07:11:00+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/VO6G7sK-wxGjkMmm8YUZ3MRn7IQrXuW3MnG3HtVEFhI.png?width=640&crop=smart&auto=webp&s=751c45c7027f737ce2d74e2b24d4189750f975de"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Redoer_7",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "711c5d3f046d",
+   "canon": "https://www.reddit.com/comments/1x9or4x",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1x9or4x/native_dantes_inferno_port_on_vision_pro/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "Native Dante’s Inferno port on Vision Pro",
+   "text": "I’ve been working on a port of the Xbox 360 version of Dante’s Inferno to iOS and just testing it on the Vision Pro.\n Performance seems a bit rough in the screen recording, but it typically plays at a constant 60 FPS in normal gameplay.\n It’s very much still a work in progress…",
+   "author": "Time_Opportunity_225",
+   "publishedAt": "2026-10-19T05:47:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dXgyNTdyY28zZHdoMacndJSsDyEXR4EYQ696YzvoiSnzIqkLE-6GuwLX111J.jpeg?width=640&crop=smart&auto=webp&s=2b88b24e1981df2d1afe0a53fc838fc8fa6e405f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Time_Opportunity_225",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "012eb96ab5ab",
+   "canon": "https://www.reddit.com/comments/1x9o0t4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1x9o0t4/black_ops_iii_zombies_vr_trailer/",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "Black Ops III Zombies VR - Trailer",
+   "text": "From the creators of the BioShock Trilogy VR and Dishonored VR, we bring you Black Ops III Zombies VR, and it's designed with multiplayer in mind.\n It will have full 6DOF stereo, and AFW support, a full body IK system for both single player and multiplayer, two handed weapon…",
+   "author": "VRStereoHub",
+   "publishedAt": "2026-10-19T05:04:04+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Ls0JGtX-HDBiZ6vj4fh3Gjo8tYR_jJQf3rEnZRjdJB8.jpeg?width=320&crop=smart&auto=webp&s=6d46572b0c496a9a8e0c4d65d34b1bc10add9abe"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/VRStereoHub",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "45e6e8da6c1e",
    "canon": "https://www.reddit.com/comments/1x9np8q",
@@ -4497,6 +5511,51 @@ window.CASES_DB = {
    "fetchedAt": "2026-10-18T11:13:09.343Z",
    "lang": "en",
    "model": null
+  },
+  {
+   "id": "fc6724554c4a",
+   "canon": "https://x.com/i/status/2111756259112456602",
+   "platform": "x",
+   "url": "https://x.com/EmreOnurKahya/status/2111756259112456602",
+   "addedAt": "2026-10-19T13:25:40.695Z",
+   "title": "",
+   "text": "Bir fizikçi itirafı:Doktora tezimde 1 yılımı ve~500 sayfa elle yaptığım kuantum gravite hesabını Opus 5.5 makalesi ve GitHub reposu dahil 10 saatte yaptı.😱 Üstelik hataları da buldu.Neyse ki sonuç değişmedi. Akademide “emek” bundan sonra neyi ifade edecek?https://t.co/fx3CgyYFnQ",
+   "author": "EmreOnurKahya",
+   "publishedAt": "2026-10-18T09:48:21.000Z",
+   "media": null,
+   "metrics": {
+    "likes": 3887,
+    "views": 489187,
+    "comments": 154
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/qgravity-audit",
+     "categories": [],
+     "date": "2026-10-18",
+     "credit": "EmreOnurKahya",
+     "metrics": {
+      "likes": 2994,
+      "views": 327865
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/EmreOnurKahya",
+   "where": null,
+   "fetchedAt": "2026-10-19T13:25:40.695Z",
+   "lang": "en",
+   "model": "Opus 5.5"
   },
   {
    "id": "28f230e68521",
