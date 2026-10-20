@@ -1,7 +1,794 @@
 {
  "version": 1,
- "updatedAt": "2026-10-20T00:29:23.030Z",
+ "updatedAt": "2026-10-20T08:42:47.360Z",
  "cases": [
+  {
+   "id": "6770873588c3",
+   "canon": "https://www.reddit.com/comments/1xamdz6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xamdz6/usage_on_team_sub/",
+   "addedAt": "2026-10-20T08:39:41.052Z",
+   "title": "usage on team sub",
+   "text": "https://preview.redd.it/3g31f0u8zkwh1.png?width=1143&format=png&auto=webp&s=7161f0f6f3e29620d0938e8ddd0474c0f03c0f74\n Hi, Im not sure what happened. I have been using team subscription for the last few months. started a claude prompt now and it went to 100% usage? Never had that…",
+   "author": "Common-Quarter4964",
+   "publishedAt": "2026-10-20T08:15:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/3g31f0u8zkwh1.png?width=140&height=64&auto=webp&s=77815dfddad90e5f27820c965230bc4e647a3b68"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Common-Quarter4964",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-20T08:39:41.052Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cca3ac2a1c40",
+   "canon": "https://www.reddit.com/comments/1xalsks",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/threejs/comments/1xalsks/carriage_ride_through_edinburghs_old_town_1880s/",
+   "addedAt": "2026-10-20T08:39:41.052Z",
+   "title": "Carriage ride through Edinburgh’s Old Town, 1880s made in threejs + blender + opus 5.5",
+   "text": "Narration with interactive 3D is soo soothing - you can control the camera as the scene and narration happens.. \n A deliberate b&w with artifacts.. to get that feel of old town...\n Lamplighters. A tenement that fell in 1861. Barber-surgeons, 1505.\n The figures are simple. \n its…",
+   "author": "Efficient_Ad8214",
+   "publishedAt": "2026-10-20T07:35:43+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/azY0enprdWdya3doMT1rVH-PJmr3Yzd98T9D2QMq1M0c30jldJp_A5qF8fbr.png?width=640&crop=smart&auto=webp&s=2cada6c2ac4418481c41919360cbe7dd8b0436f6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender",
+    "threejs"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Efficient_Ad8214",
+   "where": "r/threejs",
+   "fetchedAt": "2026-10-20T08:39:41.052Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "c4b46e899337",
+   "canon": "https://www.reddit.com/comments/1xalktk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xalktk/aac_app_for_my_autistic_brother/",
+   "addedAt": "2026-10-20T08:39:41.052Z",
+   "title": "AAC App for my Autistic Brother",
+   "text": "Hi all,\n I'm looking for testers to get my brother's aac app approved on Google Play. He is non verbal and we looked into other apps but found them too expensive.\n I would love it if some people would be willing to test it for me and provide feedback as I unfortunately don't…",
+   "author": "TheWarpReaper",
+   "publishedAt": "2026-10-20T07:21:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bHhsM3NlOXlwa3doMcUGvFe5gDgbiSkMZI4Kt3bBDi4uCNKPQz6UlMPdn8-E.png?width=640&crop=smart&auto=webp&s=d143d90b1b93d4a3b73072d0688687dd0528256b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TheWarpReaper",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-20T08:39:41.052Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "01dd59565cb0",
+   "canon": "https://www.reddit.com/comments/1xalano",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xalano/multiclaude_fork_of_cc_switch_for_claude_desktop/",
+   "addedAt": "2026-10-20T08:39:41.052Z",
+   "title": "MultiClaude (fork of CC Switch) for Claude Desktop and Science!",
+   "text": "Hello! I made MultiClaude, a fork of CC Switch focused on Claude Desktop and Claude Science: https://github.com/iaa2005/multi-claude\n What it adds:\n Aggregation for Claude Desktop. Desktop sees one gateway, but the model picker shows models from several providers at once (e.g.…",
+   "author": "IvanovAlex",
+   "publishedAt": "2026-10-20T07:04:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/q79fyfepmkwh1.png?width=140&height=136&auto=webp&s=2c64444560f357114835d4156f45c097c5670bf9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/IvanovAlex",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-20T08:39:41.052Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cf8d6c505c90",
+   "canon": "https://www.reddit.com/comments/1xal9as",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xal9as/i_built_spotnote_a_free_opensource_mit_vite/",
+   "addedAt": "2026-10-20T08:39:41.052Z",
+   "title": "I built Spotnote, a free, open-source (MIT) Vite plugin for giving UI feedback to Claude Code.",
+   "text": "Hello, Claude users!\n What it does: click an element in your running app, type the change, press Enter. Claude Code gets the element's exact file, line and column, so it edits that line instead of searching for it. With the MCP server it picks up each note, makes the change and…",
+   "author": "Difficult-Apricot-79",
+   "publishedAt": "2026-10-20T07:01:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZWxtaTF1cmVta3doMQ0qBMyaoabEcnR31np7JCu_tFkhENpwcCfEm35NaAww.png?width=640&crop=smart&auto=webp&s=ebca6772cb90fdce0755edbe047db1f5370fb3a6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Difficult-Apricot-79",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-20T08:39:41.052Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d940431a0e0c",
+   "canon": "https://www.reddit.com/comments/1xal7sc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xal7sc/attended_my_first_claude_hackathon_and_learned/",
+   "addedAt": "2026-10-20T08:39:41.052Z",
+   "title": "Attended my first Claude hackathon and learned that building a good product and winning a hackathon are two very different things",
+   "text": "I recently attended the Claude OC Impact Lab hackathon, and it completely changed how I see hackathons as a software engineer.\n I thought hackathons were like science fairs, where solutions are judged on practicality, correctness, and how well they solve the problem.\n Turns out,…",
+   "author": "yvgh233",
+   "publishedAt": "2026-10-20T06:59:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ysx2x8rawdwh1.jpeg?width=640&crop=smart&auto=webp&s=c0fdbebc3854a55bc914e7a57c4fa5d53a93faeb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/yvgh233",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-20T08:39:41.052Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d8e930a55d6d",
+   "canon": "https://www.reddit.com/comments/1xal1wg",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xal1wg/i_built_vibio_desktop_basically_claude_code_and/",
+   "addedAt": "2026-10-20T08:39:41.052Z",
+   "title": "I built Vibio Desktop, basically Claude Code and Codex agents working as a crew (Mac, free early access)",
+   "text": "Hey r/ClaudeCode, I'm Louis, a student from Norway who builds things with Claude Code besides school. Sharing the biggest thing I've made so far.\n I built Vibio Desktop, a Mac app for people who build with AI coding agents. I kept juggling Claude Code terminal tabs and losing…",
+   "author": "LuckyTNTyt",
+   "publishedAt": "2026-10-20T06:49:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MjJzejNxanlqa3doMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=ca32e356dcc67591fc5446b2c04b13c399ce962e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/LuckyTNTyt",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-20T08:39:41.052Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7b3119a0c22f",
+   "canon": "https://www.reddit.com/comments/1xal0f8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xal0f8/hot_take_the_separate_cowork_toggle_on_claude_was/",
+   "addedAt": "2026-10-20T08:39:41.052Z",
+   "title": "Hot take: The separate cowork toggle on claude was better than folding it into chat.",
+   "text": "to me, this doesn't just make much sense. chat is for thinking. cowork is for getting stuff done on my laptop. having a clear switch between the two just made sense. now I've run into an issue where claude treated pretty much everything I've done this week as a cowork task. now…",
+   "author": "eros_the_kidd",
+   "publishedAt": "2026-10-20T06:47:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/4d77jtt1ikwh1.png?width=640&crop=smart&auto=webp&s=daf3e5060df156a30ced942e09220e524ccdf26f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/eros_the_kidd",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-20T08:39:41.052Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "61222b109dd9",
+   "canon": "https://www.reddit.com/comments/1xakwcd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xakwcd/i_built_a_place_for_claude_to_save_my_plans/",
+   "addedAt": "2026-10-20T08:39:41.052Z",
+   "title": "I built a place for Claude to save my plans, tables and skills so the next agent can pick them up",
+   "text": "I use Claude for long projects, and the good output kept getting stuck in one chat. A plan or a research table would live in one conversation. Sometimes I use a different AI tool, it needed to start from zero.\n So I built Ligura, an MCP server that Claude connects to. Claude can…",
+   "author": "juliarmg",
+   "publishedAt": "2026-10-20T06:40:20+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aHVlNXhyNWZpa3doMREBSB2eEqUu8Ho5oyWfaB1hXHfqY-LwE1feHzDBzhHO.png?width=640&crop=smart&auto=webp&s=681dac800d9e0eba452c03c4b0c306994cfaf0dc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/juliarmg",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-20T08:39:41.052Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cba91496db79",
+   "canon": "https://www.reddit.com/comments/1xakr7t",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xakr7t/some_new_developments_regarding_htc_vive_flow/",
+   "addedAt": "2026-10-20T08:39:41.052Z",
+   "title": "Some new developments regarding HTC Vive Flow",
+   "text": "A brief search reveals posts that are updated annually, discussing why I don't recommend purchasing certain items. However, in many cases, people post about their experiences after purchasing due to the low price and compact size of the device, only to find that it doesn't work…",
+   "author": "EmptyAlbatross9972",
+   "publishedAt": "2026-10-20T06:31:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/8wi86mqqgkwh1.png?width=140&height=113&auto=webp&s=0eca1bb9e9905a07820ea12fe977ec610cfab48f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/EmptyAlbatross9972",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-20T08:39:41.052Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "dd9383bc21df",
+   "canon": "https://www.reddit.com/comments/1xakqs9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xakqs9/monkey_proofing_my_release_with_sonnette_55/",
+   "addedAt": "2026-10-20T08:39:41.052Z",
+   "title": "Monkey proofing my release with sonnette 5.5",
+   "text": "So recently I decided to strengthen my deployment pipeline by integrating claude as a qa tester rather than bother my fellow human.\n I plugged in sonnet 5.5 to my ci post successful deployment to pre-production, to:\n Check committee diff from pre-production to prod\n Grab the…",
+   "author": "Sad_Republic_7705",
+   "publishedAt": "2026-10-20T06:30:41+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Sad_Republic_7705",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-20T08:39:41.052Z",
+   "lang": "en",
+   "model": "Sonnet 5.5"
+  },
+  {
+   "id": "c1c07bef5201",
+   "canon": "https://www.reddit.com/comments/1xak81a",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xak81a/built_ethnoguessr_languageguessr_photoguessr_and/",
+   "addedAt": "2026-10-20T08:39:41.052Z",
+   "title": "Built ethnoGuessr, languageGuessr, photoGuessr and songGuessr for game night!",
+   "text": "Claude didn't need too much direction to generate such great animations, sounds and gameplay. It was able to find and download the data needed for the games, and the only thing it needed handholding on was the song selection process.",
+   "author": "DavidTej",
+   "publishedAt": "2026-10-20T05:59:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/2j1NcYri2oQeWaCLwKZSeKBi3czIoWQDYZKRkVkiLHM.png?width=640&crop=smart&auto=webp&s=a1f3faf91118f23565032e7cb9ee3f8b4dcd53d1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/DavidTej",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-20T08:39:41.052Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "27cca8328ba7",
+   "canon": "https://www.reddit.com/comments/1xajti7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xajti7/claude_code_skips_agentsmd_if_any_claudemd_sits/",
+   "addedAt": "2026-10-20T08:39:41.052Z",
+   "title": "Claude Code skips AGENTS.md if any CLAUDE.md sits above your repo",
+   "text": "",
+   "author": "Efficient_File",
+   "publishedAt": "2026-10-20T05:34:47+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/rLXmcpTruOCwPFo6XcBL-S1URW-Xed_X4E-HtbowFJs.png?width=640&crop=smart&auto=webp&s=398aa935bf6b5644cef8ece101fa2278a41f98bf"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Efficient_File",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-20T08:39:41.052Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "65726995230c",
+   "canon": "https://www.reddit.com/comments/1xajowq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xajowq/claude_rechecked_a_physicists_year_of_phd_math_in/",
+   "addedAt": "2026-10-20T08:39:41.052Z",
+   "title": "Claude rechecked a physicist's year of PhD math in 10 hours and found a sign error",
+   "text": "If you needed another proof of opus 5.5 being a beast",
+   "author": "mawcopolow",
+   "publishedAt": "2026-10-20T05:27:00+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/HLrrR3EUUXDH4ktsZ0cHhztzOYGlmttTaRcCJF65xuE.jpeg?width=640&crop=smart&auto=webp&s=8cadcea6b1d434270f11b2a8b7b1e789723a2599"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/mawcopolow",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-20T08:39:41.052Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "91c78d35c907",
+   "canon": "https://www.reddit.com/comments/1xajjsx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xajjsx/rescue82_my_retro_choplifter_style_game_for/",
+   "addedAt": "2026-10-20T08:39:41.052Z",
+   "title": "Rescue82: my retro Choplifter style game for Vision Pro now has a bunch of new vehicles",
+   "text": "I've been working in Blender using Opus 5.5 to create lots of new models for the game inspired after real world vehicles. That plus a new arcade format and starting to experiment with music and sounds has made this a lot more fun to play.",
+   "author": "boundsj",
+   "publishedAt": "2026-10-20T05:18:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cndqcHBtMWkza3doMdKEIggkKDCkJR-tOj1vVO14lPuwjGeXoJYPDH7_c8Y7.png?width=640&crop=smart&auto=webp&s=d831493795ad0c6b3402a93ff652f1afe11f2aad"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "ai",
+    "three",
+    "blender",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/boundsj",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-20T08:39:41.052Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "29bb90435a80",
+   "canon": "https://www.reddit.com/comments/1xaj1ps",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xaj1ps/just_the_fact_that_this_is_possible_in_2026_is_a/",
+   "addedAt": "2026-10-20T08:39:41.052Z",
+   "title": "Just the fact that this is possible in 2026 is a 12 year old dream",
+   "text": "I'll beat him later once the rust is off. Been checking out darksouls 2 vr for the past week and its been great update after great update. If youre checking out the reddit MixTapeRomeo i appreciate all your hard work and stellar updates cuz them stairs were killing me lol but I…",
+   "author": "MrWashed",
+   "publishedAt": "2026-10-20T04:50:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZGs2bTd6Nzh5andoMexbyr3cZUm9QSoWz3WELgeP8mxfi12ka1aPm9cGFP2D.png?width=640&crop=smart&auto=webp&s=2a2ae20b9efaa0e43a3ef64aa601960ec30ef5d9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MrWashed",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-20T08:39:41.052Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0a4195709464",
+   "canon": "https://www.reddit.com/comments/1xait5m",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xait5m/ffx_in_vr/",
+   "addedAt": "2026-10-20T08:39:41.052Z",
+   "title": "FFX in VR",
+   "text": "",
+   "author": "therealzordon",
+   "publishedAt": "2026-10-20T04:36:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dmQwY3F1Zmt3andoMf4WHmsYEinscn3ScQfL48Jag1h7ylb9C_RFzqJYLHo6.png?width=640&crop=smart&auto=webp&s=f91589d00353b7409c820cb4e1c96600f61d1a5a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/therealzordon",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-20T08:39:41.052Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "633f0d08733b",
+   "canon": "https://www.reddit.com/comments/1xaiqeo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xaiqeo/who_did_it_better_gpt_6_astra_vs_opus_55/",
+   "addedAt": "2026-10-20T08:39:41.052Z",
+   "title": "Who did it better? GPT 6 Astra vs Opus 5.5",
+   "text": "asked both GPT 6 Astra and Opus 5.5 to create an animated stone golem from a nano banana seed image for my game and here's the result.\n both turned the 2d image into a 3d model in meshy, rigged it in the browser, and wrote all the godot animations in code",
+   "author": "SummonerRPG",
+   "publishedAt": "2026-10-20T04:32:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aW01ZWYzOGt2andoMUAomA_W0xgkfOtieVO5j8U9lVLGtlGiKqSXngtAW5MA.png?width=640&crop=smart&auto=webp&s=b873d07f6fda6dc587ecc21d9dae40f384df2d56"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SummonerRPG",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-20T08:39:41.052Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "849f5c10d9bc",
+   "canon": "https://www.reddit.com/comments/1xai3xi",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xai3xi/spatial_photos_from_remnants/",
+   "addedAt": "2026-10-20T08:39:41.052Z",
+   "title": "Spatial photos from Remnants",
+   "text": "Apple Vision Pro’s Spatial Gallery app has some spatial photos and videos from Remnants.",
+   "author": "RandomVision2027",
+   "publishedAt": "2026-10-20T03:58:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/xu08ry4qpjwh1.png?width=640&crop=smart&auto=webp&s=82758fe41419b78c1b24dbc5d27521c91c01a170"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RandomVision2027",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-20T08:39:41.052Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "46897d4a578b",
+   "canon": "https://www.reddit.com/comments/1xai0yc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xai0yc/i_built_a_medieval_archery_fps_in_godot_with/",
+   "addedAt": "2026-10-20T08:39:41.052Z",
+   "title": "I built a medieval archery FPS in Godot with Codex. We played 3v3 for hours while it added features mid-session",
+   "text": "This is a medieval archery FPS I've been building in Godot. I wanted the movement like CS Source style (bhopping, air strafing) and I wanted the bow to feel good, not crazy but just a bow that you can draw 0-100% and release that obeys gravity.\n Most of the code was written by…",
+   "author": "Fillup01",
+   "publishedAt": "2026-10-20T03:54:19+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cGQwcXR1cXhtandoMZJLJKHC9VrxkJgUu7LXTTiv2gF4dp5zhzyt00Hbn0Hd.png?width=640&crop=smart&auto=webp&s=b1511aac2bfdaa81fa8463280454837473d75bf7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Fillup01",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-20T08:39:41.052Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fa181159418c",
+   "canon": "https://www.reddit.com/comments/1xahqk3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xahqk3/my_first_ever_public_project_ever_since_i_got/",
+   "addedAt": "2026-10-20T08:39:41.052Z",
+   "title": "My first ever public project ever since I got into Vibecoding",
+   "text": "Its been a learning journey for me where I first started vibecoding using claude cli with electron as a base, and eventually decided to build it in Rust instead with the desktop app. Currently I have the MacOS M1 or newer version up, Window and Linux will be available soon. It…",
+   "author": "Prize_Eye9481",
+   "publishedAt": "2026-10-20T03:39:12+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/m8ocya2amjwh1.png?width=640&crop=smart&auto=webp&s=36cbb4cbf0de9cc925e0bca37293c04df239c702"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Prize_Eye9481",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-20T08:39:41.052Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4bc2652df8f7",
+   "canon": "https://www.reddit.com/comments/1xah75n",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xah75n/zelda_totk_running_natively_on_vision_pro/",
+   "addedAt": "2026-10-20T08:39:41.052Z",
+   "title": "Zelda TOTK running natively on Vision Pro 🤯",
+   "text": "",
+   "author": "ohgsus",
+   "publishedAt": "2026-10-20T03:11:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Zmh4enVkZzNoandoMasnTT_UO8mKSOF4cVzgCx5KPNXGDabxB88WhTrrTHMr.png?width=640&crop=smart&auto=webp&s=7102545442af4327a0615bfb349ca2966e11184b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ohgsus",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-20T08:39:41.052Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5659d5f550e2",
+   "canon": "https://www.reddit.com/comments/1xagbqb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xagbqb/storysplat_25_is_out_real_shadows_clouds_weather/",
+   "addedAt": "2026-10-20T08:39:41.052Z",
+   "title": "StorySplat 2.5 is out: real shadows, clouds, weather and water, a full splat editor, an AI scene agent, and VR out of beta",
+   "text": "Hey everyone! 2.5 is our biggest release yet. Here's everything that has landed since 2.4, in one place.\n Try it free: https://storysplat.com\n TL;DR\n 🌦️ Your scans get real light: sun shadows, drifting clouds, rain, snow, wind and water\n ✂️ A full splat editor: find and remove…",
+   "author": "Sonnyc56",
+   "publishedAt": "2026-10-20T02:27:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/czM3M290OWI5andoMQ2twFFgFNHDayfO1_ZPhdNFYnA4-r17v36WWK9Bdlp-.png?width=640&crop=smart&auto=webp&s=c3713d3af985ab3dbfa576cf6d65e376398f69bf"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "ai",
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Sonnyc56",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-20T08:39:41.052Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0b4e99cd1bc5",
+   "canon": "https://www.reddit.com/comments/1xaeq8k",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xaeq8k/call_of_duty_1_2003_in_vr_big_update_v130_v140/",
+   "addedAt": "2026-10-20T08:39:41.052Z",
+   "title": "Call of Duty 1 (2003) in VR - Big update v1.3.0 - v1.4.0",
+   "text": "Download & installation guide: https://github.com/lambda-gab/cod1-vr\n Discord: 💬 Discord (bugs, suggestions, updates): https://discord.com/channels/747967102895390741/1561852036264230972\n v1.4.0 \n Vibration: when a hand reaches a holster, when you take, put away or drop a…",
+   "author": "gbrlvcas",
+   "publishedAt": "2026-10-20T01:10:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/9v1b1atbxl3oe2ZTvvEIkJ4vqHt4Nqw5kNfwRy8iD2U.jpeg?width=320&crop=smart&auto=webp&s=f0eba7c8fd8810e540facb094a89570ddfe252ec"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/gbrlvcas",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-20T08:39:41.052Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "a4e46b45ff21",
    "canon": "https://www.reddit.com/comments/1xadnpz",
