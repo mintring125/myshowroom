@@ -1,8 +1,681 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-10-19T20:42:38.162Z",
+ "updatedAt": "2026-10-20T00:29:23.030Z",
  "cases": [
+  {
+   "id": "a4e46b45ff21",
+   "canon": "https://www.reddit.com/comments/1xadnpz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xadnpz/portalcam_dji_osmo_360_spirula_studio/",
+   "addedAt": "2026-10-20T00:26:23.558Z",
+   "title": "PortalCam + DJI Osmo 360 + Spirula Studio",
+   "text": "I’ve been exploring what can be done with the developer data exported from XGRIDS LCC Studio: combining the LiDAR data from a PortalCam capture with images captured separately, in this case using a DJI Osmo 360.\n Left: 3DGS generated directly in LCC Studio from the PortalCam…",
+   "author": "smallfly-h",
+   "publishedAt": "2026-10-20T00:20:19+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YmJkZTlqMm9taXdoMUnexQ_OH9FoQLOyHpMd9BlhBLdoVqo6PkoTcdMjjRhe.png?width=640&crop=smart&auto=webp&s=580e2f9888f9744cc8ee5cc47430552fe1c8d780"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/smallfly-h",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-20T00:26:23.558Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c3abeb8ca47a",
+   "canon": "https://www.reddit.com/comments/1xad7pt",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1xad7pt/made_an_ar_language_tutor_that_sees_the_world/",
+   "addedAt": "2026-10-20T00:26:23.558Z",
+   "title": "Made an AR language tutor that sees the world around you, and the conversation levels up as you improve",
+   "text": "",
+   "author": "xrosspost",
+   "publishedAt": "2026-10-20T00:00:31+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/xrosspost",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-10-20T00:26:23.558Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f7a2b27bcb54",
+   "canon": "https://www.reddit.com/comments/1xad3y9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xad3y9/from_sketch_to_scale_how_our_teams_built_meta_vr/",
+   "addedAt": "2026-10-20T00:26:23.558Z",
+   "title": "From Sketch to Scale: How Our Teams Built Meta VR Glasses",
+   "text": "",
+   "author": "AR_MR_XR",
+   "publishedAt": "2026-10-19T23:56:17+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/xHBq_esrxcLMMetfv6l3_0YsjoNgHHQqkVMfvPAdmFU.jpeg?width=320&crop=smart&auto=webp&s=5b46a31043113482897c6a9b5c19a3bdc414e998"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AR_MR_XR",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-20T00:26:23.558Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c601435b9c8e",
+   "canon": "https://www.reddit.com/comments/1xacz6r",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xacz6r/antrophic_is_the_worst_disgusting_thing_ever/",
+   "addedAt": "2026-10-20T00:26:23.558Z",
+   "title": "ANTROPHIC IS THE WORST, DISGUSTING THING EVER CREATED",
+   "text": "What I would really appreciate is that someone will tell me I am wrong and explain why.\n I work with claude for some time and I was impressed about how fast I can do things with it. Slowly I came to this realization:\n You cannot do anything with claude if you use browser app,…",
+   "author": "Important_East405",
+   "publishedAt": "2026-10-19T23:50:05+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Important_East405",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-20T00:26:23.558Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e4f4a76b884f",
+   "canon": "https://www.reddit.com/comments/1xacrwo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xacrwo/we_built_a_free_browser_canal_game_with_claude/",
+   "addedAt": "2026-10-20T00:26:23.558Z",
+   "title": "We built a free browser canal game with Claude Code, and the harness it wrote plays the game to the end before anything ships",
+   "text": "SUMMIT POUND is a small canal company game that runs in the browser. Claude Code wrote the game and its own test harness. Before a build may go on the store page, the harness plays it from the title screen to a real ending, measures the audio levels and loop seams, and…",
+   "author": "CS_Asset_Factory",
+   "publishedAt": "2026-10-19T23:40:36+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CS_Asset_Factory",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-20T00:26:23.558Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c96216fb98b9",
+   "canon": "https://www.reddit.com/comments/1xac3fq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xac3fq/deadpool_vrtake_a_ride_with_ghostrider/",
+   "addedAt": "2026-10-20T00:26:23.558Z",
+   "title": "Deadpool VR:Take a ride with Ghostrider",
+   "text": "",
+   "author": "Gloomy_Opposite7619",
+   "publishedAt": "2026-10-19T23:09:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/KCreVj78Dk_FxHhV871m_9Aed7L8F_eY502G-KMy9WM.jpeg?width=320&crop=smart&auto=webp&s=d41c09c1f026a0812a66791b448e19c7bd2512a2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Gloomy_Opposite7619",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-20T00:26:23.558Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6a26951c8a5c",
+   "canon": "https://www.reddit.com/comments/1xabxlu",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xabxlu/made_claude_build_a_communityled_reference_for/",
+   "addedAt": "2026-10-20T00:26:23.558Z",
+   "title": "Made Claude build a community-led reference for latest Claude Code internals",
+   "text": "Because of developing plugins and the recent Mod API releases from late-2.1.29x releases, I wanted a place to look up the stuff that isn't really covered by the usual Claude Code docs, so I had them put this together according to a power user's needs, especially since some of us…",
+   "author": "Alternative-Taro5701",
+   "publishedAt": "2026-10-19T23:02:11+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Alternative-Taro5701",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-20T00:26:23.558Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3215dff1a1b4",
+   "canon": "https://www.reddit.com/comments/1xab8s4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xab8s4/built_a_melodydrawing_tool_with_claude_opus_it/",
+   "addedAt": "2026-10-20T00:26:23.558Z",
+   "title": "Built a melody-drawing tool with Claude Opus. It shows which notes fit based on the instrument's actual sound",
+   "text": "(Just made the video on the spot. Sounds like a mosquito funeral or something lol)\n I've been building a little music tool with Claude Opus 5.5: Visual Harmonics\n https://elias1328.github.io/Visual-Harmonics/ (free, no signup)\n You draw a melody, and the background glows where…",
+   "author": "elias1328",
+   "publishedAt": "2026-10-19T22:32:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ODNuM3NtN2IwaXdoMQA9cvhPh6XVwse0PU3C4AfFHIxHcs1TBLrR7PYjQzMP.png?width=640&crop=smart&auto=webp&s=4d6af0925beaa4dd20e0c199195e61248d1e604b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/elias1328",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-20T00:26:23.558Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "b9bbce536072",
+   "canon": "https://www.reddit.com/comments/1xab4c5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xab4c5/effort_level_now_takes_3_clicks_in_claude_desktop/",
+   "addedAt": "2026-10-20T00:26:23.558Z",
+   "title": "Effort level now takes 3 clicks in Claude Desktop – here's a 2-keystroke idea (clickable demo)",
+   "text": "Since the last Claude Desktop update, changing effort takes 3 clicks instead of 1. For something many of us switch dozens of times a day, that hurts.\n My idea: skip the mouse completely. One shortcut opens the picker, then 1–2 keys set the model and effort.\n 👉 Try it right in…",
+   "author": "stefansimik",
+   "publishedAt": "2026-10-19T22:27:11+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/h4435id72iwh1.png?width=640&crop=smart&auto=webp&s=827c43d931e119d8d5966a1e109a29456a780569"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/stefansimik",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-20T00:26:23.558Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "422863a20a7d",
+   "canon": "https://www.reddit.com/comments/1xaaspp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xaaspp/opus_55_is_just_too_good/",
+   "addedAt": "2026-10-20T00:26:23.558Z",
+   "title": "Opus 5.5 is just too good",
+   "text": "I have been iterating games ever since like sonnet 3.7 with hopes of making a high quality game, and now with Opus 5.5 I think it's most possible to solo dev games that would otherwise take an experienced team months in about the same time, even on the 20$ plan. It's probably…",
+   "author": "eslezer",
+   "publishedAt": "2026-10-19T22:13:13+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eWk4c2oxdTIwaXdoMZ06xM_AxSHDjIQ_giCR6qQ1h2jcnAkeKjo2R4DoRTXO.jpeg?width=640&crop=smart&auto=webp&s=e40c9976b7b0fdefc9b899e738aac36dde794e9e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/eslezer",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-20T00:26:23.558Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "5368221f0f7d",
+   "canon": "https://www.reddit.com/comments/1xaanlz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xaanlz/my_company_fired_two_highly_paid_engineers_and/",
+   "addedAt": "2026-10-20T00:26:23.558Z",
+   "title": "My Company Fired Two Highly Paid Engineers and Replaced Them With Me and Claude Code. I Make $26K a Year.",
+   "text": "Edit: I Am from Spain btw (26k USD is still above average.)\n I was hired as a mid-level SysAdmin. Nothing extraordinary. Some infrastructure, basic cloud work, and the usual IT responsibilities.\n I’ve been working with cloud technologies for about a year, and most of what I know…",
+   "author": "xXNeGaTiVisMXx",
+   "publishedAt": "2026-10-19T22:07:26+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/xXNeGaTiVisMXx",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-20T00:26:23.558Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f191009dd629",
+   "canon": "https://www.reddit.com/comments/1xaaftj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xaaftj/i_built_a_christian_selfdiscovery_site_with/",
+   "addedAt": "2026-10-20T00:26:23.558Z",
+   "title": "I built a Christian self-discovery site with quizzes, prayers, and the lives of the saints",
+   "text": "I've been building wiserwalk.com with Claude Code for about 7 weeks. It's a free Christian site for knowing yourself better. \n The main draw is the quizzes. The more you take, the more your profile shows you \"synergies\" (where your results agree). \n There's also 435 prayers in…",
+   "author": "Christian_Anon_",
+   "publishedAt": "2026-10-19T21:59:13+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aGowc2EyNGR0aHdoMbphgRYqcCCebCmye7Muy6A9BTxmXIUyXXBpFuOlGQAQ.png?width=640&crop=smart&auto=webp&s=c364b9145ba86e5adf2bdad6cdb21dc2c5634aac"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Christian_Anon_",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-20T00:26:23.558Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2b45e7474e31",
+   "canon": "https://www.reddit.com/comments/1xaa59y",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xaa59y/i_used_claude_to_build_meshlive_offline/",
+   "addedAt": "2026-10-20T00:26:23.558Z",
+   "title": "I used Claude to build MeshLive - offline voice/video calls + livestreams that hop phone-to-phone over Bluetooth",
+   "text": "A few weeks ago I started wondering whether you could do more than text over Bluetooth when the internet is down. Bitchat already showed phones can message each other offline. What about actual video calls and live streams that also hop across other phones?\n That’s MeshLive.…",
+   "author": "gautamgpt",
+   "publishedAt": "2026-10-19T21:47:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NnlsZGZtc3Z1aHdoMY3LnY0v-LzthO73CZTaAoGJ55vDugzfgojYYvGnM8m9.png?width=640&crop=smart&auto=webp&s=2c797f0f1272c8fc0d1bfc7ba832cdb2a2a2d84f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/gautamgpt",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-20T00:26:23.558Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8666539e9ebb",
+   "canon": "https://www.reddit.com/comments/1xaa3ox",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xaa3ox/opus_55_blender_made_animation/",
+   "addedAt": "2026-10-20T00:26:23.558Z",
+   "title": "Opus 5.5 Blender Made Animation",
+   "text": "Created in 2 hours using Opus 5.5 via the Blender MCP. I downloaded these free star wars models online and told it to create a bad ass animation. It one shotted this.",
+   "author": "DuckyEnoughh",
+   "publishedAt": "2026-10-19T21:45:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Mms4ZnlrOTR2aHdoMcnP1BesGthQ25kDlYXc81n1BS1xOrii81ee4OaUyIDH.png?width=640&crop=smart&auto=webp&s=2f4ef16016122cd98c7dcc823b0fd9ee4e2b0ba7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender",
+    "motion",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/DuckyEnoughh",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-20T00:26:23.558Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "e2156c1886d7",
+   "canon": "https://www.reddit.com/comments/1xaa2gd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xaa2gd/i_built_tripwire_for_a_hackathon_using_claude/",
+   "addedAt": "2026-10-20T00:26:23.558Z",
+   "title": "I built Tripwire for a hackathon, using Claude Code for the implementation and Claude chat for research and planning.",
+   "text": "What it does: Claude Code and similar agents trust project files like .claude/settings.json, .mcp.json and CLAUDE.md, so a cloned repo can ship a SessionStart hook, a shell-wrapped MCP server, wildcard permissions, or instructions hidden in zero-width characters. Tripwire reads…",
+   "author": "giorgiotskh",
+   "publishedAt": "2026-10-19T21:44:20+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/giorgiotskh",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-20T00:26:23.558Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "87ffb41950ef",
+   "canon": "https://www.reddit.com/comments/1xa9rx7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xa9rx7/do_you_still_know_what_the_code_claude_wrote_last/",
+   "addedAt": "2026-10-20T00:26:23.558Z",
+   "title": "👋 Do you still know what the code Claude wrote last week is for? I built an extension that tells you when you hover over your code",
+   "text": "Hey everyone 👋\n Ever open a file Claude wrote last week and stop at a function with no idea why it was written or what it is for? 🤔 You read it line by line and check who calls it, and you still do not know. The session that wrote it knew, and nothing wrote that down.\n So I…",
+   "author": "Prudent_Detective424",
+   "publishedAt": "2026-10-19T21:32:17+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/gEKgown0hw59Aja25AJd_HFzkDh4eAirVPskUGm3BE0.png?width=140&height=70&auto=webp&s=bf3b6b1c89192309b213ebec097e7b23591a7104"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Prudent_Detective424",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-20T00:26:23.558Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "18ae0e0fd83a",
+   "canon": "https://www.reddit.com/comments/1xa9ipi",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xa9ipi/i_made_an_app_that_makes_you_money/",
+   "addedAt": "2026-10-20T00:26:23.558Z",
+   "title": "I made an app that makes you money.",
+   "text": "Hey everyone, I wanted to share a small project I've used to help track optimize banking strategies to collect an extra few thousand dollars yearly.\n The concept of this app was to attempt to maximize bank promotional offers, such as opening a checking account and having payroll…",
+   "author": "-amu-",
+   "publishedAt": "2026-10-19T21:22:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eTCwNmsUgDp_NHSI2hc-AaML92Ks0Mof02DkjXUHsJw.png?width=640&crop=smart&auto=webp&s=0a7abdccc3843fccf9d56211bd2edf1a5cda9695"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/-amu-",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-20T00:26:23.558Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a90923a87068",
+   "canon": "https://www.reddit.com/comments/1xa9ign",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xa9ign/new_interactions_manual_reloading_the_long_dark/",
+   "addedAt": "2026-10-20T00:26:23.558Z",
+   "title": "NEW Interactions & Manual Reloading | The Long Dark VR (WIP)",
+   "text": "Hello hello again!\n It has been a while since I last posted about my VR mod for The Long Dark (sorry about that lol), so I wanted to share another progress update with you guys. :)\n Quite a bit has changed since my first showcase. I have been working on more physical…",
+   "author": "M4xs0n",
+   "publishedAt": "2026-10-19T21:21:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ahHWM7wc69o-1OSLoa4vv7D3aMV7WWKYZSaZFmjP2_o.jpeg?width=320&crop=smart&auto=webp&s=db1963f0bffa9541637a9bbd75b2d9b2b4aed909"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/M4xs0n",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-20T00:26:23.558Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e97a4ca18209",
+   "canon": "https://www.reddit.com/comments/1xa9f5d",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xa9f5d/old_tcl_beyond_tv_was_super_slow_so_i_tried_this/",
+   "addedAt": "2026-10-20T00:26:23.558Z",
+   "title": "Old TCL Beyond TV was super slow, so I tried this open-source debloat with Claude and it worked",
+   "text": "Sharing is caring! Not my project. I saw it on X and tried it on my TCL Beyond TV, which was super slow. I used Claude to do it, and it worked: ads and bloatware are gone, and I now have a clean launcher. It's free, open source (MIT), needs no root, and has a restore script if…",
+   "author": "BandicootUnique1727",
+   "publishedAt": "2026-10-19T21:18:10+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ltak40tbqhwh1.jpeg?width=640&crop=smart&auto=webp&s=3e18ba850a23f45a600867149d14e6342930b39c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/BandicootUnique1727",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-20T00:26:23.558Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fd594107d34d",
+   "canon": "https://www.reddit.com/comments/1xa8ywt",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xa8ywt/i_ported_colmap_to_webassembly_so_it_can_run_in/",
+   "addedAt": "2026-10-20T00:26:23.558Z",
+   "title": "I ported COLMAP to WebAssembly so it can run in the browser, and open-sourced it (now available as a pose estimator in Gausify Orbit)",
+   "text": "For Gausify Orbit, the browser app I shared here recently that turns orbit videos into Gaussian Splats, I've been porting COLMAP to WebAssembly. I made the port open source so others can use it and contribute.\n What it is: colmap-wasm compiles COLMAP 4.2.1's own code to…",
+   "author": "obraiadev",
+   "publishedAt": "2026-10-19T21:01:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/xrwllv2emhwh1.png?width=640&crop=smart&auto=webp&s=d7d4a78d0512e89d09bdf6cadfcc156c7ce1b9d3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/obraiadev",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-20T00:26:23.558Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7ea7ceca7b48",
+   "canon": "https://www.reddit.com/comments/1xa8fmh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xa8fmh/claude_blender_and_i_create_a_shooter_game_that/",
+   "addedAt": "2026-10-20T00:26:23.558Z",
+   "title": "Claude, Blender and i create a shooter game that runs on PC and mobile",
+   "text": "I'm Nick, solo dev, over a couple of weeks I directed Claude to build Agentic Wars Conquest and it's playable now, free, no signup, no ads, nothing to buy, browser game\n Four factions of robot soldiers, each one a parody of an AI company agents, Claude Code wrote the game code…",
+   "author": "Virtual_Hair_1987",
+   "publishedAt": "2026-10-19T20:41:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Y2t6enZkbWdqaHdoMVnU68xvljoeBd2t54OKyxLiDD_HsRrz1IuepjcCQFZG.png?width=640&crop=smart&auto=webp&s=53e76e4ec81516bbbd010801bf5979564494603d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Virtual_Hair_1987",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-20T00:26:23.558Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "eb7ec6ce48eb",
    "canon": "https://www.reddit.com/comments/1xa8cmh",
@@ -4877,6 +5550,56 @@ window.CASES_DB = {
    "model": null
   },
   {
+   "id": "942d22e3104c",
+   "canon": "https://x.com/i/status/2111864428010582082",
+   "platform": "x",
+   "url": "https://x.com/DilumSanjaya/status/2111864428010582082",
+   "addedAt": "2026-10-20T00:26:23.558Z",
+   "title": "",
+   "text": "A cozy website concept for a small coffee shop. \n\nDesigned to give customers a warm, unique experience they’ll love and keep coming back to.\n\nMade with Opus 5.5 https://t.co/4VlyGqpnN6",
+   "author": "DilumSanjaya",
+   "publishedAt": "2026-10-18T16:58:10.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111862534148075520/img/kXP1lCI-mN4RnHSj.jpg",
+    "video": "https://video.twimg.com/amplify_video/2111862534148075520/vid/avc1/3456x1990/n53lvY8tdzGfalTQ.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 3193,
+    "views": 171693,
+    "comments": 90
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/strawberry-cafe",
+     "categories": [],
+     "date": "2026-10-19",
+     "credit": "DilumSanjaya",
+     "metrics": {
+      "likes": 2507,
+      "views": 90635
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/DilumSanjaya",
+   "where": null,
+   "fetchedAt": "2026-10-20T00:26:23.558Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "5eb1720eb8cb",
    "canon": "https://www.reddit.com/comments/1x970vx",
    "platform": "reddit",
@@ -7582,6 +8305,56 @@ window.CASES_DB = {
    "fetchedAt": "2026-10-18T04:41:39.038Z",
    "lang": "en",
    "model": null
+  },
+  {
+   "id": "2d1849f8279f",
+   "canon": "https://x.com/i/status/2111652839634456996",
+   "platform": "x",
+   "url": "https://x.com/xikhar/status/2111652839634456996",
+   "addedAt": "2026-10-20T00:26:23.558Z",
+   "title": "",
+   "text": "Opus 5.5 is almost a month old, and it still blows my mind.\n\nBuilding this huge world from scratch in Unreal Engine.\n\nThis was impossible last year. This will feel trivial next year. https://t.co/jqBNS1AQ9p",
+   "author": "xikhar",
+   "publishedAt": "2026-10-18T02:57:24.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111647053290098688/img/PftPoTowN3CRPEgi.jpg",
+    "video": "https://video.twimg.com/amplify_video/2111647053290098688/vid/avc1/3456x2160/CUa_uyTnpMmjwuNC.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 2098,
+    "views": 186698,
+    "comments": 95
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/unreal-forest",
+     "categories": [],
+     "date": "2026-10-18",
+     "credit": "xikhar",
+     "metrics": {
+      "likes": 1982,
+      "views": 136649
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/xikhar",
+   "where": null,
+   "fetchedAt": "2026-10-20T00:26:23.558Z",
+   "lang": "en",
+   "model": "Opus 5.5"
   },
   {
    "id": "2f69c46951d4",
