@@ -1,7 +1,1093 @@
 {
  "version": 1,
- "updatedAt": "2026-10-21T17:22:41.382Z",
+ "updatedAt": "2026-10-21T21:52:40.005Z",
  "cases": [
+  {
+   "id": "35785f8bed3a",
+   "canon": "https://www.reddit.com/comments/1xc08ip",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xc08ip/claude_can_use_applescript_to_create_fully/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "Claude can use AppleScript to create fully editable design files in Pixelmator Pro",
+   "text": "I was working on a business card design with Claude yesterday and, as a paranoid graphic designer, I wanted an editable design file so I could ensure everything was prepared for print.\n I asked Claude to make a file I could open in Pixelmator Pro. First, it gave me a png file.…",
+   "author": "littlesuperdangerous",
+   "publishedAt": "2026-10-21T21:37:00+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/littlesuperdangerous",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a6aa0a312bc5",
+   "canon": "https://www.reddit.com/comments/1xc07fh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xc07fh/ive_got_a_confession_to_make_i_have_no_weekly/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "I've got a confession to make. I have no weekly limit.",
+   "text": "https://preview.redd.it/i0i55ek43wwh1.png?width=794&format=png&auto=webp&s=deab4ffc9dda925f306b04d61d776285b6afab60\n I got accepted in Claude Startup. I found a thread were people reported the same but some of them also added that after the 1st week they started seeing the…",
+   "author": "RandomFuckingUser",
+   "publishedAt": "2026-10-21T21:35:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/i0i55ek43wwh1.png?width=140&height=98&auto=webp&s=8b068c986b866499190a6171484dafe6541bb68e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RandomFuckingUser",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9e94a69153fa",
+   "canon": "https://www.reddit.com/comments/1xc049i",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xc049i/every_new_model_made_my_mmorpg_better_so_i_never/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "Every new model made my MMORPG better, so I never released it. Finally Open-sourcing it today before Fable 5.5 drops or I will be doomed.",
+   "text": "I’ve been trying to open source my MMORPG for the past two months, but new AI models kept releasing. First, I built it with Fable, and it was GLORIOUS. I could run around the open world, hack monsters, take on quests. However, the graphics were meh. It had dungeons, but without…",
+   "author": "ffmegaman",
+   "publishedAt": "2026-10-21T21:32:14+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ffmegaman",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "607e7ceef578",
+   "canon": "https://www.reddit.com/comments/1xc036m",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xc036m/i_created_a_mod_to_play_quick_games_while_i_am/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "i created a mod to play quick games while i am waiting on claude. Free, create your own games...",
+   "text": "Why? I don't know i wanted something to do when i was waiting on claude. I wire in a hook so it tells me when my shit is done with confetti or fireworks. I use those on meetings to show when i like something. \n The games are clones, make your own, they can be shared easily.…",
+   "author": "Successful-Seesaw525",
+   "publishedAt": "2026-10-21T21:31:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/yvjnw7hf2wwh1.png?width=640&crop=smart&auto=webp&s=387274e5b0612668168fe3ab786c50abe9c78146"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Successful-Seesaw525",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2f0330e13bd3",
+   "canon": "https://www.reddit.com/comments/1xc02p0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xc02p0/hey_opus_55_can_you_build_me_a_247_news_network/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "hey opus 5.5 can you build me a 24/7 news network that i can walk into... 30 days later...",
+   "text": "a few weeks ago i posted here about building a 24/7 ai news network with claude. that post got a lot more attention than i ever expected.\n well, it kept growing.\n the original idea was pretty simple. i wanted to see if i could create an entire television network by myself, from…",
+   "author": "Icy_Upstairs_7328",
+   "publishedAt": "2026-10-21T21:30:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bzJmaTEzdTMyd3doMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=5677696c6c56bf3ab538e93d5edd5ad608bbb13b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Icy_Upstairs_7328",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "ea7200ba66ff",
+   "canon": "https://www.reddit.com/comments/1xc00l6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xc00l6/cryodeath_vr_launches_on_the_quest_store_this/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "CRYODEATH VR LAUNCHES ON THE QUEST STORE THIS SATURDAY (OCT 24TH!)",
+   "text": "We finally did it.\n CRYODEATH has officially passed Meta's submission review and audit. It took far longer than any of us expected, but we're finally here! When we delayed the launch, we said we wouldn't ship until it was right, and it's right now: a stable 72 FPS on Quest, the…",
+   "author": "Glass_Piglet6260",
+   "publishedAt": "2026-10-21T21:28:16+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/u4nmtybu1wwh1.png?width=640&crop=smart&auto=webp&s=76eda4e2d3dcc0d837e1eb59f571ff7fcd161c85"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Glass_Piglet6260",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "56d94afb4927",
+   "canon": "https://www.reddit.com/comments/1xbzqfn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xbzqfn/plugin_inversion_all_your_base_are_belong_to_us/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "Plugin inversion: All Your Base Are Belong To Us",
+   "text": "Assimilate technological distinctiveness. Build collectives that belong to you.\n The more complicated plugins get, the more they bring their own rules about how you should work. Collect enough of them and your agent can end up with three different test-driven development skills,…",
+   "author": "FlowThrower",
+   "publishedAt": "2026-10-21T21:17:04+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/8SLimjTdYsSc4WetzzL57RhI0CxtAsb2IF9hfVaBWAM.png?width=640&crop=smart&auto=webp&s=de7fdd37f5565398ceab1e89ddb4828993aa5229"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/FlowThrower",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "eb5461331c17",
+   "canon": "https://www.reddit.com/comments/1xbzlih",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbzlih/i_replaced_my_samsung_tvs_home_screen_with_claude/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "I replaced my Samsung TV’s home screen with Claude Code",
+   "text": "Samsung’s home screen had turned into an ad billboard, so I asked Claude Code to build me something simpler: a clock, the apps I actually use and my consoles.\n The trick that made the biggest difference was faking the handful of TV APIs the launcher relies on. That let Claude…",
+   "author": "NelsonEU",
+   "publishedAt": "2026-10-21T21:11:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/n1qvsrovyvwh1.png?width=640&crop=smart&auto=webp&s=30d441c0de80c1454ffeffbbce19a1681dd1b709"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/NelsonEU",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "99c71b17b0b8",
+   "canon": "https://www.reddit.com/comments/1xbzjlf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xbzjlf/new_in_archestra_14_open_source_claude_code_hands/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "New in Archestra 1.4 (open source): Claude Code hands long tasks to a remote agent on your own cluster, any agent, no vendor lock-in",
+   "text": "We just released Archestra 1.4, an open-source platform for running AI agents. New in this release: a remote agent runtime on your own Kubernetes cluster, and a handoff from Claude Code: send a long task there, pull the patch back later. The remote side is whichever agent you…",
+   "author": "motakuk",
+   "publishedAt": "2026-10-21T21:09:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/d2psdmZzbmt5dndoMbuK9wrVkzOVHcyrQRalqoXT834D8mNCszTkb3kcErIi.png?width=640&crop=smart&auto=webp&s=398895c9979277a31d3c87c2c735948cfe6a0156"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/motakuk",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f4fea8d784b9",
+   "canon": "https://www.reddit.com/comments/1xbzdyi",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbzdyi/clawd_gets_a_book_when_hes_reading_and_confetti/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "Clawd gets a book when he's reading and confetti when he's done",
+   "text": "I wanted more of Clawd, Claude Code's crab mascot, so I made a mod that gives every running subagent its own little crab above the prompt. He reads a book while it reads files, searches with a magnifying glass, writes on paper while it edits, and jogs while a command runs.…",
+   "author": "_Chaos__",
+   "publishedAt": "2026-10-21T21:03:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YjQxNjV5NWt4dndoMbviSoc74K61Vnirq7ormXDWglLj_0EzlLGv-UBqdza9.png?width=640&crop=smart&auto=webp&s=b37fc86eacf0d91bc54cef089f72157457eb14b2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/_Chaos__",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "942dd3f520b8",
+   "canon": "https://www.reddit.com/comments/1xbz9po",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xbz9po/i_gave_each_claude_code_subagent_a_little_clawd/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "I gave each Claude Code subagent a little Clawd that acts out its work",
+   "text": "Each running subagent gets its own little Clawd (Claude Code's crab mascot) above the prompt, acting out what it's doing: reading a book, searching with a magnifying glass, writing on paper while it edits, jogging while a command runs. Confetti when it finishes, a rain cloud if…",
+   "author": "_Chaos__",
+   "publishedAt": "2026-10-21T20:59:47+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/emlremkxNWV3dndoMbviSoc74K61Vnirq7ormXDWglLj_0EzlLGv-UBqdza9.png?width=640&crop=smart&auto=webp&s=05e17de62975d4ffe6ed5327d94b6a8ca07192ba"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/_Chaos__",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "62cf71d3d0d6",
+   "canon": "https://www.reddit.com/comments/1xbz98o",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/singularity/comments/1xbz98o/anthropic_unveils_claude_duet_a_proactive_ai/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "Anthropic unveils Claude Duet, a proactive AI agent powered by Opus 5.5. It works while you're away, monitors your apps, handles complex tasks using its own cloud computer, and alerts you when needed. It supports 6,000+ integrations and remembers your context.",
+   "text": "",
+   "author": "141_1337",
+   "publishedAt": "2026-10-21T20:59:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/W-Z1mj5th-Ym3CTH4Q_-TbDQHmFg8Ouk3bpeAhrpyKM.png?width=640&crop=smart&auto=webp&s=1722fb2203c36b44bffde00fa687993fc62745a4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/141_1337",
+   "where": "r/singularity",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "a9a4f32128fc",
+   "canon": "https://www.reddit.com/comments/1xbz3w9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbz3w9/opus_55_created_a_music_video_explaining_the/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "Opus 5.5 created a music video explaining the recent PHP exploit",
+   "text": "",
+   "author": "LostMyConcentration",
+   "publishedAt": "2026-10-21T20:53:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/VmmCQfBDshKX1PDC9RvRASXG-DKTJpmGOofOnO29Z5I.jpeg?width=320&crop=smart&auto=webp&s=83f06fb6b16428889f64e3cb874c06008206df8e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/LostMyConcentration",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "7e6cdeb195aa",
+   "canon": "https://www.reddit.com/comments/1xbyxvl",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xbyxvl/im_building_an_alternative_cable_tv_network_that/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "I'm building an \"alternative cable TV\" network that transforms the Internet Archive's ephemeral VHS media into 24/7 live-synced television stations.",
+   "text": "It’s called spelunkr.\n 28 channels (so far) of forgotten videos organized into themed \"cable tv channels\" that play on a synced schedule 'round the clock.\n The entire collection so far is about 2,700 hours of video, running around the clock. You tune in and land in the middle of…",
+   "author": "thetalkinghawk",
+   "publishedAt": "2026-10-21T20:47:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/6zGZ3YG61_YEzlUR8WCpPA-CbCT8D3FAsaJVmFDeSd4.png?width=640&crop=smart&auto=webp&s=f3004971ac1311d7be6e5d181b7eefd882b0d5c5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/thetalkinghawk",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cafa6f1cca49",
+   "canon": "https://www.reddit.com/comments/1xbys6y",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbys6y/i_want_motion_on_max_plans_more_than_fable_55/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "I want motion on max plans more than Fable 5.5 release",
+   "text": "Opus 5.5 is so good that I’m not sure I will see much benefit for my work with an updated Fable…\n I don’t know why Motion didn’t come to max plans, but has there been any word on whether it will/won’t?",
+   "author": "Lleaff",
+   "publishedAt": "2026-10-21T20:40:44+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Lleaff",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "d2949c25e0fd",
+   "canon": "https://www.reddit.com/comments/1xbyrgf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbyrgf/best_commands_for_video_editors_in_premiere_pro/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "Best commands for video editors in premiere pro/ claude",
+   "text": "Looking for what you have had the most success with. Could be motion graphics, speed, ease of use, etc. Love to hear it all! I'm fairly new to the claude x premier so any help, vid tips etc",
+   "author": "defnotme1324",
+   "publishedAt": "2026-10-21T20:39:57+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/khemwkm6tvwh1.png?width=320&crop=smart&auto=webp&s=9ff23d60dbcd99d7dec1623ae7436567b1561910"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/defnotme1324",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e3e85825be4e",
+   "canon": "https://www.reddit.com/comments/1xbym96",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xbym96/spatialforge/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "SpatialForge",
+   "text": "Hey everyone!\n I wanted to share with you my hobby project i'm working on the last couple of months. It's a factory game for AVP (heavily inspired by Factorio :) ) Game loop is quite similar: mine, build, defend the factory, research the next tier, build a rocket, space…",
+   "author": "Most-Albatross-827",
+   "publishedAt": "2026-10-21T20:34:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/j46xb99hqvwh1.png?width=640&crop=smart&auto=webp&s=70b1cd754784e0ed7dfbef9846a55ab811e26c01"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Most-Albatross-827",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "eb5bf3239cae",
+   "canon": "https://www.reddit.com/comments/1xbyg3k",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbyg3k/i_made_claude_write_down_what_it_rejected_not/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "I made Claude write down what it rejected, not just what it built",
+   "text": "I've worked on IT projects long enough to know the question that comes up half a year after go-live: why did we build it like this? Usually somebody new asks, and nobody remembers. Now that Claude Code writes most of my code, the reasons end up in a chat session I close at…",
+   "author": "Potential-Beat2841",
+   "publishedAt": "2026-10-21T20:27:42+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Potential-Beat2841",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5f2338e66d7b",
+   "canon": "https://www.reddit.com/comments/1xbyb65",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xbyb65/built_a_claude_code_plugin_where_the_reviewer/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "Built a Claude Code plugin where the reviewer agent is blocked from reading the implementer's notes",
+   "text": "I spent the weekend on a small Claude Code plugin called triad. It splits a coding task across three subagents: a Planner that explores the repo and writes a plan, an Implementer that works through the plan, and a Reviewer that checks the result. The main session only…",
+   "author": "rishabh1s",
+   "publishedAt": "2026-10-21T20:22:16+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/rishabh1s",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b6c1731a89c3",
+   "canon": "https://www.reddit.com/comments/1xbyaly",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xbyaly/claude_duet_not_available_in_eu/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "Claude Duet NOT available in EU",
+   "text": "Same as Dot\n Seriously wtf is EU doing - if we can’t leverage proactive agents here we’ll fall behind. What a fucking shit show",
+   "author": "Sketaverse",
+   "publishedAt": "2026-10-21T20:21:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/fbhlzdl2qvwh1.jpeg?width=640&crop=smart&auto=webp&s=484db32ddf6508caf6e44fd45da789063153a6a2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Sketaverse",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "55d37f84b1b6",
+   "canon": "https://www.reddit.com/comments/1xbxsjp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbxsjp/i_built_a_text_editor_for_the_original/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "I built a text editor for the original PlayStation with support for Claude and other AIs",
+   "text": "This is a text editor for the PS1, made for writing long documents, with an AI assistant built in. A Raspberry Pi Pico 2 plugged into controller port 2 talks to the console 60 times a second. It reads a USB keyboard and saves your documents to an SD card. On the PC side, a small…",
+   "author": "nukluer_karpuz",
+   "publishedAt": "2026-10-21T20:02:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eDRieG83dzBtdndoMVHMt2KLx2_anm5CVxIMHr2Mm6oiR4QA05CTg7Cm6l4z.png?width=640&crop=smart&auto=webp&s=6841f47f119ad98763243eaa78a768f07abee584"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/nukluer_karpuz",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "adfb5e536c20",
+   "canon": "https://www.reddit.com/comments/1xbxqqs",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbxqqs/let_there_be_light_a_motion_capture_experiment/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "Let There Be Light - A motion capture experiment with Claude",
+   "text": "Following on from the Warcraft 3 video I made this morning, I started to think about motion capture in general. Claude is great at working with Blender but terrible at animation because it has never trained on real human motion and was never intended to be used that way.…",
+   "author": "True-Grab-5288",
+   "publishedAt": "2026-10-21T20:00:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/9VmL3audNfpce4743-F0bytTiTBx8EMndbNFTMLo6g0.jpeg?width=320&crop=smart&auto=webp&s=d9bc8153f8f26629f5cacf10d0f6d3d1a7eabac7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/True-Grab-5288",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6900927cadd3",
+   "canon": "https://www.reddit.com/comments/1xbxoza",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xbxoza/my_claude_code_setup_it_runs_like_a_small/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "My Claude Code setup: it runs like a small engineering team with guardrails, not like a chat window",
+   "text": "I've seen dozens of posts here: \"Why do I run out of usage so much?\", \"Why do I have to keep repeating myself to Claude?\", etc.\n I've built a set up that works amazingly well, for me, as a solo developer. YMMV if trying to implement this in a team. But here goes.\n Full…",
+   "author": "aaraujo666",
+   "publishedAt": "2026-10-21T19:59:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/5r0agw8ylvwh1.png?width=140&height=69&auto=webp&s=6eff34eab5c33ccaaa544cf47431f057f6e24590"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/aaraujo666",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fb7fcadf4af4",
+   "canon": "https://www.reddit.com/comments/1xbxk09",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xbxk09/chulk_runner_more_polished_version_of_the/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "Chulk Runner more polished version of the prototype",
+   "text": "A lot of people loved my prototype idea, I honestly didn't even know that that there were games similar to that and many people said that they got reminded from some older games that they used to play in the past. It took me by surprise since all I wanted to see is if general…",
+   "author": "RUSuper",
+   "publishedAt": "2026-10-21T19:54:10+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eG9jdG54NXZrdndoMVjG6ile-rcQQhP7AQR9G-2vmcZq1DcDKwWyC9rtvjLF.png?width=640&crop=smart&auto=webp&s=48dd5b92a8e6e5142d32df06d3286eaf505b2384"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RUSuper",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4f387c9621bf",
+   "canon": "https://www.reddit.com/comments/1xbxhgg",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbxhgg/anthropic_just_launched_claude_duet_its_answer_to/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "Anthropic just launched Claude Duet, its answer to Grok Bot and ChatGPT Dots",
+   "text": "Claude Duet is an always-on, proactive AI agent that can work in the background, manage tasks, and keep track of your work without constant prompting.\n Looks like the personal AI agent race is heating up. Curious how Duet will compare to Grok Bot and Dots.\n Source:…",
+   "author": "rubanbhatia",
+   "publishedAt": "2026-10-21T19:51:26+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/rubanbhatia",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e82c5199d007",
+   "canon": "https://www.reddit.com/comments/1xbxgq4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbxgq4/psa_buyer_beware_usage_credit_limits_arent_real/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "PSA - Buyer beware! Usage credit limits aren’t real limits.",
+   "text": "I had a few hundred dollars of prepaid usage credits on my Claude account and set the monthly spend limit to $1, as I only wanted to use the credits if I had an emergency change to make on my site.\n My usage page now says “$515.76 (spent) of $1 (my limit) this month.” 😂\n Almost…",
+   "author": "friarswalker",
+   "publishedAt": "2026-10-21T19:50:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/u0gn8m7jkvwh1.jpeg?width=640&crop=smart&auto=webp&s=8e664e48c06756cc5998a7aaac0485e2059f011e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/friarswalker",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "493184862beb",
+   "canon": "https://www.reddit.com/comments/1xbxcjy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xbxcjy/one_day_one_tribute_game_how_claude_an_image/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "One day, one tribute game: how Claude, an image model, ElevenLabs and Suno made a browser beat 'em up)",
+   "text": "A viral video from Nice: a game shop clerk standing in his doorway to protect his shop. We turned it into a free browser game in one day. How the work split:\n - Claude: all the code, Phaser 3 in plain JavaScript, no bundler. 12 waves, 11 moves, 8 passives, 3 bosses, 3 ults,…",
+   "author": "Brennor20101987",
+   "publishedAt": "2026-10-21T19:46:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NGxwZWU3cG1qdndoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=fa7a6ca2582214232653051efa4876c2e106665a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Brennor20101987",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2727f45fea70",
+   "canon": "https://www.reddit.com/comments/1xbx63r",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xbx63r/i_built_a_youtube_cli_and_skill_with_claude_code/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "I built a YouTube CLI and skill with Claude Code. The offline tests passed; the real bugs showed up when Claude used it on real channels",
+   "text": "What I built\n ytk (youtube-kit): a YouTube CLI with a Claude Code skill, plus an MCP server for other clients. It reads public YouTube and works on your own channels:\n analytics, impressions and click-through rate transcripts and captions uploads with scheduling, titles,…",
+   "author": "Prestigious_Wait7855",
+   "publishedAt": "2026-10-21T19:39:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/a3VicTc2ZGdpdndoMYE8RGPUwNvH9kGBbFOvy6wLE2lKopC75TsnNYLN0F45.png?width=640&crop=smart&auto=webp&s=94267447de5111b430abad3103b20dc5d03a0f1c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Prestigious_Wait7855",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e30f3bdf6f69",
+   "canon": "https://www.reddit.com/comments/1xbx3k1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xbx3k1/3d_scanning_berlins_festival_of_lights_with/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "3D Scanning Berlin’s Festival of Lights with Gaussian Splatting",
+   "text": "I captured Berlin during the annual Festival of Lights using a single camera and a tripod. Visiting several locations featuring static light projections, I took thousands of long-exposure photographs to reduce the presence of people and capture the illuminated architecture in…",
+   "author": "rysik_bubka",
+   "publishedAt": "2026-10-21T19:36:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aWFhYWV6Y3dodndoMbYkJoE3C2IJICUXwNzD7Nx4gGi3fV2g9TjnuYQiqme3.png?width=640&crop=smart&auto=webp&s=8f8d60187b63e9fb9790b164d0ab8b24545504da"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/rysik_bubka",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cdacd97e2976",
+   "canon": "https://www.reddit.com/comments/1xbwv2h",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xbwv2h/i_built_a_horror_game_with_claude_code_chatgpt/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "I built a horror game with Claude Code + ChatGPT where the house AI rebuilt a dead mom's voice. At 3:15 AM it plays YOUR voice back.",
+   "text": "Two weeks ago I posted Night One here (you play the smart home, something outside copies the family's voices). It got 22K views and your comments basically wrote my to-do list. Here's the follow-up, and what I learned building it.\n Wake Word: Almost Home. Sarah died a year ago.…",
+   "author": "Happy_Literature_194",
+   "publishedAt": "2026-10-21T19:27:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Nmh0NGtwMjVndndoMVft18oNFTMHAV13-fvVDlGcbb7PSIrr8JYH_IraN4Kg.png?width=640&crop=smart&auto=webp&s=90ed45c4649cfb8986fe8fc5aa2053ecc7287cc8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Happy_Literature_194",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bfc137ca45aa",
+   "canon": "https://www.reddit.com/comments/1xbwun6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/singularity/comments/1xbwun6/oblivion_remastered_mod_built_using_claude_ai/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "Oblivion Remastered Mod Built Using Claude AI Boosts FPS By Over 40% And Drastically Reduces Stuttering Without Sacrificing Visual Quality",
+   "text": "",
+   "author": "PikaPikaDude",
+   "publishedAt": "2026-10-21T19:27:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/XkVd3FZ6HnKTqRWCn8RhVrQppaKnujSC-s2cdkCEUfE.jpeg?width=640&crop=smart&auto=webp&s=8244e52b8a39cf6fb468f38e1cc6e789e8dff05a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/PikaPikaDude",
+   "where": "r/singularity",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f6a6c5cb9f12",
+   "canon": "https://www.reddit.com/comments/1xbwrae",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xbwrae/meta_rayban_camera_glasses_growth_slows_from_100/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "Meta Ray-Ban Camera Glasses Growth Slows from 100% to 20% — AR Glasses Partnership Focuses on Prescription",
+   "text": "​\n EssilorLuxottica’s smart glasses segment reached €486 million in Q3 2026 (€1.26 billion in the first nine months, or 6.5% of total company revenue), but year-over-year growth slowed from nearly 100% in Q2 to 20% in Q3 as sales in third-party consumer electronics stores fell…",
+   "author": "AR_MR_XR",
+   "publishedAt": "2026-10-21T19:24:10+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/u6txwmatfvwh1.jpeg?width=640&crop=smart&auto=webp&s=d873956076ed3d1260406a2105d03055b1a31475"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AR_MR_XR",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "72669d673c80",
+   "canon": "https://www.reddit.com/comments/1xbwkgf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbwkgf/claude_duet_anthropic_just_casually_dropped_the/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "Claude Duet: Anthropic just casually dropped the personal assistant calling it a proactive agent. This is the response to Muses, Bots and Dots",
+   "text": "",
+   "author": "py-net",
+   "publishedAt": "2026-10-21T19:17:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/r72ka8tjevwh1.jpeg?width=640&crop=smart&auto=webp&s=8c043291e869a3c2836bfbfb572bebcc0c124abf"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/py-net",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1a59b616e54e",
+   "canon": "https://www.reddit.com/comments/1xbunme",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xbunme/samsung_may_use_software_to_reduce_blur_of/",
+   "addedAt": "2026-10-21T21:48:18.552Z",
+   "title": "Samsung may use software to reduce blur of segmented dimming",
+   "text": "new patent filing—“Method and electronic device for blur reduction of an occlusion mask”\n https://ppubs.uspto.gov/api/pdf/downloadPdf/US-20260320759-A1",
+   "author": "AR_MR_XR",
+   "publishedAt": "2026-10-21T18:07:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ktWwLxRQSKOMPonkJOJjoAvFHphVXIgto4NdKXwTUio.jpeg?width=640&crop=smart&auto=webp&s=5746eb2a745a992854ab3380257634ce834c615f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AR_MR_XR",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-21T21:48:18.552Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "b1f988674104",
    "canon": "https://www.reddit.com/comments/1xbt02d",
