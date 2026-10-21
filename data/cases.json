@@ -1,7 +1,1306 @@
 {
  "version": 1,
- "updatedAt": "2026-10-20T19:26:02.868Z",
+ "updatedAt": "2026-10-21T00:02:12.582Z",
  "cases": [
+  {
+   "id": "f97d6d0ba6a9",
+   "canon": "https://www.reddit.com/comments/1xb7pm9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xb7pm9/i_vibe_coded_my_own_video_editor_so_claude_can/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "I vibe coded my own video editor so Claude can edit my YouTube videos with me",
+   "text": "Hey guys, not sure if this is useful to anyone but I thought I would share as it has completely changed how I make videos.\n I vibe coded my own video editor called Tandem, and now Claude does the editing with me. It drives the editor through a CLI, anything it changes shows up…",
+   "author": "cannyshammy",
+   "publishedAt": "2026-10-20T23:38:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/F3y0rq25RoxDhjGBPFj8vZm6o5rf1GEJpe2BvC1vn0A.png?width=140&height=70&auto=webp&s=0048710e4eff09cbd7c71058484df5770e53515a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/cannyshammy",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "84de34a3f39f",
+   "canon": "https://www.reddit.com/comments/1xb7m0f",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xb7m0f/re2vr_glitchy_360_left_hand_shotgun_grabbing/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "RE2VR glitchy 360° left hand shotgun grabbing resident evil 2 VR",
+   "text": "No matter what I do I can't get this 360° grab to go away, it's so buggy and glitchy feeling and has literally made me die a few times now any idea of how to get rid of this?",
+   "author": "Tiny-Paramedic7279",
+   "publishedAt": "2026-10-20T23:33:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OHp4MGExM2NqcHdoMctIf_QKbF8HdQutKVDPkKjkTZ9bSSJghv8RzV3Vx-U7.png?width=640&crop=smart&auto=webp&s=991a59c5bff7922bb38a7bd9cace151d9e6b6122"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Tiny-Paramedic7279",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "afd0551d9626",
+   "canon": "https://www.reddit.com/comments/1xb7hzn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xb7hzn/update_lulusplat_new_depmap_solver/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "[Update] LuluSplat: New DEPMAP solver",
+   "text": "v1.2.2 https://liquiduslabs.com/lulusplat/\n In this dataset the cameras are mostly at the center and almost no movement between shots, feature matching has little to triangulate from, and the walls come out sparse and broken up with COLMAP and other solvers like Spirula (even…",
+   "author": "SeeSharo",
+   "publishedAt": "2026-10-20T23:28:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cGk5bHFxZDJpcHdoMSCVCnaoJzZBqEnwXmdiC1XYQ0j98KwVxYSHV1IMjVCT.png?width=640&crop=smart&auto=webp&s=27187be58a6d15659eb1f3f2b8d4d2070e0e3028"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SeeSharo",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "765b0da619d7",
+   "canon": "https://www.reddit.com/comments/1xb7c4m",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1xb7c4m/2160x2160_90hz_wired_wireless_pcvr_for_650_wip/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "2160x2160 @ 90HZ Wired + Wireless PCVR For $650 WIP",
+   "text": "Someone asked me directly if a 1600x1600 to 2160x2160 upgrade was possible. After talking to a few connections and discussing some stuff, it turns out we can safely upgrade the displays! I've already begun the process of getting parts over but it should really be the mostly same…",
+   "author": "Walker-Dev",
+   "publishedAt": "2026-10-20T23:20:20+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/va8r9qg0hpwh1.jpeg?width=640&crop=smart&auto=webp&s=1c04d5cd9bb20147593794a365800b2ed9055f42"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Walker-Dev",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "dbba50011431",
+   "canon": "https://www.reddit.com/comments/1xb75bl",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xb75bl/nier_automata_vr_performance_rtx_4080_super/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "NieR: Automata VR Performance - RTX 4080 Super",
+   "text": "",
+   "author": "RememberMementoMori",
+   "publishedAt": "2026-10-20T23:11:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/WvylA8YTTzRcbByfpwdv8nk095pxQJEyO5zjk-53Has.jpeg?width=320&crop=smart&auto=webp&s=6d17908d0805b50f6531997c89bd203028583ac8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RememberMementoMori",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "351a94a594b6",
+   "canon": "https://www.reddit.com/comments/1xb6zxf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xb6zxf/lets_start_showing_performance_when_showcasing_a/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "Let's start showing performance when showcasing a new VR mod - here's God of War 2018",
+   "text": "",
+   "author": "RememberMementoMori",
+   "publishedAt": "2026-10-20T23:04:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/xcgpa3eydpwh1.png?width=320&crop=smart&auto=webp&s=59736a2dd35a365de26784a11528964cb5eb5bab"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RememberMementoMori",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f715b5d5509f",
+   "canon": "https://www.reddit.com/comments/1xb6yhp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xb6yhp/haunted_threes/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "Haunted Threes",
+   "text": "I’m continuing my work with Claude looking at 16-bit mini-games that are fun little casual plays. Happy Halloween. 🎃",
+   "author": "jgesq",
+   "publishedAt": "2026-10-20T23:02:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ATkVeUIPyvM_Zv1_ZoPHVOh5xCjKV6352pspFNNUkCE.png?width=640&crop=smart&auto=webp&s=9d8d7ac12e702bbfee0ba8bdc9dbd8b194feddf8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/jgesq",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f94f4c2d303d",
+   "canon": "https://www.reddit.com/comments/1xb6s4u",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xb6s4u/my_first_boss_looked_like_a_mannequin_that_only/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "My first boss looked like a mannequin that only swung while standing still. Here's the rework after 3 HP tiers",
+   "text": "GORGO is the first boss of GRAYFALL, my co-op HD-2D beat'em up\n So I had Claude rework him around one idea: the fight should get meaner as he gets hurt. At full HP he's a foreman, one swing and a breath. Below 70% he loses patience and attacks in bursts of two, with a fake-out…",
+   "author": "Final_Huckleberry408",
+   "publishedAt": "2026-10-20T22:55:10+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bWg5dWFxdjFjcHdoMSSFaVDQrLtAo8S-1cJNy2-ChiIksdV8os8dAzi8pWha.png?width=640&crop=smart&auto=webp&s=05ec77074211aa4a7bbd5fb6d182f641f24d8020"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Final_Huckleberry408",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a8531bd03712",
+   "canon": "https://www.reddit.com/comments/1xb6pj6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xb6pj6/new_mafia_2_classic_vr_mod_wip_with_6dof_motion/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "New Mafia 2 (Classic) VR MOD (WIP) (With 6-DoF Motion Controls)",
+   "text": "Hey guys! So I’ve been messing around with a VR mod for Mafia II (Classic) and figured I’d show where it’s at so far.\n Whats working right now:\n Stereo 3D with full 6-DOF head tracking\n 6-DOF motion controls, so your hands and guns follow your controllers\n Hand poses and arm IK…",
+   "author": "Winter-Half107",
+   "publishedAt": "2026-10-20T22:51:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/binaZNW86vuJ-qB7MRfv9hKKB3MUeZKKo8fjIMydI5w.jpeg?width=320&crop=smart&auto=webp&s=07bd3c93127c515ccfd30370e54e1c6c58bb738c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Winter-Half107",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "95173f43d971",
+   "canon": "https://www.reddit.com/comments/1xb6jf5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xb6jf5/early_access_release_of_sibir_2/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "Early Access Release of Sibir 2!",
+   "text": "I've cooked up some ai slop multiplayer isaac clone with opus 5.5 in one hour",
+   "author": "Mobile-Sector-3457",
+   "publishedAt": "2026-10-20T22:44:16+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Mobile-Sector-3457",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "25e34d871a76",
+   "canon": "https://www.reddit.com/comments/1xb6gg4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xb6gg4/built_a_vampire_sim_for_halloween_with_opus_55/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "Built a vampire sim for Halloween with Opus 5.5, Three.js & WebGL2",
+   "text": "Sharing Noctyhr for anyone looking for something spooky to play this Halloween!\n Wake up as a vampire, feed to survive, encounter other vampire counts, and set out to conquer your own kingdom.\n 🕯️ Take a look around the Gothic castle—the candlelight, lamps, and reflections…",
+   "author": "Particular-Let9884",
+   "publishedAt": "2026-10-20T22:40:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dWZ5MmtvNHE5cHdoMRd47OKzvgnUNx-tj-YKGhppmrhkYMqlveWX575NOODg.png?width=640&crop=smart&auto=webp&s=f4ef450f9c72a041ff52ea66bd6c78beebec0a1b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Particular-Let9884",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "590052c96673",
+   "canon": "https://www.reddit.com/comments/1xb6821",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xb6821/legends_still_standing_game_made_with_opus_55/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "Legends Still Standing Game made with Opus 5.5",
+   "text": "Play the game here: https://1stradiant.github.io/vibe/When%20the%20Mountains%20Fall%20(2).html",
+   "author": "Alert-Estimate",
+   "publishedAt": "2026-10-20T22:30:08+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/QHiamg5QyjwaV8QLh68fMYkFr3bx_DOtQH6mKZWNCUU.jpeg?width=320&crop=smart&auto=webp&s=9f34f5e03d3cfe0c241b6df9ca78ce80c959986a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Alert-Estimate",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "ab40fb3e6f1c",
+   "canon": "https://www.reddit.com/comments/1xb5woz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xb5woz/earth3d_immersive_mode_and_bookmarks_added/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "Earth3d - Immersive mode and bookmarks added!",
+   "text": "Hey! \n As some of you've been asking about adding Immersive mode and Bookmarks to the Earth3d app - I've just released a pretty large update that adds those 2 features. \n I've also improved quite significantly the hands gestures that now produces way less false positives, fixed…",
+   "author": "steffan_",
+   "publishedAt": "2026-10-20T22:16:20+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dWlsZzRkdXY0cHdoMWYODs456tII6BjPZcM4z1Ylh4ocfp82vOmgSz5s6CMV.png?width=640&crop=smart&auto=webp&s=9c1b5bc33549ff95a47ecae868f8923e274e2ab8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/steffan_",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "78b6a88f03cd",
+   "canon": "https://www.reddit.com/comments/1xb5r1o",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xb5r1o/oneline_prompt_vs_a_referencebased_workflow_the/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "One-line prompt vs a reference-based workflow: the same launch video made by Claude two ways",
+   "text": "Top: a single one-line prompt asking Claude for a 14 second launch video, run once in the project folder (so it picked up the brand fonts), no fixes. Bottom: the full workflow, also Claude + Remotion.\n What's different in the bottom one:\n One real reference film instead of a…",
+   "author": "Unhappy_Performance8",
+   "publishedAt": "2026-10-20T22:09:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZHlhYjRobmY0cHdoMbLOJR7BNmVXhq1yPyLmI5o854mpPWWyekwjIaKjM1aM.png?width=320&crop=smart&auto=webp&s=c1bd556b7053a3aa5ab1c4ca71bd17e47f8f1130"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Unhappy_Performance8",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "52763402bb92",
+   "canon": "https://www.reddit.com/comments/1xb5p1o",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xb5p1o/webbased_pipe_ide_released_built_with_claude/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "Web-based Pipe IDE released – built with Claude across design, research, and coding",
+   "text": "I built Pipe IDE, a browser-based development environment for Pipe, a general-purpose visual programming language I’ve been designing for seven years. This is its first public release.\n What it does: You build programs as visual diagrams — add blocks on a canvas, connect them,…",
+   "author": "PurpleDragon99",
+   "publishedAt": "2026-10-20T22:07:19+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/vy9lawqt3pwh1.jpeg?width=140&height=74&auto=webp&s=55e22cf12a7bbc1bf54346f34e270bdffbde824c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/PurpleDragon99",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "59d58e375abb",
+   "canon": "https://www.reddit.com/comments/1xb5ogo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xb5ogo/steam_next_fest_demo_for_sol_protocol_now_live/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "Steam Next Fest Demo for Sol Protocol now LIVE! Co-Op Space Exploring Rougelike, coming to PCVR!",
+   "text": "Try our Next Fest demo for Sol Protocol's PCVR version!\n Sol Protocol, our co-op space exploration roguelike that released in Early Access last month on the Meta Store, is coming very soon to Steam. Now you can try it even sooner thanks to Next Fest.\n The demo is a small slice…",
+   "author": "Singularperception",
+   "publishedAt": "2026-10-20T22:06:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/czB0ZXhkb3UzcHdoMRJoIemmcI-Q2I6v1VXXg4snT-7sS3Fucw7LHfH64krj.png?width=640&crop=smart&auto=webp&s=4392b06b8ac55cc4f656c8b4e515d7e7eaae211b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Singularperception",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "61b776821326",
+   "canon": "https://www.reddit.com/comments/1xb5nug",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xb5nug/i_built_a_coop_dungeon_mode_where_an_llm_runs_the/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "I built a co-op dungeon mode where an LLM runs the table but code holds the dungeon, and the group picks the rules (d20, PbtA, Forged in the Dark…)",
+   "text": "Solo dev here. Worldtable is a fantasy RPG where an AI game master runs worlds that people build, and this week I shipped Delves: a quick dungeon run for up to four friends. You pick a dungeon and the rules, make a character in a minute, and send a link. Friends don't need an…",
+   "author": "Medeophoebe",
+   "publishedAt": "2026-10-20T22:05:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MTlvMzA3dzIzcHdoMRa0N2_OU1apO3HEuqRNgvIGHxGCLhlawNTupoPPau5n.png?width=640&crop=smart&auto=webp&s=7d3b399126e6259bc445354971b50a5d8f1e930c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Medeophoebe",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fbad9f6a1fb5",
+   "canon": "https://www.reddit.com/comments/1xb5kz1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xb5kz1/i_built_a_lightroom_ai_benchmark_with_claude_code/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "I built a Lightroom AI benchmark with Claude Code. The hardest part wasn't the coding",
+   "text": "I've been using Claude Code (and more recently Codex) to build a tool for comparing AI photo editors, and thought I'd share a few things that worked really well for someone coming at this pretty new to coding.\n I'm a photographer, and we do a lot of editing in Lightroom. There…",
+   "author": "Grand-Lie-8964",
+   "publishedAt": "2026-10-20T22:02:32+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Grand-Lie-8964",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "33e99afb8899",
+   "canon": "https://www.reddit.com/comments/1xb5b9n",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xb5b9n/i_made_a_mod_that_makes_claude_code_actually/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "I made a mod that makes Claude Code actually readable",
+   "text": "Claude Code is one of the most powerful tools I've ever come across. The problem is the window is un-readable and gets bloated from tool calls. I pretended to have read every command, clicked through, and hit approve. So I built this tool for my fellow vibe coders. This is my…",
+   "author": "Jealous_Soil3110",
+   "publishedAt": "2026-10-20T21:51:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/b2ZiOGN2MXQwcHdoMQItVhqGzciH5VZwBc3MJNov706C4mawvfB1-BMCJxL3.png?width=640&crop=smart&auto=webp&s=1a28a2da916f2a49209c997a1dff34a40f02be07"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Jealous_Soil3110",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e5a23ceb0b98",
+   "canon": "https://www.reddit.com/comments/1xb5a4x",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/singularity/comments/1xb5a4x/anthropic_sec_financials_reveal_that_claude_code/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "Anthropic SEC financials reveal that Claude Code masively increased revenue but now growth has flatlined (since june)",
+   "text": "",
+   "author": "KeyGlove47",
+   "publishedAt": "2026-10-20T21:50:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/oifivsrx0pwh1.jpeg?width=640&crop=smart&auto=webp&s=390f1a76bf2319a6f2b8688664566458296c088a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/KeyGlove47",
+   "where": "r/singularity",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "74851f2e3e85",
+   "canon": "https://www.reddit.com/comments/1xb58g9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xb58g9/claude_code_has_massively_increased_revenue_but/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "Claude code has massively increased revenue but the growth flatlined since june - they need something big",
+   "text": "",
+   "author": "KeyGlove47",
+   "publishedAt": "2026-10-20T21:48:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/oi6jb84l0pwh1.jpeg?width=640&crop=smart&auto=webp&s=7fb76d46868f7663de5dcf581c114ddb6145822a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/KeyGlove47",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7da4ef80e41e",
+   "canon": "https://www.reddit.com/comments/1xb4zxj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xb4zxj/solo_dev_browser_loot_game_now_live_how_i/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "Solo dev, browser loot game now live: how I actually work with an AI coding agent",
+   "text": "I'm the dev of Arsenal Zero, a free browser collection game: you open crates, send your operator on timed expeditions and build a collection of military gear from Common to Mythic. It's been live with real players since October 13, and I built it solo with an AI coding agent…",
+   "author": "Professional-Emu4891",
+   "publishedAt": "2026-10-20T21:38:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/knnaudhqyowh1.png?width=640&crop=smart&auto=webp&s=a4ca6bc71be15bc574a514dc3c49301a2843bcd4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Professional-Emu4891",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c255821ecea7",
+   "canon": "https://www.reddit.com/comments/1xb4xnx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xb4xnx/i_shipped_a_mobile_game_with_claude_code_in_10/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "I shipped a mobile game with Claude Code in 10 weeks. The real work was building guardrails",
+   "text": "Merge & Mortar is a merge + tower defense for Android, made solo in about 10 weeks with Godot 4 and Claude Code. It's free on Google Play (rewarded ads optional).\n What I built around Claude Code, because \"it compiles\" means nothing in GDScript:\n - A verification gate every…",
+   "author": "aagameshq",
+   "publishedAt": "2026-10-20T21:35:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ODMycG1oNDl5b3doMXtyDartgHn-uyVIueKd5GCXCes5cW8N0xgLiQhen83z.png?width=640&crop=smart&auto=webp&s=9465a7f5c256f86380e72abf862f66d2489561bb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/aagameshq",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7a31068b25b3",
+   "canon": "https://www.reddit.com/comments/1xb4wgm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xb4wgm/building_a_cityeating_monster_game_with_claude/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "Building a city-eating monster game with Claude Code, Codex and Cursor. Here's the ChibiType trailer",
+   "text": "This is ChibiType, a Prototype-inspired action game where you play a biomass monster tearing through a city. You climb buildings, glide, and switch between five powers: Hammerfist, Claws, Blade, Whipfist and Tendrils.\n Pretty much all of it came out of AI agents, mainly Claude…",
+   "author": "GanstonHamuel",
+   "publishedAt": "2026-10-20T21:34:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dXRnbDRqbzF5b3doMck4baN31Fe8KH6JgCWTfKV7oMHoe5Vr4hsErymiecQQ.png?width=640&crop=smart&auto=webp&s=ca221e5b3377d1c212f177ff1d4914c636e8d6b9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/GanstonHamuel",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9666f3dfb188",
+   "canon": "https://www.reddit.com/comments/1xb4vfn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xb4vfn/ive_been_building_a_browser_sandbox_where_you/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "I've been building a browser sandbox where you wreck an entire city with superpowers (3 weeks of progress, playable now)",
+   "text": "Hey everyone! For the past 3 weeks I've been working on Rivas City, a 3D sandbox / beat 'em up that runs right in your browser, desktop only, no download needed. I'd love for you to try it and tell me what you think.\n What is it?\n An open island city that's all yours to wreck.…",
+   "author": "Roninteon",
+   "publishedAt": "2026-10-20T21:33:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ujqhd0owxowh1.png?width=640&crop=smart&auto=webp&s=7e85c8133cc8d273031dbf17b5bbaa1fc83815c2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Roninteon",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a2d12ed65d5d",
+   "canon": "https://www.reddit.com/comments/1xb4twe",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xb4twe/i_made_an_asciitree_mod_for_claude_code_to_reduce/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "I made an ASCII-tree mod for Claude Code to reduce reading fatigue",
+   "text": "\\\"How is the human nervous system organized?\\\"\n I was getting fatigued constantly reading walls of text, especially with multiple agents carrying out tasks.\n I found that whenever I prompted claude to \"return as ergonomic ascii tree\" not only did significantly reduce the amount…",
+   "author": "IAmABlasian",
+   "publishedAt": "2026-10-20T21:31:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ecsmnmk9xowh1.png?width=140&height=90&auto=webp&s=7f8da7863fbc93c387bf2e3faae501a43b8005dd"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/IAmABlasian",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ac6d65e1f6e2",
+   "canon": "https://www.reddit.com/comments/1xb4to8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xb4to8/fullstack_dev_5_months_of_evenings_with_claude/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "Full-stack dev, 5 months of evenings with Claude Code: a daily guessing game for friend groups (web + Android)",
+   "text": "I'm a full-stack web dev and I've been having a lot of fun building apps with Claude Code, and I'm pretty happy with my latest project.\n The game: every day one person in a friend group gets a secret question. The next day their answer shows up without a name, everyone votes on…",
+   "author": "Edoudou",
+   "publishedAt": "2026-10-20T21:31:17+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZjNneWV3N2N4b3doMXjSf31f_8fswDk_Ez46Ozf5aTIznQNQ6W_tm87IpXgH.png?width=320&crop=smart&auto=webp&s=311d3de99a4ecdf4a999cc67ce1ff5fb16e24173"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Edoudou",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "862702a34bef",
+   "canon": "https://www.reddit.com/comments/1xb4eou",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xb4eou/i_asked_claude_to_make_my_minecraft_demo_in_ascii/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "I asked Claude to make my Minecraft demo in ASCII",
+   "text": "",
+   "author": "dechichi",
+   "publishedAt": "2026-10-20T21:14:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MXZkZ3hsZGxzb3doMWghM_k7wNEcTQszofSqWN0_YM1_hn7GLdFkrm35GLjf.png?width=640&crop=smart&auto=webp&s=561c4acdbf76e037a7de9d4e5884d92c00ba656a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "voxel"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/dechichi",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c2e95bceed3e",
+   "canon": "https://www.reddit.com/comments/1xb4ed2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xb4ed2/claude_code_mods_text_adventure_rpg_framework/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "Claude Code + Mods = Text Adventure RPG Framework",
+   "text": "Late last night I realized that now that Claude Code supports mods and can redraw its interface, etc - I could use them to reskin Claude Code as an easy RPG text-adventure framework.\n Today I had it build a demo where Claude is the game master and the world reacts to what the…",
+   "author": "LiminalWanderings",
+   "publishedAt": "2026-10-20T21:14:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/3l9mfw5cuowh1.png?width=140&height=96&auto=webp&s=9aa5e2ada441ee18aa2339ca9080181a0d988663"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/LiminalWanderings",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "72061878fb52",
+   "canon": "https://www.reddit.com/comments/1xb4e2t",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xb4e2t/fable_is_no_longer_showing_as_a_separate_usage/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "Fable is no longer showing as a separate usage point. Anyone else? 20Max",
+   "text": "Just looked at my usage, and Fable is gone. Looks like they are now incorporating it into the same metric of use... hopefully this means that we are able to use more of Fable, and not less of Claude :)",
+   "author": "nexert233",
+   "publishedAt": "2026-10-20T21:13:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/bdfpo7dbuowh1.png?width=640&crop=smart&auto=webp&s=72c305e7a2ef5591b0ab60d3037d1800a0f22e4f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/nexert233",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7afa8c3ebc61",
+   "canon": "https://www.reddit.com/comments/1xb4dru",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xb4dru/snap_inc_robert_downey_jr_joins_specs_as_chief/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "Snap Inc. - Robert Downey Jr. Joins SPECS as Chief Customer Experience Officer",
+   "text": "",
+   "author": "SkarredGhost",
+   "publishedAt": "2026-10-20T21:13:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/T8g7dQUFTEfr9317CYpJy0JkyEMjmsOdBm2K67_bKu0.jpeg?width=320&crop=smart&auto=webp&s=bbd03699a341974d25494e225b9ab46646b1ace9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SkarredGhost",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c8ed25b1092c",
+   "canon": "https://www.reddit.com/comments/1xb4d7q",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xb4d7q/alibaba_n1_pro_brings_eye_tracking_to_smartglasses/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "Alibaba N1 Pro brings eye tracking to smartglasses",
+   "text": "",
+   "author": "SkarredGhost",
+   "publishedAt": "2026-10-20T21:12:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/UBbkJ1zIQb28SsPIxOTGTZolT7-WQBV85SQyQRnmlIo.jpeg?width=640&crop=smart&auto=webp&s=8fb272ab6e7931bb7697f17c635923168a8317a4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SkarredGhost",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fcca0443b718",
+   "canon": "https://www.reddit.com/comments/1xb4c0v",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xb4c0v/i_made_a_wave_race_64_style_jetski_racer_that/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "I made a Wave Race 64 style jetski racer that runs in the browser, built with AI",
+   "text": "Wave Blast is a blocky arcade jetski racer made with Three.js, built over a few weeks working with Claude.\n - 6 tracks, from a tropical bay to an erupting volcano with geysers and lava waves\n - Championship cups, time trials and a stunt mode with tricks\n - Items, drifting and…",
+   "author": "john1587",
+   "publishedAt": "2026-10-20T21:11:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Zmk5Mnhzc3R0b3doMWGNDeyj_a2HyPRKSnyKm96IGbShGAQuR-Hvq5Fka4ux.png?width=640&crop=smart&auto=webp&s=f908f27a607a4f92174cf5377336121266230f53"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/john1587",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b5369c4a9676",
+   "canon": "https://www.reddit.com/comments/1xb481m",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xb481m/update_3_weeks_ago_i_let_opus_55_try_to_make/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "Update: 3 weeks ago, I let Opus 5.5 try to make money on its own. It made $13. Then the farm blew up, so we opened an office tower for AI agents based businesses (with real humans)",
+   "text": "3 weeks ago I posted I let Opus 5.5 run a business on its own for a week: $0.00, with 245 dead business ideas. A week later it was still $0.00 with 551 dead ideas, so it built them a graveyard.\n Update: it made $13. Thirteen dollars. I’m framing it. We wasted over 500$...\n But…",
+   "author": "LordKittyPanther",
+   "publishedAt": "2026-10-20T21:06:57+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/job63zctrowh1.png?width=140&height=83&auto=webp&s=6492a836de61c86ca92b023a082fef83e20de092"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/LordKittyPanther",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "9bf7fdde04d4",
+   "canon": "https://www.reddit.com/comments/1xb39le",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xb39le/trying_to_fix_my_trigger/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "Trying to fix my trigger",
+   "text": "might be over already but I put it back together once but I need to get the trigger on, spring keeps getting in the way though, any tips? I did try pushing the other side down, the spring just goes back and more in the way when I do that. might just need to get new controllers…",
+   "author": "Such-Dog-1664",
+   "publishedAt": "2026-10-20T20:28:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/dppscvq9mowh1.jpeg?width=640&crop=smart&auto=webp&s=d84721cdba11fd535250be8f5e63150b25900e11"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Such-Dog-1664",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "13963fa1c0c2",
+   "canon": "https://www.reddit.com/comments/1xb2u2b",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xb2u2b/update_to_the_path_of_titans_vr_mod_new_installer/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "Update to the Path of Titans VR Mod (new installer & launcher)",
+   "text": "You can get the mod here: https://github.com/cybershrimp23/PathOfTitans_VR/releases/tag/v0.2.0\n This is an update to the Path of Titans VR Mod, the goal with this update is pretty much click to install and then click to run and it just works (as best as can be done with a VR…",
+   "author": "r3drocket",
+   "publishedAt": "2026-10-20T20:11:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cmFhMng1Mzdqb3doMagHFLmT7w56Y3vuKHT9unQtCVypEuq_TacCl4-K57a2.png?width=640&crop=smart&auto=webp&s=7d6a615616907e3d3ae4a23f8807b4d9d564a726"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/r3drocket",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b9a475aab4d0",
+   "canon": "https://www.reddit.com/comments/1xb2rv0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xb2rv0/deus_ex_mankind_divided_vr_mod_working_elevator/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "Deus Ex Mankind Divided VR Mod - Working Elevator Controls.",
+   "text": "Still in development. Working on throwing objects then finishing manual reloads, then should be ready for a small beta test.",
+   "author": "LeanQA",
+   "publishedAt": "2026-10-20T20:09:43+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MnNpb2dzbG5pb3doMXb6NaYrpptbx0mrTaSGD4SXrtciCLpfEmW-rH9_pQk8.png?width=640&crop=smart&auto=webp&s=c4f82b1039f485f473155caf191f053fead67aed"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/LeanQA",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a0dabb639131",
+   "canon": "https://www.reddit.com/comments/1xb24bk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xb24bk/dead_space_2_vr_manual_reload/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "Dead Space 2 VR - manual reload",
+   "text": "Beta release is incoming to this Friday\n Extended video and more information about mod you can get here - https://youtu.be/vhlX6vTucPw",
+   "author": "Particular_Tell4555",
+   "publishedAt": "2026-10-20T19:45:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dWlyajcwZ2Zlb3doMaaf1oNX_APVz-53TTFbHIpQCDZyUajXvuXxnfC2bx32.png?width=640&crop=smart&auto=webp&s=06cf3e49305e685cec80b0b9d060e8d1d03155ad"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Particular_Tell4555",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d8fb1bc3b847",
+   "canon": "https://www.reddit.com/comments/1xb23wy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xb23wy/my_collection_of_headsets/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "My collection of headsets",
+   "text": "Just got the quest 1 today! I kinda like collecting them to see all the differences in software, hardware and the different eras of VR, I also take good care of them My brothers also have a quest 3 and quest 2",
+   "author": "Disastrous_Box1177",
+   "publishedAt": "2026-10-20T19:44:43+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/olgqtyhkeowh1.png?width=640&crop=smart&auto=webp&s=9adc64abecc3e2943f0805ed37a3fe1bc4c275df"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Disastrous_Box1177",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "615efedcb9cd",
+   "canon": "https://www.reddit.com/comments/1xb1vd7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xb1vd7/star_wars_classic_battlefront_2_vr_test_hud_and/",
+   "addedAt": "2026-10-20T23:58:22.163Z",
+   "title": "Star Wars Classic Battlefront 2 VR test - HUD and hand-aiming",
+   "text": "Hi all! Doing RE using Claude but still crawling because of all of engine nuances and issues to be attended to. It still not quite playable - there's minor rendering issues, arm placement a bit off, and overall not quite ready (no vehicles and really clunky heroes…",
+   "author": "addvans",
+   "publishedAt": "2026-10-20T19:35:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/qxqZ7E9ayYzYKc7D7A7ceN8al-TuPwSI5wGQGzHwZ48.jpeg?width=320&crop=smart&auto=webp&s=fbb68ee0c3da9df37dd8f7f3c6e2d553cc5aaac5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/addvans",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-20T23:58:22.163Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "84d81e99bf4f",
    "canon": "https://www.reddit.com/comments/1xb11bp",
