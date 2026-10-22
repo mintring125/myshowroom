@@ -1,7 +1,688 @@
 {
  "version": 1,
- "updatedAt": "2026-10-22T04:59:39.196Z",
+ "updatedAt": "2026-10-22T12:04:46.459Z",
  "cases": [
+  {
+   "id": "0805424a9223",
+   "canon": "https://www.reddit.com/comments/1xcgebb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcgebb/im_building_a_cyberpunk_pixelart_action_adventure/",
+   "addedAt": "2026-10-22T12:00:23.924Z",
+   "title": "I'm building a cyberpunk pixel-art action adventure with Claude Code",
+   "text": "I've been working on City of Animals, a 2D cyberpunk pixel-art side-scroller, for about a month now. The idea is to mix classic adventure games like Monkey Island with fast combat inspired by Huntdown and Replaced. A few years ago I'd have had to pick one of those as a solo dev;…",
+   "author": "Yigidus",
+   "publishedAt": "2026-10-22T11:49:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Y2llMzA0d3k3MHhoMWZ_20T5c9LbxupilMSBE0r2xoT5HbjRpGkr4hhDGvAS.png?width=640&crop=smart&auto=webp&s=0bc384d02c42ff095f4dc35d9c7dd62d01e03cdd"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Yigidus",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-22T12:00:23.924Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "52f040ca4f0c",
+   "canon": "https://www.reddit.com/comments/1xcfohn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcfohn/things_ive_been_building_with_claude/",
+   "addedAt": "2026-10-22T12:00:23.924Z",
+   "title": "Things I've been building with claude",
+   "text": "I've been having too much fun with claude lately, so if you're looking for ideas here's some of the things I've been building\n A remote camera shutter for my Garmin watch https://preview.redd.it/iue9ku7y30xh1.png?width=3024&format=png&auto=webp&s=b59c86b62ec2ecac5615c22df44bfa95c…",
+   "author": "ThePlancher",
+   "publishedAt": "2026-10-22T11:12:10+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/iue9ku7y30xh1.png?width=140&height=78&auto=webp&s=085165083fb8df65ac4ee234652c005ded580bd6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ThePlancher",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-22T12:00:23.924Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "736da488b94e",
+   "canon": "https://www.reddit.com/comments/1xcfhvs",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xcfhvs/wasted_call_file_unchanged_since_your_last_read/",
+   "addedAt": "2026-10-22T12:00:23.924Z",
+   "title": "Wasted call — file unchanged since your last Read. Refer to that earlier tool_result instead.",
+   "text": "Since around June, Anthropic has been steadily tightening a restrictive mechanism that detects wasted tool calls. The problem is that the system isn’t very smart and doesn’t distinguish between cases where a session has been compacted and cases where it hasn’t. So even though…",
+   "author": "AironParsMan",
+   "publishedAt": "2026-10-22T11:02:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/flcdbjb430xh1.png?width=640&crop=smart&auto=webp&s=6d967e35a776c95a681c3473629b0d27273f6dd7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AironParsMan",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-22T12:00:23.924Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0e2c216e459e",
+   "canon": "https://www.reddit.com/comments/1xcfgop",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcfgop/turn_a_12yearold_kindle_into_a_clock_weather/",
+   "addedAt": "2026-10-22T12:00:23.924Z",
+   "title": "Turn a 12-year-old Kindle into a clock & weather display",
+   "text": "Inspired by you guys hacking android TV, I asked Claude to turn my kindle, which is bought more than 10 years ago with the touch screen barely functioning, into a clock & weather dashboard so that we don't have to check whether to bring an umbrella at the last minute of going…",
+   "author": "TyaoJyuang",
+   "publishedAt": "2026-10-22T11:00:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/g572095v20xh1.jpeg?width=640&crop=smart&auto=webp&s=b009c654e47a5a93265ca1b64fcff2cee2a7d1bc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TyaoJyuang",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-22T12:00:23.924Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "08cb30185e45",
+   "canon": "https://www.reddit.com/comments/1xcf5qb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcf5qb/i_built_a_free_android_prayer_tracker_app_with/",
+   "addedAt": "2026-10-22T12:00:23.924Z",
+   "title": "I built a free Android prayer tracker app with Claude and Claude Code, as a non-developer. Here’s how I worked with them",
+   "text": "I’m a construction Engineer, not a developer. Over the last few weeks I built Prayer Tracker, an Android app that helps Muslims keep track of their five daily prayers. It just went live on Google Play, worldwide.\n What the app does\n Prayer tracking: mark each prayer as On time,…",
+   "author": "OkGoodYesFantastic",
+   "publishedAt": "2026-10-22T10:43:48+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/OkGoodYesFantastic",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-22T12:00:23.924Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "55fb9c203c01",
+   "canon": "https://www.reddit.com/comments/1xcf0k1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xcf0k1/pc_vr_without_a_gaming_pc_halflife_alyx_and_elite/",
+   "addedAt": "2026-10-22T12:00:23.924Z",
+   "title": "PC VR without a gaming PC: Half-Life: Alyx and Elite Dangerous from a Mac to Vision Pro or Quest (no Wine)",
+   "text": "If you have an Apple silicon Mac and a headset, VeRantyx lets you play Windows PC VR games without a gaming PC. The games run on the Mac on VXRuntime, a Windows runtime I'm writing from scratch (not Wine, CrossOver or GPTK), and the real Windows version of SteamVR runs on it…",
+   "author": "Other_Train9419",
+   "publishedAt": "2026-10-22T10:35:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NnBwbm83bDR5endoMWGpuMxo-ax0-eS5DyyD_UDsADkfEJ1LuVM7YNoEgZJ6.png?width=640&crop=smart&auto=webp&s=e97be06abe42b50ae3837a9a544f07bea320af1c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Other_Train9419",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-22T12:00:23.924Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6d52d82ec33b",
+   "canon": "https://www.reddit.com/comments/1xceyqk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xceyqk/gears_of_war_eday_pc_vr_mod_is_coming_with/",
+   "addedAt": "2026-10-22T12:00:23.924Z",
+   "title": "‘Gears of War: E-Day’ PC VR Mod is Coming with Support for Full Campaign",
+   "text": "",
+   "author": "Humble_Low721",
+   "publishedAt": "2026-10-22T10:33:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/XRJ23GfR-T2t36v4HzTFa2tNxgqS-Ii7xbpzHHqHVzg.jpeg?width=640&crop=smart&auto=webp&s=7fe4cf771074f21109ad4f2d91361f9f2b3eee64"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Humble_Low721",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-22T12:00:23.924Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "952c44f15714",
+   "canon": "https://www.reddit.com/comments/1xcesiw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xcesiw/the_oasis_by_jgesq/",
+   "addedAt": "2026-10-22T12:00:23.924Z",
+   "title": "The Oasis by Jgesq",
+   "text": "I’m continuing to develop my micro game Bitibit showcases. The Oasis is under 3 Megs and is an hour long playthrough for fans of top down rpg styled content. Claude coded, I wrote and designed all story elements and outcomes. Credited all contributors for art and VFX.",
+   "author": "jgesq",
+   "publishedAt": "2026-10-22T10:23:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/7XXdoxUNTcuQGEEV9Tqh7vq_PCtTeDZ-UEGNepuq270.png?width=320&crop=smart&auto=webp&s=51075235c6469f93885686a233c86c6f93d26a0a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/jgesq",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-22T12:00:23.924Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "620bb65fba1f",
+   "canon": "https://www.reddit.com/comments/1xces1c",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xces1c/second_game_ive_made_with_claude_code_is_out/",
+   "addedAt": "2026-10-22T12:00:23.924Z",
+   "title": "Second game I've made with Claude Code is out. Rebuilt the Warcraft 3 TD maps I grew up on.",
+   "text": "This is my second game with Claude Code. My first one, Neon Mile, got to 7,000 players, which I still can't quite believe. I still update it when people send feedback.\n This one's for younger me. It's called r/Towers_of_Aurum, and it's basically the Warcraft 3 tower defence maps…",
+   "author": "vidiclol",
+   "publishedAt": "2026-10-22T10:22:16+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/vidiclol",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-22T12:00:23.924Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "62954d413a94",
+   "canon": "https://www.reddit.com/comments/1xcem8l",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcem8l/claudes_royal_court/",
+   "addedAt": "2026-10-22T12:00:23.924Z",
+   "title": "Claude's royal court...",
+   "text": "",
+   "author": "nobody----cares",
+   "publishedAt": "2026-10-22T10:12:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/w5zfvh6atzwh1.png?width=640&crop=smart&auto=webp&s=008ca31647c3c8d82e2200c09fcff967ce1b996c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/nobody----cares",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-22T12:00:23.924Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fc499cc1cc55",
+   "canon": "https://www.reddit.com/comments/1xce4fq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xce4fq/running_software_factory_in_production_claude/",
+   "addedAt": "2026-10-22T12:00:23.924Z",
+   "title": "Running Software Factory in production. Claude Code can write our fixes. A separate agent with no GitHub access has to prove them.",
+   "text": "Most software factories you see build from a spec, on a side project. Ours is a Lemma teammate. It fixes real bugs, reported by users, in Lemma itself. It hands the coding to Claude Code, Codex or its own builder. This post is about what happens after: how a fix gets tested.…",
+   "author": "ironmanfromebay",
+   "publishedAt": "2026-10-22T09:43:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dDQ5enFicDdvendoMR9y0U7zYRUHG9KWKwdZD_jUMgC-8XVj-Af6vh6oAbsn.png?width=640&crop=smart&auto=webp&s=7294a4eb8ae5c4d38806b5f7412ed11f578c44e8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ironmanfromebay",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-22T12:00:23.924Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2c2433d6136b",
+   "canon": "https://www.reddit.com/comments/1xce4cy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xce4cy/i_used_claude_to_search_public_tess_data_for/",
+   "addedAt": "2026-10-22T12:00:23.924Z",
+   "title": "I used Claude to search public TESS data for planets. One unconfirmed candidate survived (TIC 32636748), with a pre-registered test for Feb 2027",
+   "text": "TL;DR: Following Pavel Rabtsevich's approach (fix the ephemeris first, test on data that were not used), I searched other stars in public TESS data with Claude. One star survived all my checks: TIC 32636748 (LP 907-22), a K7 dwarf 181 light-years away, with a transit-like dip…",
+   "author": "Disastrous_Way_1002",
+   "publishedAt": "2026-10-22T09:43:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/sqi3r5rpozwh1.png?width=140&height=46&auto=webp&s=d8f50444e518d6b9eca58071acee61d028c0e425"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Disastrous_Way_1002",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-22T12:00:23.924Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bdaa2dbb1d8b",
+   "canon": "https://www.reddit.com/comments/1xce3s7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xce3s7/im_making_a_keyboardandmouse_mod_for_rick_and/",
+   "addedAt": "2026-10-22T12:00:23.924Z",
+   "title": "I’m making a keyboard-and-mouse mod for Rick and Morty: Virtual Rick-ality — no VR headset",
+   "text": "I’ve been working on an experimental desktop mod for Virtual Rick-ality, with AI coding assistance.\n It adds mouse look, WASD movement and controls for both hands. Here’s some footage from my own testing without a VR headset.\n It’s still rough: hand positioning needs work,…",
+   "author": "Positive-Figure-2806",
+   "publishedAt": "2026-10-22T09:42:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/b3Vjc2hsM3RvendoMX8R2wbJ9df1o4BTqA2bHbDaB5Fy-w8BTAHKD01Fy8T2.png?width=640&crop=smart&auto=webp&s=4b01d6400561d3d1188809ba1716370bca8d27c5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Positive-Figure-2806",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-22T12:00:23.924Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "30725e1b7066",
+   "canon": "https://www.reddit.com/comments/1xce2vu",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xce2vu/claude_is_like_a_senior_now/",
+   "addedAt": "2026-10-22T12:00:23.924Z",
+   "title": "Claude is Like a Senior Now",
+   "text": "",
+   "author": "chaotic_pk",
+   "publishedAt": "2026-10-22T09:40:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/k5gcn70oozwh1.jpeg?width=640&crop=smart&auto=webp&s=8ea2e2f4d8ed26ccf50b8721bf255ba155b23216"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/chaotic_pk",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-22T12:00:23.924Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "492840e3b622",
+   "canon": "https://www.reddit.com/comments/1xcdwdx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcdwdx/i_got_tired_of_checking_whether_claude_code_needs/",
+   "addedAt": "2026-10-22T12:00:23.924Z",
+   "title": "I got tired of checking whether Claude Code needs me. So I gave it a physical status light.",
+   "text": "I have Claude Code running on a separate laptop, usually working on stuff that takes a while.\n Right now, Claude is building new 3D models for my 3D Batleship Game, you can play it here: Bearing Unknown · Schiffe versenken im Kalten Krieg\n What kept annoying me was having to…",
+   "author": "Fincut",
+   "publishedAt": "2026-10-22T09:29:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bGUxcmVpOGttendoMbYG986yefw64zAT7sg9kgiZb-mdOyiAnbRCi1NifeWx.png?width=640&crop=smart&auto=webp&s=c4e935a1ae3e8e8eb612e8759b03aa53af83ea26"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Fincut",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-22T12:00:23.924Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f8a91434fc4e",
+   "canon": "https://www.reddit.com/comments/1xcdvxe",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xcdvxe/the_crew_2_vr_mod_made_by_yours_truly/",
+   "addedAt": "2026-10-22T12:00:23.924Z",
+   "title": "The Crew 2 VR Mod (Made by yours truly)",
+   "text": "The Crew 2 in true stereo VR. https://www.nexusmods.com/thecrew2/mods/50",
+   "author": "HearMeOut-13",
+   "publishedAt": "2026-10-22T09:28:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eDJpMGhnYmVtendoMUpDKXf1k-JBOB5K3TEryiuMSz2hYoqREpPkCzz4X1w4.png?width=640&crop=smart&auto=webp&s=905b2c14a57f7551a071b24124420a31db1f868a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/HearMeOut-13",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-22T12:00:23.924Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4cbb7ed266ea",
+   "canon": "https://www.reddit.com/comments/1xcds7b",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xcds7b/i_got_tired_of_checking_whether_claude_code_needs/",
+   "addedAt": "2026-10-22T12:00:23.924Z",
+   "title": "I got tired of checking whether Claude Code needs me. So I gave it a physical status light.",
+   "text": "I have Claude Code running on a separate laptop, usually working on stuff that takes a while.\n What kept annoying me was having to check whether it was still doing its thing or just sitting there waiting for me to answer some question.\n Had an old Kuando Busylight lying around,…",
+   "author": "Fincut",
+   "publishedAt": "2026-10-22T09:22:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OGpsajE5bTVsendoMbYG986yefw64zAT7sg9kgiZb-mdOyiAnbRCi1NifeWx.png?width=640&crop=smart&auto=webp&s=bc0752bbea60d6886c4f91bfbedf3ecfafbfb440"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Fincut",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-22T12:00:23.924Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5c01f4fb4e67",
+   "canon": "https://www.reddit.com/comments/1xcd96i",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xcd96i/i_made_a_tool_that_turns_a_pull_request_into_a/",
+   "addedAt": "2026-10-22T12:00:23.924Z",
+   "title": "I made a tool that turns a pull request into a short video of what changed on each page",
+   "text": "When I review a front end PR I click through the preview and try to spot what moved. changereel does that for me: it builds both versions, screenshots every page, finds the changes and renders a video. In the PR it leaves a comment with a moving preview and a list of what…",
+   "author": "derblub",
+   "publishedAt": "2026-10-22T08:49:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cmpkNG56NWNmendoMd4aEZlYyr9SLxC-bTuc1xAfiXDXDXQvj_oK9cBUH-cE.png?width=640&crop=smart&auto=webp&s=1b48257e703df4b9893ddfff635cf9a88436f1a9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/derblub",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-22T12:00:23.924Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c98be73ba48a",
+   "canon": "https://www.reddit.com/comments/1xcd272",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xcd272/open_house_a_psxstyle_zombie_siege_with/",
+   "addedAt": "2026-10-22T12:00:23.924Z",
+   "title": "Open House: a PSX-style zombie siege, with destructible environment",
+   "text": "Hey guys,\n I've been making a co-op zombie game called Open House (working title) with Claude Code and wanted to share where it's at. It's very early and I'm not experienced at all with this. The video is mostly me shooting, with a bit of barricading.\n The idea: you and up to 4…",
+   "author": "ToddAwl",
+   "publishedAt": "2026-10-22T08:35:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Z21wdG1mejNjendoMb9z8-WVMz7f7KNzEI5cxeL6dnX3M6Ae_NGFif3iMZNj.png?width=640&crop=smart&auto=webp&s=b0ca212bd6af61f5f7e070dec12a69ef00d2e70e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ToddAwl",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-22T12:00:23.924Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b22da50fc5c8",
+   "canon": "https://www.reddit.com/comments/1xccwrs",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xccwrs/press_start_a_playable_video_game_history_would/",
+   "addedAt": "2026-10-22T12:00:23.924Z",
+   "title": "Press Start - a playable video game history. Would love feedback.",
+   "text": "I've been building Press Start (pressstart.site) with Claude, a history of video games you play rather than read.\n There are 27 stops from 1958 to 2025, covering the US and Japan. At each stop you play a short piece modelled on the game that defined that moment: tennis on a lab…",
+   "author": "SuruiMakesGames",
+   "publishedAt": "2026-10-22T08:26:04+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dzJrZnBldjJiendoMamuFgMF4r8Gw_aDM_K1vqYWm70SYSZe3rvcFM5_HhMC.png?width=640&crop=smart&auto=webp&s=201ef66fb82bfdecf87058ca638c26678a3eed8d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SuruiMakesGames",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-22T12:00:23.924Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c153f8f88544",
+   "canon": "https://www.reddit.com/comments/1xccj0i",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xccj0i/added_claude_code_account_switching_to_my_own_ai/",
+   "addedAt": "2026-10-22T12:00:23.924Z",
+   "title": "Added Claude Code account switching to my own AI Shed - Runner",
+   "text": "Hi everyone, I shared my own AI shed, Runner, here a while ago. Recently I added Claude Code account switching to Runner and want to share an update.\n Runner is a local desktop app I built for myself to manage AI agent CLI tools, like Claude Code and Codex. Every session is a…",
+   "author": "jason3gb",
+   "publishedAt": "2026-10-22T08:01:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dTMyZ2RlMXQ2endoMRqEVYPVeHZVeWr3GHFg3_l0hYwTNckZN-GgxwWGi4CM.png?width=640&crop=smart&auto=webp&s=06fc6cf50156517301d9f03996d533f020aa5d22"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/jason3gb",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-22T12:00:23.924Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "6332e71d9c73",
    "canon": "https://www.reddit.com/comments/1xc9b3j",
