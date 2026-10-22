@@ -1,7 +1,818 @@
 {
  "version": 1,
- "updatedAt": "2026-10-22T17:22:00.192Z",
+ "updatedAt": "2026-10-22T21:46:18.117Z",
  "cases": [
+  {
+   "id": "f2a0f736d9cd",
+   "canon": "https://www.reddit.com/comments/1xcvlcw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xcvlcw/from_two_squares_to_a_12player_party_shooter/",
+   "addedAt": "2026-10-22T21:42:07.011Z",
+   "title": "From two squares to a 12-player party shooter",
+   "text": "The first clip is Block Arena before I used any AI: two squares in Unity, one arena, shoot each other. That took me weeks of learning and implementation.\n Six months ago I started working on it with AI, and this is where it is now:\n up to 12 robots a match, 8 of them on one…",
+   "author": "HkingH69",
+   "publishedAt": "2026-10-22T21:37:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M3VnaXF4dGI3M3hoMSI539CumAgCIMjoUtNYnnDL5307YOODzbZpbCpLTloz.png?width=640&crop=smart&auto=webp&s=2af6ea617a9eb8bd2a70871873bf26b399539b2c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/HkingH69",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-22T21:42:07.011Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "30849af4d47e",
+   "canon": "https://www.reddit.com/comments/1xcuz66",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xcuz66/rebuilding_quest_for_glory_ii_with_ai_opening_and/",
+   "addedAt": "2026-10-22T21:42:07.011Z",
+   "title": "Rebuilding Quest for Glory II with AI: opening and character creator so far",
+   "text": "I'm a lifelong engineer attempting my first game so please be gentle. If you grew up pc gaming in the 90's i'm sure you heard of Sierra and Quest for Glory II was one of my favorite games growing up. I’m working on a browser-based fan rebuild, and this video shows the opening…",
+   "author": "prasithg",
+   "publishedAt": "2026-10-22T21:12:00+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NTF3aWNmMXl6MnhoMdIOxb41V2dA8fPgOXLYdetkaEMXwW-s5t5VUgHI1RUD.png?width=640&crop=smart&auto=webp&s=da4527ae50701f208dcea580327e5afc5bbac6e4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/prasithg",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-22T21:42:07.011Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3c9e7aad30f6",
+   "canon": "https://www.reddit.com/comments/1xcuv7p",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xcuv7p/foss_app_despacer_fixes_your_terminal_copypaste/",
+   "addedAt": "2026-10-22T21:42:07.011Z",
+   "title": "FOSS app Despacer fixes your terminal copy/paste nightmare from Claude Code",
+   "text": "I finally had enough of copying commands out of Claude Code terminal and trying to paste them only to have them come out completely mangled due to whitespace and newline garbage, so I threw this little open-source app together called Despacer under the MIT license for all to…",
+   "author": "MattSenter",
+   "publishedAt": "2026-10-22T21:07:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/rMZjqpZ-VrGjpmQmdErCBucmDBe9K8nvxkxAj4BCKf0.png?width=640&crop=smart&auto=webp&s=1c427535acdf724450f7943f9bf676c383bb48c0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MattSenter",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-22T21:42:07.011Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "56141412a883",
+   "canon": "https://www.reddit.com/comments/1xcur2c",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcur2c/claude_helped_me_finish_my_app/",
+   "addedAt": "2026-10-22T21:42:07.011Z",
+   "title": "Claude helped me finish my app!",
+   "text": "I have always been a huge fan of coding, developing, analytics etc. For the past two and a half years I've been building a lot of apps, mostly for myself and friends. The thing I always struggled with was the backend stuff, since that's not something you can bang out in two or…",
+   "author": "BoksDuck",
+   "publishedAt": "2026-10-22T21:03:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/l0x2kf1d23xh1.jpeg?width=640&crop=smart&auto=webp&s=f9c71f84e7fdbe967691effa71a43693ba18d0d6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/BoksDuck",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-22T21:42:07.011Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9a18f777a684",
+   "canon": "https://www.reddit.com/comments/1xcup8x",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcup8x/built_a_miniaws_with_claude_for_claude/",
+   "addedAt": "2026-10-22T21:42:07.011Z",
+   "title": "Built a mini-AWS with Claude for Claude",
+   "text": "Hey folks, I want to share what I've been building with Claude Code, and the workflow that made it possible.\n To be upfront: the first part of this post is about the product, and the second part is a tech-heavy share of what I learned. Feel free to pick part you wanna read.…",
+   "author": "pcpLiu",
+   "publishedAt": "2026-10-22T21:01:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cmgwano1YWswM3hoMR7mEYfXW64_C7Nnfd0Xbw5pEcos0pD800CsJOnVNXwb.png?width=640&crop=smart&auto=webp&s=e8e9d6814f7c740ab2021129a27ff371713c02a7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/pcpLiu",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-22T21:42:07.011Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5b8deb5e04a0",
+   "canon": "https://www.reddit.com/comments/1xcumrc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xcumrc/got_a_bit_carried_away_with_a_halloween_idea_for/",
+   "addedAt": "2026-10-22T21:42:07.011Z",
+   "title": "Got a bit carried away with a Halloween idea for AR glasses",
+   "text": "Had this idea of random Halloween surprises popping up in your field of view on Raven Prism.\n Well, it got a bit out of hand. Now there's a raven, some creepy characters, Trick or Treat, and a few things getting way too close to your face.\n Called it Nevermore.\n Put together a…",
+   "author": "ManufacturerWeird636",
+   "publishedAt": "2026-10-22T20:58:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/6EHy2oYLBoaf8BEu_VCmCNQpyxd9BtAjz6QVdpDj-yk.png?width=640&crop=smart&auto=webp&s=66961366999b8b5290a99ab46768730c7aa065aa"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ManufacturerWeird636",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-22T21:42:07.011Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9edc91c7d82e",
+   "canon": "https://www.reddit.com/comments/1xcugr7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcugr7/pm_who_can_script_not_a_developer_how_i_built_a/",
+   "addedAt": "2026-10-22T21:42:07.011Z",
+   "title": "PM who can script, not a developer: how I built a full web app conversation card game with Claude Code",
+   "text": "I'm a product manager. I'm decent at Python and have done some SQL, but I'm not a frontend engineer. I've built Yapt, a conversation card game, almost entirely with Claude Code. \n Full disclosure I have a computer science degree but never been a web dev\n Stack: React + Vite,…",
+   "author": "masathaget",
+   "publishedAt": "2026-10-22T20:51:40+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/masathaget",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-22T21:42:07.011Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ada933c60092",
+   "canon": "https://www.reddit.com/comments/1xcufda",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcufda/im_not_a_coder_but_were_building_entire_internal/",
+   "addedAt": "2026-10-22T21:42:07.011Z",
+   "title": "I'm not a coder, but we're building entire internal platforms with Claude. It's honestly astonishing.",
+   "text": "I've been using Claude A LOT lately.\n My job is (or was, in a way) to support the digitalization process of the company I work for. I got involved just before all these super fast-paced project deliveries became possible, and it's been crazy to see how much things have changed.…",
+   "author": "Active_Tax1232",
+   "publishedAt": "2026-10-22T20:50:09+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Active_Tax1232",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-22T21:42:07.011Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "35196c8b7df6",
+   "canon": "https://www.reddit.com/comments/1xcu67b",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xcu67b/were_building_theora_healthtracking_ai_glasses/",
+   "addedAt": "2026-10-22T21:42:07.011Z",
+   "title": "We’re building Theora: health-tracking AI glasses, with 200 Founding Access places, 79 spots left and the first 200 are free",
+   "text": "Hey - I’m one of the founders of Theora.\n We’re building glasses that combine health sensing with a personal AI assistant. The goal: health tracking and hands-free help throughout your day, including while you work.\n The video shows the experience we’re building toward. We’ve…",
+   "author": "Agitated_One516",
+   "publishedAt": "2026-10-22T20:40:13+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bjdhdHNqczl5MnhoMX4wFpZoShShjXPMd9QQ9Q_5czVSABXGL-6VkAANjDGJ.png?width=640&crop=smart&auto=webp&s=a2d62ca0fddd8f2ed077719d3dd66cd49b14aeff"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Agitated_One516",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-22T21:42:07.011Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "781dd3a46357",
+   "canon": "https://www.reddit.com/comments/1xcu5xq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xcu5xq/built_a_hook_that_logs_what_claude_code_does_on/",
+   "addedAt": "2026-10-22T21:42:07.011Z",
+   "title": "built a hook that logs what claude code does on my machine. not sure anyone besides me actually needs it",
+   "text": "been building a claude code hook called guard for a few months. it checks shell commands, file reads/writes and mcp calls against yaml rules before they run and logs them. warns by default, only blocks if you tell it to. built most of it with claude code, and it's been running…",
+   "author": "CraftyCake8687",
+   "publishedAt": "2026-10-22T20:39:58+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CraftyCake8687",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-22T21:42:07.011Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a4fbe51a415b",
+   "canon": "https://www.reddit.com/comments/1xcu06f",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcu06f/i_stopped_writing_tickets_for_my_game_played_it/",
+   "addedAt": "2026-10-22T21:42:07.011Z",
+   "title": "I stopped writing tickets for my game, played it on my phone, and Claude Code fixed things live",
+   "text": "Needle It is a bubble puzzle for Android. You aim a needle gun and fire into a hanging cluster of cells, and every cell kind follows a visible pop rule. There are three modes:\n Chill is the relax campaign. It has a timer and it has ammo, but the timer never finishes and the ammo…",
+   "author": "TheAuthorBTLG_",
+   "publishedAt": "2026-10-22T20:33:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dXJ5OHBoc2pzMnhoMf4X4NRt9-2F3dsrRC4vgoCfhcPD3cJOt3ev8ipHQjo6.png?width=640&crop=smart&auto=webp&s=e35dd90b5cac9ed7561f354d4e3066fc9244ed60"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TheAuthorBTLG_",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-22T21:42:07.011Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4ad0ba843cce",
+   "canon": "https://www.reddit.com/comments/1xctvs8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xctvs8/told_claude_to_make_a_remix_of_interstellar_in/",
+   "addedAt": "2026-10-22T21:42:07.011Z",
+   "title": "Told Claude to make a remix of interstellar in midi",
+   "text": "It refused and made \"Event Horizon\" instead and eventually got to this, has abit build-up so at least wait for the piano part. :D",
+   "author": "Accomplished-Fan9568",
+   "publishedAt": "2026-10-22T20:29:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/0WPmXOkjzbacIXk4L8qjuB0EDzggBB7y7LFbi9BOceo.jpeg?width=320&crop=smart&auto=webp&s=43e0c738e84d34b629f963c1939a628c30e69315"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Accomplished-Fan9568",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-22T21:42:07.011Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "883642c2791a",
+   "canon": "https://www.reddit.com/comments/1xctk0x",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xctk0x/finished_a_video_game_i_started_10_years_ago_made/",
+   "addedAt": "2026-10-22T21:42:07.011Z",
+   "title": "Finished a video game I started 10 years ago - Made an AI Harness to finish it - AMA",
+   "text": "Exactly 10 years ago I started building Watch Your Back - Zombies.\n Due to the complexity of the game I never finished, However, I had a clear idea of what I needed to do.\n When Codex and Claude Code was released I tried to vibe coded it, but it was a total failure.\n Finally,…",
+   "author": "maxjbv4",
+   "publishedAt": "2026-10-22T20:16:43+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cor3DW0C9FnE-K5Q6jSssA6PvLySsrA0iMDbSI140ss.jpeg?width=640&crop=smart&auto=webp&s=b66a771edd8c9e9723b92a24312c6d64efa300ed"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/maxjbv4",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-22T21:42:07.011Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5ced5e85bdb5",
+   "canon": "https://www.reddit.com/comments/1xctbcm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xctbcm/i_turned_dishonroed_2_into_a_full_vr_game_out_now/",
+   "addedAt": "2026-10-22T21:42:07.011Z",
+   "title": "I turned DISHONROED 2 into a full VR game - OUT NOW",
+   "text": "Hi everyone! I've spent the last couple of months turning Dishonored 2 into a full VR game with motion controls, and today it's finally out. It's free and open source.\n If you don't know it: Dishonored 2 (Arkane, 2016) is a first-person stealth-action game with swordplay, a…",
+   "author": "cosmic-tangerine",
+   "publishedAt": "2026-10-22T20:07:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aHoweGl0bjJzMnhoMTt1-HRgULv9ktk8f-bqNzXbdfKahV7Aq1r5I75489xU.png?width=640&crop=smart&auto=webp&s=af2931eedadf3b6175621c0e96db7187aefaa2b2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/cosmic-tangerine",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-22T21:42:07.011Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1f42ec2354c0",
+   "canon": "https://www.reddit.com/comments/1xct6k2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xct6k2/the_vector_gear_aims_to_be_the_vr_makers_dream/",
+   "addedAt": "2026-10-22T21:42:07.011Z",
+   "title": "The Vector Gear aims to be the VR makers' dream open headset",
+   "text": "Walker Devs has launched some days ago the Kickstarter campaign for the Vector Gear, a standalone+PCVR VR headset that will be completely opensource. It should feature also some special features like integrated face tracking and inside-out tracked controllers. I think it is…",
+   "author": "SkarredGhost",
+   "publishedAt": "2026-10-22T20:02:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dTkpasLJiP6SQyXEZ32-MRT-DQkiP-D1eJ_Gdp5_FjM.jpeg?width=640&crop=smart&auto=webp&s=8d8943d82e5857f91793f1de0312d90afd20d178"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SkarredGhost",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-22T21:42:07.011Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ed140e76804a",
+   "canon": "https://www.reddit.com/comments/1xcszo2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xcszo2/numensia_upcoming_vr_platform_where_humans/",
+   "addedAt": "2026-10-22T21:42:07.011Z",
+   "title": "Numensia: Upcoming VR platform where humans collaboratively create with their personal AI assistant",
+   "text": "“I haven’t seen anything like this yet, where you converse richly with an agent in real-time as coworkers inhabiting the same world at the same time. The ability to rapidly direct and tweak, and the ability to do the same things the agent can...\"",
+   "author": "slhamlet",
+   "publishedAt": "2026-10-22T19:56:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/vz_HspnJ4EG3VFM1imF6rAvquVMa95qwwKa2Nrq1m5A.jpeg?width=640&crop=smart&auto=webp&s=77060d07ddacb3618245e9d1df211cb542fd21e6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/slhamlet",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-22T21:42:07.011Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7e3d3ae465f6",
+   "canon": "https://www.reddit.com/comments/1xcstbi",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xcstbi/i_built_a_usb_status_display_for_claude_code/",
+   "addedAt": "2026-10-22T21:42:07.011Z",
+   "title": "I built a USB status display for Claude Code sessions with help from Claude Code",
+   "text": "I’m the author of managents, a USB desk display for AI coding agent sessions. It pairs a 4-inch LCDWiki E32R40T ESP32 display with a small Go helper on the computer. The helper detects open sessions and sends status over USB; the display shows working, waiting, failed, or idle.…",
+   "author": "tonylook",
+   "publishedAt": "2026-10-22T19:49:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/vf3pmtp8p2xh1.jpeg?width=640&crop=smart&auto=webp&s=8a0e7a16c80b6d937cca6303c4b38a79a806a967"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/tonylook",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-22T21:42:07.011Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "93f5e5b646b9",
+   "canon": "https://www.reddit.com/comments/1xcso1d",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcso1d/i_built_an_allinone_accessibility_keyboard_with/",
+   "addedAt": "2026-10-22T21:42:07.011Z",
+   "title": "I built an all-in-one accessibility keyboard with Claude",
+   "text": "https://github.com/CALL911imonfire/KeyDeck_Plus\n TL;DR: I built KeyDeck Plus, a free, customizable on-screen keyboard for Windows, with Claude writing the code. It has dwell, swipe and switch-scanning typing, autocorrect, predictive text, and layouts you can save and load on the…",
+   "author": "CALL911imonfire",
+   "publishedAt": "2026-10-22T19:44:13+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CALL911imonfire",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-22T21:42:07.011Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "742c62e8661b",
+   "canon": "https://www.reddit.com/comments/1xcsjzg",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xcsjzg/i_made_a_pool_game_for_vision_pro_fullsize_table/",
+   "addedAt": "2026-10-22T21:42:07.011Z",
+   "title": "I made a pool game for Vision Pro: full-size table in your room, your hands are the cue, and a emotional robot rival that sulks when it misses",
+   "text": "Hi r/VisionPro, I'm the solo dev behind 8 Balls Club, out now for Vision Pro.\n App Store: https://apps.apple.com/us/app/8-balls-club-pool-and-snooker/id6825744570\n It puts a full-size pool table on your floor and your hands are the cue: rest your bridge hand on the cloth, hold…",
+   "author": "steffan_",
+   "publishedAt": "2026-10-22T19:39:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/d3gzZ2s3cWRuMnhoMV7ol65UZIpDhScz9qZN47Gcsx3J6CDLzoY9KqRL5BI_.png?width=640&crop=smart&auto=webp&s=7f6a38183dda2eae8a4fb9626e405fc0a27fd68c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/steffan_",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-22T21:42:07.011Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bec169d39357",
+   "canon": "https://www.reddit.com/comments/1xcsjcn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/singularity/comments/1xcsjcn/opus_55_maybe_the_most_useful_model_for_non/",
+   "addedAt": "2026-10-22T21:42:07.011Z",
+   "title": "Opus 5.5 maybe the most useful model for non coders . i am tracking my ADHD medication with it. this may not be a ground breaking work but its incredibly useful for simple things in life.",
+   "text": "https://preview.redd.it/bxrmmgrym2xh1.png?width=1245&format=png&auto=webp&s=d39c902767e4b7ccbd053588e9d0032c30dab909\n used opus 5.5 to track my adhd medication peak curve and my claude study logs.",
+   "author": "Simple-Diver-2192",
+   "publishedAt": "2026-10-22T19:39:13+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/bxrmmgrym2xh1.png?width=140&height=107&auto=webp&s=b09e79f0eae815223593b5ca8295591f01c22927"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Simple-Diver-2192",
+   "where": "r/singularity",
+   "fetchedAt": "2026-10-22T21:42:07.011Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "27c5a572f37c",
+   "canon": "https://www.reddit.com/comments/1xcsg5h",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xcsg5h/i_opensourced_halv_pro_agentic_interface_that/",
+   "addedAt": "2026-10-22T21:42:07.011Z",
+   "title": "I open-sourced Halv: pro agentic interface that cuts your usage. My meter is past $3000 saved.",
+   "text": "I've been building Halv, a desktop app for running coding agents, and as of 1.0 it's open source (Apache-2.0). It does two things.It's a workspace for agents. Claude Code runs in its normal CLI, next to Codex, Kimi or GLM if you use them, each on your own plan. Up to 32 panes,…",
+   "author": "EnslavedFish",
+   "publishedAt": "2026-10-22T19:35:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/SAVdbsADa1QluLgCSRbAmrGVpiYuC-QHw3bhKT79ouE.png?width=640&crop=smart&auto=webp&s=283a59b56ee31617d0a9705de278d54977e2fd5b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/EnslavedFish",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-22T21:42:07.011Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "233d963e8031",
+   "canon": "https://www.reddit.com/comments/1xcrgxb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcrgxb/claudetty_the_undying_cmux/",
+   "addedAt": "2026-10-22T21:42:07.011Z",
+   "title": "ClaudeTTY: The Undying cmux",
+   "text": "When cmux or other terminals crashed, it used to just be another day. but when Claude's in the middle of a command that could ruin my computer if it goes wrong, it's a bit worrying and jarring. In ClaudeTTY tabs live in zmx sessions outside the app, so quitting, crashing or…",
+   "author": "aqilcont",
+   "publishedAt": "2026-10-22T18:59:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/fvl1jxp8f2xh1.gif?frame=1&width=140&height=59&auto=webp&s=2e54cc0140d99b8fbf2b578fbc1e98431688c352"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/aqilcont",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-22T21:42:07.011Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2eff5b36ebb8",
+   "canon": "https://www.reddit.com/comments/1xcrdj5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xcrdj5/physical_melee_in_diablo_2_resurrected_vr_the/",
+   "addedAt": "2026-10-22T21:42:07.011Z",
+   "title": "Physical melee in Diablo 2 Resurrected VR – the weapon stops on each limb and the body reacts",
+   "text": "D2R VR Authentic – a free VR mod for Diablo II: Resurrected (native OpenXR, full body in first person, hit by touch).\n In this clip: the weapon in your hand meets each monster’s own limbs, read from the game’s model, and humanoids give way by their weight when you push or stab…",
+   "author": "Fantastic-Author2736",
+   "publishedAt": "2026-10-22T18:56:19+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Y2drajJrbGlmMnhoMfKmX_s9I3qJCv-aVllCTCBmObgG9567olw8GHGGKeI-.png?width=640&crop=smart&auto=webp&s=40a8c4388a3ebd825bc904570d69c03d078aa827"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Fantastic-Author2736",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-22T21:42:07.011Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6db9bfd3ccaa",
+   "canon": "https://www.reddit.com/comments/1xcpuo5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xcpuo5/le_dino_labo_strange_wonders_dlc_is_out_now/",
+   "addedAt": "2026-10-22T21:42:07.011Z",
+   "title": "🦖 Le Dino Labo: Strange Wonders DLC is out now!",
+   "text": "Hey everyone! \n We’ve added 3 more dinosaurs to explore and build: Therizinosaurus, Archaeopteryx, and Pachycephalosaurus in our latest DLC for Le Dino Labo!\n If you enjoy building dinosaur skeletons in Mixed Reality, check it out! 🦴\n Available now on Meta Quest for $3.99.…",
+   "author": "ninsap",
+   "publishedAt": "2026-10-22T18:00:16+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZDhkaGR0a3IzMnhoMQO3fQK_R7fI6pt4BIDW7DFi4bJuymIJWJBAhSQBg8Wc.png?width=640&crop=smart&auto=webp&s=f8813dba0c6ee3deb312ceb1314853cdeba3d620"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ninsap",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-22T21:42:07.011Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3049f29612f1",
+   "canon": "https://www.reddit.com/comments/1xcp9dr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xcp9dr/owlchemy_labs_reveals_hyper_visor_a/",
+   "addedAt": "2026-10-22T21:42:07.011Z",
+   "title": "Owlchemy Labs Reveals Hyper Visor, a Reality-Bending Arcade Blaster Launching on XREAL Aura",
+   "text": "​\n Players put on a mysterious pair of shades, blast through fractured realities, and repair the rifts threatening their world, available when XREAL Aura launches\n AUSTIN, TEXAS - October 22, 2026 - Owlchemy Labs, the Google-owned VR studio behind Job Simulator and Vacation…",
+   "author": "AR_MR_XR",
+   "publishedAt": "2026-10-22T17:38:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/bd9c27zw12xh1.jpeg?width=140&height=87&auto=webp&s=48217a9e584fecfd25011c5e3b9ba3a259500c1b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AR_MR_XR",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-22T21:42:07.011Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "d4992e94f58b",
    "canon": "https://www.reddit.com/comments/1xcon1y",
