@@ -1,7 +1,967 @@
 {
  "version": 1,
- "updatedAt": "2026-10-23T05:03:30.265Z",
+ "updatedAt": "2026-10-23T11:51:01.132Z",
  "cases": [
+  {
+   "id": "c5928dda0695",
+   "canon": "https://www.reddit.com/comments/1xdbnea",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xdbnea/i_asked_claude_code_for_a_pacman_game_and_it/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "I asked Claude Code for a Pac-Man game and it built, tested and installed it on my phone",
+   "text": "I build Buddy, an open-source Android app that runs Claude Code inside the app (a small Alpine Linux via proot) and gives it phone tools over a local MCP server: read the screen, tap, type, install apps.\n In developer mode you can ask it for an app. Today I typed one line:…",
+   "author": "3amae404",
+   "publishedAt": "2026-10-23T11:39:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/vw01sj9te7xh1.png?width=640&crop=smart&auto=webp&s=bd145dd6304a37c699a71a049a3e4657f53a4eb0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/3amae404",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bcc308d67bb7",
+   "canon": "https://www.reddit.com/comments/1xdbh24",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xdbh24/i_made_a_claude_code_plugin_that_masks_api_keys/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "I made a Claude Code plugin that masks API keys, emails, passwords and IDs in your prompt before it's sent",
+   "text": "Ever pasted a log or a .env line into Claude Code and realized a second too late that it had a real API key in it? I did, more than once. So I built redact-secrets, a small plugin that rewrites your prompt locally, right before it's submitted.\n What it does\n you type: write to…",
+   "author": "Fun_Celebration_2960",
+   "publishedAt": "2026-10-23T11:30:55+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Fun_Celebration_2960",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fc162fc5e4d0",
+   "canon": "https://www.reddit.com/comments/1xdbgdb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdbgdb/i_made_a_claude_code_plugin_that_masks_api_keys/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "I made a Claude Code plugin that masks API keys, emails, passwords and IDs in your prompt before it's sent",
+   "text": "Ever pasted a log or a .env line into Claude Code and realized a second too late that it had a real API key in it? I did, more than once. So I built redact-secrets, a small plugin that rewrites your prompt locally, right before it's submitted.\n What it does\n you type: write to…",
+   "author": "Fun_Celebration_2960",
+   "publishedAt": "2026-10-23T11:30:00+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Fun_Celebration_2960",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e4d125f0fd27",
+   "canon": "https://www.reddit.com/comments/1xdb88h",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xdb88h/i_built_a_roguelite_space_shooter_with_claude/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "I built a roguelite space shooter with Claude Code, and the trailer is the game filming itself",
+   "text": "Not everyone comes home.\n The Cost of Stars is an arena roguelite I’ve been building in Godot with Claude Code doing almost all of the programming. You run a forward station holding off a swarm. Every run is a different pilot, and when one dies their name goes on the Wall and…",
+   "author": "azzaisme",
+   "publishedAt": "2026-10-23T11:17:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/4-SozZuYpcyeiu4OUxCVpFZiz9ZaoAy6tb4CivnW5D8.jpeg?width=320&crop=smart&auto=webp&s=3cdf8eeff2517979fdb8ac458529ab12ddae9c04"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/azzaisme",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e04fc09bd382",
+   "canon": "https://www.reddit.com/comments/1xdb5xx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xdb5xx/human_time_vs_claude_time_for_specing_building/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "Human time vs Claude time for spec’ing, building, testing.",
+   "text": "I’ve reached the point where Claude can do long unattended builds (eg, overnight). This requires a significant investment of my time to specify the requirements of the build including use cases, success criteria, etc. \n Depending on the complexity of the task I spend 3 to 4…",
+   "author": "rlocke",
+   "publishedAt": "2026-10-23T11:14:19+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/rlocke",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "77520aba69b4",
+   "canon": "https://www.reddit.com/comments/1xdb2e0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xdb2e0/i_made_a_27minute_animated_film_about_how_the/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "I made a 27-minute animated film about how the heart beats with Claude Code and Remotion. Here is the workflow",
+   "text": "What Claude Code did: all the animation code (React + Remotion, about 13,000 lines, 24 scenes), the voice-over editing pipeline, the music mix and the render pipeline. What I did: most of the writing, the direction, the selection of the tools to use, the narration (my own voice)…",
+   "author": "Key_Bumblebee_7905",
+   "publishedAt": "2026-10-23T11:09:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bWJkbHNubnk4N3hoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=fd0dcfdf788ff0c359fdfa8ad6d5d77bf212e22d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Key_Bumblebee_7905",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8f3535febb24",
+   "canon": "https://www.reddit.com/comments/1xdaz7d",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xdaz7d/i_built_an_opensource_tool_to_find_preview_and/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "I built an open-source tool to find, preview, and install agent skills for Claude Code, Codex, and Cursor",
+   "text": "Hey everyone,\n Agent skills are spread across different repositories and directories. Skills Atlas brings discovery, previewing, and installation into one place, with an interactive terminal interface and a local web UI.\n You can:\n Browse skills by theme, search, or explore…",
+   "author": "GiGiDKR",
+   "publishedAt": "2026-10-23T11:04:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/QqEbC6O2y40dRD_Pd3EFyBjz5LDbRp4ib8ofCPhP6iI.jpeg?width=640&crop=smart&auto=webp&s=03afd0d9132a20e03aad91e819913a60f8add323"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/GiGiDKR",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "42ca85866f15",
+   "canon": "https://www.reddit.com/comments/1xdaml5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xdaml5/created_an_animated_website_template_for/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "Created an animated website template for photographers",
+   "text": "Made this template for photographers. I wanted it to feel creative but stay simple.\n The interesting part is the animated hero. I generated a video with Gemini, cropped it to 5 seconds, and then used ffmpeg to extract frames from the MP4, rembg with the BiRefNet model to cut out…",
+   "author": "ihorklymchuk",
+   "publishedAt": "2026-10-23T10:45:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dmxlZDB3MDgzN3hoMRg1L5F31DZpqlUyq3GvDIdde4fUGOJxuHjOjk8zvnJs.png?width=640&crop=smart&auto=webp&s=336489a146da77696e8b0bac9446a94079b91a77"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ihorklymchuk",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8faae85d04c0",
+   "canon": "https://www.reddit.com/comments/1xdamgn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdamgn/i_built_a_browser_game_with_claude_code_then_used/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "I built a browser game with Claude Code, then used it to publish the game too",
+   "text": "I wanted to learn how small web games get published, so I built Honey Line with Claude Code: a physics puzzle where you draw one line of honey and bees stick to it.\n Play: https://playgama.ai/play/gvawbtt52widdp\n What worked: a level checker that fires hundreds of player-style…",
+   "author": "Commercial_Cable_404",
+   "publishedAt": "2026-10-23T10:45:14+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Commercial_Cable_404",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1bea2a2e1511",
+   "canon": "https://www.reddit.com/comments/1xd9nsc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xd9nsc/this_is_insane/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "this is insane",
+   "text": "been doing 2 or 3 lightweight Opus 5.5 Claude Code sessions, high effort. ran out of my 5-hour limit within 30 minutes (!) (it's 11.45 AM now). this has never happened to me in my two years of intensive Claude Code usage. I thought Anthropic was \"back\" with the release of Opus…",
+   "author": "robbievega",
+   "publishedAt": "2026-10-23T09:48:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/bzin5ye9u6xh1.png?width=640&crop=smart&auto=webp&s=280666f4528b611efc32098120307c62d2207c5b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/robbievega",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "ff5d44203d73",
+   "canon": "https://www.reddit.com/comments/1xd9nq7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xd9nq7/i_made_an_app_that_runs_claude_code_in_android/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "I made an app that runs claude code in android.",
+   "text": "There's nothing special about it. It's just a Termux Fork optimized for Agent CLI. It supports not only Claude Code but other CLI Agents too. And the UIs has some level of File Management of the created workspace... I also Included an Agent Screen to allow the agent to show some…",
+   "author": "nojukuramu",
+   "publishedAt": "2026-10-23T09:48:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/zb20tgnyu6xh1.jpeg?width=640&crop=smart&auto=webp&s=0c0e5bcc9e38295b046d427e0e13548dbf9a373d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/nojukuramu",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b3b1dc133764",
+   "canon": "https://www.reddit.com/comments/1xd9eu4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xd9eu4/i_built_a_memepowered_roast_quiz_site_with_claude/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "I built a meme-powered roast quiz site with Claude",
+   "text": "so i had this dumb idea for a quiz site where you get roasted by a meme at the end. i can’t code at all so i just kept describing it to claude until it got it.\n it’s live now: unhingedquiz.com\n took a day of back and forth. honestly the hardest part was getting it funny, the…",
+   "author": "Curious_Ad9388",
+   "publishedAt": "2026-10-23T09:33:43+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/7x50qzn5r6xh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=b3fc538a1b3500373c107b5129a26024c4864ced"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Curious_Ad9388",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cd1d93754071",
+   "canon": "https://www.reddit.com/comments/1xd9ee2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xd9ee2/my_football_game_passed_30k_installs_in_its_first/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "My football game passed 30k installs in its first two weeks. Every player ages over a career, so I made 6,500 AI portraits for it",
+   "text": "Solo dev. My game Hometown FC is a football club owner sim on Android and iPhone, out since early October. The code was written with Claude Code and the art comes from image generation through Codex. The face pipeline is where I learned the most, so that's what this post is…",
+   "author": "No_Dentist_7426",
+   "publishedAt": "2026-10-23T09:32:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/bzsx50owr6xh1.png?width=140&height=118&auto=webp&s=32fca39c6b7216e52350d4f01dd2978af9e6932f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No_Dentist_7426",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c776f5601f41",
+   "canon": "https://www.reddit.com/comments/1xd992h",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xd992h/i_built_a_claude_code_skill_that_turns_a_session/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "I built a Claude Code skill that turns a session into an interactive timeline: every prompt linked to the code it changed, with diffs, explanations, and an honest “is it actually done?” report",
+   "text": "After a long Claude Code session I often can’t say why a file changed, or whether Claude actually finished. “Done!” sometimes means “the tests I didn’t write are passing.” So I built Session Story, an open-source skill (MIT) that turns a session into one self-contained HTML…",
+   "author": "iuridium",
+   "publishedAt": "2026-10-23T09:23:41+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/iuridium",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "63a9c57cdba6",
+   "canon": "https://www.reddit.com/comments/1xd933g",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xd933g/i_turned_my_nerdminer_into_a_tiny_desk_display/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "I turned my NerdMiner into a tiny desk display for Claude and Codex usage",
+   "text": "Had a NerdMiner sitting on my desk and figured it should probably do something before I die lol\n So I built a little Claude/Codex usage monitor. It shows your remaining quota and when it resets, without having to keep checking the usage pages.\n A lot of this was vibe coded with…",
+   "author": "Ecstatic-Address2817",
+   "publishedAt": "2026-10-23T09:13:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/iknjpx5mo6xh1.jpeg?width=140&height=140&auto=webp&s=f42be416258e4e6e759127b34fdf25fb7d6410cf"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ecstatic-Address2817",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1886edd189b4",
+   "canon": "https://www.reddit.com/comments/1xd9280",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xd9280/i_turned_my_nerdminer_into_a_tiny_desk_display/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "I turned my NerdMiner into a tiny desk display for Claude and Codex usage",
+   "text": "Had a NerdMiner sitting on my desk and figured it should probably do something before I die lol\n So I built a little Claude/Codex usage monitor. It shows your remaining quota and when it resets, without having to keep checking the usage pages.\n A lot of this was vibe coded with…",
+   "author": "Ecstatic-Address2817",
+   "publishedAt": "2026-10-23T09:11:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/hfwhz8ebo6xh1.jpeg?width=140&height=140&auto=webp&s=865eebec8f9f4bd5b3dc849a613138aff4cbbd47"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ecstatic-Address2817",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9b46e5567689",
+   "canon": "https://www.reddit.com/comments/1xd8zsr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xd8zsr/claude_can_make_animations_without_ai_video/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "Claude can make animations without AI video generators — here's how 🎬",
+   "text": "I made a 3-minute Van Gogh animation where paintings appear stroke by stroke inside golden frames, Starry Night-style swirls move, letters fly across the screen, and an auction hammer drops.\n No manually downloaded images, no video editor, and no hand-written code. Claude wrote…",
+   "author": "Practical_Low29",
+   "publishedAt": "2026-10-23T09:07:25+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Practical_Low29",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "93041a9ba6aa",
+   "canon": "https://www.reddit.com/comments/1xd8w4y",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xd8w4y/i_made_a_new_engine_from_scratch_with_live_ai/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "I made a new engine from scratch with live AI content authoring on headset",
+   "text": "",
+   "author": "krzychuwr1",
+   "publishedAt": "2026-10-23T09:01:11+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bmczdDdmeTZtNnhoMSdOgqwy8jIPvH9CLA-dWpBcO7zTnIAEJMjsE2g5s8IZ.png?width=640&crop=smart&auto=webp&s=1861da3e6880365501ed03ea4b2065ca3e221a25"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/krzychuwr1",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cbab5878ccca",
+   "canon": "https://www.reddit.com/comments/1xd8qi0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xd8qi0/my_game_got_published/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "My game got published!",
+   "text": "Probably not a huge deal, but I used to play those addictive idle games you see in ads and always thought they could be way cooler. So I had a go at making my own with Claude.\n It's a Grim Reaper running a graveyard. After a lot of evenings and listening to people's feedback,…",
+   "author": "real-pies-realpies",
+   "publishedAt": "2026-10-23T08:51:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bjdzMmhjOXNrNnhoMUxEare1qxeQDZWASOyI5uBdLIcYKzviIU7vuHPl1TTU.jpeg?width=640&crop=smart&auto=webp&s=4e72868b3fcf8ee969abfdd00145e0438ac620df"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/real-pies-realpies",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2d4315d560a3",
+   "canon": "https://www.reddit.com/comments/1xd8qbd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xd8qbd/im_a_web_designer_and_i_asked_claude_code_to_make/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "I'm a web designer, and I asked Claude Code to make a launch video for something I built",
+   "text": "I'm a web designer working mostly with Framer, building websites, templates, and interactive components.\n Lately, I've been experimenting a lot with Claude Code, especially for things outside my usual workflow.\n I recently finished building a 3D floating gallery component and…",
+   "author": "ServiceFun9356",
+   "publishedAt": "2026-10-23T08:51:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dzZvcDl3N2lrNnhoMaO9NY2LQMp3OyqhbYQXP1OU-Atb71LqCZYDKu7roEAH.png?width=640&crop=smart&auto=webp&s=fd397f0fa6222c2587ad5381aeee60bf64c537b0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ServiceFun9356",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "38cc1d9629a6",
+   "canon": "https://www.reddit.com/comments/1xd8iba",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xd8iba/i_asked_claude_code_to_check_my_servers_for_php/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "I asked claude code to check my servers for PHP CVE referencing the wikipedia article - it told me it was made up",
+   "text": "https://preview.redd.it/mt060e5yh6xh1.png?width=1723&format=png&auto=webp&s=99d2ac8d9ed5a8e833b5208cfe04accbfa9ce413\n I got claude code to audit my php running servers",
+   "author": "adulion",
+   "publishedAt": "2026-10-23T08:37:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/mt060e5yh6xh1.png?width=140&height=17&auto=webp&s=a2c2fa652f4c4111b2531ad451ed2ff8cd687a57"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/adulion",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "54d5e9275c2f",
+   "canon": "https://www.reddit.com/comments/1xd8ay6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xd8ay6/i_made_claude_code_a_little_cuter_pixelart/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "I made Claude Code a little cuter: pixel-art companions that keep you company while it works",
+   "text": "I like nice things, everybody likes nice things! But Claude Code can feel a bit plain, so I made cute-claude, a small open-source plugin that gives it themed looks. \n Turn one on with a slash command and a little pixel-art character keeps you company while Claude works. It…",
+   "author": "FuminidesAugusto",
+   "publishedAt": "2026-10-23T08:24:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/gv3gx3ilf6xh1.gif?frame=1&width=140&height=71&auto=webp&s=23f64b906e47de109412bd7c71a062969a37d2fa"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/FuminidesAugusto",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3dcb7054c6b5",
+   "canon": "https://www.reddit.com/comments/1xd86zu",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xd86zu/i_tested_model_routing_on_two_real_claude_code/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "I tested model routing on two real Claude Code tasks: $42.81 → $19.65 in a small pilot",
+   "text": "I built jev-gate, an open-source plugin that routes models, delegates work, and compacts context in Claude Code and Codex.\n I compared Claude Code with and without it on two real frontend tasks. Total reported cost went from $42.81 to $19.65, including Jev requests. Both arms…",
+   "author": "Monglong_korea",
+   "publishedAt": "2026-10-23T08:17:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bzRvaGt1aGxlNnhoMYpAw6gNVfTM4iA9cbo573UR318GZEbDU-X2JOupWANi.png?width=640&crop=smart&auto=webp&s=1c85dfaf4c8b0d8e3da4a6055e0786c738f7acf6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Monglong_korea",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c817d9962a0d",
+   "canon": "https://www.reddit.com/comments/1xd7yth",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xd7yth/pro_v2100_officially_released/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "Pro_V2.1.0.0 Officially Released",
+   "text": "Due to website upgrades, previous plugins may fail authentication. Please update to Pro_V2.1.0.0 or Pro_V1.0.5.0.\n Official Website: https://mls4dlive.cn/\n Fab: https://fab.com/s/a98e11b2a0a6\n https://github.com/mlslabs/MLSLabsGaussianSplattingRenderer-UE\n Rendering pipeline…",
+   "author": "Competitive_Web_8466",
+   "publishedAt": "2026-10-23T08:02:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/dn7urgdyb6xh1.jpeg?width=140&height=140&auto=webp&s=6090b897b81d85547c7d1878dab9cb887d5c216d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Competitive_Web_8466",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3f5b28e64797",
+   "canon": "https://www.reddit.com/comments/1xd7oqg",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xd7oqg/a_productionready_power_bi_report_for_just_151_in/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "A production-ready Power BI report for just $1.51 in 9 minutes? AI is getting seriously impressive.",
+   "text": "Frederick Jensen shared an interesting benchmark on LinkedIn, comparing 63 AI-generated Power BI reports across 7 models and 3 reasoning effort levels.\n Here are the key findings:\n Best cost efficiency: GPT SOL 6.1 (Low effort) generated a production-ready report for just $1.51…",
+   "author": "m3nt3_",
+   "publishedAt": "2026-10-23T07:45:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/enmkk46196xh1.jpeg?width=640&crop=smart&auto=webp&s=f285eb50b0c87ec0db509c7d9044fe15f7147e26"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/m3nt3_",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c2dad0e43c2d",
+   "canon": "https://www.reddit.com/comments/1xd7oqj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xd7oqj/your_ai_can_write_the_game_logic_but_the_ui_still/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "Your AI can write the game logic, but the UI still looks like AI slop. I made a Figma-like UI editor that hands the design to your agent",
+   "text": "Hi r/aigamedev. Coding agents are great at game logic, but ask one for a main menu or a HUD and you get the same generic layout every time: centered buttons, default fonts, random spacing. You can tell an AI made it.\n So I built Envy, a UI editor for games that works like Figma.…",
+   "author": "Bosn1an",
+   "publishedAt": "2026-10-23T07:45:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/6n63lmuz86xh1.png?width=140&height=105&auto=webp&s=3cd6ea3710877e9b9a5750fc627b681bffec9ddd"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Bosn1an",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fb695722f0e1",
+   "canon": "https://www.reddit.com/comments/1xd7lrk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xd7lrk/dreamdeckgame/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "dreamdeckgame",
+   "text": "One month, three AIs, and a game called DreamDeck 🐉🎮\n Hey everyone!\n I wanted to share my experience spending the past month building a game with three AI tools: Claude, GPT, and Gemini.\n The best way to describe the experience? That three-headed dragon meme.\n You probably…",
+   "author": "East-Tone4841",
+   "publishedAt": "2026-10-23T07:41:00+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ndqq37rx76xh1.jpeg?width=320&crop=smart&auto=webp&s=59b19700e2170e407ab0b8636fa1bead0bab0ec5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/East-Tone4841",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "042a199abc48",
+   "canon": "https://www.reddit.com/comments/1xd7lha",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xd7lha/claude_desktop_doesnt_have_an_inbox_so_i_made_one/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "claude desktop doesn't have an inbox. so i made one",
+   "text": "/inbox → every chat in one pane → click to jump\n search all of them. sort by newest, oldest or most important (blocked + waiting-on-you chats float to the top)\n i mostly use /unread: just the chats with new replies, mark all read in one click…",
+   "author": "thisusernameistaknn",
+   "publishedAt": "2026-10-23T07:40:34+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/thisusernameistaknn",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4742563851f0",
+   "canon": "https://www.reddit.com/comments/1xd7e0j",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xd7e0j/i_made_claude_analyze_3177_app_tester_reports_and/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "I made Claude analyze 3,177 app tester reports and turned it into an interactive database.",
+   "text": "So I run an app feedback exchange called IndieAppCircle, where indie developers give each other feedbacks on their apps. This means there are thousands of tests for all kinds of apps lying around in my databse. And since everyone is always saying you should use AI to turn your…",
+   "author": "luis_411",
+   "publishedAt": "2026-10-23T07:27:50+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/luis_411",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "45c10dc50bb3",
+   "canon": "https://www.reddit.com/comments/1xd7486",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xd7486/titanfall_2_looks_absolutely_stunning_in_vr/",
+   "addedAt": "2026-10-23T11:46:16.103Z",
+   "title": "Titanfall 2 looks absolutely stunning in VR!",
+   "text": "When I first played this mission back in 2021, I thought it was pretty good. But experiencing it in VR is on a whole different level!",
+   "author": "AdBorn3753",
+   "publishedAt": "2026-10-23T07:11:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NTJ2ZWJvMXQyNnhoMfxe5QgC8MTFulKzgAfNbr29eiBbAd3gqcVkjdAVK0pZ.png?width=320&crop=smart&auto=webp&s=4be18cf25506f86ca305f82377eda163a96909ea"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AdBorn3753",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-23T11:46:16.103Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "c4f7090dcfd1",
    "canon": "https://www.reddit.com/comments/1xd43sr",
