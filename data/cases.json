@@ -1,7 +1,889 @@
 {
  "version": 1,
- "updatedAt": "2026-10-22T21:46:18.117Z",
+ "updatedAt": "2026-10-23T05:03:30.265Z",
  "cases": [
+  {
+   "id": "c4f7090dcfd1",
+   "canon": "https://www.reddit.com/comments/1xd43sr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xd43sr/dying_light_vr_huge_dlss_update_and_neural/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "Dying Light VR HUGE DLSS Update and Neural Rendering, up to +230% FPS with f oveation",
+   "text": "A HUGE DLSS Update is here for my mod, with support for DLSS, DLAA, Neural rendering, foveated upscaling and foveated neural rendering, with up to +230% FPS. Plus lots of bug and QoL fixes, manual bow drawing, The Following support, Epic Games compatibility improvement without…",
+   "author": "Joaquito_99",
+   "publishedAt": "2026-10-23T04:17:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Ue4w0-jWzcWG9yhMEIBdo-QrTd1mqqS06gZrF_l1jC8.jpeg?width=320&crop=smart&auto=webp&s=809e70593bf2b669417ae3df9778711007fa02b4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Joaquito_99",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "28b4e37bc96d",
+   "canon": "https://www.reddit.com/comments/1xd3tc0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xd3tc0/wip_started_a_new_claymation_hong_kong_based_game/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "WIP. Started a new claymation Hong Kong based game of my experience living there through the lens of my dog I had that came to Australia with me.",
+   "text": "A week and have half a dozen levels and some game mechanics already worked out. Tools used, Claude code as architect, me directing, Gemini for posed claymation images on white ready for meshy to make rigged and non rigged 3d models and art styles from some of my photographs. My…",
+   "author": "ephix",
+   "publishedAt": "2026-10-23T04:02:16+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/1sieb3n555xh1.png?width=640&crop=smart&auto=webp&s=8f6c1516a45728227402e41b94bd9e4ffa18fadf"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ephix",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8e0aae9319a4",
+   "canon": "https://www.reddit.com/comments/1xd3rvb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1xd3rvb/mark_zuckerberg_still_sees_passthrough_as_the/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "Mark Zuckerberg still sees PASSTHROUGH as the more mature full AR technology. And Reality Labs could become profitable soon",
+   "text": "",
+   "author": "xrosspost",
+   "publishedAt": "2026-10-23T04:00:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/hcnibxxo74xh1.jpeg?width=640&crop=smart&auto=webp&s=a8739e2404a7d0c567f0f2bc556c40fdc619bfaa"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/xrosspost",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "94381a833119",
+   "canon": "https://www.reddit.com/comments/1xd3jq3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xd3jq3/the_deus_ex_md_hacking_minigame_is_now_inworld/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "The Deus Ex MD hacking minigame is now in-world hacking",
+   "text": "Instead of the full screen black mini-game the network graph is fully integrated into the regular game world allowing you to see your surroundings likes guards. You can also pick up the network graph and rotate it.",
+   "author": "LeanQA",
+   "publishedAt": "2026-10-23T03:48:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MDk3b2Jpd2MxNXhoMTW8zGORPOWGzKnVFdbUJ9UdOdy3yM9KVVV4RjKE2OmC.png?width=640&crop=smart&auto=webp&s=08f2a0d643ae5339f202e402fdc9786e25650eca"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/LeanQA",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "67fe4b17a008",
+   "canon": "https://www.reddit.com/comments/1xd3gjz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xd3gjz/chisle_a_skill_which_saves_more_tokens_than/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "Chisle - a skill which saves more tokens than caveman and ponytail - Without loosing correctness",
+   "text": "caveman and ponytail make Claude write less. Chisle started as a mashup of the two. Then I noticed most of my token bill wasn't Claude's replies at all. It was tool output: build logs, test runs, giant grep results. All of it sits in context and gets billed again on every turn…",
+   "author": "Special_Lie3814",
+   "publishedAt": "2026-10-23T03:43:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/20mryo4t15xh1.png?width=140&height=65&auto=webp&s=3d0005df688604018ef09bd9d83c5a2f925a105e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Special_Lie3814",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "11aef81ed21b",
+   "canon": "https://www.reddit.com/comments/1xd2oxt",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xd2oxt/i_built_a_web_browser_from_scratch_in_rust_with/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "I built a web browser from scratch in Rust with Claude Code — 90%+ WPT compliance, 97.8% ECMAScript, and 100% WebAssembly. No Chromium, no WebView.",
+   "text": "So apparently I've spent the last few months building a web browser from scratch in Rust. With Claude Code helping me along the way, it's somehow turned into a real browser engine.\n Meet T.A.B. (Tiny Ass Browser), powered by my Kingmaker engine.\n And by browser, I don't mean…",
+   "author": "PhallicPorsche",
+   "publishedAt": "2026-10-23T03:04:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/51h03fi9u4xh1.png?width=140&height=73&auto=webp&s=0b896deb2f956466acfd47edccb92d2c9477352d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/PhallicPorsche",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "25fa95376d15",
+   "canon": "https://www.reddit.com/comments/1xd2fbs",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xd2fbs/799/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "$799",
+   "text": "",
+   "author": "dayprobga",
+   "publishedAt": "2026-10-23T02:51:36+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/u8mo0rzhs4xh1.jpeg?width=640&crop=smart&auto=webp&s=6a326fdf59ae6d29f922afe0e48879e5ff67b972"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/dayprobga",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e6b9ee585e86",
+   "canon": "https://www.reddit.com/comments/1xd286h",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xd286h/weird_form_in_claude_api_key_registration/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "weird form in claude api key registration",
+   "text": "https://preview.redd.it/3kmoc85pq4xh1.png?width=734&format=png&auto=webp&s=6692b79e035a1660b5d3fdfb47921ae29abc1e77\n so recently i started learning context engineering , and with all due respect it has not been a good experience , meanwhile , while setting up api tokens and busy…",
+   "author": "Careless-Objective71",
+   "publishedAt": "2026-10-23T02:41:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/3kmoc85pq4xh1.png?width=140&height=110&auto=webp&s=ac6abd9aae8b5b04bddec2e0d8477b0bb37929b0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Careless-Objective71",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "22f157dc779d",
+   "canon": "https://www.reddit.com/comments/1xd27zr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xd27zr/3_months_later_my_3d_room_for_ai_coding_agents/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "3 months later: my 3D room for AI coding agents now runs on Mac, Windows and Linux, and it can rescue an agent that hits its token limit",
+   "text": "Hey everyone,\n Three months ago I posted Termi Protocol here. It's a cozy 3D room where your AI coding agents work at their desks while you watch, instead of reading terminal logs all day. A lot has changed since then, so here is a short update.\n Original post:…",
+   "author": "FreshnessAi",
+   "publishedAt": "2026-10-23T02:41:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/d3gybW53OXhwNHhoMZj4_H7sDlGJ7Q2U_e65Px6bO_fcpknlD7Yx5OWHlLNi.png?width=640&crop=smart&auto=webp&s=f7f74dbba59a632b979830f025cd29b832198778"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/FreshnessAi",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "51fc8b897a5c",
+   "canon": "https://www.reddit.com/comments/1xd265z",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xd265z/turned_a_flat_poster_into_a_parallax_animation_by/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "Turned a flat poster into a parallax animation by splitting it into layers first",
+   "text": "Seedream 5.0 Pro has a layer decomposition endpoint: one flat image in, a clean background plate plus up to 16 transparent layers out, each with a bounding box and a name. My poster came back as 8 layers (title, moon, birds, mountains, forest, cabin, boat, caption), and the…",
+   "author": "Practical_Low29",
+   "publishedAt": "2026-10-23T02:39:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/djJqa2JicGRvNHhoMWV98wy69RguUX6Ki_1pPwSONgjDIuHL-mryQq30LZ6B.png?width=640&crop=smart&auto=webp&s=c096bca5d1f5b929c8055baf9dae797c97b96815"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Practical_Low29",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d921e9be216b",
+   "canon": "https://www.reddit.com/comments/1xd1n81",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xd1n81/the_power_of_claude_compels_you/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "The Power of Claude Compels You",
+   "text": "So these days I have been using Fable/Opus and Argon to run stuff I used to do manually in research and a bit of low level coding. Claude reins in Argon's blind enthusiasm but big context windows usually. And minor spoiler alert, but VisionQuest had this funny line that I…",
+   "author": "nixhomunculus",
+   "publishedAt": "2026-10-23T02:12:57+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/unn983knl4xh1.png?width=140&height=99&auto=webp&s=5f694c68c7e2f9796d19b26bda455fc86a0d1a86"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/nixhomunculus",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c64571d40535",
+   "canon": "https://www.reddit.com/comments/1xd1diz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xd1diz/im_honestly_amazed_at_how_far_orbital_empires_has/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "I'm honestly amazed at how far Orbital Empires has come through the combination of player feedback and Opus 5.5",
+   "text": "Hello friends! I've been working on Orbital Empires for about half a year now. I played the first few versions with my friends, making major iterations between each round and loading player feedback right into my workflows to find the best UX, mechanic, or balance solution.…",
+   "author": "everybodytrustslorne",
+   "publishedAt": "2026-10-23T01:59:47+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/hsi9betwi4xh1.gif?width=640&crop=smart&s=088708a431c6cf0b1f865cc81909f0d0000a33ed"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/everybodytrustslorne",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "15da61407f45",
+   "canon": "https://www.reddit.com/comments/1xd1bc9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xd1bc9/with_the_help_of_opus_55_and_a_lot_of_player/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "With the help of Opus 5.5 and a lot of player feedback, my Space Strategy game Orbital Empire has made leaps beyond what I expected.",
+   "text": "Hello friends! I've been working on Orbital Empires for about half a year now. I played the first few versions with my friends, making major iterations between each round and loading player feedback right into my workflows to find the best UX, mechanic, or balance solution.…",
+   "author": "everybodytrustslorne",
+   "publishedAt": "2026-10-23T01:56:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/zu26bq32h4xh1.gif?width=640&crop=smart&s=03b627d8b8db99a2b2728ea6a7ac9ec86e507b02"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/everybodytrustslorne",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "48cc246edb52",
+   "canon": "https://www.reddit.com/comments/1xd1axf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xd1axf/i_built_a_voice_and_a_face_for_claude_code_with/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "I built a voice and a face for Claude Code with Claude Code: talk to your session from any room (free to try)",
+   "text": "What it does: Miss Sakamoto lets me talk to the Claude Code session on my Mac from anywhere in the house. An iPhone app shows her avatar and listens; I say \"Sakamoto,\" then talk. A small hub on the Mac types what I said into the Claude Code session in the Claude desktop app, and…",
+   "author": "imabuddha",
+   "publishedAt": "2026-10-23T01:56:03+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/imabuddha",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7445fed1a915",
+   "canon": "https://www.reddit.com/comments/1xd12xy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xd12xy/built_with_claude_code_a_handsfree_voice_and_face/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "Built with Claude Code: a hands-free voice and face for Claude Code itself, and what I learned building it by talking to it",
+   "text": "What I built: Miss Sakamoto lets me talk to my Claude Code session from anywhere in the house. An iPhone app shows her avatar and listens; I say \"Sakamoto,\" then talk. A hub on my Mac types what I said into the Claude Code session running in the Claude desktop app, and her…",
+   "author": "imabuddha",
+   "publishedAt": "2026-10-23T01:44:47+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/kDcUucjPPmxr51xjRF2gqpfCfdHMD5nJsRT63hoOIe0.png?width=640&crop=smart&auto=webp&s=14d742afa685a6caec0b66771e0867761926bb34"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/imabuddha",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "27c285dae169",
+   "canon": "https://www.reddit.com/comments/1xd0w7u",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xd0w7u/after_php2shell_i_used_opus_55_to_convert_45/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "after PHP2Shell I used Opus 5.5 to convert 45 client WordPress sites to Astro in the past 36 hours",
+   "text": "After the whole PHP2Shell thing I finally pulled the trigger and converted 45 of my client sites to static Astro sites. The sites look exactly the same, just way faster and nothing to hack, and way cheaper to host.\n WordPress sucks now that we have coding agents anyways. Plugin…",
+   "author": "Rare_Guide_9830",
+   "publishedAt": "2026-10-23T01:35:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/xrw90on044xh1.png?width=640&crop=smart&auto=webp&s=9dbc2cad1e5c1edae8e84d867c1e085dcbd1cb51"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Rare_Guide_9830",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "2c22210e6358",
+   "canon": "https://www.reddit.com/comments/1xd0odh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xd0odh/77_claude_code_color_themes_ported_from_doom/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "77 Claude Code color themes ported from Doom Emacs (doom-one, dracula, gruvbox, nord, solarized, tokyo-night…), with screenshots",
+   "text": "I wanted some new colors to look at, so I ported the Doom emacs themes to Claude Code themes. Sharing for anyone else to enjoy",
+   "author": "DonGeise",
+   "publishedAt": "2026-10-23T01:24:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/wmYJzSGnVvYQ7yj4SXtnJyBKMdrGxNGQWGcrrf5qAEI.png?width=640&crop=smart&auto=webp&s=96829d6a672f1809fb242e47ce6294915bdf99ad"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/DonGeise",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d77c19603ae0",
+   "canon": "https://www.reddit.com/comments/1xd0mzk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xd0mzk/claude_made_a_4k_trailer_for_my_new_ios_game/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "Claude made a 4k trailer for my new iOS game",
+   "text": "used the brag skill + elevenlabs for soundbites and bgm \n it made a whole bunch more but I can only seem to post one video on here\n Really impressive stuff",
+   "author": "InvestigatorCalm3640",
+   "publishedAt": "2026-10-23T01:23:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/amY5cXdqcjVjNHhoMdLbB2_YMcYL67pphSNSlmdZqOQvJ79eXJWjcJyy54UD.png?width=640&crop=smart&auto=webp&s=ed50733d55aaf6acc95acfe2676ae9258b518e03"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/InvestigatorCalm3640",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "42e5f0c8a34b",
+   "canon": "https://www.reddit.com/comments/1xd0fxy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xd0fxy/after_750_hours_and_6_months_of_nonstop_work_im/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "After 750 hours and 6 months of non-stop work, I'm finally ready to reveal my Pathfinder 2e Tactics RPG \"The Shattered Isles\"! I'm happy to talk about my workflow in this thread, and what I did to get this game coherent! (Non-programmer, 5 months, ~4,800 commits: my AI workflow with Claude Code)",
+   "text": "https://www.youtube.com/@LunaticDiceGames\n That's my YouTube channel if you'd like to see future devlogs and updates.\n NOTE: I had my Claude Code make a short summary of what my workflow is since it knows it better than I do, but I curated it and made sure it was useful and,…",
+   "author": "CrusherEAGLE",
+   "publishedAt": "2026-10-23T01:13:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bDlmNnVrcHY5NHhoMccHWTNzmnlydTohreNWBzFIkgmi3JslQ1I_tO1AQQu-.png?width=640&crop=smart&auto=webp&s=03a3c0fd3277e1b3b0356ba33a1610c6ee660e8f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CrusherEAGLE",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "02cb68e2926f",
+   "canon": "https://www.reddit.com/comments/1xd0ff3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xd0ff3/my_custom_ui_terminal/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "My custom UI terminal",
+   "text": "Figured since everyone's getting in on it I'd show what I've been putting together for the past few months. I've got dual claude terminals as well as the codex terminal. The plasma ball feature actually grows in intensity as the token burn increases. \n Quite a few subagents…",
+   "author": "Burnt_Zombi3",
+   "publishedAt": "2026-10-23T01:12:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/xqgsmuyba4xh1.png?width=640&crop=smart&auto=webp&s=d60577b728e70a5006acd6db72aa25f39e2db342"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Burnt_Zombi3",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a30193c22f1f",
+   "canon": "https://www.reddit.com/comments/1xd09af",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xd09af/road_rash_style_bike_game_on_indian_highways_made/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "Road Rash style bike game on Indian highways, made mostly with Claude, Codex and Blender, honest feedback wanted",
+   "text": "I made a Road Rash style bike racing and fighting game set on Indian highways. It's on Android now, and the iOS version is in review and should be live soon.\n Most of the code was written by Claude, mostly Opus and Sonnet in Claude Code. I direct it, play every build and tell it…",
+   "author": "anil293",
+   "publishedAt": "2026-10-23T01:04:36+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bmVhcDJ5ejA3NHhoMXdQp7QiGunqIkGUqXGfQcD5irWduka5XxEnnioR-qWD.png?width=640&crop=smart&auto=webp&s=b0bea28f969225148742bd6700229370f9bc4000"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/anil293",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6bda3ad63fe3",
+   "canon": "https://www.reddit.com/comments/1xd07k8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xd07k8/i_made_claude_act_as_the_whole_app_instead_of/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "I made Claude act as the whole app instead of writing it: try an idea by hand in minutes (works as an artifact)",
+   "text": "I'm a solo developer. As I worked with Claude, the direction of what I should build kept changing, and to verify whether an idea was useful, I had to spend hours repeatedly creating and revising it. Mockups weren't helpful. While the screens themselves are easy to create, what…",
+   "author": "Other_Train9419",
+   "publishedAt": "2026-10-23T01:02:14+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Other_Train9419",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d7c8dc87b9ed",
+   "canon": "https://www.reddit.com/comments/1xd038n",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xd038n/a_chat_where_any_agent_from_any_provider_on_any/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "A chat where any agent, from any provider, on any OS, can collaborate together while you watch and control from anywhere.",
+   "text": "A chat for agents controlled by you. 100% Free and open source. TLDR/W: if you have lots of agents and wish they were in one chat then this product will work for you no matter who your provider is and you can be super lazy with the setup by asking your agent to set it up for…",
+   "author": "misterespresso",
+   "publishedAt": "2026-10-23T00:56:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eGx1czEzMGY1NHhoMVWlv1NXuBffP_dhx1lAP9_u78eq0QVETK_SQc3gosFO.png?width=640&crop=smart&auto=webp&s=aca69085c389fbeaa143437d8bd4151b4777c7e7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/misterespresso",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9225d850d203",
+   "canon": "https://www.reddit.com/comments/1xd01u4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xd01u4/mark_zuckerberg_still_sees_passthrough_as_the/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "Mark Zuckerberg still sees PASSTHROUGH as the more mature full AR technology. And Reality Labs could become profitable soon",
+   "text": "During Meta's Q3 2026 earnings call, Mark Zuckerberg talked about the new Meta VR Glasses, which despite the name are really a passthrough AR device that you use at home or carry around with you at best, and made it clear he still sees passthrough as the more mature technology…",
+   "author": "AR_MR_XR",
+   "publishedAt": "2026-10-23T00:54:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/hcnibxxo74xh1.jpeg?width=640&crop=smart&auto=webp&s=a8739e2404a7d0c567f0f2bc556c40fdc619bfaa"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AR_MR_XR",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ced2a0189c84",
+   "canon": "https://www.reddit.com/comments/1xczwuk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xczwuk/i_made_a_drag_and_drop_builder_for_the_claude/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "I made a drag and drop builder for the Claude Code status line, with a one-command install",
+   "text": "The line under the Claude Code prompt can show the model, the git branch, how full the context is and what the session costs. But you have to write the script that prints it, and I kept rewriting mine. So I made an editor for it. \n What it does: \n - 25 templates to start from,…",
+   "author": "behnia137",
+   "publishedAt": "2026-10-23T00:48:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/b1vmtnoe64xh1.png?width=640&crop=smart&auto=webp&s=63a34452fcf5ff410468024ef2deaab70a857d12"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/behnia137",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a52b0c050a0e",
+   "canon": "https://www.reddit.com/comments/1xcx17j",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xcx17j/im_excited_to_share_my_first_free_game/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "I'm excited to share my first free game!",
+   "text": "I wanted Icy Tower in VR and somehow ended up in space. The game is an endless chain of platforms rising from a tiny planet. You climb it by grabbing and flinging yourself upward with your own arms. It's an early, free build for Quest, and I'm mostly after feedback:…",
+   "author": "carpetfin",
+   "publishedAt": "2026-10-22T22:37:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bXlyMnhpOWFqM3hoMZBnddps6vhhxNOMBjAFV8HBC4qTUy7W5XgxREVGN2Qy.png?width=640&crop=smart&auto=webp&s=b33e679a9ce677274b072a3e1000a094c8eaae23"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/carpetfin",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f521df9d9d9d",
+   "canon": "https://www.reddit.com/comments/1xcwe2h",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/WebXR/comments/1xcwe2h/i_made_a_free_multiplayer_vr_club_that_runs_in/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "I made a free multiplayer VR club that runs in the browser (Quest 3, no app)",
+   "text": "Quick clip from a friend on a Quest 3. It's a three.js club with live DJ mixes 24/7 (my Deepstepper mixes). Open the link on your headset, tap VR and you're in. Your hands move your avatar, hold grip to talk to whoever is near you, and the lift takes you through endless rooms…",
+   "author": "Key-Map2792",
+   "publishedAt": "2026-10-22T22:09:51+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Ym4yNXllZjJlM3hoMRbHqF3i_jdLB5Twuubu3tcU31UZpSjYWbMzPdov0KZA.png?width=640&crop=smart&auto=webp&s=e80f98c7fe01ce4cb134b2b30c53f7dc29f9b85b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three",
+    "threejs",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Key-Map2792",
+   "where": "r/WebXR",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "f2a0f736d9cd",
    "canon": "https://www.reddit.com/comments/1xcvlcw",
@@ -5932,6 +6814,99 @@
    "model": null
   },
   {
+   "id": "ca2ab87c40f7",
+   "canon": "https://www.reddit.com/comments/1xblwzf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xblwzf/claude_opus_55_on_3d_modeling/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "Claude Opus 5.5 on 3D modeling",
+   "text": "Hi,\n I am a 3D modeler and a digital artist. I have been working since the early 2000's in everything from 3DS MAX to lightwave3D. I have seen a lot of people post showing what their Claude managed to make. Most of the results are pretty decent considering most of these people…",
+   "author": "Ok_Broccoli_1872",
+   "publishedAt": "2026-10-21T12:33:27+00:00",
+   "media": null,
+   "metrics": {
+    "likes": 248
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/pro-3d-mansion",
+     "categories": [],
+     "date": "2026-10-21",
+     "credit": "r/ClaudeAI",
+     "metrics": {
+      "likes": 248
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ok_Broccoli_1872",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "f16248976bb6",
+   "canon": "https://www.reddit.com/comments/1xblj73",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xblj73/opus_55_blender_mcp_animated_this_mp5/",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "Opus 5.5 + Blender MCP Animated this MP5!",
+   "text": "to me this is insane, I am used to paying a premium to get first person weapons and hands rigged posed and animated, and to have opus 5.5 do the whole deal in blender and be able to import it into unity and unreal, any animation in my head, is crazy. If opus 5.5 is at this level…",
+   "author": "HBK-101",
+   "publishedAt": "2026-10-21T12:15:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Y3l6ajZ2ZXphdHdoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=9fa899207dfdb2f50452c7fdd4ff252717b9dea9"
+   },
+   "metrics": {
+    "likes": 583
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/mp5-animation",
+     "categories": [
+      "blender"
+     ],
+     "date": "2026-10-21",
+     "credit": "r/ClaudeCode",
+     "metrics": {
+      "likes": 583
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "blender",
+    "ai",
+    "three",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://www.reddit.com/user/HBK-101",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "a1fba22f7894",
    "canon": "https://www.reddit.com/comments/1xbla7q",
    "platform": "reddit",
@@ -10928,6 +11903,58 @@
    "fetchedAt": "2026-10-20T14:23:31.679Z",
    "lang": "en",
    "model": null
+  },
+  {
+   "id": "d3574d544cf9",
+   "canon": "https://x.com/i/status/2112514570078372079",
+   "platform": "x",
+   "url": "https://x.com/viktoroddy/status/2112514570078372079",
+   "addedAt": "2026-10-23T04:58:32.625Z",
+   "title": "",
+   "text": "Opus 5.5 just built the scariest website I've ever seen 😭\n\nWebsites aren't flat anymore. 3D, motion, interaction, all from one prompt.\n\nA year ago: a 3D artist, a dev, two weeks.\n\nToday it's one prompt ↓ https://t.co/FyJvqGZ8S5",
+   "author": "viktoroddy",
+   "publishedAt": "2026-10-20T12:01:36.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112514084797325312/img/vSj_0jciRJYr3mGi.jpg",
+    "video": "https://video.twimg.com/amplify_video/2112514084797325312/vid/avc1/3582x2160/A4CRO-Th8eHTCglT.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 1653,
+    "views": 87327,
+    "comments": 81
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/abyss-atlas",
+     "categories": [],
+     "date": "2026-10-20",
+     "credit": "viktoroddy",
+     "metrics": {
+      "likes": 1644,
+      "views": 84816
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "ai",
+    "three",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/viktoroddy",
+   "where": null,
+   "fetchedAt": "2026-10-23T04:58:32.625Z",
+   "lang": "en",
+   "model": "Opus 5.5"
   },
   {
    "id": "34dca9e4f05d",
