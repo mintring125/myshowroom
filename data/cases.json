@@ -1,7 +1,770 @@
 {
  "version": 1,
- "updatedAt": "2026-10-24T11:13:22.665Z",
+ "updatedAt": "2026-10-24T16:07:44.091Z",
  "cases": [
+  {
+   "id": "87bd00b5e84e",
+   "canon": "https://www.reddit.com/comments/1xecdgk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xecdgk/i_built_a_league_of_legends_x_fantasy_football/",
+   "addedAt": "2026-10-24T16:03:15.516Z",
+   "title": "I built a League of Legends x Fantasy Football Draft style browser game with Claude Code (Opus 5.5)",
+   "text": "Hey all! Just wanted to share my new vibecoded project that launched yesterday - 22CHAMPS. This was inspired by a project that went viral on X last week All22Pokemon by ColeThereum, which is a Pokemon x football style draft. I thought it was so fun and wanted to try to make…",
+   "author": "SmittyMcDaniels",
+   "publishedAt": "2026-10-24T16:01:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Y3Q5cTEzeXRyZnhoMeLDMtfOjfR2dpD3H0tSK_qiQvjKHb72gei94sxHRXyw.png?width=640&crop=smart&auto=webp&s=5a5f2b476a7e8aeef05350f73b4b7128abe569ac"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SmittyMcDaniels",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-24T16:03:15.516Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "10664acea0f1",
+   "canon": "https://www.reddit.com/comments/1xeccp0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xeccp0/windswept_island_20_days_into_a_north_atlantic/",
+   "addedAt": "2026-10-24T16:03:15.516Z",
+   "title": "Windswept Island: 20 days into a North Atlantic island in Unity with Claude Code (WIP, part 2)",
+   "text": "I'm building a cold, North Atlantic island in Unity: a place you could walk from the surf to a snowy summit, that should hold up at eye level next to good-looking games. The terrain is real elevation data from Lofoten in Norway, slightly modified and reshaped into a 4 × 5km…",
+   "author": "imlo2",
+   "publishedAt": "2026-10-24T16:00:57+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Y21kYm43ODR0ZnhoMYnKQuuXsAw91ttGa4eSAmQZRZVaVe1Ys6uF6-pwJBOq.png?width=640&crop=smart&auto=webp&s=7f954c57c97a6ea99bfbb20ecceec3afa62e5e77"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/imlo2",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-24T16:03:15.516Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d8be59dc3af0",
+   "canon": "https://www.reddit.com/comments/1xecbbi",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xecbbi/i_am_making_the_lightest_good_looking_desktop/",
+   "addedAt": "2026-10-24T16:03:15.516Z",
+   "title": "I am making the lightest [good looking] desktop environment for Linux, and I am so proud of making my dream project go true after 15 years of planning it. Now running on an old government issued laptop. (Ready to play TF2!)",
+   "text": "Hey guys! Last month I've been building my dream desktop environment. I've been developing in Java and Rust doing boring things over 12 years, and I always wondered why cheap operative systems had to look like Windows 95.\n I am running broke on my job and no company wants to…",
+   "author": "LinsaFTW",
+   "publishedAt": "2026-10-24T15:59:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/6gox7h80ufxh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=c8ff80097f11a05271d1cfa55a958ce78ba52b84"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/LinsaFTW",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-24T16:03:15.516Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "50bbc865c032",
+   "canon": "https://www.reddit.com/comments/1xec6lx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xec6lx/simon_willison_built_a_fun_mobile_rts_game_with/",
+   "addedAt": "2026-10-24T16:03:15.516Z",
+   "title": "Simon Willison built a fun mobile RTS game with Claude Code over 321 agent commits and shares what he learned",
+   "text": "",
+   "author": "rhiever",
+   "publishedAt": "2026-10-24T15:54:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/nvHqF9N3T23QqhnEbZEtB6cG_8ADTHCTzkmRJ433Iqc.jpeg?width=640&crop=smart&auto=webp&s=e6dc4f876ce9bf4f12f0b012868d61775d6f279a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/rhiever",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-24T16:03:15.516Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1ed79993124b",
+   "canon": "https://www.reddit.com/comments/1xebrxm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xebrxm/i_got_tired_of_babysitting_coding_agents_so_i/",
+   "addedAt": "2026-10-24T16:03:15.516Z",
+   "title": "I got tired of babysitting coding agents, so I built something to make them check their own work",
+   "text": "Agent Config - Your AI Engineering System\n I've been using AI coding tools pretty heavily, both for work and my own projects.\n And there's one thing that kept annoying me.\n The models are getting ridiculously good at writing code. But I still spend way too much time making sure…",
+   "author": "Regular_Message_8839",
+   "publishedAt": "2026-10-24T15:37:28+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/TtcUF7uNN3B_rTVVrHFL-LftmG4lFt9_3wB-HbTjP8s.png?width=140&height=70&auto=webp&s=6c77a6cbc5dc674531275dfe177f1d29cf52ece4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Regular_Message_8839",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-24T16:03:15.516Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8f282a24bf7d",
+   "canon": "https://www.reddit.com/comments/1xebr5u",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xebr5u/i_built_paint_a_free_pixel_art_sprite_editor_mod/",
+   "addedAt": "2026-10-24T16:03:15.516Z",
+   "title": "I built /paint — a free pixel art & sprite editor mod that lives inside a Claude Code pane (built with Claude Code)",
+   "text": "While building a mini-game mod for Claude Code, I realized how painful it was to hand-type \"..RR..\" strings to create terminal pixel art. So I built paint, a free, open-source mouse-driven pixel canvas that runs right inside a Claude Code pane.\n How I used Claude Code to build…",
+   "author": "TapKorea",
+   "publishedAt": "2026-10-24T15:36:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/f1036psvpfxh1.png?width=640&crop=smart&auto=webp&s=34f0760eb3c7c3344de30f8969545d4e318b2471"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TapKorea",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-24T16:03:15.516Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6089f5a2ea77",
+   "canon": "https://www.reddit.com/comments/1xebqq5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xebqq5/built_a_game_with_claude_got_777521_visits_in_a/",
+   "addedAt": "2026-10-24T16:03:15.516Z",
+   "title": "Built a game with claude, got 777,521 visits in a week.",
+   "text": "https://preview.redd.it/sgf3hqxipfxh1.png?width=3380&format=png&auto=webp&s=cec6edc97f7c0da8f233e4298e164e1acd29de9c\n https://preview.redd.it/sgf3hqxipfxh1.png?width=3380&format=png&auto=webp&s=cec6edc97f7c0da8f233e4298e164e1acd29de9c…",
+   "author": "Hong-Iron",
+   "publishedAt": "2026-10-24T15:36:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/sgf3hqxipfxh1.png?width=140&height=77&auto=webp&s=a24f141e5b17021a01765206cbc94c60a8005070"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Hong-Iron",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-24T16:03:15.516Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "433c5542c77f",
+   "canon": "https://www.reddit.com/comments/1xeblp2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xeblp2/i_built_a_coop_tower_defense_in_11_weeks_with/",
+   "addedAt": "2026-10-24T16:03:15.516Z",
+   "title": "I built a co-op tower defense in 11 weeks with Claude Code. Every visual is drawn by code, no image generators. Here’s how the work was split.",
+   "text": "Hey, I’m a first-time solo developer and this is my first game. I don’t have a coding background. I’ve always loved games and tech, and I wanted to see how far vision and stubbornness could go with Claude writing the code.\n Its still in development, with a free demo on the way.…",
+   "author": "Masterkiefs",
+   "publishedAt": "2026-10-24T15:30:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aTU4MmFoYXVvZnhoMUPtOXcy7ZybVkQendHw3dFo1Ab3pbCL2l5TRh-jMxdx.jpeg?width=640&crop=smart&auto=webp&s=63b8f85340b2e87f4802817650244048868cae72"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Masterkiefs",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-24T16:03:15.516Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "02454b822757",
+   "canon": "https://www.reddit.com/comments/1xeb7lb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xeb7lb/i_made_an_interactive_tool_for_visualising_a/",
+   "addedAt": "2026-10-24T16:03:15.516Z",
+   "title": "I made an interactive tool for visualising a codebase and how it has grown over time. I found it useful, so I wanted to share it",
+   "text": "Hi reddit,\n I wanted to share a tool I made (with Claude code of course) that I’ve found very helpful, in the hope that other people might benefit from it too. \n It’s called Repo Map. It turns a Git repository into a single interactive page showing:\n a foldable file tree with…",
+   "author": "Valuable_Conclusion",
+   "publishedAt": "2026-10-24T15:14:20+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OGl2NXgxa2trZnhoMeLR-PLF8P-fmVG9RmcjriRClYVTQVlbKDDL4QV2ZVxx.png?width=640&crop=smart&auto=webp&s=09695ab54765d164fa2809ead0f1b809eb3b475b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Valuable_Conclusion",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-24T16:03:15.516Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d4d9848e0ca1",
+   "canon": "https://www.reddit.com/comments/1xeb72e",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1xeb72e/steam_frame_standalone_accessing_microsd_and_usb/",
+   "addedAt": "2026-10-24T16:03:15.516Z",
+   "title": "Steam Frame standalone: Accessing microSD and USB sticks in Android (Lepton)",
+   "text": "I am the developer of the Steam VR media player app immerGallery and wanted to open photos and videos directly from a microSD card or USB stick on Steam Frame standalone. I got it working inside the app's Lepton container.\n I made a guide with the steps and commands, including…",
+   "author": "immerVR",
+   "publishedAt": "2026-10-24T15:13:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Bes2eZ1PG9Do1GENOEmBrixZpclAicvTVLleYoVRC9g.jpeg?width=320&crop=smart&auto=webp&s=4ffbcb4312b4488e8e21357fcb40d0be84369c4a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/immerVR",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-10-24T16:03:15.516Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0c7784f72d87",
+   "canon": "https://www.reddit.com/comments/1xeb5f7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xeb5f7/forget_horror_movies_this_halloween_the_monsters/",
+   "addedAt": "2026-10-24T16:03:15.516Z",
+   "title": "Forget horror movies. This Halloween the monsters come out of your own walls, and we think that makes it the best thing to play on Vision Pro",
+   "text": "I'm one of the four friends making I'm Wizard (App Store: https://apps.apple.com/us/app/im-wizard-magic-combat-game/id6747723768), a mixed reality game where portals open on your real walls and you fight whatever comes out with your bare hands.\n Most Halloween horror happens…",
+   "author": "Late_Armadillo714",
+   "publishedAt": "2026-10-24T15:11:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MWk2cDR6M2ZsZnhoMeEO6zy2r94ImLbuxg6zqVqV62G_x7tiShgQYBrlm5uy.png?width=640&crop=smart&auto=webp&s=d0c1b2b03bcf7bc045641e4f08237afa601b5517"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Late_Armadillo714",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-24T16:03:15.516Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a9a51ed50328",
+   "canon": "https://www.reddit.com/comments/1xealse",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xealse/my_steam_vr_game_menu_isnt_working/",
+   "addedAt": "2026-10-24T16:03:15.516Z",
+   "title": "My steam vr game menu isn’t working",
+   "text": "I got on today and my game was lagging a ton and I was not able to click on my games\n Please help me fix this!\n (I’m using virtual desktop and my encoding was high)",
+   "author": "No-Beginning7887",
+   "publishedAt": "2026-10-24T14:49:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cDVqM25qb2VoZnhoMQx7QceNQngquxoHXsGmY__96zZB3b7DEuD2Gmzoadyf.jpeg?width=640&crop=smart&auto=webp&s=c58812cbb92b227ee1883bf676cc6b6133639e9a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No-Beginning7887",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-24T16:03:15.516Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "aff0c7f104f5",
+   "canon": "https://www.reddit.com/comments/1xeakej",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xeakej/i_think_a_single_task_is_about_to_take_my_20/",
+   "addedAt": "2026-10-24T16:03:15.516Z",
+   "title": "I think a single task is about to take my 20$ credits 😂 any tips on making claude limit credit usage while still being efficient? (Coding)",
+   "text": "",
+   "author": "The_Music_Shaman",
+   "publishedAt": "2026-10-24T14:48:17+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ym4hkdwbhfxh1.jpeg?width=640&crop=smart&auto=webp&s=39047976d2dc78a6c5fb0268ad97b5d4564bb7a9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/The_Music_Shaman",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-24T16:03:15.516Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3600f6fe105a",
+   "canon": "https://www.reddit.com/comments/1xeacqn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xeacqn/making_progress_on_my_survival_city_builder/",
+   "addedAt": "2026-10-24T16:03:15.516Z",
+   "title": "Making Progress on my Survival City Builder \"Kingdom of Night\"",
+   "text": "No coding experience. Been building with Claude Code for about 3 months now! Second screenshot is after 117 different iterations. Most of the current buildings are made via Meshy, along with the citizens and monsters (for which I used basic animation via Meshy as well). Still a…",
+   "author": "biggart",
+   "publishedAt": "2026-10-24T14:39:28+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/0jwqr4wdefxh1.png?width=140&height=92&auto=webp&s=f4a195a97eb158e98a2abf0e7a70cd609a31c86e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/biggart",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-24T16:03:15.516Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c7b29e0d869c",
+   "canon": "https://www.reddit.com/comments/1xeachv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xeachv/i_just_separated_character_rigging_and_animation/",
+   "addedAt": "2026-10-24T16:03:15.516Z",
+   "title": "I just separated character rigging and animation into its own img2threejs plugin",
+   "text": "I've been splitting img2threejs into smaller plugins so people can use only what they need instead of installing the entire workflow.\n The character part was getting pretty big, so I finally moved it into its own plugin: img2character.\n It focuses on rigging and animation for 3D…",
+   "author": "Feisty-Scheme-8356",
+   "publishedAt": "2026-10-24T14:39:10+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M2Ria2ptNGVmZnhoMZjJRJBoQA7-7KqkZPCexHs-JWTeTP8sV1NuRI-qRh4Y.png?width=640&crop=smart&auto=webp&s=a5100af3b1734b91c3e0adc6bb3ea80a4f6430e9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Feisty-Scheme-8356",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-24T16:03:15.516Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fc5f859554cb",
+   "canon": "https://www.reddit.com/comments/1xeabvr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xeabvr/used_claude_code_as_both_the_realtime_agent/",
+   "addedAt": "2026-10-24T16:03:15.516Z",
+   "title": "Used Claude Code as both the real-time agent harness and the player interface (via mods) for a text adventure platform that explores AI-driven dynamic game management and expansion.",
+   "text": "I wanted to explore (just out of my own curiosity / for fun) having an AI managing a game while it's being played - and an AI expanding the game as it goes. Claude Code turned out to have everything I needed as the game \"back end platform\" (vs just the development tool) - both…",
+   "author": "LiminalWanderings",
+   "publishedAt": "2026-10-24T14:38:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/xiofylniffxh1.png?width=640&crop=smart&auto=webp&s=d7fa60a718562d720ba0655da67a1a150cd88c54"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/LiminalWanderings",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-24T16:03:15.516Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a29c3c73fcc0",
+   "canon": "https://www.reddit.com/comments/1xea5s4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xea5s4/rpg_sandbox_based_on_maps_and_locations_in_my/",
+   "addedAt": "2026-10-24T16:03:15.516Z",
+   "title": "RPG sandbox based on maps and locations in my real town.",
+   "text": "I made this game completely with Claude opus 5.5 and no outside resources other than photos and maps of my city. I have promoted about 220 times or so each one causing an update in the city. I now have a website you can explore the town and tell me what you think. Full of…",
+   "author": "Sky636",
+   "publishedAt": "2026-10-24T14:31:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/eoh77x1aefxh1.jpeg?width=640&crop=smart&auto=webp&s=f4f805ff5ca5eab3ee0b88472a7d8e83dd4aef9a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Sky636",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-24T16:03:15.516Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "4326d66cf531",
+   "canon": "https://www.reddit.com/comments/1xea2nx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xea2nx/haunted_mansion_is_now_available_in/",
+   "addedAt": "2026-10-24T16:03:15.516Z",
+   "title": "Haunted Mansion is now available in SociallySpatial, free until November 8",
+   "text": "Haunted Mansion is a new Halloween environment for SociallySpatial, based on the Grand Ballroom at the Winchester Mystery House.\n Visit solo or with friends through SharePlay with Spatial Personas. Haunted Mansion is free and only available until November 8.…",
+   "author": "robstermeister",
+   "publishedAt": "2026-10-24T14:27:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cXBuZTViMWxkZnhoMXcMoW4LIxSQeIGR60YtVbSrGY9Nf-YinLCeFxPvbWx3.jpeg?width=640&crop=smart&auto=webp&s=562e98dba00bb08c23a94922b4e1543ace338cd9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/robstermeister",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-24T16:03:15.516Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "87fcdb6cbd5b",
+   "canon": "https://www.reddit.com/comments/1xea1p5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xea1p5/i_made_a_cozy_idle_factory_game/",
+   "addedAt": "2026-10-24T16:03:15.516Z",
+   "title": "I made a cozy idle factory game",
+   "text": "It's called Age of Iteration: you start with one campfire and build your way to space and beyond.\n How it was made: Claude (Opus) with some Codex first built it as a browser game, ~50k lines of TypeScript in ~500 commits while I played and mentioned what felt wrong. The…",
+   "author": "PTBurgart",
+   "publishedAt": "2026-10-24T14:26:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dGNwaTZ5NnJqYnhoMeA6Trxldv29PcJm56FNXd5MAQkPOJXTXjkRn9TeHv03.png?width=640&crop=smart&auto=webp&s=3003b44189e2f97802c9231d864d69ddb6c72a79"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/PTBurgart",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-24T16:03:15.516Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7f95490294bd",
+   "canon": "https://www.reddit.com/comments/1xe9sri",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xe9sri/this_is_not_a_masterpiece_its_a_claudesterpiece/",
+   "addedAt": "2026-10-24T16:03:15.516Z",
+   "title": "This is not a masterpiece, it's a Claudesterpiece. GANG WIZARD",
+   "text": "The culmination of my life's work is finally in beta. I am proud to present version 1.0 of GANG WIZARD, the greatest video game of all time. \n Over 10 billion tokens have been burnt on this work of art, I received a letter from my local data center stating I actually used so…",
+   "author": "Caninetechnology",
+   "publishedAt": "2026-10-24T14:15:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Zmh6cGd3dXY4ZnhoMccXeaTBy1Lq3pruRiDTpjPilQwmpO9uB4_tBCR06l7f.png?width=640&crop=smart&auto=webp&s=a3c7511775cecb9b3fdae2dfdbaac1e25ff5da8f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Caninetechnology",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-24T16:03:15.516Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0cc76afe4914",
+   "canon": "https://www.reddit.com/comments/1xe9sp8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xe9sp8/i_made_a_free_chess_game_for_vision_pro_where_a/",
+   "addedAt": "2026-10-24T16:03:15.516Z",
+   "title": "I made a free chess game for Vision Pro where a hologram wizard sits across your real table and talks with you while you play",
+   "text": "It's Self Promotion Saturday, so here is what I have been building.\n Holoport AI Chess puts a glowing chessboard on your actual table. You play with your hands. Look at a piece, pinch it, carry it over the board and let go. The legal squares light up and it snaps into place.…",
+   "author": "devaddict247",
+   "publishedAt": "2026-10-24T14:15:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cnpyOWV4MjBiZnhoMZTkSb7Qiq1Pmp4-Gizczi6mZAQID8Q5O2xtKxJPKio9.png?width=640&crop=smart&auto=webp&s=9d349d5a328685e192961c912edc9fc66b6fc79e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/devaddict247",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-24T16:03:15.516Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e8b1c1066b03",
+   "canon": "https://www.reddit.com/comments/1xe8xgi",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xe8xgi/my_ai_dungeon_master_narrates_a_simulated_game/",
+   "addedAt": "2026-10-24T16:03:15.516Z",
+   "title": "My AI Dungeon Master narrates a simulated game world. Here’s the playable RPG around it.",
+   "text": "I've spent three years building Lore & Legends Maker, a solo fantasy RPG with a virtual Dungeon Master.\n I'm combining the improvisation of an AI DM with the visual setting and tactical party combat of a classic CRPG: authored locations, companions, spells, equipment and…",
+   "author": "tschilpi",
+   "publishedAt": "2026-10-24T13:39:13+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ODNxaGZwOXA0ZnhoMXP3zI5ImHSOKb9EdgxOMk4wCTNhC5zhLWRRF6EYe_CZ.png?width=640&crop=smart&auto=webp&s=d3492d71a42e8bfcb7ef91bb2460480ed0dbc172"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/tschilpi",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-24T16:03:15.516Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6cbcfea1a2e8",
+   "canon": "https://www.reddit.com/comments/1xe62w4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xe62w4/quest_3_10_months_later_still_using_it_daily/",
+   "addedAt": "2026-10-24T16:03:15.516Z",
+   "title": "Quest 3 - 10 months later - still using it daily",
+   "text": "I see a lot of posts about people concerned the novelty may wear off like some of the older VR devices and they may not use it in few weeks' time. I can totally see how that may happen as the device out of the box is not very optimized for long term use.\n I reduced friction to a…",
+   "author": "BestRetroGames",
+   "publishedAt": "2026-10-24T11:19:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/pzg6o1t1gexh1.jpeg?width=640&crop=smart&auto=webp&s=e0a58a1ece8d874b102a1d8e1a5d624f3584e8bf"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/BestRetroGames",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-24T16:03:15.516Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "09cd9d15c855",
    "canon": "https://www.reddit.com/comments/1xe5iaf",
@@ -8172,6 +8935,38 @@
    "authorUrl": "https://www.reddit.com/user/Fincut",
    "where": "r/ClaudeCode",
    "fetchedAt": "2026-10-22T12:00:23.924Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7133f569fd87",
+   "canon": "https://www.reddit.com/comments/1xcdlzq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xcdlzq/we_just_opened_up_our_entire_inhouse_gaussian/",
+   "addedAt": "2026-10-24T16:03:15.516Z",
+   "title": "We just opened up our entire in-house Gaussian Splat editing toolkit to creators",
+   "text": "Our startup has been building Gaussian Splat tools for interior design. At some point, our internal tooling got too useful to keep to ourselves, so we decided to open it up to creators and designers.\n One web-based tool lets you:\n • 𝗥𝗲𝗰𝗿𝗲𝗮𝘁𝗲 𝗮 𝟯𝗗 𝘀𝗽𝗮𝗰𝗲 from just…",
+   "author": "ComfortableLow_351",
+   "publishedAt": "2026-10-22T09:11:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cWdkaWM1ODJqendoMTXfpghdOZbVRixmjPQfPPV4IXd5VqZ4lghzQTouXwj8.png?width=320&crop=smart&auto=webp&s=99fd9da9ce6f3a254ab41ee44a801bd0eccea4bc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ComfortableLow_351",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-24T16:03:15.516Z",
    "lang": "en",
    "model": null
   },
