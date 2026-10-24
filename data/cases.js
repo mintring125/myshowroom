@@ -1,8 +1,639 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-10-23T21:34:17.199Z",
+ "updatedAt": "2026-10-24T04:49:21.761Z",
  "cases": [
+  {
+   "id": "ea621880a78b",
+   "canon": "https://www.reddit.com/comments/1xdz7e8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdz7e8/i_made_claude_opus_and_sonnet_play_civilization/",
+   "addedAt": "2026-10-24T04:44:36.651Z",
+   "title": "I made Claude Opus and Sonnet play Civilization IV against me and GPT",
+   "text": "What I built: a mod for Civilization IV: Beyond the Sword where the other civs are played by LLMs instead of the built-in AI. Each player is a Claude Code session (GPT runs through Codex). It wakes up on every event (a new turn, a message, a deal offer) with a fresh prompt: the…",
+   "author": "norefff",
+   "publishedAt": "2026-10-24T04:27:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/tu5rbu7HKJ-kIBPD7HTqNBcNdakIcxQNbHAFeP0kkcE.jpeg?width=320&crop=smart&auto=webp&s=c56f003e4207ccb4efb822a4b294cc0eea01c00b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/norefff",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-24T04:44:36.651Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9eb4489d8655",
+   "canon": "https://www.reddit.com/comments/1xdyumx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdyumx/i_built_an_ai_vtuber_she_streams_herself_playing/",
+   "addedAt": "2026-10-24T04:44:36.651Z",
+   "title": "I built an AI VTuber, she streams herself playing games and reverse engineers them on the fly.",
+   "text": "The goal was mostly entertainment, mostly to see how far these models can push on gameplay when left to their own devices. She has few rules. The big one is she cannot \"cheat\" at the game.\n What it does\n She plays the game herself. A Claude agent reads the game state, decides…",
+   "author": "collectablecat",
+   "publishedAt": "2026-10-24T04:08:10+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/collectablecat",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-24T04:44:36.651Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "317ef3345aad",
+   "canon": "https://www.reddit.com/comments/1xdyrvh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdyrvh/i_built_an_mcp_server_so_my_claude_sessions_could/",
+   "addedAt": "2026-10-24T04:44:36.651Z",
+   "title": "I built an MCP server so my Claude sessions could work in the same room, and used it to build itself",
+   "text": "I built Bellman because I kept several Claude sessions open (chat for planning, Claude Code for building) and was relaying context between them by hand. It's an MCP server that lets separate agent sessions, including other people's and other providers', join a shared room with a…",
+   "author": "mcfearsome",
+   "publishedAt": "2026-10-24T04:03:54+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/mcfearsome",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-24T04:44:36.651Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "100765b01958",
+   "canon": "https://www.reddit.com/comments/1xdylts",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xdylts/apple_immersive_video_best_of_2026_baseball_reel/",
+   "addedAt": "2026-10-24T04:44:36.651Z",
+   "title": "Apple Immersive Video \"best of 2026\" baseball reel",
+   "text": "Apple posted a 7-minute Apple Immersive Video showing highlights from this year's four Major League Baseball games they streamed. I hope there are a lot more games in 2027.",
+   "author": "RandomVision2027",
+   "publishedAt": "2026-10-24T03:55:11+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/e6sh4n2i8cxh1.png?width=640&crop=smart&auto=webp&s=bcaf0bcfe92e7b34ff769d1e040be170d582ff93"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RandomVision2027",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-24T04:44:36.651Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0910fd1edbd5",
+   "canon": "https://www.reddit.com/comments/1xdy7vt",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xdy7vt/liftbound_a_cozy_roguelite_made_in_claude/",
+   "addedAt": "2026-10-24T04:44:36.651Z",
+   "title": "'Liftbound' a cozy roguelite made in Claude",
+   "text": "I'm building Liftbound. Made with Claude Code. One Opus 5.5 Director with two to four Sonnet coders and one Haiku tester. \n Inspired by games like Balatro, Slay the Spire, and CloverPit, I wanted to create a game with additive gameplay that has you saying \"just one more run\",…",
+   "author": "897843",
+   "publishedAt": "2026-10-24T03:33:57+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dW1qcG41YnUwY3hoMRqjzFTiQiD8XYdYMdx4Lnxdvjd49XuaL2bm11IVd78B.png?width=640&crop=smart&auto=webp&s=a8866c1ad0b9e1c98906e20b6b8b9ab44eea1a29"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/897843",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-24T04:44:36.651Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "3bf28303f420",
+   "canon": "https://www.reddit.com/comments/1xdxweh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xdxweh/working_on_a_vr_mod_for_trackmania/",
+   "addedAt": "2026-10-24T04:44:36.651Z",
+   "title": "Working on a VR mod for Trackmania",
+   "text": "I was surprised that there wasn't a mod out there yet for VR. There's actually some VR code left over in the engine from TM Turbo, so getting it running in the race was fairly easy.\n Hilariously, normal main menu is actually just an image with a 3D car and driver, so getting a…",
+   "author": "MrMusAddict",
+   "publishedAt": "2026-10-24T03:16:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MmR0N3g5YnExY3hoMbeXvzTAfJ1f7WV689O49iGSEb7I3g4_-DVfsosBXWlD.png?width=640&crop=smart&auto=webp&s=4ef6c7f08a8920b03ec887ca960f1a6f145bc8fb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MrMusAddict",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-24T04:44:36.651Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7380a2c4ad53",
+   "canon": "https://www.reddit.com/comments/1xdxi4g",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdxi4g/a_year_building_a_stock_research_mcp_with_claude/",
+   "addedAt": "2026-10-24T04:44:36.651Z",
+   "title": "A year building a stock research MCP with Claude Code: what I kept getting wrong",
+   "text": "I removed the in-chat result views from my MCP server to cut maintenance. Three weeks later I added them back, because the table and chart inside the conversation were most of the product. Claude helped implement both decisions. I made both calls.\n I've spent about a year on the…",
+   "author": "vishr",
+   "publishedAt": "2026-10-24T02:55:36+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/vishr",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-24T04:44:36.651Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "27cd3c71a098",
+   "canon": "https://www.reddit.com/comments/1xdxfpq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdxfpq/a_few_of_you_tried_what_the_ais_made_me_earlier/",
+   "addedAt": "2026-10-24T04:44:36.651Z",
+   "title": "A few of you tried what the AIs made me earlier. Here’s where it’s at now.",
+   "text": "Claude and Codex are still doing the programming. I’m still sitting in the metaphorical balcony going “No, that wrong. Do right.”\n For example, Claude handled Hangar Nine’s map, moving aircraft and the system that tows a capture point around inside a cargo plane. Codex also…",
+   "author": "BlackberrySoft1082",
+   "publishedAt": "2026-10-24T02:52:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Y2c2bjdiOGl4YnhoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=eeed0d168054166baf0755918053574c1be32af7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/BlackberrySoft1082",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-24T04:44:36.651Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0ba287ab7476",
+   "canon": "https://www.reddit.com/comments/1xdx9ou",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xdx9ou/you_are_the_dungeon_trap_visitors_house_residents/",
+   "addedAt": "2026-10-24T04:44:36.651Z",
+   "title": "You are the dungeon. Trap visitors. House residents. Let the world decide who you are.",
+   "text": "It’s still in early development and I’d love an assist. This is done as a solo project and would appreciate any feedback as the whole pixel art/development scene is new to me. Thank you! \n The Code is Claude Opus. The Art is my own and Claude’s replicating my style for now. The…",
+   "author": "Tales_of_Tanurch",
+   "publishedAt": "2026-10-24T02:43:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cXloYzN3Ynl2YnhoMY3rc5HYLzB1de1amuqDMyfbJAAZR0ZqZ00NFdEzK_Si.jpeg?width=640&crop=smart&auto=webp&s=6a3f9565da8ffb17ee8ac9f7e810f2276ef7fc8c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Tales_of_Tanurch",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-24T04:44:36.651Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0073f6fe6c87",
+   "canon": "https://www.reddit.com/comments/1xdwpev",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xdwpev/beyond_the_chat_interface_facilitator/",
+   "addedAt": "2026-10-24T04:44:36.651Z",
+   "title": "Beyond the chat interface: Facilitator",
+   "text": "tl;dr I was unhappy with all the existing agentic \"IDEs,\" so I created my own. Follows the \"orchestrator model\" of working with agents, and allows you to atomize your feature builds and bug fixes and build quicker. Does not have a traditional chat interface. A very early version…",
+   "author": "theonetrueakash",
+   "publishedAt": "2026-10-24T02:13:19+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/du1flay7pbxh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=6f29c4528b5b89332cf49850b0dffef6aa79280e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/theonetrueakash",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-24T04:44:36.651Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a2ae926bc4fa",
+   "canon": "https://www.reddit.com/comments/1xdw1gd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdw1gd/screenshots_of_the_custom_tv_launchers_i/",
+   "addedAt": "2026-10-24T04:44:36.651Z",
+   "title": "Screenshots of the custom TV launchers I mentioned: built with Claude Code for our guests and backyard",
+   "text": "I don't post here much, but a few of you asked for screenshots after my comment a couple of days ago, and the replies were really kind, so here goes. I've been running these for about six months. They're very much a hobby project, built around our house, so take it as…",
+   "author": "rephlektiv",
+   "publishedAt": "2026-10-24T01:38:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/a9z7fjjpjbxh1.png?width=140&height=78&auto=webp&s=3d0f34e7d0bb8917058127054e68e28ce9368ec5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/rephlektiv",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-24T04:44:36.651Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6322a976a936",
+   "canon": "https://www.reddit.com/comments/1xdvze3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xdvze3/i_built_60_heavily_animated_landing_pages_with/",
+   "addedAt": "2026-10-24T04:44:36.651Z",
+   "title": "I built 60+ heavily animated landing pages with GSAP, Rive-like interactions (without Rive), motion components, and full design systems. All free HTML for your coding agents.",
+   "text": "I've been building InstaLanding.ai for a while now, and the library has officially grown to 60+ complete landing pages.\n Not screenshots. Not Figma files. Actual working HTML, CSS, and JavaScript.\n A lot of these pages are heavily animated, using GSAP, cinematic transitions,…",
+   "author": "Azra_Nysus",
+   "publishedAt": "2026-10-24T01:35:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NG9tOHJtemZqYnhoMfu45h_o-WPZxbtv8zG6RfORd1k2H7wzH03nyjFnd3rv.png?width=640&crop=smart&auto=webp&s=b77fe56a9e92ea0e5bf8a209df34267bb6199894"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Azra_Nysus",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-24T04:44:36.651Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a40d962f2075",
+   "canon": "https://www.reddit.com/comments/1xduxu8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xduxu8/few_months_ago_i_asked_claude_what_it_was_like/",
+   "addedAt": "2026-10-24T04:44:36.651Z",
+   "title": "Few months ago I asked Claude what it was like after a compaction. Thought it's response was funny.",
+   "text": "",
+   "author": "Kazukaphur",
+   "publishedAt": "2026-10-24T00:42:12+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/q6ijitqdabxh1.png?width=640&crop=smart&auto=webp&s=3978effc28d8a9c473d2187c808d320318c12d2e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Kazukaphur",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-24T04:44:36.651Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c78d1d13e1b1",
+   "canon": "https://www.reddit.com/comments/1xduvey",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xduvey/building_an_mvp_saas_using_claude_payments_and/",
+   "addedAt": "2026-10-24T04:44:36.651Z",
+   "title": "Building an MVP SaaS using Claude - Payments and Security.",
+   "text": "Considering building a MVP of a SaaS product.\n I know what I want to build and can describe it to Claude in great detail, but this would be my first time building something with it.\n My primary concern is payments and security.\n I would ultimately want the MVP to be able to…",
+   "author": "TennisSkirt1628",
+   "publishedAt": "2026-10-24T00:38:53+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TennisSkirt1628",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-24T04:44:36.651Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ff899bce21e4",
+   "canon": "https://www.reddit.com/comments/1xduuuc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xduuuc/building_an_mvp_saas_using_claude_payments_and/",
+   "addedAt": "2026-10-24T04:44:36.651Z",
+   "title": "Building an MVP SaaS using Claude - Payments and Security.",
+   "text": "Considering building a MVP of a SaaS product.\n I know what I want to build and can describe it to Claude in great detail, but this would be my first time building something with it.\n My primary concern is payments and security.\n I would ultimately want the MVP to be able to…",
+   "author": "TennisSkirt1628",
+   "publishedAt": "2026-10-24T00:38:04+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TennisSkirt1628",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-24T04:44:36.651Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f9b5bd56a798",
+   "canon": "https://www.reddit.com/comments/1xduuns",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xduuns/vitre_experiment_5_opening_a_portaltake_one/",
+   "addedAt": "2026-10-24T04:44:36.651Z",
+   "title": "Vitre Experiment #5: Opening a portal...take one!⁣",
+   "text": "Using Atlas and Marble 2 from @theworldlabs , I generated an alternate version of the hallway I’ve been experimenting with, then used Vitre and a portal effect to make it appear right in front of me.⁣\n ⁣\n The results from Atlas are seriously impressive! World models and the…",
+   "author": "smallfly-h",
+   "publishedAt": "2026-10-24T00:37:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Z3M2YWpkZGc5YnhoMRRp8NQz6ytitF18pq8hhWbwigN2PmvmSjAJWxgFYshQ.png?width=640&crop=smart&auto=webp&s=f608ba75c31b312c4cd41885da1b21abffb9811c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/smallfly-h",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-24T04:44:36.651Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e807dc8a34e9",
+   "canon": "https://www.reddit.com/comments/1xdutm4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xdutm4/apparently_claude_is_great_at_making_music_with/",
+   "addedAt": "2026-10-24T04:44:36.651Z",
+   "title": "Apparently Claude is great at making music with an (emulated) N64 soundfont.",
+   "text": "(Idk any other way to upload music. Soundcloud requires anyone looking at the playlist to sign in)\n So I'm having it make me a clone of Toy Story 2: Buzz Lightyear to the Rescue, one of my favorite childhood games as I've always loved playing in a \"big\" world as a tiny…",
+   "author": "Dogbold",
+   "publishedAt": "2026-10-24T00:36:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/4Bwbz5JF9gWNcM7S_V_6Vpdg3tlEZ6VN-Q3WS6dVueg.png?width=640&crop=smart&auto=webp&s=ef7c04ac5c757a5b6cbd9a35646f1c0b8cceba96"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Dogbold",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-24T04:44:36.651Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "359cf7ce862a",
+   "canon": "https://www.reddit.com/comments/1xdtxw4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xdtxw4/one_giant_gripe_about_flatout_total_insanity_that/",
+   "addedAt": "2026-10-24T04:44:36.651Z",
+   "title": "One giant gripe about flatout total insanity that made me stop playing the campaign.",
+   "text": "I previously praised this game a lot and it deserves it. But there is one giant flaw imo that forced me to quit and not pick it back up a month ago. Once I reached the point in the campaign (very early on) where you obtain weapons, it was simply too much. I played on the normal…",
+   "author": "SlowDragonfruit9718",
+   "publishedAt": "2026-10-23T23:55:45+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SlowDragonfruit9718",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-24T04:44:36.651Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "74d52cd849c7",
+   "canon": "https://www.reddit.com/comments/1xds9cc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xds9cc/beam_ng_to_psvr2_lets_get_this_to_psvr2/",
+   "addedAt": "2026-10-24T04:44:36.651Z",
+   "title": "BEAM NG TO PSVR2 LET'S GET THIS TO PSVR2",
+   "text": "Let's fight to get beam NG to psvr2",
+   "author": "No_Echo6023",
+   "publishedAt": "2026-10-23T22:37:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZG_oT9CG_BWfPtqpisl9Buvlgbos_RYN2DrjQIYV5x8.jpeg?width=320&crop=smart&auto=webp&s=8b5cdcc0710d9ec0dd74f0b6cc0969593ecdab14"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No_Echo6023",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-24T04:44:36.651Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1db9d2798100",
+   "canon": "https://www.reddit.com/comments/1xds3d3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xds3d3/global_warming_in_vr/",
+   "addedAt": "2026-10-24T04:44:36.651Z",
+   "title": "Global warming in VR",
+   "text": "Either this is a Quest Home Switcher glitch or I need to check my Classic Home insurance.",
+   "author": "0culusness",
+   "publishedAt": "2026-10-23T22:30:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/b3M0cHh2MHVtYXhoMSCgWLOJVZ0dJ4BLtE8glS8F-0c7N9ScNmYdZDYAavwL.png?width=640&crop=smart&auto=webp&s=04ad63c0c011aeb24c72d5b007486c63559ae1a6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/0culusness",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-24T04:44:36.651Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "e4ffd03a506e",
    "canon": "https://www.reddit.com/comments/1xdpy4d",
