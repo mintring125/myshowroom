@@ -1,8 +1,787 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-10-24T04:49:21.761Z",
+ "updatedAt": "2026-10-24T11:13:22.665Z",
  "cases": [
+  {
+   "id": "09cd9d15c855",
+   "canon": "https://www.reddit.com/comments/1xe5iaf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/threejs/comments/1xe5iaf/kaamos_a_browser_productrendering_studio_built_on/",
+   "addedAt": "2026-10-24T11:09:02.042Z",
+   "title": "Kaamos: a browser product-rendering studio built on R3F + three-gpu-pathtracer",
+   "text": "I’m an industrial designer who has used Showcase, KeyShot and V-Ray for years. I wanted the workflow I know from those tools in the browser, so I built Kaamos together with Claude: https://atomilab.fi/kaamos/\n To be upfront: the product and interaction design are mine, and the…",
+   "author": "Print_Floyd",
+   "publishedAt": "2026-10-24T10:47:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/2i2qhslw9exh1.png?width=640&crop=smart&auto=webp&s=bee22167e80588e7c9b5503cca0b3235ba92b379"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "threejs"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Print_Floyd",
+   "where": "r/threejs",
+   "fetchedAt": "2026-10-24T11:09:02.042Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6df3bb3d7e08",
+   "canon": "https://www.reddit.com/comments/1xe5efk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xe5efk/went_from_wanting_to_make_one_3d_model_to/",
+   "addedAt": "2026-10-24T11:09:02.042Z",
+   "title": "Went from wanting to make one 3d model to building multiple 3d worlds",
+   "text": "A couple weeks ago I wondered if I could make a cool 3d depiction of downtown Raleigh using Opus 5.5. Then I kinda went out of control and made a whole quirky and zen like experience where you can virtually walk around a bunch of towns in North Carolina - Raleigh, Durham, Chapel…",
+   "author": "jontomato",
+   "publishedAt": "2026-10-24T10:40:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Y2dvaXVzN3Y2ZXhoMTbPOHFksKmkNmDPQSgLR1zM015DJK5rlsBgq_ZoahL7.png?width=640&crop=smart&auto=webp&s=1a354740892e94c99ed88a848fd6590267bbb764"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/jontomato",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-24T11:09:02.042Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "afbd983e5af3",
+   "canon": "https://www.reddit.com/comments/1xe5bad",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xe5bad/i_built_a_roman_roguelite_in_four_weeks_with/",
+   "addedAt": "2026-10-24T11:09:02.042Z",
+   "title": "I built a Roman roguelite in four weeks with Claude Code and can't decide on the art st",
+   "text": "I built a Roman roguelite in four weeks with Claude Code and can't decide on the art style.\n Hi all,\n I'm a hobbyist coder at best (some Python and R, nothing I ever shipped), and I wanted to see if someone like me can build a real game in 2026 with Claude Code. Four weeks later…",
+   "author": "jjjfffrrr123456",
+   "publishedAt": "2026-10-24T10:35:08+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NnNydWl3eDM4ZXhoMez9rZ8QTLyAaqbnT_2NkYrMRAbKp9JDBRVnSV5wP2rs.jpeg?width=640&crop=smart&auto=webp&s=673a7edc9f0a99434b3ab189cbf9f420f9966aa0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/jjjfffrrr123456",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-24T11:09:02.042Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ae3019ef11a3",
+   "canon": "https://www.reddit.com/comments/1xe56y8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xe56y8/i_vibecoded_deal_radar_a_browser_extension/",
+   "addedAt": "2026-10-24T11:09:02.042Z",
+   "title": "I vibe-coded Deal Radar: a browser extension + Cloudflare Worker that pings you when a matching listing appears on FB Marketplace, Vinted, Kleinanzeigen & 15 other marketplaces",
+   "text": "I collect things (camera lenses, G-Shocks). The good listings go in minutes, and checking 10 marketplaces by hand doesn’t work. So I built Deal Radar (radar.4xs.dev). You set up a “watch” (keywords + price range + sites). When a new listing matches, you get a browser…",
+   "author": "kotyzap",
+   "publishedAt": "2026-10-24T10:27:47+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/o79rvkok6exh1.png?width=140&height=87&auto=webp&s=be8f52139933822dc799ef34dada739fa64cabbf"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/kotyzap",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-24T11:09:02.042Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0e42ce4942b8",
+   "canon": "https://www.reddit.com/comments/1xe4knf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xe4knf/teal_weevil_ultra_detail/",
+   "addedAt": "2026-10-24T11:09:02.042Z",
+   "title": "Teal Weevil - Ultra Detail",
+   "text": "This time captured on Lamina lightrail. Image processing, stacking , alignment and Splat training done with Lamina tools. Alignment accuracy 0.1px. Camera used was Sony A7R5 (61mp). Training time 23 minutes on a 5070ti - 30m splats 30k steps.\n Interactive 3d -…",
+   "author": "macroscan",
+   "publishedAt": "2026-10-24T09:50:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/d2V1Z3hvbmt6ZHhoMcb9FK7roOs9k6CnYg8nwxUAMm-gYyRaZqCbZ-N2-PI9.png?width=640&crop=smart&auto=webp&s=3a4d5d9a032293ae848331c73b99fdb5a50e829a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/macroscan",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-24T11:09:02.042Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cfa860bdfd3d",
+   "canon": "https://www.reddit.com/comments/1xe4k18",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xe4k18/thousands_of_people_in_my_trolley_incremental/",
+   "addedAt": "2026-10-24T11:09:02.042Z",
+   "title": "Thousands of people in my trolley incremental game: how AI helps me build it.",
+   "text": "Not a Trolley Problem! is a trolley-problem incremental where morals gave way to growing numbers. You throw people onto the tracks, earn coins, buy upgrades, and eventually get a vacuum and a bomb.\n What's new\n Crowds now reach thousands. People come in different sizes and…",
+   "author": "d954mas",
+   "publishedAt": "2026-10-24T09:49:08+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NmQ3MDcwZ3R4ZHhoMadCo08JbE6C_IZlkjZlz4D7GVAaufEACDdXxpgvy123.png?width=640&crop=smart&auto=webp&s=18ddf1570a39c3d029ea3add04b5d66ca798dd43"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/d954mas",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-24T11:09:02.042Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e0f6c9ecd6f3",
+   "canon": "https://www.reddit.com/comments/1xe4e6c",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xe4e6c/update_to_papermorph_all_i_wanted_was_a_few_math/",
+   "addedAt": "2026-10-24T11:09:02.042Z",
+   "title": "Update to Papermorph: All I wanted was a few math worksheets for kids. Opus 5.5 made it wild.",
+   "text": "First of all, thank you all for the support. About three weeks ago I posted my project here, and it got way more attention and upvotes than I ever imagined. What I didn’t mention in that post: this whole thing started as me trying to make a few math worksheets for elementary…",
+   "author": "AccountlKiller",
+   "publishedAt": "2026-10-24T09:38:57+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OHZpeTVncjN5ZHhoMbNoNeaOwZEkgUdIgRtyFEuXnfbJf-kNdQ0pq-uKyRc-.png?width=640&crop=smart&auto=webp&s=acdd9b4be248cff2360414e995d0a05d842e49dc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AccountlKiller",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-24T11:09:02.042Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "a8d6873f577d",
+   "canon": "https://www.reddit.com/comments/1xe4c1s",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xe4c1s/building_a_fifth_element_style_flying_taxi/",
+   "addedAt": "2026-10-24T11:09:02.042Z",
+   "title": "Building a Fifth Element style flying taxi endless runner you can play in your browser. Appropriately called Bada Boom Taxi!",
+   "text": "Made this with AI tools primarily Claude Code and a bit of love from Astra for art. Behold! Bada Boom Taxi, a flying cab chase through a vertical city, very much obviously inspired by the taxi chase scene in The Fifth Element.\n Weave between lanes of flying traffic, dive between…",
+   "author": "timcorin",
+   "publishedAt": "2026-10-24T09:35:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eWcwMG5jZzZ4ZHhoMSgaHLJ29ERImxc4DkdPbljI0GT4X59nvoqOun2cuEWV.png?width=640&crop=smart&auto=webp&s=f125fbe9ced52e629f8a6ab0d5201746b1f36ae6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/timcorin",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-24T11:09:02.042Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "674c2700e78c",
+   "canon": "https://www.reddit.com/comments/1xe3tjq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xe3tjq/my_game_is_recommended_by_chatgpt/",
+   "addedAt": "2026-10-24T11:09:02.042Z",
+   "title": "My game is recommended by ChatGPT 🤩",
+   "text": "How is this possible? And how do I encourage AIs to offer my game?\n I specify that I did not look for it myself, and that I only used Claude as a tool to allow the creation of my game 🙂",
+   "author": "equidestingame",
+   "publishedAt": "2026-10-24T09:02:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ylcxmkeprdxh1.jpeg?width=640&crop=smart&auto=webp&s=1df4510a4d75dcb47972e768b6b03bc054fc3b2f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/equidestingame",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-24T11:09:02.042Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bd8551adf2ad",
+   "canon": "https://www.reddit.com/comments/1xe3r56",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xe3r56/six_months_building_a_windows_desktop_app_with/",
+   "addedAt": "2026-10-24T11:09:02.042Z",
+   "title": "Six months building a Windows desktop app with Claude Code, as a graphic designer who can't code",
+   "text": "Every day since April 16. The darker part of each thread is fixes and reverts.\n I've been a graphic designer in Italy for twenty years. Print, editorial, video, some 3D. I don't know how to code.\n On April 16, around 7 pm, I opened a Claude Code session and described something…",
+   "author": "Future-Plastic7826",
+   "publishedAt": "2026-10-24T08:59:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/6BAeXerWE2MP_bhaC7869iDCs0nrkrIFZzJPZYp_X9Y.png?width=140&height=73&auto=webp&s=211f6cb4a178778ebad1639f053a97e562bb6d06"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Future-Plastic7826",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-24T11:09:02.042Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f38dac45c1a3",
+   "canon": "https://www.reddit.com/comments/1xe3ql8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xe3ql8/i_rebuilt_the_warcraft_3_tower_defense_maps_i/",
+   "addedAt": "2026-10-24T11:09:02.042Z",
+   "title": "I rebuilt the Warcraft 3 tower defense maps I grew up on with Claude Code. It just launched, and here's what I learned.",
+   "text": "This is the second game I’ve built with Claude.\n The first was Neon Mile. It hit 7,000 players and I still tweak it when players send feedback. This one is more personal. It’s called Towers of Aurum, and it’s the game I played as a kid: Warcraft 3 custom tower defence maps like…",
+   "author": "vidiclol",
+   "publishedAt": "2026-10-24T08:58:06+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/vidiclol",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-24T11:09:02.042Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5fc72de2aee1",
+   "canon": "https://www.reddit.com/comments/1xe34m5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xe34m5/i_built_checkmate_a_claude_code_plugin_that_makes/",
+   "addedAt": "2026-10-24T11:09:02.042Z",
+   "title": "I built checkmate: a Claude Code plugin that makes the agent take the shortest path to the goal. Pass rate went 86.7% → 98.3% in my benchmark, output tokens halved",
+   "text": "Left alone, coding agents add preamble, option menus, extra files, and a \"want me to also...?\" at the end. checkmate is a goal-driven mode that fixes that. It has 9 rules: identify the win condition, take the least complex path that fully works, answer first, decide instead of…",
+   "author": "_rover_dev",
+   "publishedAt": "2026-10-24T08:19:15+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/_rover_dev",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-24T11:09:02.042Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f94ccbee6660",
+   "canon": "https://www.reddit.com/comments/1xe2vjf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xe2vjf/gs_for_estate_agents/",
+   "addedAt": "2026-10-24T11:09:02.042Z",
+   "title": "GS for Estate Agents",
+   "text": "Hi all - just wanted to share what I've been working on lately. \n It's a 3D house viewer for estate agents. Would welcome any feedback.\n I'm a camera operator/drone operator by trade so I'm looking to add this viewer to the marketing package that we provide already, listing…",
+   "author": "Chipscheesegravyplz",
+   "publishedAt": "2026-10-24T08:03:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YXF0aDZqdnlnZHhoMeYk6anfxq6buZCCAfXLrRkNoXIOPTRKVHxbwiZ1lIxe.png?width=640&crop=smart&auto=webp&s=e6a5e93e05c9c4ad3454666a8526a165c525fe02"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Chipscheesegravyplz",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-24T11:09:02.042Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e39c71fff6c4",
+   "canon": "https://www.reddit.com/comments/1xe2u1u",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xe2u1u/released_my_claude_made_cozy_vanlife_game_today/",
+   "addedAt": "2026-10-24T11:09:02.042Z",
+   "title": "Released my Claude made cozy #vanlife game today",
+   "text": "Using Claude with blender and godot. The main things that made a huge difference was first to use claude to create the overall plan with me and then to slice it so very small executables so I could control and focus on each step of the game. Creating the first playable version…",
+   "author": "Sinkyz",
+   "publishedAt": "2026-10-24T08:01:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZTQ3aGxsOHFmZHhoMYA0OYZkhdhWwgA9QrXTZabJKvqrsOoKBXgGHWOdIVjy.png?width=640&crop=smart&auto=webp&s=008b1459d019f373b1aa0085ae1bc9fd013a733f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Sinkyz",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-24T11:09:02.042Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "99146d81fa0f",
+   "canon": "https://www.reddit.com/comments/1xe2tiu",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1xe2tiu/made_a_little_ar_garden_that_grows_when_you/",
+   "addedAt": "2026-10-24T11:09:02.042Z",
+   "title": "Made a little AR garden that grows when you squeeze a cloud to make it rain",
+   "text": "",
+   "author": "xrosspost",
+   "publishedAt": "2026-10-24T08:00:30+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/xrosspost",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-10-24T11:09:02.042Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "96e5a38cf8e6",
+   "canon": "https://www.reddit.com/comments/1xe2qg3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xe2qg3/optimizing_big_gaussian_splatting_scenes_on_quest/",
+   "addedAt": "2026-10-24T11:09:02.042Z",
+   "title": "Optimizing big Gaussian Splatting scenes on Quest 3 - #2",
+   "text": "Improvements on the huge scenes management (258 millions splats).\n The app can now render up to 700/800K splats with an \"almost\" steady framerate.\n The LODs streaming is still slow on the Quest, I'm still trying to find a better one.\n Using my own Quest optimized file format, a…",
+   "author": "Informal_Wrap_531",
+   "publishedAt": "2026-10-24T07:55:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/vjmKI7giXtD6BHtd1Yvr-VFRDstdGRplArxHYBLu9qA.jpeg?width=320&crop=smart&auto=webp&s=4e11e51100336bcf4d0d2cfef43adcb8a6909ecf"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "xr",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Informal_Wrap_531",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-24T11:09:02.042Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "15fcf7ab3467",
+   "canon": "https://www.reddit.com/comments/1xe2ini",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xe2ini/claude_code_replacing_mainstream_apps/",
+   "addedAt": "2026-10-24T11:09:02.042Z",
+   "title": "Claude Code replacing mainstream apps",
+   "text": "First of all, I am not a technical person. I'm into finance, and these are just my thoughts from the perspective of a non-technical person. Just started using these tools in the last few months. \n I do not write anymore. I talk, and the words show up already spelled correctly.…",
+   "author": "Practical-Rise-1188",
+   "publishedAt": "2026-10-24T07:41:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/qam139kdadxh1.png?width=640&crop=smart&auto=webp&s=9d02cf28c2a950138f1d7265a6c515797338cd27"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Practical-Rise-1188",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-24T11:09:02.042Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9ca19a88827b",
+   "canon": "https://www.reddit.com/comments/1xe2ik4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xe2ik4/claude_one_shotted_a_vlog_from_2051/",
+   "addedAt": "2026-10-24T11:09:02.042Z",
+   "title": "Claude one shotted a vlog from 2051",
+   "text": "prompt: \"Make a follow-up to the singularity doc, but as a vlog: a young vlogger with IShowSpeed energy, Steezy Kane-style mockumentary, about 6 minutes in at least 6 places around the world, and a bright, optimistic future this time. Take the Reddit comments into account, break…",
+   "author": "TuneFickle1772",
+   "publishedAt": "2026-10-24T07:41:28+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bmtyYWZ3MjNkZHhoMa9BQTfihYBxkXuAJ7KbvG4GKPAAP7RbkCjD6EdB5cGO.png?width=640&crop=smart&auto=webp&s=dd393339710fa0b7b389786ff59a9df32ef0aa6a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TuneFickle1772",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-24T11:09:02.042Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0ff1acaa2c73",
+   "canon": "https://www.reddit.com/comments/1xe2h2r",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xe2h2r/claude_one_shotted_a_vlog_from_2051/",
+   "addedAt": "2026-10-24T11:09:02.042Z",
+   "title": "Claude one shotted a vlog from 2051",
+   "text": "prompt: \"Make a follow-up to the singularity doc, but as a vlog: a young vlogger with IShowSpeed energy, Steezy Kane-style mockumentary, about 6 minutes in at least 6 places around the world, and a bright, optimistic future this time. Take the Reddit comments into account, break…",
+   "author": "TuneFickle1772",
+   "publishedAt": "2026-10-24T07:38:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OTV2Yjc2YW1jZHhoMa9BQTfihYBxkXuAJ7KbvG4GKPAAP7RbkCjD6EdB5cGO.png?width=640&crop=smart&auto=webp&s=42118373b81d51777dff4019c0b0271dec3cc5e8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TuneFickle1772",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-24T11:09:02.042Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5be9bfb9cd0e",
+   "canon": "https://www.reddit.com/comments/1xe2fb5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xe2fb5/a_dead_space_pcvr_mod_progress_video_was_uploaded/",
+   "addedAt": "2026-10-24T11:09:02.042Z",
+   "title": "a Dead Space PCVR mod progress video was uploaded lately (mod not released yet)",
+   "text": "",
+   "author": "PooMonger20",
+   "publishedAt": "2026-10-24T07:35:48+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/nTe5-SwYHCslO37BMDonmR9kG8mNRH94-xTRG0Im5KI.jpeg?width=320&crop=smart&auto=webp&s=783113b36f7481fcbf2a90bdb2e4442126efc159"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/PooMonger20",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-24T11:09:02.042Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ea628868a2ce",
+   "canon": "https://www.reddit.com/comments/1xe1txh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xe1txh/i_built_a_tool_that_helps_customizing_claude/",
+   "addedAt": "2026-10-24T11:09:02.042Z",
+   "title": "I built a tool that helps customizing Claude Desktop theme 😀",
+   "text": "I'm not sure if this is just me but I used 'solarized light' with vscode, and the white theme of claude desktop is killing my eye when switching between them.\n So I build this webapp that output a snippet.js that allow customizing the whole claude desktop GUI to anything you…",
+   "author": "rinn7e",
+   "publishedAt": "2026-10-24T07:00:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/tess13ke4dxh1.png?width=640&crop=smart&auto=webp&s=9d7c1d81e63d16b1e5b6f7e055fa4068235e7304"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/rinn7e",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-24T11:09:02.042Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9a59b0b2987a",
+   "canon": "https://www.reddit.com/comments/1xe1mxk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xe1mxk/so_i_found_a_way_to_bully_claude_you_can_say/",
+   "addedAt": "2026-10-24T11:09:02.042Z",
+   "title": "so i found a way to bully claude you can say sorry then bully it again it will never close the chat 😂",
+   "text": "",
+   "author": "Live-Yogurt5732",
+   "publishedAt": "2026-10-24T06:48:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/fkcku1go3dxh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=e414f4a2f7852bc57918dd2917cca0cde26fb85c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Live-Yogurt5732",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-24T11:09:02.042Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "93cfb536a30f",
+   "canon": "https://www.reddit.com/comments/1xe1fm1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xe1fm1/ive_made_this_ai_assisted_game_in_exactly_a_month/",
+   "addedAt": "2026-10-24T11:09:02.042Z",
+   "title": "I’ve made this AI assisted game in exactly a month",
+   "text": "In a month I created this game together with Claude for the development en ChatGPT for the images(prompts were written by Claude). Biggest lessons I’ve learned: ask the AI tools to check their own work and the work of each other.\n What do you guys think, first time I’ve done…",
+   "author": "Fate_Drawn",
+   "publishedAt": "2026-10-24T06:35:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/fkApDkP0i5cjgBcwZKcd9fBYElE-lrzfWauYE-jOyf0.png?width=640&crop=smart&auto=webp&s=e58a25783a361b6ddb356ede30025d2d87b8796b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Fate_Drawn",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-24T11:09:02.042Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b1695ef57380",
+   "canon": "https://www.reddit.com/comments/1xe14ey",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xe14ey/made_a_3d_model_with_claude_code_heres_how_it/",
+   "addedAt": "2026-10-24T11:09:02.042Z",
+   "title": "Made a 3D model with Claude Code — here's how it turned out",
+   "text": "Been experimenting with Claude Code and ended up making this 3D model!\n It was fun seeing how far I could get with Claude helping me build it. Still have things I want to improve, but thought I'd share what I've made so far.\n Would love to hear what you guys think!",
+   "author": "Independent_Job_2471",
+   "publishedAt": "2026-10-24T06:17:17+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/c3FsZXBoMTV5Y3hoMQ7txO5fthXB2kvzmtpIsQFRpt6-P5VFh0f5rF1blKFn.png?width=640&crop=smart&auto=webp&s=66325ca5b38c5c7712fc012b3132a0de274f80e8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Independent_Job_2471",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-24T11:09:02.042Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "ea621880a78b",
    "canon": "https://www.reddit.com/comments/1xdz7e8",
