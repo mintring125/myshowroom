@@ -1,8 +1,495 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-10-24T21:00:37.442Z",
+ "updatedAt": "2026-10-24T23:25:45.868Z",
  "cases": [
+  {
+   "id": "3c67853e4de2",
+   "canon": "https://www.reddit.com/comments/1xemplm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xemplm/i_got_claude_to_play_ultima_online_with_me_after/",
+   "addedAt": "2026-10-24T23:21:16.093Z",
+   "title": "I got Claude to play Ultima Online with me... after it reverse engineered the game files and made me my own private server.",
+   "text": "This is absolutely wild. Anyone who played this game in the 90s-00s... would absolutely appreciate what is happening here. Claude can play Ultima Online with us... you just have to ask. \n How far technology has come. I ❤️ Claude.",
+   "author": "PestoPastaLover",
+   "publishedAt": "2026-10-24T23:14:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MW5zdHNvcDV6aHhoMeK7sR7HkWTwLbixPxsac-GL5gnqHlbR8bUaeHTd8G4p.png?width=640&crop=smart&auto=webp&s=6f0c3624e618f329d01f4d52f002ffefbc233bad"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/PestoPastaLover",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-24T23:21:16.093Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fdbecbe3e1cc",
+   "canon": "https://www.reddit.com/comments/1xemjr8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xemjr8/i_built_a_web_browser_from_scratch_in_rust_with/",
+   "addedAt": "2026-10-24T23:21:16.093Z",
+   "title": "I built a web browser from scratch in Rust with Claude Code — 91%+ WPT compliance, 97.8% ECMAScript, and 100% WebAssembly. No Chromium, no WebView.",
+   "text": "I've spent the last few months building a web browser from scratch in Rust. With Claude Code helping me along the way, it's somehow turned into a real browser engine.\n Meet T.A.B. (Tiny Ass Browser), powered by my Kingmaker engine.\n And by browser, I don't mean another Chromium…",
+   "author": "PhallicPorsche",
+   "publishedAt": "2026-10-24T23:06:36+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/6lktn096xhxh1.png?width=140&height=73&auto=webp&s=babd2207c92728b07dac17b03968a46d9071af0a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/PhallicPorsche",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-24T23:21:16.093Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d8c015463b01",
+   "canon": "https://www.reddit.com/comments/1xemijm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xemijm/the_photo_she_sent_me_vs_her_in_real_life/",
+   "addedAt": "2026-10-24T23:21:16.093Z",
+   "title": "The photo she sent me vs her in real life.",
+   "text": "I’ve been working on a first person shooter for the past couple of months. The graphics aren’t great, but the gameplay is there, and it works.\n One thing I’ve noticed is how hard it is to come up with something original. Every time I think of a cool feature or unique killstreak,…",
+   "author": "Soul_Mate_4ever",
+   "publishedAt": "2026-10-24T23:05:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/di0pn56yxhxh1.jpeg?width=140&height=82&auto=webp&s=e6064da0d10c88e54da5293a8f632b46ae653965"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Soul_Mate_4ever",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-24T23:21:16.093Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d44405da25b2",
+   "canon": "https://www.reddit.com/comments/1xem824",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xem824/a_low_hum/",
+   "addedAt": "2026-10-24T23:21:16.093Z",
+   "title": "A Low Hum",
+   "text": "TestFlight Link: https://testflight.apple.com/join/vyNcYTqa\n Hello! Been working on A Low Hum for about a month now. Using Claude Fable with my spare usage for the weeks. It’s been fun writing a storyline and rulesets for Claude to follow when implementing new parts of the game.…",
+   "author": "ItchyPancakesz",
+   "publishedAt": "2026-10-24T22:51:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/2z1r3nrivhxh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=da3ba506ed83d9ef9a0ea460ac85cef86ba2ceea"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ItchyPancakesz",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-24T23:21:16.093Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "05941b044845",
+   "canon": "https://www.reddit.com/comments/1xem414",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xem414/i_am_turning_quake_into_boneworks_and_it_actually/",
+   "addedAt": "2026-10-24T23:21:16.093Z",
+   "title": "I am turning Quake into Boneworks... and it actually works!",
+   "text": "",
+   "author": "SuperV1234",
+   "publishedAt": "2026-10-24T22:46:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/nwfu4a0VL3r1a7Ulct7RK4LiIq3NMRQfYTbJs6a3Dsc.jpeg?width=320&crop=smart&auto=webp&s=5079bfbd0a364662213fc9e1ce6bf6a3793349c9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SuperV1234",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-24T23:21:16.093Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e821208f6d11",
+   "canon": "https://www.reddit.com/comments/1xem176",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xem176/micro_raiders_need_people_to_play_my_extraction/",
+   "addedAt": "2026-10-24T23:21:16.093Z",
+   "title": "Micro Raiders : Need people to play my extraction fantasy browser game (claude/godot)",
+   "text": "Hi guys!\n I'm looking for a few players/testers for my top-down pixel art fantasy extraction looter, playable directly in the browser :\n https://urls.fr/zcRMmz (and you can join the Discord too)\n I need people to find bugs and tell me what feels off. There are about 20 new spots…",
+   "author": "UnknownCitizen7",
+   "publishedAt": "2026-10-24T22:42:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/dgrys0kgthxh1.gif?width=640&crop=smart&s=58580cbe90d42027352a59ee1fb17352f0497d40"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/UnknownCitizen7",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-24T23:21:16.093Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d30c810fa73d",
+   "canon": "https://www.reddit.com/comments/1xelz3b",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xelz3b/i_made_a_music_player_for_plex_with_claude_code/",
+   "addedAt": "2026-10-24T23:21:16.093Z",
+   "title": "I made a music player for Plex with Claude Code, it's finally on the App Store (free+) (no ads/cookies/signup)",
+   "text": "Hi everyone,\n For the last months I've been building Hathor, a music player for Plex on iPhone (a Mac version is coming). I'm a solo dev and Claude Code did a big part of the coding with me, so I wanted to share it here.\n Link: https://apps.apple.com/app/id6821212497\n What's…",
+   "author": "BastienCa",
+   "publishedAt": "2026-10-24T22:39:36+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/mtc8ctr4thxh1.jpeg?width=140&height=101&auto=webp&s=35055832d963357af35020a9e790e1fe6f41a5d2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/BastienCa",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-24T23:21:16.093Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "37aed4a491c7",
+   "canon": "https://www.reddit.com/comments/1xele5y",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xele5y/verantyx_update_elite_dangerous_in_vr_on_a_mac/",
+   "addedAt": "2026-10-24T23:21:16.093Z",
+   "title": "VeRantyx update: Elite Dangerous in VR on a Mac, and the project’s new home after GitHub hid my account",
+   "text": "It’s Self Promotion Saturday, so a quick update on VeRantyx, my free, open source project for playing PC VR games from an Apple silicon Mac in the Vision Pro (no gaming PC, no Wine; the games and the real SteamVR run on a Windows runtime I’m writing from scratch).\n New since my…",
+   "author": "Other_Train9419",
+   "publishedAt": "2026-10-24T22:12:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cmI5dXV4NWdvaHhoMfrcFBk6j7lvQteFgO1hAYwCG0BEsFCFCzvz9FKjz7uE.png?width=640&crop=smart&auto=webp&s=f10a133e829e4b7fd9c955e906c5b7d3a3f7738e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Other_Train9419",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-24T23:21:16.093Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "04adb115069b",
+   "canon": "https://www.reddit.com/comments/1xekrey",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xekrey/ive_been_building_a_procedural_fantasy_world_with/",
+   "addedAt": "2026-10-24T23:21:16.093Z",
+   "title": "I’ve been building a procedural fantasy world with Claude and just added seamless great city and underground dungeons",
+   "text": "Claude and I just finished the biggest update yet to Worldseed, retro-inspired open-world fantasy game.\n The idea is that you give the game a name, and it generates an entire world from it: its people, towns, wilderness, and music. You land in that world and explore it.\n With…",
+   "author": "niklasdaking",
+   "publishedAt": "2026-10-24T21:44:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cjQ5aXRsZjFqaHhoMQA0Yg5z6sE21E9OXi2fgIe-zHYZD1mJ3DlUhzy3pEKj.png?width=640&crop=smart&auto=webp&s=c20536c16fcd2af56f4cac1077215957282ee31e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/niklasdaking",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-24T23:21:16.093Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "85ab60926883",
+   "canon": "https://www.reddit.com/comments/1xekp0a",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xekp0a/made_3_pokemon_fan_games_with_claude_code_heres/",
+   "addedAt": "2026-10-24T23:21:16.093Z",
+   "title": "Made 3 Pokemon fan games with Claude Code, here’s how you can make your own",
+   "text": "So I’ve been making Pokemon fan games with Claude Code doing basically all the coding, and a few people asked how, so here’s the simple version.\n Don’t try to make a whole Pokemon game. Pick one idea. One of mine is just real-time battles, one is 4 people hunting a legendary…",
+   "author": "Western_Ad_418",
+   "publishedAt": "2026-10-24T21:41:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M3pqdWpnY3FoaHhoMZOGfwD1OoufkDgMLcEk8b5t3ym9bPt6CSNNNMdFcBwO.png?width=640&crop=smart&auto=webp&s=17d07cda48ef132e28ca32914b22d4efa15bd5a0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Western_Ad_418",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-24T23:21:16.093Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ab8cdbc5e3f5",
+   "canon": "https://www.reddit.com/comments/1xek90v",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xek90v/this_was_made_by_claude/",
+   "addedAt": "2026-10-24T23:21:16.093Z",
+   "title": "This was made by Claude",
+   "text": "I do actually code and i do motion design (after effects) on the side as well, just asked claude to make a 50s motion design sample for me and it did,\n I did add the voice over, the sfx, some effects and transitions since this was built on the free version and with no…",
+   "author": "Little-Jump-5572",
+   "publishedAt": "2026-10-24T21:21:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/anlzcnBsampmaHhoMeqyZOkCLlBUq51tXzBTK1GF4PiYViD7dcRkVrHY_9tf.png?width=640&crop=smart&auto=webp&s=be457f3a8136ae699f65a83e14b9664a10c11941"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Little-Jump-5572",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-24T23:21:16.093Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9c50138e79b6",
+   "canon": "https://www.reddit.com/comments/1xek89y",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xek89y/30_days_of_claude_opus_55_and_227_commits_heres/",
+   "addedAt": "2026-10-24T23:21:16.093Z",
+   "title": "30 days of Claude Opus 5.5 and 227 commits. Here's what I was able to build.",
+   "text": "Wishlist it here: https://store.steampowered.com/app/5350560/I_Just_Wanted_to_Fish/",
+   "author": "ForkedPush",
+   "publishedAt": "2026-10-24T21:21:04+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OTAxOXl3cDZmaHhoMTRb2vLrv41CNBvWa7BX0Bc9L4Io8_-IInhCE8nG64Wf.png?width=640&crop=smart&auto=webp&s=7d0d045b92a39170443ae7a82a172ec801ceabe1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ForkedPush",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-24T23:21:16.093Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "ed560da7d654",
+   "canon": "https://www.reddit.com/comments/1xek70t",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xek70t/tried_to_capture_the_lonely_ai_pilled_founder/",
+   "addedAt": "2026-10-24T23:21:16.093Z",
+   "title": "Tried to capture the lonely AI pilled founder vibes",
+   "text": "Doing the solo thing and tried to make a little lander to capture the vibe of those late night Claude sessions we all endure.",
+   "author": "Sketaverse",
+   "publishedAt": "2026-10-24T21:19:37+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Sketaverse",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-24T23:21:16.093Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f3e4feed8bf7",
+   "canon": "https://www.reddit.com/comments/1xejx4e",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xejx4e/the_legend_of_zelda_oracle_of_seasons_in_vr/",
+   "addedAt": "2026-10-24T23:21:16.093Z",
+   "title": "The Legend of Zelda: Oracle of Seasons in VR",
+   "text": "This is the AI slop mod I’m working on – is anyone interested, or shall I just keep it to myself and not bother you any more?",
+   "author": "ConstructionAgile560",
+   "publishedAt": "2026-10-24T21:07:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/jTrRvKUuEmbSeL4XG4UwZA4K4nzrQ4I3RHJjorGa6WE.jpeg?width=320&crop=smart&auto=webp&s=aef1eec82aca0e1ec9ba5773940e218709dfdc4e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ConstructionAgile560",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-24T23:21:16.093Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3c50866ebecf",
+   "canon": "https://www.reddit.com/comments/1xeju1g",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vrdev/comments/1xeju1g/heres_an_example_of_gaze_interactions_i_added_to/",
+   "addedAt": "2026-10-24T23:21:16.093Z",
+   "title": "Here’s an example of gaze interactions I added to the VR/MR version of “Cubiques” and how you can test these features early with Meta XR Simulator. The SDK provides gaze simulation out of the box as part of v207! 🙌",
+   "text": "",
+   "author": "dilmerv",
+   "publishedAt": "2026-10-24T21:04:01+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/dilmerv",
+   "where": "r/vrdev",
+   "fetchedAt": "2026-10-24T23:21:16.093Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "358a24b98da3",
    "canon": "https://www.reddit.com/comments/1xej7lt",
