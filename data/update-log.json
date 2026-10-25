@@ -1,6 +1,40 @@
 {
  "runs": [
   {
+   "at": "2026-10-25T23:25:43.936Z",
+   "ms": 492322,
+   "added": 14,
+   "updated": 140,
+   "failed": 0,
+   "deferred": 0,
+   "total": 3026,
+   "found": {
+    "ohmyopus": 26,
+    "gsplat:reddit": 67,
+    "gsplat:x": 0,
+    "gsplat:threads": 0,
+    "ai:reddit": 15,
+    "ai:x": 0,
+    "ai:threads": 0,
+    "ar:reddit": 53,
+    "ar:x": 0,
+    "ar:threads": 0,
+    "xr:reddit": 49,
+    "xr:x": 0,
+    "xr:threads": 0
+   },
+   "messages": [
+    "참고 사이트 ohmyopus 확인 중…",
+    "ohmyopus: 원문 링크 없음 https://ohmyopus.com/c/senko-3games",
+    "  새 사례 26건",
+    "[gsplat] reddit 자동 발견 67건",
+    "[ai] reddit 자동 발견 15건",
+    "[ar] reddit 자동 발견 53건",
+    "[xr] reddit 자동 발견 49건",
+    "규칙에 맞지 않아 숨긴 자동 발견 글: 49건"
+   ]
+  },
+  {
    "at": "2026-10-25T21:01:59.550Z",
    "ms": 523217,
    "added": 26,
@@ -985,73 +1019,39 @@
     "[ai] reddit 자동 발견 27건",
     "규칙에 맞지 않아 숨긴 자동 발견 글: 49건"
    ]
-  },
-  {
-   "at": "2026-10-18T23:22:14.601Z",
-   "ms": 405547,
-   "added": 20,
-   "updated": 136,
-   "failed": 0,
-   "deferred": 0,
-   "total": 2140,
-   "found": {
-    "ohmyopus": 16,
-    "gsplat:reddit": 71,
-    "gsplat:x": 0,
-    "gsplat:threads": 0,
-    "ai:reddit": 18,
-    "ai:x": 0,
-    "ai:threads": 0,
-    "ar:reddit": 50,
-    "ar:x": 0,
-    "ar:threads": 0,
-    "xr:reddit": 48,
-    "xr:x": 0,
-    "xr:threads": 0
-   },
-   "messages": [
-    "참고 사이트 ohmyopus 확인 중…",
-    "ohmyopus: 원문 링크 없음 https://ohmyopus.com/c/senko-3games",
-    "  새 사례 16건",
-    "[gsplat] reddit 자동 발견 71건",
-    "[ai] reddit 자동 발견 18건",
-    "[ar] reddit 자동 발견 50건",
-    "[xr] reddit 자동 발견 48건",
-    "규칙에 맞지 않아 숨긴 자동 발견 글: 49건"
-   ]
   }
  ],
  "last": {
-  "at": "2026-10-25T21:01:59.550Z",
-  "ms": 523217,
-  "added": 26,
-  "updated": 143,
+  "at": "2026-10-25T23:25:43.936Z",
+  "ms": 492322,
+  "added": 14,
+  "updated": 140,
   "failed": 0,
   "deferred": 0,
-  "total": 3012,
+  "total": 3026,
   "found": {
    "ohmyopus": 26,
-   "xr:reddit": 48,
-   "xr:x": 0,
-   "xr:threads": 0,
    "gsplat:reddit": 67,
    "gsplat:x": 0,
    "gsplat:threads": 0,
-   "ai:reddit": 22,
+   "ai:reddit": 15,
    "ai:x": 0,
    "ai:threads": 0,
    "ar:reddit": 53,
    "ar:x": 0,
-   "ar:threads": 0
+   "ar:threads": 0,
+   "xr:reddit": 49,
+   "xr:x": 0,
+   "xr:threads": 0
   },
   "messages": [
    "참고 사이트 ohmyopus 확인 중…",
    "ohmyopus: 원문 링크 없음 https://ohmyopus.com/c/senko-3games",
    "  새 사례 26건",
-   "[xr] reddit 자동 발견 48건",
    "[gsplat] reddit 자동 발견 67건",
-   "[ai] reddit 자동 발견 22건",
+   "[ai] reddit 자동 발견 15건",
    "[ar] reddit 자동 발견 53건",
+   "[xr] reddit 자동 발견 49건",
    "규칙에 맞지 않아 숨긴 자동 발견 글: 49건"
   ]
  }

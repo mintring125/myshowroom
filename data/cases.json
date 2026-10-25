@@ -1,7 +1,464 @@
 {
  "version": 1,
- "updatedAt": "2026-10-25T21:01:59.486Z",
+ "updatedAt": "2026-10-25T23:25:43.876Z",
  "cases": [
+  {
+   "id": "008368d2991c",
+   "canon": "https://www.reddit.com/comments/1xfgr0m",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xfgr0m/watch_me_cook_vr_trick_shots_on_rust/",
+   "addedAt": "2026-10-25T23:21:13.326Z",
+   "title": "\"Watch me cook…\" 🍳🎯 VR Trick Shots on Rust",
+   "text": "With the new Call of Duty coming out I have been trying to practice my own VR quick scopes. Praying for them to come out with a VR version as soon a possible. \n I kinda figure most games are heading that direction anyway.\n I hope you enjoy! Let me know what you think 🤔",
+   "author": "HeadMasterpiece9372",
+   "publishedAt": "2026-10-25T23:12:11+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ptW0evOfzYo_kKrZqlEhelW8BXQ2g5fzYn5SpKvDQKk.jpeg?width=320&crop=smart&auto=webp&s=45114e4b528c2b0aa770469e91c4ef5d1263e71a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/HeadMasterpiece9372",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-25T23:21:13.326Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "24bc93a61b7c",
+   "canon": "https://www.reddit.com/comments/1xfgd5h",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xfgd5h/i_made_a_free_music_streaming_service_entirely/",
+   "addedAt": "2026-10-25T23:21:13.326Z",
+   "title": "I made a free music streaming service entirely using claude",
+   "text": "I was bored so I created a music streaming service with Opus 5.5 (not inspired by spotify at all)\n the music and clips come from youtube musixmatch, lrclib and LyricFind.\n https://preview.redd.it/bn3xhzyozoxh1.png?width=1912&format=png&auto=webp&s=7b899911742dffb7152ffeed6b7e3010…",
+   "author": "Top-Quiet-9088",
+   "publishedAt": "2026-10-25T22:55:08+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Top-Quiet-9088",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T23:21:13.326Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "a91adb7b1e29",
+   "canon": "https://www.reddit.com/comments/1xfgbws",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xfgbws/phosphor_02_pixel_vfx_you_can_make_with_your/",
+   "addedAt": "2026-10-25T23:21:13.326Z",
+   "title": "PHOSPHOR 0.2: pixel VFX you can make with your coding agent, no VFX experience needed. Here's what one prompt got me",
+   "text": "I'm not a VFX artist, and pixel effects were always the part of my games I put off. Fire that doesn't look like a traffic cone, water that actually flows, explosions with some weight to them.\n So I built PHOSPHOR, a free pixel VFX editor, and in 0.2 I made it work well with…",
+   "author": "sinopsky",
+   "publishedAt": "2026-10-25T22:53:36+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dGQ5dzgxaG0wcHhoMTpIMzeeyJgP6KTLqS2Qjg93PnCwgDagKMaHC6jBVmNY.png?width=640&crop=smart&auto=webp&s=b67dcc2f127601c066efba81ae1a42c33d5c3d3b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/sinopsky",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-25T23:21:13.326Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1ca71e879f4b",
+   "canon": "https://www.reddit.com/comments/1xfg3i5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfg3i5/zest_the_qr_code_designer_i_built_with_claude/",
+   "addedAt": "2026-10-25T23:21:13.326Z",
+   "title": "Zest: the QR code designer I built with claude because i got sick of seeing the same ugly square.",
+   "text": "I built this with Claude, it's called zest: zest.lemoncello.studio. Designing is free, there's no account, and the static codes you download never expire.\n Why\n I work in print. QR codes cross my desk every day and after a decade of them landing on everything I'm tired of plain…",
+   "author": "VibinVentricles",
+   "publishedAt": "2026-10-25T22:43:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Zno1NHBxeWl5b3hoMWNJhoeERMIWC_cf_mvVWdxGFt2XoBF52rlXmNIpUzqU.png?width=640&crop=smart&auto=webp&s=d12ccb4ed0c15734da3f6290f1b64e1e0e907a6d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/VibinVentricles",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-25T23:21:13.326Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5bafd13462c5",
+   "canon": "https://www.reddit.com/comments/1xfg2wy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xfg2wy/in_browser_flight_experience_on_rocket_from_your/",
+   "addedAt": "2026-10-25T23:21:13.326Z",
+   "title": "In browser flight experience on rocket from your or other location",
+   "text": "Ageofvibecoders.com try it out right in the browser. Application is in progress as well, would be glad on any feedback",
+   "author": "rassl_ivan",
+   "publishedAt": "2026-10-25T22:42:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YTc5anVxYnN5b3hoMSM2Xr6GFCocKZwifHYHdYddGoCyTNgLhrVTUMCemXlr.jpeg?width=640&crop=smart&auto=webp&s=fbd3f9e6ab14a49575ad8e60cde527d6464011d2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/rassl_ivan",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-25T23:21:13.326Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f291e90809a3",
+   "canon": "https://www.reddit.com/comments/1xfg2k0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xfg2k0/ag_drive_ios_ipa_to_pc/",
+   "addedAt": "2026-10-25T23:21:13.326Z",
+   "title": "AG Drive - iOS ipa to pc",
+   "text": "made with claude using ghidra opengl and python.\n (what is it) old 2015 AGR iOS game to test new metal graphics, delisted on iOS and android. studio went inactive and creator Petteri Putkonen passing away (rip).\n still a few visual bugs but mostly done",
+   "author": "x_Arxic",
+   "publishedAt": "2026-10-25T22:42:00+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YmpubnRzOXp3b3hoMY0QYLGdGH36ptcXteVDWO-cKP73k8oN7aMcL-wMaRt6.png?width=640&crop=smart&auto=webp&s=0c35432f53ad64d8c7b7ee82b36d79d879ced74a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/x_Arxic",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-25T23:21:13.326Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b6caa19b019f",
+   "canon": "https://www.reddit.com/comments/1xffw90",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xffw90/tellurion_a_macos_terminal_that_puts_all_your/",
+   "addedAt": "2026-10-25T23:21:13.326Z",
+   "title": "Tellurion: a macOS terminal that puts all your Claude Code agents on one board and shows what each is doing",
+   "text": "Three weeks ago I posted a Ghostty fork here that shows what Claude Code is doing while it works. The support in that thread is a big part of why I kept going, and a lot of what you asked for is in 1.8: more agents, multiple accounts, approving from anywhere, and a better way to…",
+   "author": "Resident-Priority326",
+   "publishedAt": "2026-10-25T22:34:20+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MmJ3MHBvdGJ4b3hoMUJdFkb5RbKOQ7aROEoTf-7A90NcAN-hf8RRfwCrdodT.png?width=640&crop=smart&auto=webp&s=a759a98272845948dfe604b376ba758533daeca9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Resident-Priority326",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T23:21:13.326Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "874cd4e2d5af",
+   "canon": "https://www.reddit.com/comments/1xffe1t",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xffe1t/i_made_this_entire_video_never_leaving_my_claude/",
+   "addedAt": "2026-10-25T23:21:13.326Z",
+   "title": "I made this entire video never leaving my Claude Code terminal with Opus 5.5",
+   "text": "I made this over about a week with Claude Code, I basically tried acting as a director describing the different shots I wanted in detail scene by scene and iterating until I was happy with them. I also mainly talked to one session that I had orchestrating different fresh…",
+   "author": "No-Stage1815",
+   "publishedAt": "2026-10-25T22:12:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Yng1cjY2Zzdzb3hoMXFA7G1hVEnXDrXomypTeMH-icJsEBcR0dYzEmE7x_cb.png?width=640&crop=smart&auto=webp&s=b3920531fbbd0122f375426fb8311eeb6ccc55f2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No-Stage1815",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T23:21:13.326Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "19b314c17957",
+   "canon": "https://www.reddit.com/comments/1xff1ni",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xff1ni/wasteland_warriors_of_the_world_pseudo_3d_car/",
+   "addedAt": "2026-10-25T23:21:13.326Z",
+   "title": "Wasteland warriors of the world - pseudo 3d car combat game",
+   "text": "4 days of progress using Claude Opus 5.5 and ChatGPT Sonnet. Lots and lots and lots of playtesting. I started off my generating screenshots of how I wanted the gameworld to look, then worked with Claude to build it bit by bit by bit. Lots of play testing, iteration, tweaking.…",
+   "author": "KingofKingsofKingsof",
+   "publishedAt": "2026-10-25T21:58:13+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ifIHeqMimq-XdcCpIfBtyjVBrGnsKCAZuULaEiYii44.jpeg?width=320&crop=smart&auto=webp&s=9f135c6c9d5c07b4f3dce9359ed890445363cc9d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/KingofKingsofKingsof",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-25T23:21:13.326Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "2c64616b18fb",
+   "canon": "https://www.reddit.com/comments/1xfezjz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xfezjz/i_am_making_a_zombie_horde_shooter_game_using/",
+   "addedAt": "2026-10-25T23:21:13.326Z",
+   "title": "I am making a zombie horde shooter game using claude",
+   "text": "The Mansion is a first-person zombie horde shooter made with Claude in a couple of days, I just made this level but planning to expand to different locations and add more weapons.\n Board up and seal every window with metal plates made from scrap Pick an upgrade card after each…",
+   "author": "john1587",
+   "publishedAt": "2026-10-25T21:55:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aXM1bmQxYzFxb3hoMfTwOSWqZtAqdSFHdBSuGeYqm8sOsvAWsstZjsFxo_NY.png?width=640&crop=smart&auto=webp&s=ca69a866617bbc370bd705eb4915bea9e48a2703"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/john1587",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-25T23:21:13.326Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8b4ed1e2f6fa",
+   "canon": "https://www.reddit.com/comments/1xfey87",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xfey87/first_boss/",
+   "addedAt": "2026-10-25T23:21:13.326Z",
+   "title": "First boss",
+   "text": "Finished my first boss. Had Claude direct and shoot a trailer after seeing some other examples to see what it would do.",
+   "author": "RuinEnvironmental963",
+   "publishedAt": "2026-10-25T21:53:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NWdzNTBsNThvb3hoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=83783f8bf66158ef2be7a9ae12552bfc82693b53"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RuinEnvironmental963",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-25T23:21:13.326Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7e14f862a012",
+   "canon": "https://www.reddit.com/comments/1xfetgm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xfetgm/we_made_a_new_game_for_apple_vision_pro/",
+   "addedAt": "2026-10-25T23:21:13.326Z",
+   "title": "We made a new game for Apple Vision Pro!",
+   "text": "Hi Apple Vision Pro community! We made a new game and it's now available on the App Store here: https://apps.apple.com/us/app/soft-break/id6825526231\n No ads, no in-app purchases, just a one-time small purchase and it's yours. It's a fun, squishy spin on an arcade classic that…",
+   "author": "TheRealDreamwieber",
+   "publishedAt": "2026-10-25T21:47:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dnNxZ3B1bTNvb3hoMZ5QuO_iMr66BizZF8_317WiAgo0ciXN3Da1QlvOorTP.png?width=640&crop=smart&auto=webp&s=4b8c103bb14954b39a2f313cf73f55b6b34f93b1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TheRealDreamwieber",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-25T23:21:13.326Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "dbaf9b35011e",
+   "canon": "https://www.reddit.com/comments/1xfee7m",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfee7m/ohuhhthanks_claude_was_not_expecting_that/",
+   "addedAt": "2026-10-25T23:21:13.326Z",
+   "title": "Oh...uhh...thanks Claude. Was not expecting that response to test my security, but it's appreciated!",
+   "text": "Building an app, as someone with a degree in cybersecurity though; gave a VERY extensive list of tests, attack vectors, ect to check for. He said \"Aight, bet.\" Then build whole ass attack framework to tackle the list. Half of me wants to ask for it. 😂",
+   "author": "SubliminalChase",
+   "publishedAt": "2026-10-25T21:29:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ve3rxjvtloxh1.jpeg?width=640&crop=smart&auto=webp&s=bdd900a8758c03db582529dd380096e75708760d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SubliminalChase",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-25T23:21:13.326Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "39c1efaade7f",
+   "canon": "https://www.reddit.com/comments/1xfe21o",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vrdev/comments/1xfe21o/scan_runner_your_room_becomes_a_game_metaquest/",
+   "addedAt": "2026-10-25T23:21:13.326Z",
+   "title": "Scan Runner: Your Room Becomes a Game! 🎮 #MetaQuest #shortspromotion video",
+   "text": "",
+   "author": "Low_Calendar8589",
+   "publishedAt": "2026-10-25T21:15:13+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Low_Calendar8589",
+   "where": "r/vrdev",
+   "fetchedAt": "2026-10-25T23:21:13.326Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "8ee58a591f9d",
    "canon": "https://www.reddit.com/comments/1xfd9y4",
