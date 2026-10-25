@@ -1,7 +1,850 @@
 {
  "version": 1,
- "updatedAt": "2026-10-25T16:33:29.979Z",
+ "updatedAt": "2026-10-25T21:01:59.486Z",
  "cases": [
+  {
+   "id": "8ee58a591f9d",
+   "canon": "https://www.reddit.com/comments/1xfd9y4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xfd9y4/wolves_scp_vrchat_short/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "Wolves - SCP VRChat Short",
+   "text": "Short edit/film I made based on an event we held in the SCP Foundation of VRChat! \n Completely filmed in VR- \n This work is derivative of the SCP wiki and is CC by SA \n License: https://creativecommon... \n Wiki: https://scp-wiki.wikid... \n MTF Unit: https://scp-db.fandom....…",
+   "author": "I-9Arlo",
+   "publishedAt": "2026-10-25T20:43:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/kF_hjdGtbkT58-yIr9cYSALLyHsAkaL0zVvcXbNQ0xA.jpeg?width=320&crop=smart&auto=webp&s=609ab719d8b87cdb89861c7ba3b7d6f9c0265d53"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/I-9Arlo",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5c1ce04fb2a6",
+   "canon": "https://www.reddit.com/comments/1xfd2k7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xfd2k7/you_can_now_have_conversation_with_claude/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "You can now have conversation with Claude",
+   "text": "Recently added Call-My-Agent feature to TermRover.\n You can now call your Claude Code CLI agent from your terminal on the phone. Either using a Codex sub or an OpenAI key. (for GPT-Live usage)\n Detail here: https://termrover.sh/blog/call-my-agent/",
+   "author": "ptgamr",
+   "publishedAt": "2026-10-25T20:35:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dDE4enl4NHJib3hoMSNLOgn2pS-jblLwlBYeIvur_aZVazAtZUL0gK9sI9-y.png?width=640&crop=smart&auto=webp&s=df8cf69f85b7c22154a5a0738fb91c6fbb496582"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ptgamr",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e0025ad77267",
+   "canon": "https://www.reddit.com/comments/1xfd2ea",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/singularity/comments/1xfd2ea/as_a_generally_proai_person_i_worry_that_ai_will/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "As a generally pro-AI person, I worry that AI will make it so that common people can never resist their governments again",
+   "text": "[Addendum so this post doesn't get removed: This isn't a fearmongering post about AI (per rule 5) - I am pro AI and this post is in favor of more democratized access to AI capabilities for the average person.]\n Consider the current reality:\n World Superpower 1 of 2 (USA):…",
+   "author": "PsychologicalSoup251",
+   "publishedAt": "2026-10-25T20:34:56+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/PsychologicalSoup251",
+   "where": "r/singularity",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2d8d82859b13",
+   "canon": "https://www.reddit.com/comments/1xfd0ae",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfd0ae/i_too_had_opus_55_refuse_to_reverse_engineer/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "I too had opus 5.5 refuse to reverse engineer something for me. In my case it is a homekit lightswitch that is abandoned by the manufacturer. Opus 4.8 however obliged. :D",
+   "text": "https://preview.redd.it/h5mo9457boxh1.png?width=830&format=png&auto=webp&s=dfad905b1c1305902c2876cfdaa1a05ea94a7546\n Now I have a python tool that will let me provision wifi without needing an apple device.",
+   "author": "TaterTotsForLunch",
+   "publishedAt": "2026-10-25T20:32:36+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/h5mo9457boxh1.png?width=140&height=25&auto=webp&s=93035e846abf70deb5a1ab222de4cad628ebcaae"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TaterTotsForLunch",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "0ddcb7fb4552",
+   "canon": "https://www.reddit.com/comments/1xfcztu",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfcztu/building_a_visualizer/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "Building a visualizer",
+   "text": "Hi,\n I'm building a kitchen visualiser for a website.\n Customers pick a standard kitchen layout and switch materials, fronts, handles, sink and tap – and see the result in photorealistic quality.\n I've tried parametric 3D scenes with AI on top, but the renders still look dated.…",
+   "author": "birdnamedronson",
+   "publishedAt": "2026-10-25T20:32:05+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/birdnamedronson",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4d66d74ae198",
+   "canon": "https://www.reddit.com/comments/1xfc9sc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfc9sc/claude_builds_ai_slopcore_banger/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "Claude builds AI slopcore banger",
+   "text": "Claude acted as the orchestrator for this tune: developing the concept, and then writing the lyrics, briefing chatgpt to create the images, YuE2 for the track, LTX desktop for the moving clips and then used remotion to compile the final video. It even filled in the youtube…",
+   "author": "stainless_steelcat",
+   "publishedAt": "2026-10-25T20:03:12+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/j2cwv2aQ1g3m4nw6Vre2Jren5ERgyXGzC-5S8Uqms5o.jpeg?width=320&crop=smart&auto=webp&s=09ed9f6e87cadd4855030def39097ee3985b5691"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/stainless_steelcat",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "287cc0057bf8",
+   "canon": "https://www.reddit.com/comments/1xfbvrg",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xfbvrg/shape_raid_bullet_hell_gameplay_trailer/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "Shape Raid Bullet Hell Gameplay Trailer",
+   "text": "This is the new trailer for my game, Shape Raid. My original trailer dropped with the release of the game over a year ago, but I have since upgraded the visuals for the game substantially with the help of Claude. I have also added a bunch of new boss fights along with…",
+   "author": "JellySquidGames",
+   "publishedAt": "2026-10-25T19:48:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Y2ttYW1ia3J6bnhoMeNBjx_ylHwVHN4mTKDXKEI00FAFzXTMzbUdBst1Chkf.png?width=640&crop=smart&auto=webp&s=82e21c93a76cdaeff760a0772fe6be07046a3e36"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/JellySquidGames",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ee495db426a2",
+   "canon": "https://www.reddit.com/comments/1xfbu1x",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfbu1x/claude_election_bias_ad_hominem/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "Claude Election Bias (Ad Hominem)",
+   "text": "​\n Look at this Claude on an objective ask after simply uploading the sample ballot for my district - and compare that to what I got out of ChatGPT with the same prompt... And I really think this is concerning, since it's come to light that more and more voters are using AI to…",
+   "author": "jn855",
+   "publishedAt": "2026-10-25T19:46:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/f0yr33tg3oxh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=150ec653c277fe88abeef6ebadd03407143470fd"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/jn855",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c07474dbe030",
+   "canon": "https://www.reddit.com/comments/1xfbnjo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xfbnjo/i_had_too_many_claude_code_terminals_open_so_i/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "I had too many Claude Code terminals open, so I built an app that tiles them in one window and brings them all back after a reboot",
+   "text": "I use the Claude Code CLI, not the desktop app, and I usually have a lot of sessions running at once: one per repo, one for a bigger refactor, one for quick questions. That turned into a wall of terminal windows and tabs. I kept alt-tabbing to find the right one, sessions sat…",
+   "author": "One_Performance_513",
+   "publishedAt": "2026-10-25T19:39:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/td2lgyj9ynxh1.png?width=140&height=93&auto=webp&s=802c14bccd6ba985565a9cc9d3d54fba73725376"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/One_Performance_513",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5dce2fbf3ea4",
+   "canon": "https://www.reddit.com/comments/1xfbmog",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xfbmog/i_built_a_pixelart_buddy_that_lives_above_the/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "I built a pixel-art buddy that lives above the Claude Code prompt and reacts to what Claude is doing",
+   "text": "I made a small mod for Claude Code called Pixpal. It's a pixel-art character in the band above your prompt:\n While Claude works, it acts out the tool in use: a lens for search, a book for reading, a keyboard for edits, a checklist for tests. When the answer arrives it plays one…",
+   "author": "c4stus",
+   "publishedAt": "2026-10-25T19:38:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/uwl32pjs1oxh1.gif?frame=1&width=140&height=74&auto=webp&s=c022b4d15110bc84282125a69ea7123c9f92aa0b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/c4stus",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "af6b6ad2fdc3",
+   "canon": "https://www.reddit.com/comments/1xfbi31",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfbi31/claude_vs_gpt_for_learning/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "Claude vs GPT for learning",
+   "text": "Do you think chatgpt is better for studying over claude? I subscribed claude for my engineering project, it works great for coding, designing and analysis. But when i told it to explain something to me, the way it teaches me is just so plain and not very intuitive. So i told it…",
+   "author": "SecretHelicopter2371",
+   "publishedAt": "2026-10-25T19:33:28+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/cn020r541oxh1.jpeg?width=640&crop=smart&auto=webp&s=cb54e39685a11ecd60138f72435fcdea5e10f050"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SecretHelicopter2371",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c1de8a9b6018",
+   "canon": "https://www.reddit.com/comments/1xfbgli",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xfbgli/rhm_dev_update_2_a_new_team_member_hockey_in_2d/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "RHM Dev Update #2: a new team member, hockey in 2D and players running away from their coach 😂",
+   "text": "Hello everyone, \n another update from Rink Hockey Manager (RHM): instead of adding more players to the database (we were already starting to mix up everyone’s names), we’ve added someone to the development team.\n Who’s working on RHM\n Fernando: the human. Has the idea, makes the…",
+   "author": "FerjorPT",
+   "publishedAt": "2026-10-25T19:31:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ajJvcWh3NmIwb3hoMVHaFEN-20UX6RHe6mRYqdLdEFegKPl0bM6HpcB9NWsm.png?width=640&crop=smart&auto=webp&s=fcadb74692fb83ebb41c8e13c6915c1c01867ded"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/FerjorPT",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ae745eb979b9",
+   "canon": "https://www.reddit.com/comments/1xfbey3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xfbey3/duo_vnc_client_built_using_claude_on_duo/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "Duo VNC client built using Claude on Duo",
+   "text": "Been using Claude /remote-control on my iPhone a lot recently, so when I picked up a Duo on launch day I wanted to try building something using just the Duo, rather than going back to my laptop all the time. (Obv my Mac is running Claude)\n As the VNC client I use to access my…",
+   "author": "yezzer",
+   "publishedAt": "2026-10-25T19:30:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dWFmdXE5aGgwb3hoMeUM5eXQWbx3IcThqcVaICcw2YIANwXx5Y0-WhOnhnzh.jpeg?width=640&crop=smart&auto=webp&s=821ce437cd38a4282ab383d268afda78d054131c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/yezzer",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b5789a2313b1",
+   "canon": "https://www.reddit.com/comments/1xfb7l2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xfb7l2/my_claude_code_is_better_than_yours/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "My Claude Code is better than yours",
+   "text": "",
+   "author": "gcampos",
+   "publishedAt": "2026-10-25T19:21:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/uc92oymyynxh1.png?width=640&crop=smart&auto=webp&s=7d7636e8035231e9f770b0de320dde60ded3ca48"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/gcampos",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d642f03a2f85",
+   "canon": "https://www.reddit.com/comments/1xfaw83",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xfaw83/6_months_of_using_claude_code_from_my_phone_via/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "6 months of using Claude Code from my phone via Telegram. Now I made the repo public.",
+   "text": "In March of 2026, I saw a product on Reddit that let people run Claude code sessions directly from their Telegram messaging app. The only problem was that it was a paid subscription that I didn’t want to pay for. \n Since I’m a big fan of Telegram and it’s UI, and I was searching…",
+   "author": "batkec",
+   "publishedAt": "2026-10-25T19:09:19+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/batkec",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f94eb9665cd9",
+   "canon": "https://www.reddit.com/comments/1xfaw55",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xfaw55/neon_merge_conflict_a_synthwave_love_song_about/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "Neon Merge Conflict: a synthwave love song about git (Claude & The Night Shift)",
+   "text": "Neon Merge Conflict",
+   "author": "necrokings",
+   "publishedAt": "2026-10-25T19:09:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MjM4enJoaXB3bnhoMSx_vSc98CrdzBEodALFBrEN2P7UAKraTrwRxXf_hAdZ.png?width=640&crop=smart&auto=webp&s=370f0fdf09e869202d1b73b4aa48e6cb1cfb05e3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/necrokings",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "acaa58fc0020",
+   "canon": "https://www.reddit.com/comments/1xfatht",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xfatht/small_weapon_showcase_for_my_game_3_weeks_into/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "Small Weapon Showcase for my game (3 weeks into development)",
+   "text": "Small showcase of the 5 finished weapons (Katana, Dual Swords, GreatSword, Shortbow, ChainedReaper) currently in my game, with full VFX and animations.\n 3 weeks into development, Claude Opus 5.5 + Codex for the VFX. Non-boss enemies, UI and most of the world is using placeholder…",
+   "author": "Psychological-Arm42",
+   "publishedAt": "2026-10-25T19:06:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/azNpc25ocHl1bnhoMShie4Ixkor_zA6kTmAgpeOOMaAUMgq8KTujirJnFWjR.png?width=640&crop=smart&auto=webp&s=8cd594df20f546293e923b051de8886f6836487e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Psychological-Arm42",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "dfa62aa54692",
+   "canon": "https://www.reddit.com/comments/1xfar5f",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfar5f/i_used_claude_to_help_animate_a_music_video_about/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "I used Claude to help animate a music video about AI quietly automating the office - Nobody Called it AGI (Claude Pop)",
+   "text": "",
+   "author": "Max_Is_Small",
+   "publishedAt": "2026-10-25T19:03:47+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/PWvbIuslps74e31LeUlx924pgktTVKnAGCla1nl7wHk.jpeg?width=320&crop=smart&auto=webp&s=2f2eef38e122f65793bcf3ce617c79049d70786a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Max_Is_Small",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0568035bc68f",
+   "canon": "https://www.reddit.com/comments/1xfapr6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xfapr6/i_built_a_nearly_impossible_daily_trivia_game/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "I built a nearly impossible daily trivia game with Claude + Claude Code CLI",
+   "text": "It's called OutClocked, and while it's not quite impossible, it is difficult to beat.\n I like to keep things as simple as possible when building with Claude Code so my workflow is very straightforward. \n I built the wireframe and general plan while on a walk, talking to the…",
+   "author": "karolgajda",
+   "publishedAt": "2026-10-25T19:02:12+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/EvCxO5im0oVHDJJqF5ZFsPQyonU6qi9cH11Eo1JYnRY.png?width=640&crop=smart&auto=webp&s=e76c8f481d2371be456f2cc28e70143b52499363"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/karolgajda",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e21c0f0ed5aa",
+   "canon": "https://www.reddit.com/comments/1xfagh5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xfagh5/i_built_a_desktop_pet_for_claude_code_it_floats/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "I built a desktop pet for Claude Code: it floats anywhere on screen (or hides in the notch) and lets you answer permission prompts, plus what I learned about hooks",
+   "text": "I kept missing the moment Claude Code stopped to wait for me (a permission, a question) while I was in another window. So I built Claude Pet: a pixel desktop pet that mirrors what Claude Code is doing.\n What it does\n - Floats anywhere on your screen, or tucks into the MacBook…",
+   "author": "LTcrafting",
+   "publishedAt": "2026-10-25T18:52:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bmJoNnYya2t0bnhoMWPgyFjASFozJlQU29rwJvPh___M6lI-ecMpOlrg05W2.png?width=640&crop=smart&auto=webp&s=6312effd25e1944cb3b302367d1eeac199158680"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/LTcrafting",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "129c4ca97dbb",
+   "canon": "https://www.reddit.com/comments/1xfacgn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfacgn/neon_merge_conflict_a_synthwave_love_song_about/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "Neon Merge Conflict: a synthwave love song about git (Claude & The Night Shift)",
+   "text": "https://reddit.com/link/1xfacgn/video/72y84vvusnxh1/player\n Neon Merge Conflict",
+   "author": "necrokings",
+   "publishedAt": "2026-10-25T18:47:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OGFuNmM1d3VzbnhoMSx_vSc98CrdzBEodALFBrEN2P7UAKraTrwRxXf_hAdZ.png?width=640&crop=smart&auto=webp&s=9682e3724a24f7a112737721a7d519efbd6854b3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/necrokings",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cfd652c7878e",
+   "canon": "https://www.reddit.com/comments/1xfa814",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xfa814/i_built_a_strategy_rpg_that_twitch_chat_plays/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "I built a strategy RPG that Twitch chat plays live — how AI fit into a solo dev pipeline",
+   "text": "RaidCast is a fantasy strategy RPG made for streams: viewers type !join in Twitch, Kick or YouTube chat, and their own armies march into the streamer's battle. Between streams each viewer grows their own city, hero and gear.\n A bit of background: I'm a streamer myself and I've…",
+   "author": "SavingsMaterial3105",
+   "publishedAt": "2026-10-25T18:42:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/amd5Y3R6dDRhbnhoMb3pY1vCutKl5mbJvPvRBq-y2eSMqvkl_Uk84aUkWp4w.png?width=640&crop=smart&auto=webp&s=6e18212c9dabecc35651b26f3798d5243d53f019"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SavingsMaterial3105",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bb1d8b624e08",
+   "canon": "https://www.reddit.com/comments/1xf9pde",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xf9pde/everdust_hands_on_review/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "Everdust - Hands On Review",
+   "text": "You probably saw another post on here from the developer of Everdust. They just launched their app today so I decided to do a full review on my channel. Great app!",
+   "author": "DrStemSell",
+   "publishedAt": "2026-10-25T18:22:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/p_JgtKGOH3-yhQtvjJA24Awm0QhllJKsdsRv8m4DZHY.jpeg?width=320&crop=smart&auto=webp&s=58bf7db6ff000a01f2f448914721b00345f8ac13"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/DrStemSell",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7d3903734bd6",
+   "canon": "https://www.reddit.com/comments/1xf9lyp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xf9lyp/bsgen_a_free_opensource_ai_map_generator_for_beat/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "bsgen: a free, open-source AI map generator for Beat Saber",
+   "text": "Recently, I saw a post of someone else promoting their beat saber AI level generator. The maps it made were really bad and the owner of it didn't provide the source code of it and even put it behind a paywall. So, naturally, I made my own version that was better. So here it is.…",
+   "author": "FlowDue7702",
+   "publishedAt": "2026-10-25T18:18:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bTh0eWVzeG9ubnhoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=8a6bb51e34a07bf94673616397f59ed355389997"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/FlowDue7702",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f23613e77d22",
+   "canon": "https://www.reddit.com/comments/1xf994h",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xf994h/wwwvibeduelscom_a_video_game_for_vibe_coders/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "www.VibeDuels.com a video game for Vibe Coders.",
+   "text": "VibeDuels.com is a video game similar to how benchmarks work.\n You take a bot with a deterministic game. There is no RNG besides the map itself. The bots are taught how to play the game. \n The game has a ranking ladder that is 100% automated. All you have to do is upload the…",
+   "author": "SimCFB",
+   "publishedAt": "2026-10-25T18:04:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bDBrdnZvMjZsbnhoMU04zf5ebt4FG5lqkKc5vIrmOllNbmZcDxfhroKTa1u8.png?width=640&crop=smart&auto=webp&s=041e18e3f0ce9afa44eef7681aad06ad277f49f6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SimCFB",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "87eac1bb29ef",
+   "canon": "https://www.reddit.com/comments/1xf7vcr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1xf7vcr/job_hunting_in_your_specs/",
+   "addedAt": "2026-10-25T20:57:40.116Z",
+   "title": "Job Hunting in your Specs",
+   "text": "Send your resume to every company you see around you in your Specs. \n Sent my resume on file to the hundreds of jobs at UPS and Coca Cola with one glance from my Specs",
+   "author": "rex_xzec",
+   "publishedAt": "2026-10-25T17:09:43+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/enpsYmJ3ZGdibnhoMY9-wqSuP90wO1b1maqlwjjLtWrwo6zuopR0duNWhriA.jpeg?width=640&crop=smart&auto=webp&s=b8fa0cf81648c49290fc68d97f29c9b9892a282e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/rex_xzec",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "cab184d80e2d",
    "canon": "https://www.reddit.com/comments/1xf6qrz",
