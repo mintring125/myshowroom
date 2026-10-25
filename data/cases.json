@@ -1,7 +1,817 @@
 {
  "version": 1,
- "updatedAt": "2026-10-25T04:54:21.216Z",
+ "updatedAt": "2026-10-25T11:43:13.572Z",
  "cases": [
+  {
+   "id": "cf15e462d0d4",
+   "canon": "https://www.reddit.com/comments/1xezt8v",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xezt8v/about_6_months_in_and_just_over_1000_commits_im/",
+   "addedAt": "2026-10-25T11:38:34.416Z",
+   "title": "About 6 months in and just over 1000 commits, I'm preparing to launch my first game",
+   "text": "Reveria is a turn-based narrative-driven adventure game, coming to Steam on November 2nd with a demo out already for Steam Next Fest.\n I started working on Reveria about 6 months ago, using Claude Code for the actual gameplay and Gemini for the artwork. I bought some assets from…",
+   "author": "Enefium",
+   "publishedAt": "2026-10-25T11:19:34+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZmdyOHRsaXRobHhoMatnWCwnWHaYU61uFRPqWig1LqjXE-4X0dHNzUGxZ_Rb.png?width=640&crop=smart&auto=webp&s=0e692ee95c5621bcbb6e75ec1ec6f416a90a33b0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Enefium",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5ba7dab74a67",
+   "canon": "https://www.reddit.com/comments/1xezlct",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xezlct/made_a_claude_code_plugin_i_built_a_free_way_to/",
+   "addedAt": "2026-10-25T11:38:34.416Z",
+   "title": "Made a Claude Code plugin? I built a free way to see if it actually installs (Linux/macOS/Windows) and which public repos use it",
+   "text": "Have you made a plugin for Claude Code?\n Want to know if it installs properly on the newest version of Claude Code? Want to see which public repos use it? For the last year I've worked on ClaudePluginHub (claudepluginhub.com). I've used Claude Code for over 1.5 years, and I…",
+   "author": "Heiberik",
+   "publishedAt": "2026-10-25T11:07:29+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Heiberik",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2f10b5020afb",
+   "canon": "https://www.reddit.com/comments/1xezja1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xezja1/i_built_a_claude_skill_for_job_hunting_in_germany/",
+   "addedAt": "2026-10-25T11:38:34.416Z",
+   "title": "I built a Claude skill for job hunting in Germany: it catches \"German required\" in English ads, checks Blue Card salary rules and writes a Lebenslauf (free, open source)",
+   "text": "I live in Berlin and run a small job board (Daily Berlin Jobs). Watching people apply, the same problems kept coming up: English-language ads that quietly require fluent German, searches that miss half the jobs because they use German titles, Blue Card salary thresholds nobody…",
+   "author": "yesildaladam",
+   "publishedAt": "2026-10-25T11:04:11+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/yesildaladam",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9d890e426aa0",
+   "canon": "https://www.reddit.com/comments/1xez70o",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xez70o/i_rebuilt_the_warcraft_3_tower_defense_maps_i/",
+   "addedAt": "2026-10-25T11:38:34.416Z",
+   "title": "I rebuilt the Warcraft 3 tower defense maps I grew up on with Claude Code. It just launched, and here's what I learned.",
+   "text": "This is the 2nd game I've built with Claude.\n The first was Neon Mile. It hit 7,000 players, and I still update it here and there when players send feedback. This one is more personal. It's called Towers of Aurum, and it's basically the game I used to play when I was younger:…",
+   "author": "vidiclol",
+   "publishedAt": "2026-10-25T10:45:06+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/vidiclol",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "38dfd291f6ed",
+   "canon": "https://www.reddit.com/comments/1xez6ly",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xez6ly/i_put_diablo_2_inside_pokémon_firered_with_claude/",
+   "addedAt": "2026-10-25T11:38:34.416Z",
+   "title": "I put Diablo 2 inside Pokémon FireRed with Claude Code and Codex. Here's how the art pipeline worked",
+   "text": "A fan clip: Diablo 2 heroes fighting in Pokémon FireRed, running on the game's own engine (the pret/pokefirered decompilation). Video only, no playable release. Claude Code (Opus 5.5) wrote the code and Codex (gpt-image-2) drew the art. Here's how the art got into a form the GBA…",
+   "author": "WillingAd2958",
+   "publishedAt": "2026-10-25T10:44:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/d24xZGtnbWxlbHhoMTyBswNp-pdqCRzc0rz4M4wGtizk5JVx0tvnAl91gUqx.png?width=640&crop=smart&auto=webp&s=5d16d801e1acdd8a83fb2a8a2504dbf409a92430"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/WillingAd2958",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "149a6429ac01",
+   "canon": "https://www.reddit.com/comments/1xeyu5q",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xeyu5q/mcp_servers_just_turned_claude_into_a_desktop/",
+   "addedAt": "2026-10-25T11:38:34.416Z",
+   "title": "MCP servers just turned Claude into a desktop automation tool",
+   "text": "Blender MCP Servers Just Turned Claude Into a Desktop Automation Tool Imagine telling Claude what you want to create in Blender and watching it automate tasks instead of doing everything manually. With Blender MCP servers, Claude can connect to Blender, interact with 3D scenes,…",
+   "author": "West_Somewhere_5222",
+   "publishedAt": "2026-10-25T10:23:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/xl9ptwb2blxh1.jpeg?width=640&crop=smart&auto=webp&s=20851c8389b8e337c2d7a09398e3e82154ad0a49"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/West_Somewhere_5222",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "09bd163f6300",
+   "canon": "https://www.reddit.com/comments/1xeyi7b",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xeyi7b/alvrfork_for_using_lenovo_mirage_solo_on_linux/",
+   "addedAt": "2026-10-25T11:38:34.416Z",
+   "title": "ALVR-fork for using Lenovo Mirage Solo on Linux",
+   "text": "This is an ALVR-fork that uses uses ALVR to send a video stream to the ReliveVR Daydream app. This allows playing SteamVR games on the Lenovo Mirage Solo (and maybe other Daydream headsets/phones, but that's untested).\n PS: This is a bit of a franken-port, as it reuses the…",
+   "author": "Glum_Drag2578",
+   "publishedAt": "2026-10-25T10:04:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/lgdVC-Qe99dGYmj6y5c0vPH0cFIy8heZVIcyO2cGfbs.png?width=640&crop=smart&auto=webp&s=3afbfbc030c51b9a75584b7a3d39870ecfa96d74"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Glum_Drag2578",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fe96ceb2bff2",
+   "canon": "https://www.reddit.com/comments/1xeydlv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xeydlv/ar_guitar/",
+   "addedAt": "2026-10-25T11:38:34.416Z",
+   "title": "AR Guitar",
+   "text": "Hi. I’ve built an app I call AR Guitar. It uses a ‘paper guitar neck’ and the camera on a laptop or phone to allow users to practise playing a guitar without actually needing a real one. The idea came to me when I was travelling a lot and couldn't take a guitar with me, so I've…",
+   "author": "Mundane-Mixture-2068",
+   "publishedAt": "2026-10-25T09:57:17+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eXZ0Y240MDQ2bHhoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=a43f88b1fa3bca8d4eec3d83b17778766eef816f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Mundane-Mixture-2068",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c800d331e5a0",
+   "canon": "https://www.reddit.com/comments/1xeybpe",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xeybpe/made_my_first_mobile_game_with_claude_code_and_ai/",
+   "addedAt": "2026-10-25T11:38:34.416Z",
+   "title": "made my first mobile game with claude code and ai art in about 8 weeks. what worked and what didn't",
+   "text": "so this is my first mobile game, Critical Crossing. you control the traffic lights at one junction and every driver has a patience bar... calm ones wait, stressed ones creep forward, and the furious ones just go. the crash is on you.\n since this sub is about the ai part, here's…",
+   "author": "th3strang3rr",
+   "publishedAt": "2026-10-25T09:54:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YTgwcm0wYW41bHhoMec94UD-CSgBwwWaorsUpwEjObjr_cHxuiRpGhaV5SDC.png?width=640&crop=smart&auto=webp&s=709211fbf9d54885ae71c48583ac5e1cfa2d0e06"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/th3strang3rr",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1ca61624034d",
+   "canon": "https://www.reddit.com/comments/1xey643",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xey643/remade_a_game_from_2000_that_i_played_way_too/",
+   "addedAt": "2026-10-25T11:38:34.416Z",
+   "title": "Remade a game from 2000 that i played way too much as a kid",
+   "text": "As a kid i played Battle Painters a lot (2000, Saito Games, the follow up to Painters from 1995 by JJSoft). 4 players run around all the time, you can only steer left and right and your trail paints the floor. Whoever painted the most wins the round.\n I threw the old exe into…",
+   "author": "cuxes",
+   "publishedAt": "2026-10-25T09:44:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/amN6bzJnZ20wbHhoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=f659f4df64e9805d33c2a90605a75a5cf081fb0c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/cuxes",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d92053ef14f1",
+   "canon": "https://www.reddit.com/comments/1xey4sj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xey4sj/i_built_an_offline_manga_translator_for_android/",
+   "addedAt": "2026-10-25T11:38:34.416Z",
+   "title": "I built an offline manga translator for Android that users local AI models",
+   "text": "I built Yomu, an Android app that translates Japanese manga pages on the phone. Open a page in any reader app and tap a floating button. Yomu finds the speech bubbles, reads the Japanese, translates the whole page with a local LLM (llama.cpp), and redraws the bubbles in English,…",
+   "author": "Th3Expl0Rer",
+   "publishedAt": "2026-10-25T09:42:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OHlwODZ0NTEzbHhoMbDq5qYIOoA46luDrqEVcFlvjA1gnq5b-eNtbN4hVvAr.png?width=640&crop=smart&auto=webp&s=0b3661f10701db99f8a80b820e409d3312f4a45c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Th3Expl0Rer",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7077d9862fb7",
+   "canon": "https://www.reddit.com/comments/1xey1ur",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xey1ur/i_thought_skills_were_a_waste_of_tokens_until_i/",
+   "addedAt": "2026-10-25T11:38:34.416Z",
+   "title": "I Thought SKILLs Were a Waste of Tokens Until I Wrote My Own",
+   "text": "I'll be honest, I didn't understand why LLM agents need SKILLs. MCP was clear to me: it's a useful thing that lets you give an LLM access to a database or to Figma. The only downside is that, to avoid spending too many tokens, it's better not to connect 30 MCP servers at once.…",
+   "author": "ievkz",
+   "publishedAt": "2026-10-25T09:36:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/x5m445642lxh1.png?width=140&height=48&auto=webp&s=d75cf3cb1ed6aa80116a5db16583242779c115f0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ievkz",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "45c7b2ca43d1",
+   "canon": "https://www.reddit.com/comments/1xexyf2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xexyf2/i_built_a_topdown_tactical_shooter_with_its_own/",
+   "addedAt": "2026-10-25T11:38:34.416Z",
+   "title": "I built a top-down tactical shooter with its own engine, coding it with AI agents. The free demo is out",
+   "text": "Scrim is a top-down tactical shooter where every light casts a shadow: you see only what your soldier sees, footsteps give you away, and cover has a height that bullets, sight and blasts all respect. You can build walls and sentry turrets, drive a Humvee, fly a drone and fight…",
+   "author": "catinrage",
+   "publishedAt": "2026-10-25T09:30:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bTk5dGdwZmZ6a3hoMahzK0veY3IdLCh1_0liWXfL1006xYSXOUNPBkh81m8r.png?width=640&crop=smart&auto=webp&s=985da2cd144f2601037459ff06e434858ae35419"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/catinrage",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "691ec10ac0be",
+   "canon": "https://www.reddit.com/comments/1xext2v",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xext2v/quake_3_with_gaussian_splatting_follow_up_post/",
+   "addedAt": "2026-10-25T11:38:34.416Z",
+   "title": "Quake 3 with Gaussian Splatting - Follow up post",
+   "text": "About a month ago I posted a demo showing quake 3 rendering a gaussian splat as a map. I have now made my repository public for those interested in trying it out or checking out the code for the splat generation workflow.\n I am actively still porting over elements from quake 3,…",
+   "author": "MnrDuitsman",
+   "publishedAt": "2026-10-25T09:21:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ejlvd3d3Y2p4a3hoMSiShhYeU7LvmvF-ncbKrqo4TvPjLbp2PfaY64-miWgs.png?width=640&crop=smart&auto=webp&s=fed4d6606e033640196d2ca0de1e760c3b094e78"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MnrDuitsman",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9491eaeb5a6b",
+   "canon": "https://www.reddit.com/comments/1xexpmc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xexpmc/stuck_band_possible_future/",
+   "addedAt": "2026-10-25T11:38:34.416Z",
+   "title": "Stuck band (possible) future",
+   "text": "Has anyone been in a situation where the band got stuck ? I have 2 one for day time and another for night time after i have showered so i switch them frequently which explains the wear/tear.\n Should the pull band fail,would i be able to remove this thing safely ?",
+   "author": "Dear-Meaning5453",
+   "publishedAt": "2026-10-25T09:15:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/7egf88atykxh1.jpeg?width=640&crop=smart&auto=webp&s=f53668c42cd51b0f5d233d7d8f49d7a016f28286"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Dear-Meaning5453",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "39c119bf8cbe",
+   "canon": "https://www.reddit.com/comments/1xexnz2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xexnz2/ive_been_building_owncord_an_opensource/",
+   "addedAt": "2026-10-25T11:38:34.416Z",
+   "title": "I've been building OwnCord, an open-source self-hosted Discord alternative",
+   "text": "Hey everyone!\n For a while now I've been working on a project called OwnCord, a free and open-source, self-hosted alternative to Discord.\n The idea behind it is pretty simple. I wanted something similar to Discord but where you have full control over your own server and data,…",
+   "author": "jevb",
+   "publishedAt": "2026-10-25T09:12:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/y1kzc3vuxkxh1.png?width=140&height=105&auto=webp&s=9529d5a0df8ba0fcbd946050de920e0524ef9129"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/jevb",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "dfffeeeb35a0",
+   "canon": "https://www.reddit.com/comments/1xexgi8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xexgi8/first_game_made_feedback_wanted/",
+   "addedAt": "2026-10-25T11:38:34.416Z",
+   "title": "First game made - feedback wanted",
+   "text": "I released my first game on Itch - it's not completely finished, I want to add more levels, and I may rework existing levels based on feedback. It works on phone or PC, touch, controller and keyboard support. Also various colour-blind modes, as the game is all about mixing…",
+   "author": "KingofKingsofKingsof",
+   "publishedAt": "2026-10-25T08:59:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/cm7mjaivvkxh1.png?width=320&crop=smart&auto=webp&s=15944d0c7e1bfac073fffe7ba43ee6ad2d86513c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/KingofKingsofKingsof",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d8cc61bd037f",
+   "canon": "https://www.reddit.com/comments/1xewzjf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xewzjf/i_built_git_stone_because_asking_an_agent_for/",
+   "addedAt": "2026-10-25T11:38:34.416Z",
+   "title": "I built Git Stone because asking an agent for atomic commits after the fact can mean rewriting code",
+   "text": "If I commit after every small task, I interrupt the flow. And sometimes, while reviewing what Claude has written, I realise the implementation should work differently. I want to explain the issue in the same conversation, let it revise the code, review the new approach, and…",
+   "author": "FunBlacksmith2566",
+   "publishedAt": "2026-10-25T08:30:21+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/FunBlacksmith2566",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a3e5704268ae",
+   "canon": "https://www.reddit.com/comments/1xewe1u",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/blender/comments/1xewe1u/froxel_bridge_a_blender_addon_that_turns_voxel/",
+   "addedAt": "2026-10-25T11:38:34.416Z",
+   "title": "Froxel Bridge: a Blender add-on that turns voxel generator scripts into live sidebar sliders",
+   "text": "I’m working on a voxel game, and I was surprised to find that there are few, if any, decent editors that support MCP (Model Context Protocol). I decided to build my own, as it’s become much easier to do so these days.\n Most of the code was written with Claude.\n Froxel is an open…",
+   "author": "roman_va",
+   "publishedAt": "2026-10-25T07:54:16+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/yf9tbld3kkxh1.png?width=640&crop=smart&auto=webp&s=ee3a1e9ffca0f34df4bcad53f1a77e697598caf5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender",
+    "game",
+    "voxel"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/roman_va",
+   "where": "r/blender",
+   "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d752269453d2",
+   "canon": "https://www.reddit.com/comments/1xew9ma",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xew9ma/flight_simulator_9598_finally_running_on_64bit/",
+   "addedAt": "2026-10-25T11:38:34.416Z",
+   "title": "Flight Simulator 95/98 finally running on 64-bit Windows, patched by Claude Code",
+   "text": "Howdy there. I'm a lifelong fan of Flight Simulator who doesn't let go of old stuff. Since I've seen people using Claude Code to come up with some crazy mods that mash two entirely unrelated games together without somehow breaking, I figured I'd give Claude Code two old games,…",
+   "author": "Torturephile",
+   "publishedAt": "2026-10-25T07:46:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/n3awmbmykjxh1.png?width=140&height=101&auto=webp&s=251aa8d0a04c63ae7a44d2df3364c222560d8325"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Torturephile",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "28d554360665",
+   "canon": "https://www.reddit.com/comments/1xew840",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xew840/card_survival_rpg/",
+   "addedAt": "2026-10-25T11:38:34.416Z",
+   "title": "Card Survival RPG",
+   "text": "Last Stop: BRIGHTSIDE, a card survival RPG set in a post-apocalyptic Arizona wasteland with a 1950s roadside Americana style.\n You scavenge supplies, craft equipment, fight mutated creatures, and rebuild an abandoned town into a home for survivors. The free demo is available…",
+   "author": "Enjoyooooor",
+   "publishedAt": "2026-10-25T07:43:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cG1maXhreGlpa3hoMYNo1EfzlmegJfB8albtqcvlphseZiuOoogzPStvu3X-.jpeg?width=640&crop=smart&auto=webp&s=9778d47641c3e83f61767759359aaf9a4709ac7b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Enjoyooooor",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "23ebaee3c8f3",
+   "canon": "https://www.reddit.com/comments/1xeveaq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xeveaq/mac_vapor_improvements/",
+   "addedAt": "2026-10-25T11:38:34.416Z",
+   "title": "Mac Vapor improvements",
+   "text": "I've been working on controllers and hands with MacVapor. I've got Switch Joycons working as well as PSVR2 controllers and hands (hands don't have sticks or buttons in case that wasn't obvious). You can \"clack\" your hands together to switch between hands and controllers. On…",
+   "author": "Beiriannydd",
+   "publishedAt": "2026-10-25T06:54:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/flpJ0dM3uaPL68eD7GQ3Ifx0Fz_F-zCWLxykoxB-hBE.jpeg?width=320&crop=smart&auto=webp&s=d4b04ec1e7bda181e756072861644ca321cbce33"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Beiriannydd",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8f90032e54e2",
+   "canon": "https://www.reddit.com/comments/1xeuvqg",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xeuvqg/xreal_aura_is_almost_here/",
+   "addedAt": "2026-10-25T11:38:34.416Z",
+   "title": "Xreal Aura is almost here.",
+   "text": "",
+   "author": "cgmektron",
+   "publishedAt": "2026-10-25T06:23:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/955e20164kxh1.jpeg?width=640&crop=smart&auto=webp&s=5fb0f028628e12b6f4b9e00f73d9bed8d76ca01e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/cgmektron",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fa23602a61cc",
+   "canon": "https://www.reddit.com/comments/1xeuc5f",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xeuc5f/3d_gaussian_splats_can_capture_the_mona_lisa/",
+   "addedAt": "2026-10-25T11:38:34.416Z",
+   "title": "3D Gaussian splats can capture the 'Mona Lisa effect' 👀",
+   "text": "",
+   "author": "JuniperGlowRogers8",
+   "publishedAt": "2026-10-25T05:50:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MTBuMWdiYmJ5anhoMbBH4G1RNsYKq5nSxXC3GiXBELioRE_j3ne8-HbZIJrh.png?width=640&crop=smart&auto=webp&s=75877759149d40b0b8796950bdf363d895581050"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/JuniperGlowRogers8",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8655eaca070b",
+   "canon": "https://www.reddit.com/comments/1xeu5nr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xeu5nr/gentlemen_i_present_playboys_35th_anniversary/",
+   "addedAt": "2026-10-25T11:38:34.416Z",
+   "title": "Gentlemen! I Present, Playboy's 35th Anniversary (Data East 1989) VPX VR",
+   "text": "Table Link\n More Tables\n Setting up VPX\n Released by Data East in May 1989, the original Playboy 35th Anniversary solid-state pinball machine was built to celebrate the brand's milestone with iconic alphanumeric displays, voice callouts featuring Hugh Hefner, and artwork…",
+   "author": "Real_Spacegoogie",
+   "publishedAt": "2026-10-25T05:40:08+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cnRkcWs5MGN3anhoMWCMGqlKt7O6cVl3RXx1MdNo6xN8B0ngsnX5riZ6PkGb.png?width=640&crop=smart&auto=webp&s=d69b1e78f88178b40be468dc8df865a86b161da4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Real_Spacegoogie",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "c27bf188cf27",
    "canon": "https://www.reddit.com/comments/1xet6u2",
