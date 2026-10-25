@@ -1,7 +1,944 @@
 {
  "version": 1,
- "updatedAt": "2026-10-24T23:25:45.868Z",
+ "updatedAt": "2026-10-25T04:54:21.216Z",
  "cases": [
+  {
+   "id": "c27bf188cf27",
+   "canon": "https://www.reddit.com/comments/1xet6u2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xet6u2/agentsdk_burns_17x_faster_than_claude_code_tui/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "Agent-SDK burns 1.7x faster than Claude Code TUI",
+   "text": "Github: https://github.com/anthropics/claude-code/issues/97074\n Just as I was finally getting into the Claude Desktop app, it's back to the TUI for me.",
+   "author": "Consistent-Ad-5116",
+   "publishedAt": "2026-10-25T04:44:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/9vh1wyntljxh1.png?width=140&height=133&auto=webp&s=397ef5dbfc8f261ed6044e92e3a2bada7e660ef5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Consistent-Ad-5116",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "151034134fa1",
+   "canon": "https://www.reddit.com/comments/1xet4ni",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xet4ni/i_havent_opened_my_code_editor_in_weeks_so_i/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "I haven't opened my code editor in weeks, so I built an open-source pipeline for Claude Code",
+   "text": "For a while I held myself to the rule that I had to read every line and make sure it was perfect. Then I was shipping thousands of lines a day, and that stopped being possible. It was overwhelming, and it was slowing me down.\n What I actually needed was different. I wanted to…",
+   "author": "varun_vns",
+   "publishedAt": "2026-10-25T04:40:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dWVrZGZianRsanhoMcOGfWHNFHAKyutmZSyXen7mqqpcU1FfkwBqpizkNGtt.png?width=640&crop=smart&auto=webp&s=6eea5bcf70a5e6c640d9d4c2b92044c0dbeac603"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/varun_vns",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "19013f416a78",
+   "canon": "https://www.reddit.com/comments/1xet35e",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xet35e/built_with_claude_code_an_opensource_browser_for/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "Built with Claude Code: an open-source browser for people leaving Arc, which Claude Code can also drive over MCP",
+   "text": "I built Solamar, a free, open-source (GPL-3.0) desktop browser for Windows and macOS, with Claude Code.\n How I built it: [FILL IN: your workflow, how you planned features, what Claude Code did well, where you had to step in, how long it took]\n The Claude Code part: Solamar has a…",
+   "author": "PapaBamb00s",
+   "publishedAt": "2026-10-25T04:38:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/jzihybwdljxh1.png?width=140&height=78&auto=webp&s=185175c3fdc7e4b245b667dc244111700f7d0c38"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/PapaBamb00s",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ca6b7eb15be2",
+   "canon": "https://www.reddit.com/comments/1xet1uk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xet1uk/til_theres_anthropicindia_before_anthropic_claude/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "TIL there’s Anthropic(India) before Anthropic (Claude)",
+   "text": "",
+   "author": "WarGod1842",
+   "publishedAt": "2026-10-25T04:36:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/yjb4eyb2ljxh1.jpeg?width=640&crop=smart&auto=webp&s=bc2f5e59ed987dcd6c1b00d953f991a73fab3126"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/WarGod1842",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "476948269d0a",
+   "canon": "https://www.reddit.com/comments/1xesxyd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xesxyd/star_wars_x_wing_1993_dos_pc_quest_standalone_vr/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "Star Wars X Wing 1993 DOS PC | Quest Standalone VR",
+   "text": "Im totally on board for all of these early PC Classics to get VR mods!",
+   "author": "OGVRGAMER",
+   "publishedAt": "2026-10-25T04:30:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MmdlNHV5cnlqanhoMWBqbr2MF96e2PHMAg39Yalr1B3nxYL5TfoAJHZ4cFLN.jpeg?width=640&crop=smart&auto=webp&s=fc8be1e986eb7a2b1d68ab1330ce9515f01503ad"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/OGVRGAMER",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "04b5196685e7",
+   "canon": "https://www.reddit.com/comments/1xesr8v",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xesr8v/built_a_notes_tool_that_can_use_images_generated/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "Built a notes tool that can use images generated with OpenAi",
+   "text": "I usually draft notes with Claude, because I find it easier to communicate. But since it can't generate images and I had to copy and paste those from ChatGPT. \n I solved the issue by building a note tool connected both a Claude Max and ChatGPT plus subscriptions on it. Now I can…",
+   "author": "merakliman",
+   "publishedAt": "2026-10-25T04:19:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/k1ksf6jugjxh1.png?width=640&crop=smart&auto=webp&s=e24a82a5f8b20811e6023fb4638e15633e433687"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/merakliman",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "86931758ebbf",
+   "canon": "https://www.reddit.com/comments/1xesbam",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xesbam/claude_guided_my_biryani_for_3_hours_then_agreed/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "Claude guided my biryani for 3 hours, then agreed to skip the one step that mattered. It painted this Picasso of the night (prompt inside)",
+   "text": "Saturday night I cooked some biryani with Claude as my guide.. from an old Hyderabadi recipe. For three hours it was a solid sous chef. It read my photos, told me when to check the oil, and how long to simmer the meat.\n Then I was hungry and tired, and I asked a lazy question:…",
+   "author": "rhiday",
+   "publishedAt": "2026-10-25T03:56:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/sbv7w3i19jxh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=7f95928670d682a582a9ba1739390883bdfd3938"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/rhiday",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "32c425ff0585",
+   "canon": "https://www.reddit.com/comments/1xes45r",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xes45r/a_169page_math_paper_done_with_claude_and_nine/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "A 169-page math paper done with Claude, and nine puzzles from it to test any model's reasoning",
+   "text": "I'm a mathematician and computer scientist (Jagiellonian University). Over the last months I wrote \"Crystals, quasicrystals and autocrystals\" (aperiodic order forced by local rules) together with Claude and Sol, another AI research assistant. Version 13 is out, and nine puzzles…",
+   "author": "jarekduda",
+   "publishedAt": "2026-10-25T03:45:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/9jsjdawbbjxh1.png?width=640&crop=smart&auto=webp&s=e233ea0889101f3e7fc97c62dfa3f88e48b4cc35"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/jarekduda",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "064fea42cdae",
+   "canon": "https://www.reddit.com/comments/1xes1w1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xes1w1/i_made_the_everdust_app_for_vision_pro_hold_a/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "I made the Everdust app for Vision Pro: hold a galaxy collision in your hands. Physics games, interactive galaxies, worlds and stories of the universe",
+   "text": "Everything here is a live simulation, not a video. A million stars collide on your coffee table and swirl around your fingers when you reach in. Walk up to a spinning black hole and watch it bend light. Bend a golf ball around black holes, split sunlight with prisms, mold a…",
+   "author": "jackmodern",
+   "publishedAt": "2026-10-25T03:42:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MWgxemNrejRianhoMQHUL-d8l8G2FealQEzaKAnU-Fcv8exVrMEZ6v8Ttme5.png?width=640&crop=smart&auto=webp&s=10de2e7124b8528dbd9ed9cb7169b01f467e0c47"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/jackmodern",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "59c5eeaeabc5",
+   "canon": "https://www.reddit.com/comments/1xes12d",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xes12d/seasonal_update_for_my_vision_pro_thermostat/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "Seasonal Update for my Vision Pro Thermostat control app",
+   "text": "I've updated my Thermo Watch app with a few neat new features:\n Most obviously, you can now add some festive fun to your thermostat by decorating it with a Jack-o'-lantern or a snowman.\n It now lights up the physical world around it when thermostat's screen is glowing (while the…",
+   "author": "Marconelly",
+   "publishedAt": "2026-10-25T03:41:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/59uy6xau7jxh1.jpeg?width=140&height=78&auto=webp&s=4ba416f257eb429821c6cc9533de39c7489bd243"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Marconelly",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f53a9f322d7c",
+   "canon": "https://www.reddit.com/comments/1xery3a",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xery3a/i_built_a_lightweight_note_taking_app_with_claude/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "I built a lightweight note taking app with claude code",
+   "text": "I wanted to be able to share a project that I've been working on for a few days called Folio. It's a bare-frame, local document editor for macOS, Windows, and Linux written in native rust. The core philosophy that I wanted Folio to have was to give whoever downloads and uses it…",
+   "author": "skyfallneo",
+   "publishedAt": "2026-10-25T03:36:38+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/skyfallneo",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c2f5791d04c0",
+   "canon": "https://www.reddit.com/comments/1xersja",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xersja/steam_early_access_nov_10_lean_to_steer_in_a_vr/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "Steam Early Access Nov 10! Lean to steer in a VR Hoverboard roguelite shooter.",
+   "text": "People here have been very supportive of my game Hyperlane Highway so i wanted to show some longer gameplay and share that its officially coming to Steam Early Access on Nov 10!\n This gameplay is all from a live run captured with a footage drone tool I Made but its the real…",
+   "author": "RyalityStudio",
+   "publishedAt": "2026-10-25T03:28:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cTR0c2Jhbno0anhoMSltBVt0eF-4v5nc4tvPTt2puYykLAHwAvQ9aWfE8JWL.png?width=640&crop=smart&auto=webp&s=ef31cd85c49b4cbb2b72980ff851a60d13c1f4d5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RyalityStudio",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f420f819dc3a",
+   "canon": "https://www.reddit.com/comments/1xerpo7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xerpo7/roadster_2_simulation_spiel/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "Roadster 2 Simulation / Spiel",
+   "text": "Ich habe eine Simulation des neuen Roadster gebaut und einen Trailer generieren lassen. Der Großteil, inkl. der Assets ist autark entstanden. Hat etwa eine Woche, mit Unterbrechungen, gedauert und es gibt sicher noch einige Bugs. Aber hey eigentlich wollte ich nur vorm Reset die…",
+   "author": "420Ancient",
+   "publishedAt": "2026-10-25T03:24:00+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dzJjcGVmaTI4anhoMRpw8oUkEnsxHlU29ORHzJ3pSIFEJysmAv-RXAeu33M5.png?width=640&crop=smart&auto=webp&s=669bddde8c3b26f07bc08c54a28fbf4e7af5ad10"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/420Ancient",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fc87b86789f1",
+   "canon": "https://www.reddit.com/comments/1xerc00",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xerc00/an_hour_with_claude_opus_55_heres_what_i_built/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "An Hour with Claude Opus 5.5. Here's What I Built Using My Own 3D Assets.",
+   "text": "",
+   "author": "WillowBoxArt",
+   "publishedAt": "2026-10-25T03:04:11+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/1aqLOfLA9OyxbCca764JXktDD-P5UNQmj8eiotoFHX0.jpeg?width=320&crop=smart&auto=webp&s=161941015b06cab4b05b6d9c20ef231dc2df0efb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/WillowBoxArt",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "e3adecb1022e",
+   "canon": "https://www.reddit.com/comments/1xer304",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xer304/imsu_a_little_program_i_made_to_keep_me_up_to/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "IMSU - A little program I made to keep me up to date on firmware, drivers and BIOS with less bloat",
+   "text": "I’ve been building IMSU (“Is My Shit Updated?”), a small Windows app that checks your BIOS, chipset, and graphics drivers, then points you toward available updates.\n For MSI, GIGABYTE, and ASRock motherboards, the vendors block automated checks, so IMSU uses a shared database of…",
+   "author": "Bacon_Dude117",
+   "publishedAt": "2026-10-25T02:51:15+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Bacon_Dude117",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3e21b4c4d7de",
+   "canon": "https://www.reddit.com/comments/1xequs5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xequs5/built_a_brand_name_checker_thats_working_mainly/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "Built a brand name checker, that's working mainly with Jev",
+   "text": "How I built it:\n - Claude Code for the code (Next.js, hosted on Vercel)\n - Jev from TypeSafe as AI - it only answers with probabilities, no text\n - Every sentence in the report is prewritten, so nothing gets made up\n - Benchmark with 563 names, runs after every change\n What I…",
+   "author": "TheBanq",
+   "publishedAt": "2026-10-25T02:39:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bXVrY3I0bmV6aXhoMaB2FAfUCZKmK_8o5Vy_ED8XhCmzs9aIElLsGBVB25QJ.png?width=640&crop=smart&auto=webp&s=e59ad458a032b6538c4aa9a2f8351489bbaf9134"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TheBanq",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e9c67e36cccb",
+   "canon": "https://www.reddit.com/comments/1xeqtp1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xeqtp1/i_built_a_laser_dryfire_shooting_game_with_claude/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "I built a laser dry-fire shooting game with Claude Code: a webcam watches your monitor and scores laser hits (open source, free)",
+   "text": "I built ScreenPlink with Claude Code over about two weeks. It is a laser dry-fire shooting game where your monitor is the target. You shoot the screen with a laser trainer pistol, or with a laser cartridge in your own gun. A webcam sitting beside the monitor watches the screen…",
+   "author": "vkorost",
+   "publishedAt": "2026-10-25T02:37:51+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bTFxMDBkeHJ5aXhoMTWTrUG8rFWadhU0lEJNmBYRp_Fgq-MmbFrYcxrPIqWM.png?width=640&crop=smart&auto=webp&s=33070d6a1f59b453c1716459cb835d1659884b15"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/vkorost",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "16d8d81b62d0",
+   "canon": "https://www.reddit.com/comments/1xeqoaq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xeqoaq/built_a_tool_to_optimize_my_claude_code_usage/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "Built a tool to optimize my Claude Code usage",
+   "text": "I’m a senior SWE using Claude Code daily. I analyzed my transcripts and found that 56% of API-equivalent costs went to rereading context. Cache expiry alone cost me $98.74 in 27 days.\n So I built optimAIzr with Claude Code, using it to implement features, write tests, and…",
+   "author": "stichstichstich",
+   "publishedAt": "2026-10-25T02:29:59+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/stichstichstich",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9e0b1e9e826c",
+   "canon": "https://www.reddit.com/comments/1xeqizw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xeqizw/i_built_a_tool_that_helps_customizing_claude/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "I built a tool that helps customizing Claude Desktop theme 😀",
+   "text": "https://preview.redd.it/mh04slppwixh1.png?width=1440&format=png&auto=webp&s=31afbbe2023fd2d09986583e248ce187df3354de\n I already posted this in ClaudeCode subreddit, but I guess it would be nice to share in ClaudeAI subreddit as well 😀 \n So my original pain point is that I used…",
+   "author": "rinn7e",
+   "publishedAt": "2026-10-25T02:22:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/mh04slppwixh1.png?width=140&height=97&auto=webp&s=b454c063a0936a3e7dca251bc75934ff302e3dec"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/rinn7e",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "074a29833c30",
+   "canon": "https://www.reddit.com/comments/1xeq2gm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xeq2gm/immersive_shareplay_now_actived_in_arluma360/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "Immersive SharePlay now actived in Arluma360",
+   "text": "Immersive SharePlay is now live in the latest release of Arluma360 (2.0.4). Join any of our immersive 360 scenes with friends, family and / or colleagues. Collaborate, educate, train or just enjoy some great meeting spaces together. If you'd like to try it out with us, DM us,…",
+   "author": "melrand",
+   "publishedAt": "2026-10-25T01:58:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cGlucmV1a3ZzaXhoMZAndp5Ah0QOLAFIgQuYa__BtroaXptOasW6YCX4vJh7.png?width=640&crop=smart&auto=webp&s=5b5581c815d5cb70b5a16109a026ea30fde13145"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/melrand",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e3542e33d45a",
+   "canon": "https://www.reddit.com/comments/1xeq0gk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xeq0gk/coop_mod_for_prototype_1/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "Coop Mod For Prototype 1",
+   "text": "Just got basic character sync working for my co-op project!\n Hey everyone! I’m working on Prototype 1 of a co-op mod/game using a framework built from decompiled code. It’s still very early, but I finally managed to get basic character movement and positions synced up between…",
+   "author": "Competitive-Budget40",
+   "publishedAt": "2026-10-25T01:55:43+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/1udiYWjfwrUhB4enLEJURxb7nta2Cp2o6vVvqGXyB0M.jpeg?width=320&crop=smart&auto=webp&s=dc2fd4e4eee41e18606491d24a8e2b79decbb215"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Competitive-Budget40",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "797124d85243",
+   "canon": "https://www.reddit.com/comments/1xepxbp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xepxbp/dinovi_formerly_dalim_for_real_estate_is_ready/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "dinovi (formerly Dalim for Real ESTATE) is ready! Apple Store isn’t yet: early access on TestFlight for guided iPhone LiDAR scanning + on-device Gaussian Splatting",
+   "text": "Hey guys!\n Some of you might remember Dalim, the scanning app I posted about a few months ago (previous post). Until now it was reserved for real estate agencies and cloud processing. I’ve decided to open it to everyone 100% local, under a new name: dinovi.\n The app is done and…",
+   "author": "AbjectChildhood1207",
+   "publishedAt": "2026-10-25T01:51:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dmU2Z3Z1eWNyaXhoMfWBXA-4grChMJ4YpSbt6b8wWrpd_XkUebB0i2-ndKN2.png?width=640&crop=smart&auto=webp&s=1e828fe13d75a618c48d239b633f43d8d0b62b9c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AbjectChildhood1207",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d89e737cbab4",
+   "canon": "https://www.reddit.com/comments/1xepv76",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xepv76/i_asked_claude_to_rewrite_english_in_rust/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "I Asked Claude to Rewrite English in Rust",
+   "text": "Prompt: \"Rewrite English in Rust\"\n Model: Opus 5.5 XHigh\n GitHub: https://github.com/Aaryan-Kapoor/english-rs",
+   "author": "KvAk_AKPlaysYT",
+   "publishedAt": "2026-10-25T01:48:04+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/VPMHG-rARXY0mJAkFxZpJNl5IlAamWWFZOYLR_cerOA.png?width=640&crop=smart&auto=webp&s=7c27b2a0f39a530324ac12b409ecc6709fbc8ce8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/KvAk_AKPlaysYT",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "ceff35be847a",
+   "canon": "https://www.reddit.com/comments/1xepfyi",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xepfyi/my_game_just_randomly_started_lagging_like_this/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "My game just randomly started lagging like this",
+   "text": "I got on today and my game was working earlier now it’s lagging like crazy in every game I play. The only temporary fix is reinstalling my invidia drivers but when I turn off or reset my pc it goes back to lagging",
+   "author": "No-Beginning7887",
+   "publishedAt": "2026-10-25T01:26:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/emRidzVqbDVuaXhoMd-ARBug6m53nHuPhAJi0JMXkCunxSpB7crtbqH-OmUo.jpeg?width=640&crop=smart&auto=webp&s=2c1dcdd01e3b657dd920cba002a8e4f1c27754ce"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No-Beginning7887",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9f0861e8b89d",
+   "canon": "https://www.reddit.com/comments/1xeovyv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xeovyv/i_made_an_android_app_that_translates_manga_pages/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "I made an Android app that translates manga pages right on your phone, fully offline",
+   "text": "I wanted to read raw Japanese manga without waiting for a scanlation or uploading pages to some cloud service, so I built Yomu.\n Open any manga in any reader app, tap the floating button, and a few seconds later the speech bubbles are redrawn in English (or Portuguese, Spanish,…",
+   "author": "Th3Expl0Rer",
+   "publishedAt": "2026-10-25T00:59:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bTV1OWthZGNpaXhoMbDq5qYIOoA46luDrqEVcFlvjA1gnq5b-eNtbN4hVvAr.png?width=640&crop=smart&auto=webp&s=8dd4d23457560297970c6faa771887b0c7b0642f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Th3Expl0Rer",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cf32685dfc62",
+   "canon": "https://www.reddit.com/comments/1xeovvy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xeovvy/im_using_claude_to_do_reverse_engineering_at_fl/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "I'm using Claude to do reverse engineering at fl studio - it's called Lynx",
+   "text": "The project is almost completely done, I'm doing the reverse engineering of fl studio.\n You are ready to open your Fl studio projects, detect your plugins and the plugins you don't have. The reverse engineering of the best known is being done too! Like fabfilter, Valhalla, waves…",
+   "author": "Kau_an137",
+   "publishedAt": "2026-10-25T00:59:16+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/r6ihw0eaiixh1.jpeg?width=140&height=78&auto=webp&s=4ea630d64510943f0e01df6b9fb4ab8fba24285c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Kau_an137",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5300eef39fc0",
+   "canon": "https://www.reddit.com/comments/1xeoldq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xeoldq/i_built_a_mac_terminal_app_because_i_couldnt_keep/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "I built a Mac terminal app because I couldn't keep track of 20+ Claude Code sessions anymore",
+   "text": "Hey everyone,\n I'm a software developer, and I'm sharing a project I've launched that has been helpful for me.\n I've been following and very actively participating in the agentic development shift we've seen these last few years - and every day I'm trying to be more productive…",
+   "author": "nebukad",
+   "publishedAt": "2026-10-25T00:44:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NndrenRlZGtmaXhoMYmi7xZyWt6QmZnGN1C9wOu3iQsz83lWKMDd2sh2l-ra.png?width=640&crop=smart&auto=webp&s=b5a788d9001974342312e222a37053ef4b991088"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/nebukad",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "53d45b6a8edc",
+   "canon": "https://www.reddit.com/comments/1xeojaa",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xeojaa/50_days_alot_of_opus_55_and_alot_of_confussion_as/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "50 Days, alot of Opus 5.5 and alot of confussion as first time Dev",
+   "text": "I would appreciate any feedback!\n So i started this Project 50 days ago and I am pretty happy with the Progress I added alot of different content in the last 30 days. \n Basically my game is about: Cleaning Service in a town where the trash came to life in a Comic Style Look. You…",
+   "author": "Educational-Smoke-88",
+   "publishedAt": "2026-10-25T00:41:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dGtmb3k3Z3ZlaXhoMYvSgNW-uWYzqiaNK8sNrWrJ01wxEqNu6kBP860zaPLB.png?width=640&crop=smart&auto=webp&s=39a7af4049a975cc6d69f5f7fff0b2c65f55ce92"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Educational-Smoke-88",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "0d714cbd1fd7",
+   "canon": "https://www.reddit.com/comments/1xeo5i6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xeo5i6/lifelo4_batteries_with_bluetooth_bms_and_victron/",
+   "addedAt": "2026-10-25T04:49:35.872Z",
+   "title": "LiFeLo4 batteries with Bluetooth BMS, and Victron Solar Charge Controllers, and 140D Solar Charge Controller, displayed in an Android application",
+   "text": "I wanted to see the status of my LiFePo4 batteries (they have Bluetooth BMS's) and solar charge controllers easily via one application. The 140D is a \"generic\" solar charge controller that has odd ways of doing solar charge controller \"stuff\" (such as getting a flag value of…",
+   "author": "Cactus_Thorn_Pub",
+   "publishedAt": "2026-10-25T00:22:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/e5ap6vmd6ixh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=aec4fd4996409f51da7841ee8a6511fc79310f4f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Cactus_Thorn_Pub",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-25T04:49:35.872Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "3c67853e4de2",
    "canon": "https://www.reddit.com/comments/1xemplm",
