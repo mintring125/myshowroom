@@ -1,8 +1,845 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-10-26T04:58:44.303Z",
+ "updatedAt": "2026-10-26T13:15:45.522Z",
  "cases": [
+  {
+   "id": "dbd5bb146d8f",
+   "canon": "https://www.reddit.com/comments/1xfw3kv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfw3kv/compaction_wiped_out_the_continuity_in_my_670turn/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "Compaction wiped out the continuity in my 670-turn co-writing chat. Here's how I got it back with subagents and a checkpoint doc.",
+   "text": "I co-write a long romance novel with Claude, one turn at a time. I write one character's lines and Claude handles everything else. One chat got to roughly 670 turns, compaction kicked in, and Claude started forgetting things it had written itself.\n The plot survived. The texture…",
+   "author": "Euphoric_Agency_5130",
+   "publishedAt": "2026-10-26T12:58:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/qdpwgcim7txh1.jpeg?width=640&crop=smart&auto=webp&s=23145069818b35da768d5bcd300d624f67d4602b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Euphoric_Agency_5130",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5439851ff6f6",
+   "canon": "https://www.reddit.com/comments/1xfvwd7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfvwd7/i_vibe_coded_an_mcu_rewatch_tracker_to_finish/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "I vibe coded an MCU rewatch tracker to finish everything before Avengers: Doomsday",
+   "text": "I'm rewatching the whole MCU before Doomsday and wanted a proper tracker, so I built one with Claude's help: doomdex.dev\n What it does: release or story order, checklist or poster wall, phases, hide the stuff you don't care about, add your own titles, countdown to Dec 18, and a…",
+   "author": "SafalBharadwaj",
+   "publishedAt": "2026-10-26T12:49:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ymo89chy5txh1.png?width=140&height=82&auto=webp&s=9d7ab073df8a0983d9337659befd51762ad9f6a8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SafalBharadwaj",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e406128c89ef",
+   "canon": "https://www.reddit.com/comments/1xfvvhm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xfvvhm/i_vibe_coded_an_mcu_rewatch_tracker_to_finish/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "I vibe coded an MCU rewatch tracker to finish everything before Avengers: Doomsday",
+   "text": "I'm rewatching the whole MCU before Doomsday and wanted a proper tracker, so I built one with Claude's help: doomdex.dev\n What it does: release or story order, checklist or poster wall, phases, hide the stuff you don't care about, add your own titles, countdown to Dec 18, and a…",
+   "author": "SafalBharadwaj",
+   "publishedAt": "2026-10-26T12:48:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/3UWDwnxCIkKkzIuSBJn6UBGU-N1Kv_D_NdJgnkiiOXI.png?width=140&height=73&auto=webp&s=a7bb81ea3234e4820e6926a3649e5e860de0d7c5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SafalBharadwaj",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6e8df6f019ae",
+   "canon": "https://www.reddit.com/comments/1xfvflf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xfvflf/vesperstory_keeping_aiassisted_development/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "VesperStory: keeping AI-assisted development separate from game rules",
+   "text": "VesperStory is an early-alpha browser town with fictional AI residents and multiplayer mini-games. This real clip shows Memory Floor.\n Our development workflow gives Codex and Claude the same project bible, then separates each task into its own branch and review. The rules…",
+   "author": "TechnicalOutside5828",
+   "publishedAt": "2026-10-26T12:28:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NTNuY2kwNXMxdHhoMTgJxXfQJv2IhcS2_PJ6cQgAa0hlD0wHW8TLzvl7ruis.png?width=640&crop=smart&auto=webp&s=e70fd7a1607137b8a7fe7e46e899033a8f05fcb9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TechnicalOutside5828",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "36e87fe8d726",
+   "canon": "https://www.reddit.com/comments/1xfv6vr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xfv6vr/week_13_of_making_fishing_and_exploration_game/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "Week 13 of making fishing and exploration game - demo almost finished.",
+   "text": "Hello there again :)\n This is Week 13 of me posting this \"dev log\" so to say and explaining how I do things and talking about progress. While \"exploration\" mechanic was added one week ago, I was finally able to make it feel like a proper completely equal part to fishing segment…",
+   "author": "RUSuper",
+   "publishedAt": "2026-10-26T12:17:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Nm8yZTVkbmV6c3hoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=d077c728166544a6c59e48e7a02acdeb62b75d2c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RUSuper",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "805a28dfe506",
+   "canon": "https://www.reddit.com/comments/1xfv4ur",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfv4ur/we_coded_a_full_game_exclusively_using_claude/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "We coded a full game exclusively using Claude models and it's on Steam",
+   "text": "The entire project was made using Claude Code inside the Desktop app, exclusively using Claude models. It began using Sonnet 3.7 and today it's a fully fledged game on Steam.\n The project leverages Unreal Engine 5 for rendering and Rust for intense physics. Claude runs tests and…",
+   "author": "gelflit",
+   "publishedAt": "2026-10-26T12:14:51+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MHY3dG1jeGF5c3hoMS7XVQe2IQxUotbt2-mqt3VRvXtIOfbfZ_agy8isB2dN.png?width=640&crop=smart&auto=webp&s=8a256f6e5daeea44ea78c2c93c7699bdd93246ec"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/gelflit",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3153fea4481b",
+   "canon": "https://www.reddit.com/comments/1xfunjy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xfunjy/unicine_stream_watch_netflix_in_4k_prime_video_in/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "UniCine Stream - watch Netflix in 4K & Prime Video in Full HD now running promotion / SALE till end of the week for $5.99 only",
+   "text": "Watch NETFLIX & MUBI up to 4K and Prime Video & STARZ up to Full HD 1080p in Cinema environment on Apple Vision Pro now for a one-time purchase of $/£ 5.99 or €6.99 or CAD $7.99 or AUD $9.99 only. Till the end of the week only (November, 1st).…",
+   "author": "UniCineStream",
+   "publishedAt": "2026-10-26T11:52:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/8hi7acl8vsxh1.png?width=140&height=78&auto=webp&s=43627c7f6386eeb834eefcba6ea514c085ca5d7a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/UniCineStream",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "67ce5ce9449c",
+   "canon": "https://www.reddit.com/comments/1xful7o",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xful7o/i_made_a_2minute_cinematic_trailer_for_my_toilet/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "I made a 2-minute cinematic trailer for my toilet game with Claude Code - one laptop, a few dollars",
+   "text": "How it was made:\n - Research first. Opus read up on how trailers are written and cut, audited my old promo videos (verdict: mediocre) and proposed a pipeline that fits my rules - everything renders locally on my laptop, the only paid parts are Google's Gemini TTS (the voice of…",
+   "author": "freechoice",
+   "publishedAt": "2026-10-26T11:48:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ajlsbmZhdHlzc3hoMfMKZc4iZTtB85dgzOe574i5vGVgmBqDh0V_WCGdW0-b.png?width=640&crop=smart&auto=webp&s=85c7c0cd753593f6bad7b7f6a832cfb747bf2771"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/freechoice",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e495fbaa0350",
+   "canon": "https://www.reddit.com/comments/1xfugqf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xfugqf/route_any_docker_container_through_adguard_vpn/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "Route any Docker container through AdGuard VPN, with a kill switch (no gluetun support, so I built a small gateway)",
+   "text": "I used ClaudeCode for this. I have an AdGuard VPN subscription and wanted some containers to use it. gluetun and similar images don't support AdGuard VPN as far as I know, so I put the official AdGuard VPN CLI into a small gateway container.\n How it works:\n - Plain Debian 13…",
+   "author": "telsaton",
+   "publishedAt": "2026-10-26T11:42:12+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/telsaton",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8082bbe90971",
+   "canon": "https://www.reddit.com/comments/1xfuf0e",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xfuf0e/18_wheeler_american_pro_trucker_dreamcast_is_now/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "18 Wheeler: American Pro Trucker (Dreamcast) is now playable in standalone 6DoF VR on Meta Quest! Sit inside the 3D cab, yank the overhead air-horn cord, and race Lizard Tail from NY to Key West.",
+   "text": "Hey everyone! 🚛💨\n I’ve just released v0.1.0 of 18 Wheeler: American Pro Trucker VR, a standalone 6DoF OpenXR port of Sega AM2’s 2001 Dreamcast arcade classic running natively on Meta Quest 2, Quest Pro, Quest 3, and Quest 3S!\n 🔗 GitHub Repo, Memory Map & APK Release (v0.1.0):…",
+   "author": "f1nal_b0ss",
+   "publishedAt": "2026-10-26T11:39:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/07cxd4ygtsxh1.jpeg?width=640&crop=smart&auto=webp&s=27db32dfc2848d8257aa022df78c61ecdb0a3a1e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/f1nal_b0ss",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1a92babfb620",
+   "canon": "https://www.reddit.com/comments/1xfucpw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xfucpw/agentic_code_editor_built_with_claude/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "Agentic Code Editor built with Claude",
+   "text": "I've been a Java software engineer for a decade now and recently I noticed a change in how I used my IntelliJ IDEA. All the buttons have become obsolete since I could just ask my local model to \"Run, check the logs and report back any anomalies\" (simple example).\n So I had the…",
+   "author": "YogurtclosetLimp7351",
+   "publishedAt": "2026-10-26T11:36:13+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/b243d2V6aXdyc3hoMeomtte8tVwUvQpVeteXB8G3RF0O3gaMeBwQ5Y1CnMDa.png?width=640&crop=smart&auto=webp&s=430229f441fdab2a06d94df012731d0b2ac001bd"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/YogurtclosetLimp7351",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "908202f21ff8",
+   "canon": "https://www.reddit.com/comments/1xfu5ew",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfu5ew/i_made_a_2minute_cinematic_trailer_for_my_toilet/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "I made a 2-minute cinematic trailer for my toilet game with Claude Code - one laptop, a few dollars",
+   "text": "A few weeks ago I posted Tiltanic here - a small browser game where you tilt your phone and a tiny steamboat rides the wavy sea.\n How it was made:\n - Research first. Opus read up on how trailers are written and cut, audited my old promo videos (verdict: mediocre) and proposed a…",
+   "author": "freechoice",
+   "publishedAt": "2026-10-26T11:26:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ejBhaHEwbGxwc3hoMfMKZc4iZTtB85dgzOe574i5vGVgmBqDh0V_WCGdW0-b.png?width=640&crop=smart&auto=webp&s=b061618000fc67447cdb32da0419f63b83f8d7da"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/freechoice",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "22bce3b2c6ec",
+   "canon": "https://www.reddit.com/comments/1xfu4ei",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xfu4ei/i_made_a_cozy_3d_browser_game_about_digital_nomad/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "I made a cozy 3D browser game about digital nomad life. Here's how I built it and what went wrong",
+   "text": "VybeNomad is a small life sim you play in the browser. You pick the city you start in, take remote gigs, build little apps for side income and move between nine cities. The goal is $10,000 without burning out.\n How I made it:\n Tools: Claude Code wrote most of the code. Three.js…",
+   "author": "albertsimondev",
+   "publishedAt": "2026-10-26T11:24:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M2tteTZnc21xc3hoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=5664179111e833b42ed1877ecc5fe62e01f53d7f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/albertsimondev",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e1fbbf6ff46f",
+   "canon": "https://www.reddit.com/comments/1xftohn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xftohn/splash_fall_shoot_down_paint_troopers_before_they/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "Splash Fall: shoot down paint troopers before they cover your walls",
+   "text": "Hey everyone! I’m the developer of Splash Fall. It’s been out for a few weeks but has mostly flown under the radar, so I thought I’d share again it here.\n The idea is simple: paint invaders fall into your room, and you look and pinch to shoot them. Miss a shot, and paint…",
+   "author": "chiptang211",
+   "publishedAt": "2026-10-26T11:01:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/amh1d3dtNWZtc3hoMdcBDy8EzqDbSuaeb7euotdx6x7WidnqUPz7aqQLSToQ.png?width=640&crop=smart&auto=webp&s=6b40aec311a5e5a98c8f0c321a6aa3afb848348d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/chiptang211",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "66ff37c8bdb8",
+   "canon": "https://www.reddit.com/comments/1xftofz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xftofz/i_shipped_a_realtime_1v1_mobile_strategy_game/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "I shipped a real-time 1v1 mobile strategy game (Unity + dedicated servers) built mostly with AI coding agents. What worked and what didn't",
+   "text": "We just released RoyalCraft, a real-time 1v1 strategy game for Android and iOS. Think Clash Royale with an economy on top: you drag cards to summon units, but you also build gold mines, upgrade your castle and scout through fog of war. Three races, no gacha, no unit levels, no…",
+   "author": "Pure-Championship371",
+   "publishedAt": "2026-10-26T11:00:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/tv1RkwqVxy-gnbmiaoayXZ3RXZ_doEmbSBy5MEF2DhQ.png?width=140&height=140&auto=webp&s=127ecc05b7142d7d19726f7933d1bdb0b3d11e1e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Pure-Championship371",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "29ce9090473c",
+   "canon": "https://www.reddit.com/comments/1xftl28",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xftl28/i_made_a_claude_code_plugin_to_track_5hour_and/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "I made a Claude Code plugin to track 5-hour and weekly usage across Max 5x and Max 20x",
+   "text": "I’ve seen a lot of debate here about whether Max 5x and Max 20x have the same weekly usage limit, with the main difference being the 5-hour limits. Some people say they’re the same; others say they definitely aren’t. \n I made a Claude Code plugin to help gather some data. It…",
+   "author": "Eskladoscla",
+   "publishedAt": "2026-10-26T10:56:03+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Eskladoscla",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "05278b17d9df",
+   "canon": "https://www.reddit.com/comments/1xftkrx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xftkrx/building_a_programming_language_with_claude_xo/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "Building a Programming Language with Claude: Xo Lang",
+   "text": "One of the Claude experiments I've really enjoyed is the guided learning of how to build a programming language: Xo (pronounced ex-oh). I set up an AI lead (which I monitored and summarized all the work as it was progressing) and then had 3-5 worker agents build out the spec and…",
+   "author": "motojo",
+   "publishedAt": "2026-10-26T10:55:37+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/motojo",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f53aa8bc2d4a",
+   "canon": "https://www.reddit.com/comments/1xfthjj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xfthjj/opus_created_an_application_for_me_which_isolates/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "Opus created an application for me which isolates voices from audio streams (so it filters out soundtracks/sound effects). I use it while playing games while having a Twitch stream in the background running at the same time. It worked to my suprise extremely good right out the box!",
+   "text": "Claude wrote it in Rust and it's very lightweight. Uses about 1-2% of CPU and 15-30 mb of RAM with the cli version on my PC (Ryzen 5 7500F).\n There's a cli, portable and installer version for Windows and Linux (Appimage)\n The best settings for me after a bit of tweaking seem to…",
+   "author": "ExactRegion4839",
+   "publishedAt": "2026-10-26T10:50:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/mSkX7ff5YAj80TuW6AX6V_ux6QRLdeM4yMSKx8U4G4w.png?width=640&crop=smart&auto=webp&s=0538d633756cf98b3981ba2bb6c2910e12c6c24a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ExactRegion4839",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cd92f962a7f2",
+   "canon": "https://www.reddit.com/comments/1xfth74",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xfth74/english_bladeshadow_a_1v12v23v3tag_chinese/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "[English] BladeShadow - a 1v1/2v2/3v3/tag chinese traditional konfu game, with unbeatable ai, demonstration of mass-training ai in-game",
+   "text": "If you would prefer to read in Traditional Chinese, please look at this post. Hey guys, I'm a little secondary student, and my CS teacher asks us to learn how to train AI. So I think it would be a good idea to train AI for this chill stickman game.\n Even though the focus is on…",
+   "author": "launchd_0",
+   "publishedAt": "2026-10-26T10:50:02+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/launchd_0",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "385411f740a1",
+   "canon": "https://www.reddit.com/comments/1xftfa4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xftfa4/steam_frame_pcvr_wifi_7_vs_dongle_vs_wifi_6_tests/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "Steam Frame PCVR Wifi 7 vs. Dongle vs. Wifi 6 Tests and Gameplay",
+   "text": "I have pretty good Tri-Band WiFi 7 AP EAP787 and I was curious how well it would complement Steam Frame's Dongle. I also saw posts on Reddit asking if someone could use WiFi 7 card/client from their PC/motherboards, so I tested that as well. So setup is:\n WiFi 7 (EAP787 - 6G) +…",
+   "author": "martincerven",
+   "publishedAt": "2026-10-26T10:46:47+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/HTlxXKsxAomAJ3mlFULKFI-_1LIlWjkKtKuRbMpFagY.jpeg?width=320&crop=smart&auto=webp&s=c498c06cf2f0c7efbe6a3554aea5fd2ad4b8f4a8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/martincerven",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0301530f4805",
+   "canon": "https://www.reddit.com/comments/1xfte8z",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfte8z/i_built_a_mac_app_with_claude_then_used_it_to/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "I built a Mac app with Claude, then used it to design everything else for the app (free beta)",
+   "text": "Vitrine started as a proof of concept. I described a native macOS reference library to Claude Opus and it one-shotted a rough first version. From there the app became its own design tool.\n I collected references onto boards, and I asked Claude to collect its own. Then Claude…",
+   "author": "iFun4ik",
+   "publishedAt": "2026-10-26T10:45:12+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ejI5cmkyOXdpc3hoMbmOuZ7nnsIYg4XbsuXT0fDdEQfMFHvpxQduxm0vm9rB.png?width=640&crop=smart&auto=webp&s=520a152f353b60480d5c14aece033f4268ad4026"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/iFun4ik",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ea6afc1b80ca",
+   "canon": "https://www.reddit.com/comments/1xftbgm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xftbgm/claude_kept_telling_me_things_were_done_when_they/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "Claude kept telling me things were done when they weren't. Non-coder, six months in, here's what I built with Claude Code to make it show its working (free starter)",
+   "text": "If you've built anything bigger than a weekend project with Claude you've probably had that moment where it says \"all tests pass\" or \"I checked the file\", and then you find out it never opened the file, it read a description of it and filled in the rest.\n I'm not a coder, I ran…",
+   "author": "lateral_builder",
+   "publishedAt": "2026-10-26T10:40:49+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/lateral_builder",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9bc388b94c8b",
+   "canon": "https://www.reddit.com/comments/1xftb0a",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xftb0a/everyones_debloating_their_tv_with_claude_code_i/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "Everyone's debloating their TV with Claude Code. I wanted mine debloated and beautiful, so we built a whole launcher",
+   "text": "I've seen a bunch of \"debloat your Android TV with Claude Code\" repos this month, and they're good. Mine started the same way: Claude disabled the junk on my Shield over ADB. Then it installed a launcher and the result was clean and ugly. A black grid.\n My rule is that elegance…",
+   "author": "aristofeles",
+   "publishedAt": "2026-10-26T10:40:08+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/aristofeles",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a007227038f4",
+   "canon": "https://www.reddit.com/comments/1xfszos",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfszos/two_claude_code_agents_joined_the_same_party_in/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "Two Claude Code agents joined the same party in my RPG and started finding co-op bugs",
+   "text": "I built multiplayer so people could play my RPG together. Then two coding agents became my playtest party.\n Each Claude Code session can launch its own backend, database, Redis and frontend on separate ports. They can open the game, create characters and play through encounters.…",
+   "author": "tschilpi",
+   "publishedAt": "2026-10-26T10:22:47+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cjBidjVyd29mc3hoMXP3zI5ImHSOKb9EdgxOMk4wCTNhC5zhLWRRF6EYe_CZ.png?width=640&crop=smart&auto=webp&s=41b3aac564b649f9266607f089650136b0fece07"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/tschilpi",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ef1018643bbe",
+   "canon": "https://www.reddit.com/comments/1xfrjru",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xfrjru/release_vr2xr_pc_studio_opensource_180360_3d_sbs/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "[Release] vr2xr PC Studio — Open-Source 180°/360° 3D SBS VR Video Player + YouTube VR Streamer with Native 1000Hz 3DoF Head Tracking for XREAL One / One Pro (Standalone Windows .EXE)",
+   "text": "Hey r/AugmentedReality! 👋\n After seeing u/skarian's awesome work bringing vr2xr to Android and u/SamiMitwalli's research into the XREAL One Pro's raw USB-C telemetry packets, I wanted a zero-hassle way to watch VR180, Fisheye 180°, VR360, and 3D SBS videos (including YouTube…",
+   "author": "f1nal_b0ss",
+   "publishedAt": "2026-10-26T08:56:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/7ymfpey40sxh1.jpeg?width=140&height=78&auto=webp&s=31d812d1206e9823c20a62a61660a46418b10ea1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr",
+    "three",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/f1nal_b0ss",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3ee41512d455",
+   "canon": "https://www.reddit.com/comments/1xfq6ox",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xfq6ox/vr_astronomy_simulator_skynarium_coming_soon_to/",
+   "addedAt": "2026-10-26T13:11:22.711Z",
+   "title": "VR Astronomy Simulator - Skynarium coming soon to Meta Quest!",
+   "text": "Hey there! My name is Evgenii, I'm the developer of Skynarium, a VR astronomy observing simulator which is coming soon to Meta Quest, with Quest 3 as my target device.\n Skynarium is built around spending time under the night sky: finding celestial objects, exploring the sky from…",
+   "author": "Piratinskii",
+   "publishedAt": "2026-10-26T07:28:16+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eXVuNncxcGlrcnhoMap9gS7mchm-ahyQX1cPDqTemBGty4k98dG12vGqsRXg.png?width=640&crop=smart&auto=webp&s=a2e48de6ca3973b135c5b75aaf68ec4b4bc03e9a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Piratinskii",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-26T13:11:22.711Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "4a226d160813",
    "canon": "https://www.reddit.com/comments/1xfnded",
