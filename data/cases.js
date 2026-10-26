@@ -1,8 +1,1342 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-10-26T13:15:45.522Z",
+ "updatedAt": "2026-10-26T20:38:38.907Z",
  "cases": [
+  {
+   "id": "ba5e052cee3c",
+   "canon": "https://www.reddit.com/comments/1xg84mj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xg84mj/lumina_studio_beta_v014_coming_soon/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "Lumina Studio BETA v0.1.4 Coming Soon",
+   "text": "We’re currently working on a new 360° Video to Gaussian Splatting pipeline, allowing you to turn 360° video footage directly into detailed 3D reconstructions.\n Here is a first look at one of our latest tests.\n Input: 8K 360° video (1 min 32 sec)\n Structure from Motion (SfM): ~7…",
+   "author": "Legitimate-Map-4426",
+   "publishedAt": "2026-10-26T20:24:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/d3Zhd2VpaDJmdnhoMZpvfNt49EGXXAh0I5O9Jk0qNGs7KVqqXVhaPeetcqn4.jpeg?width=640&crop=smart&auto=webp&s=61e4973d756e6ce97ebcbe25b127c62bcc01c216"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Legitimate-Map-4426",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "557371dfb25a",
+   "canon": "https://www.reddit.com/comments/1xg7zvh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xg7zvh/open_magic_ccg/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "Open Magic (CCG)",
+   "text": "Goal: Do whatever magic the gathering does, but for free, open source, minus the bullshit, also fully legal, so weuse own art, own wording etc. However the logic, rules, number etc is fair use, so....\n State: Working well, playable games, 1600+ cards already implemented, beats…",
+   "author": "collectivebliss",
+   "publishedAt": "2026-10-26T20:19:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/78uy1jfbcvxh1.jpeg?width=140&height=84&auto=webp&s=1df7beac838317022788748683955f1b86134598"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/collectivebliss",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c81ad86420e0",
+   "canon": "https://www.reddit.com/comments/1xg7z23",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xg7z23/i_have_added_office_view_to_my_ai_agents_swarm_to/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "I have added office view to my AI agents swarm to follow what they are doing",
+   "text": "I usually have 30–60 agents running in parallel across Codex, Claude Code, Antigravity and OpenCode, all collaborating with one another. It’s starting to feel like a small company of its own 😄\n I recently came across Munder Difflin (https://github.com/HarnessMD/munder-difflin),…",
+   "author": "oyren-ai",
+   "publishedAt": "2026-10-26T20:18:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bzBodGc4NnBidnhoMdThscVtNnRYCRoKbNSxo8luMYYIv9d96nhHYSXkhdXa.png?width=640&crop=smart&auto=webp&s=ad02b29b9ac6a03417ea53a5b14dd8501c6f3a43"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/oyren-ai",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "522626b5a1fd",
+   "canon": "https://www.reddit.com/comments/1xg7yli",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg7yli/i_built_a_free_app_with_claude_code_that_runs/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "I built a free app with Claude Code that runs NVIDIA DLSS 4.5 and AMD FSR 4 frame generation, both on an NVIDIA card, live on any window or on video files",
+   "text": "Smooth My Video is a free, open-source Windows app for NVIDIA RTX GPUs. Drop in a video, pick a frame rate, and it saves a smoother copy, with six interpolation options to choose from: GMFSS, NVIDIA Optical Flow, RIFE, NVIDIA DLSS 4.5 and AMD FSR 4 frame generation, and NVIDIA…",
+   "author": "Glittering-Cherry-90",
+   "publishedAt": "2026-10-26T20:18:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bDhmamlpN25kdnhoMfLeWmTjK6La0fcvBwhdYD_hUVeM565yTgz7unvru2Fe.png?width=640&crop=smart&auto=webp&s=c60e342686ba881a9f7e06420eee50922002191b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Glittering-Cherry-90",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4771e606fd4e",
+   "canon": "https://www.reddit.com/comments/1xg7wzp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xg7wzp/71kb_xg3wipeout_clone_6_player/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "71kb XG3/Wipeout clone, 6 player",
+   "text": "lmaowtfbbq. This tech is insane. \n I wanted games that were low barrier to entry multiplayer. itch didn't seem to have that in hover racer form. \n You might have to start a game and then press the pause button and go back to menu, or press the big blue fullscreen and tilt…",
+   "author": "LucidFir",
+   "publishedAt": "2026-10-26T20:16:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bXRfckieHaRuwAWOHRory8NcoxlJjbWD6i2evdP-mhM.png?width=640&crop=smart&auto=webp&s=197e548f64d3639554f850894ca26fd23eea805f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/LucidFir",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c0bb2a700dbc",
+   "canon": "https://www.reddit.com/comments/1xg7wwk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xg7wwk/catcopter_an_open_multiplayer_game_where_you_can/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "catcopter - an open multiplayer game where you can fly a quadcopter cat and fight with pterodactyls (also chickens!)",
+   "text": "Hi everyone!\n I wanted to share a game that I made recently - it was in my head for years but never had enough time to get to it. Main idea is flying cats, secondary is aerial fight, critters and real-time physics (even the buildings can be destroyed brick by brick).\n Building…",
+   "author": "pawel-dot-io",
+   "publishedAt": "2026-10-26T20:16:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M2I0dW5vcjZkdnhoMWnmfLI52UbIuJaOXkDoW1hW9l3sLxq6JelamG3pg5Td.png?width=640&crop=smart&auto=webp&s=b4b3cfe1f80c642a16187ed87f9fb74c00541f3f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/pawel-dot-io",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "15f2057364d3",
+   "canon": "https://www.reddit.com/comments/1xg7ona",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xg7ona/i_built_a_design_studio_claude_code_can_run_end/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "i built a design studio claude code can run end to end: 5 agent skills, a browser api and a brand setup prompt",
+   "text": "glyphfield is a free, open-source design studio in the browser, and i built it so agents can run it. every tool registers a scripting api at window.glyphfield.studio, so claude can read every control, change it and export real files. in the video it works on my blog graphics…",
+   "author": "BasedKetsu",
+   "publishedAt": "2026-10-26T20:07:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dGFnNDM4YTVjdnhoMbcO1y2lM-8IZtD8We8n6D80EtNieEwWBvX137knq4-i.png?width=640&crop=smart&auto=webp&s=5c28500c5628f113e51475346439a2eec55e3602"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/BasedKetsu",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4667ef462f7a",
+   "canon": "https://www.reddit.com/comments/1xg7nuh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg7nuh/claude_built_this_launch_video_for_my_opensource/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "claude built this launch video for my open-source design studio",
+   "text": "glyphfield is a free, open-source design studio in the browser, and i built it so agents can run it. every tool registers a scripting api at window.glyphfield.studio, so claude can read every control, change it and export real files. in the video it works on my blog graphics…",
+   "author": "BasedKetsu",
+   "publishedAt": "2026-10-26T20:07:00+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eWE5c2FoZXdidnhoMbcO1y2lM-8IZtD8We8n6D80EtNieEwWBvX137knq4-i.png?width=640&crop=smart&auto=webp&s=91555ec8e6666b75620b737e566eab458c553aeb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/BasedKetsu",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "350bb5beaf2d",
+   "canon": "https://www.reddit.com/comments/1xg7mny",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xg7mny/roughly_60h_of_work_six_months_ago_vs_a_oneshot/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "Roughly 60h of work six months ago vs a one-shot today: GPT-5.4 (April 2026) vs Opus 5.5 (October 2026)",
+   "text": "Estimated human-time-spent breakdown six months ago:\n Engine setup, repo tooling: 10h World generator/editor: 10h World assets and procedural systems (buildings, water, crowds, etc): 10h Physics, gameplay: 10h Menus / HUD: 5h Performance optimizations, compression: 5h Audio: 5h…",
+   "author": "sachasayan",
+   "publishedAt": "2026-10-26T20:05:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/csnvwkr28vxh1.png?width=140&height=135&auto=webp&s=684e03d89bcf7ea93318fbf47b41b1c0dbba6bc1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/sachasayan",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "de49e0ca81e5",
+   "canon": "https://www.reddit.com/comments/1xg7kje",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xg7kje/been_building_a_habbostyle_game_with_claude/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "Been building a Habbo-style game with Claude",
+   "text": "I’ve been working on a project called SquelchLife and thought I’d share it here.\n It’s basically an online multiplayer social game inspired by Habbo. You can create your own rooms, decorate them with furniture, customise your character, collect pets, earn coins and hang out with…",
+   "author": "HoneydewAgreeable585",
+   "publishedAt": "2026-10-26T20:03:28+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/HoneydewAgreeable585",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "61ac1bf33718",
+   "canon": "https://www.reddit.com/comments/1xg7ihr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xg7ihr/fyi_dont_rely_on_steamframe_subreddit_for/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "FYI: Don't rely on /SteamFrame subreddit for unbiased Steam Frame reviews right now",
+   "text": "If you're researching the Steam Frame before buying, know that the mods on that sub are actively filtering out criticism.\n Negative or critical reviews get deleted and buried in the megathread so they don't \"clog up the sub\". Meanwhile, standalone reviews that end with \"There's…",
+   "author": "Cold_R4GE",
+   "publishedAt": "2026-10-26T20:01:19+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/inaq4l10bvxh1.jpeg?width=640&crop=smart&auto=webp&s=3056f69ed1e069d64b6d86110aed73c09929c04b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Cold_R4GE",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cb4d2449088c",
+   "canon": "https://www.reddit.com/comments/1xg71vv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xg71vv/9_to_burn_and_2_hours_left_agents_of_mip/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "9% to burn and 2 hours left - Agents of MIP",
+   "text": "I had 9% of my weekly budget left and 2 hours till the reset. I read so many posts that day of people letting Claude rip and getting cool results so I though why not.\n I told Opus 5.5 high to set a 2 h timer that will stop this session and then go crazy and burn the 9% and build…",
+   "author": "ByteFoundry",
+   "publishedAt": "2026-10-26T19:44:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/i0qhm8xn4vxh1.png?width=140&height=51&auto=webp&s=3f1dac803728e554c681546be6a28e2d586b3a46"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ByteFoundry",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "3095f81acd95",
+   "canon": "https://www.reddit.com/comments/1xg6tp2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg6tp2/i_used_claude_to_build_a_multiplayer_game_where/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "I used Claude to build a multiplayer game where you can fly catcopters and fight pterodactyls",
+   "text": "Hey everyone!\n Wanted to share a multiplayer game that I built with Claude. Most of the elements were generated using Opus 5.5. Used Fable for additional optimisations - networking, server side physics and scanning through what could be optimised for graphics. \n Building the cat…",
+   "author": "pawel-dot-io",
+   "publishedAt": "2026-10-26T19:35:57+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MXo5emc4MWU1dnhoMWnmfLI52UbIuJaOXkDoW1hW9l3sLxq6JelamG3pg5Td.png?width=640&crop=smart&auto=webp&s=c2f148c545c2c9e9138db1a68b23761a8b1e422c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/pawel-dot-io",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "7de64e108e38",
+   "canon": "https://www.reddit.com/comments/1xg6rf9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xg6rf9/ctrltab_to_the_next_agent_that_needs_a_decision/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "Ctrl+Tab to the next agent that needs a decision: running Claude Code in parallel without reading every line",
+   "text": "I'm the developer of Parallel Code, a free, MIT-licensed desktop app (macOS and Linux) for running Claude Code, Codex CLI and other terminal agents in parallel, each task in its own git worktree and branch. No account; it uses your own CLI subscriptions.\n I build it with itself…",
+   "author": "johannesjo",
+   "publishedAt": "2026-10-26T19:33:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cDg5YmhqYW01dnhoMfpe2zbwe0UfuGS8V32AblDUCl1sM2h4896OnV-Q9Bbe.png?width=640&crop=smart&auto=webp&s=ba9d2ce383684abf0a7b7d5740eb86debd9d1199"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/johannesjo",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "93a0aa281f57",
+   "canon": "https://www.reddit.com/comments/1xg6qmz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg6qmz/11_claude_code_builds_of_the_same_app_a/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "11 Claude Code builds of the same app: a one-paragraph prompt lost a third of the product decisions",
+   "text": "I had Claude Code build the same 6-screen app 11 times, from a detailed brief and from a one-paragraph one, and measured every element it shipped. Two things surprised me.\n With a one-paragraph brief (\"make it look good\"), the builds kept only 43 to 50 of the 79 decisions in the…",
+   "author": "CuriousRevolution447",
+   "publishedAt": "2026-10-26T19:32:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/u2lbmbkk5vxh1.png?width=640&crop=smart&auto=webp&s=cac6bf69b15435265286a4d6dd9f03c324261a96"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CuriousRevolution447",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8011b5ad5e1e",
+   "canon": "https://www.reddit.com/comments/1xg6lz5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xg6lz5/6_years_of_questionable_financial_decisions_my/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "6 Years of Questionable Financial Decisions... My Collection!",
+   "text": "Hello everyone! Here's my collection after 6 years of deal hunting! If anyone has any questions about any piece, I'd be glad to snap some up close pictures, and share some details!",
+   "author": "ToastzPogggg",
+   "publishedAt": "2026-10-26T19:27:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/jli3m1xz4vxh1.jpeg?width=140&height=105&auto=webp&s=0106df293ace6ea000ffc8a19c9f4770cb023aed"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ToastzPogggg",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "97a8d2913323",
+   "canon": "https://www.reddit.com/comments/1xg6h2a",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xg6h2a/nugget/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "Nugget",
+   "text": "❤️ gaussian splat",
+   "author": "Jumpy-Cobbler685",
+   "publishedAt": "2026-10-26T19:22:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/826u5RDLnqXsKWj_tz85MWsuCJ-EFDaPODTVOeQG34A.jpeg?width=640&crop=smart&auto=webp&s=296b1933ab0b44e460b319497277ffe97e875aca"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Jumpy-Cobbler685",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8ba1f88654cf",
+   "canon": "https://www.reddit.com/comments/1xg660n",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xg660n/arx_fatalis_vr_mod_020_update_pcvr_quest/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "Arx Fatalis VR mod: 0.2.0 update (PCVR + Quest standalone)",
+   "text": "Here's the first big update to my VR mod for Arx Fatalis, built on Arx Libertatis. It still runs on PCVR, and now there's also a native standalone build for Quest 3.\n 14 minutes of gameplay footage: https://www.youtube.com/watch?v=jdG2odCw4Fw\n What's new in 0.2.0\n New PCVR…",
+   "author": "zx_zybex",
+   "publishedAt": "2026-10-26T19:11:34+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/WkTr-hkCqnMVp2GaaKHs2_Avh6VO8dx_B7BrdVBEYXI.jpeg?width=320&crop=smart&auto=webp&s=0142ecd759fcca46ac5f084ac5360f2cfc9b6be8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/zx_zybex",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7462c356ea53",
+   "canon": "https://www.reddit.com/comments/1xg65e8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xg65e8/local_model_generation_head_to_head_hunyuan_3d/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "Local model generation head to head - Hunyuan 3d, Trellis.2, Pixel3D",
+   "text": "Hi all - got a little fed up trying to force models through Hunyuan via Codex / Sol 6.1 High on slow, getting the same failed attempts over and over so I tasked Opus 5.5 High with gathering Trellis.2 and Pixel3D, and then texturing the same clay model based on a single or…",
+   "author": "dilberry",
+   "publishedAt": "2026-10-26T19:10:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/v07f6xbt1vxh1.png?width=140&height=140&auto=webp&s=b9f8c0783c5bf20e383aa87095c1e8f1bd1ce8ad"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/dilberry",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "f0f28b8dee2d",
+   "canon": "https://www.reddit.com/comments/1xg62vx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xg62vx/my_ai_dungeon_master_app_hit_the_play_store_open/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "My AI Dungeon Master app hit the Play Store! Open Dungeon Master",
+   "text": "About 7 months ago, I decided to start working on a 5e roleplaying chat with my local AI, using some open source apps others had made at the time. I quickly found that nothing really had all the features I wanted: solo and multiplayer campaigns, an AI that doesn't get lost,…",
+   "author": "lebbi",
+   "publishedAt": "2026-10-26T19:08:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/d3JtMTBuMGIxdnhoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=1c9d6a093b2e9178adcb5cd634b542b090cd4ac8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/lebbi",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8ed7bf40970c",
+   "canon": "https://www.reddit.com/comments/1xg60ye",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xg60ye/10_years_in_gamedev_the_last_year_and_a_half/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "10+ years in gamedev, the last year and a half making games with AI. This one is 23 days old: a sky-islands sandbox with airships you design and shoot apart, on a custom C++ engine, built almost entirely by AI.",
+   "text": "I've been making games for over 10 years, and for the last year and a half I've been making them with AI. 23 days ago I started this one from an empty folder, and almost everything in the video was built by AI. My part is game design, architecture, art direction and testing. I…",
+   "author": "I_GRIN_I",
+   "publishedAt": "2026-10-26T19:06:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cWI5ZDJxYzExdnhoMX7Sot_9OAMsBsYNluojFKDYc5L9GUhQSPbcOkFDdQ5r.png?width=640&crop=smart&auto=webp&s=4e1a90f75e4c63994970a0b72e3b27fd09083e87"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/I_GRIN_I",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "13d60a912662",
+   "canon": "https://www.reddit.com/comments/1xg5t2c",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xg5t2c/built_a_claude_skill_to_redesign_any_codebase/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "Built a Claude Skill to Re-Design any Codebase from First Principles (Using your own brain)",
+   "text": "TLDR: I want to learn and understand my projects, but I still want to code with Claude to ship fast. So I use my own brain to rederive the high-level principles instead of memorizing system-design concepts Claude tell me.\n What It does:\n - reads repo (locally)\n - finds design…",
+   "author": "HungryChungi",
+   "publishedAt": "2026-10-26T18:58:47+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/g7utucvqzuxh1.png?width=640&crop=smart&auto=webp&s=739eb4429bad25017b2b78fb33cd57d9a8a76168"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/HungryChungi",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7098f112c10f",
+   "canon": "https://www.reddit.com/comments/1xg5swu",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xg5swu/i_built_backdraw_claude_code_makes_images_with/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "I built Backdraw: Claude Code makes images with your own ChatGPT account, in a background Chrome tab",
+   "text": "What I built\n Every time I needed an image in a project (concept art, a banner, an icon) I had to leave Claude Code, generate it in ChatGPT, download it and drag it back. So I built a bridge.\n Backdraw is a local MCP server + a Chrome extension. Claude calls generate_image,…",
+   "author": "Crafty_Row5344",
+   "publishedAt": "2026-10-26T18:58:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/g4ti2gixyuxh1.gif?width=640&crop=smart&s=3f676e8fadd4f2ad20454eabd11cef903e619788"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Crafty_Row5344",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3f60635f431a",
+   "canon": "https://www.reddit.com/comments/1xg5pz9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg5pz9/built_a_claude_skill_to_redesign_any_codebase/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "Built a Claude Skill to Re-Design any Codebase from First Principles (Using your own brain)",
+   "text": "TLDR: I want to learn and understand my projects, but I still want to code with Claude to ship fast. So I use my own brain to rederive the high-level principles instead of memorizing system-design concepts Claude tell me.\n What It does:\n - reads repo (locally)\n - finds design…",
+   "author": "HungryChungi",
+   "publishedAt": "2026-10-26T18:55:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/l9cmk239zuxh1.png?width=640&crop=smart&auto=webp&s=957d05c5f49b4ffed5a408378806bd28de3a4eb2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/HungryChungi",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "727cfe229871",
+   "canon": "https://www.reddit.com/comments/1xg5hag",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xg5hag/game_i_develop_my_own_programming_language_and_to/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "game: I develop my own programming language and to test the limits and perf, I made a small game with it",
+   "text": "I develop my own programming language (r/tapelang). I wanted to create a video series to Youtube how to build a game with it. To do that, I designed and implemented with Claude Code a youtube oriented 'coding deck' using Tape. Then I made a game, inspired by 'Sir, we have an…",
+   "author": "pu1da",
+   "publishedAt": "2026-10-26T18:46:20+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/xxbpHJ9lNWlMHWFwwwJnBcIWfrTuZPAf4-qChbkhNe8.png?width=640&crop=smart&auto=webp&s=aa6a2927b874eec9b22671caf0621904167ea02b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/pu1da",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d3f02260bb07",
+   "canon": "https://www.reddit.com/comments/1xg5ddy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xg5ddy/built_an_android_tv_debloater_with_opus_55_it/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "Built an Android TV debloater with Opus 5.5, it just passed 1,000 downloads",
+   "text": "It's an open source app that cleans up your Android TV, turns off ads, trackers and bloat in a few taps. Side load apps your TV's store doesn't carry, send files from your phone, and see which apps use data and where they connect.\n Free, GPL-3.0, no ads, no tracking, no account.…",
+   "author": "manish9461",
+   "publishedAt": "2026-10-26T18:42:13+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/manish9461",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "71bad04d50df",
+   "canon": "https://www.reddit.com/comments/1xg5ax0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xg5ax0/i_used_opus_55_and_datamined_blizzard_assets_to/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "I used Opus 5.5 and datamined Blizzard assets to make a Slay the Spire clone with WoW classes and spells",
+   "text": "Free, runs in the browser, no signup: https://thewowdb.com/spiresofazeroth/\n Pick any race and class combo like the real character screen, then climb a spire in every zone and fight the raid bosses. Unofficial fan project.",
+   "author": "killertaco252",
+   "publishedAt": "2026-10-26T18:39:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/axqrgpt2wuxh1.jpeg?width=140&height=70&auto=webp&s=0e8afe891f8f001512940b2ceb5635d3fbdab710"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/killertaco252",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "8795fe112ad1",
+   "canon": "https://www.reddit.com/comments/1xg52i8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xg52i8/im_a_solo_dev_and_i_built_a_moba_esports_manager/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "I'm a solo dev and I built a MOBA esports manager for mobile with an AI coding assistant. Here's what worked and what didn't",
+   "text": "After last year's World Championship I wanted to play a manager game about MOBA esports and couldn't find one I liked, so I decided to make it. I've been working on it for months, on my own, in the evenings.\n Gales of Gods: MOBA Manager is a mobile manager game: you run a club,…",
+   "author": "Early_Flamingo5337",
+   "publishedAt": "2026-10-26T18:30:44+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Early_Flamingo5337",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d7eee81d0b84",
+   "canon": "https://www.reddit.com/comments/1xg4xsn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xg4xsn/dictating_long_prompts_into_claude_code_or_any/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "Dictating long prompts into Claude Code (or any terminal) with a free, local Mac app I built",
+   "text": "Prompts for coding agents are long and conversational, which is exactly how people talk and exactly what's slow to type. I built Vocs to close that gap. I'm the developer, and it's free and open source.\n Press ⌥Space in your terminal or IDE, describe what you want, press ⌥Space…",
+   "author": "zenitsu--DS",
+   "publishedAt": "2026-10-26T18:25:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MWoxdzRhNXl0dXhoMUh_FdV7lgsZYbXqwfRK44JN5rPBdRrtvo6Hp93tVkzP.png?width=640&crop=smart&auto=webp&s=76f90cdea0cdb9b330486956879431989093817e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/zenitsu--DS",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a8251bc63531",
+   "canon": "https://www.reddit.com/comments/1xg4qak",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg4qak/i_built_an_app_store_screenshot_skill_for_claude/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "I built an App Store screenshot skill for Claude Code",
+   "text": "Hey everyone,\n I make iOS apps, and the App Store screenshots were always the part I rushed. When I asked Claude to design them, it could make something, but it skipped the process that actually makes screenshots convert: write the headlines first, pick a clear style, then try a…",
+   "author": "quitpornio",
+   "publishedAt": "2026-10-26T18:18:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NTBob2hiaDNzdXhoMaIvbmmvm8XtivZkqOXP65Yk94VN4RDxsVmS77MHZmU3.png?width=640&crop=smart&auto=webp&s=2bfeab1e78b6fc8af9338b059d6dd5b30ace459d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/quitpornio",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a2b197048d13",
+   "canon": "https://www.reddit.com/comments/1xg4i6b",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg4i6b/i_made_an_amazon_concept_ad_in_french_with_claude/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "I made an Amazon concept ad in French with Claude code, even though I’m not fluent",
+   "text": "I wanted to try making an ad in French and picked Amazon as a concept project. I’m not fluent in French, but I had a clear idea of what I wanted the ad to say, so that’s where I started with the brief. The main idea was that Amazon has everything from A to Z. That’s why the…",
+   "author": "Witty-Addendum8043",
+   "publishedAt": "2026-10-26T18:10:11+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Yzl3aGNnYXZudXhoMV7EME7ldjk-kUxyvsIGqnsrK70wetEV50v2KzvrstWJ.png?width=640&crop=smart&auto=webp&s=51ff280b91962841b60f165e37aa6660822bd3d7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Witty-Addendum8043",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ad03ca967547",
+   "canon": "https://www.reddit.com/comments/1xg3cpo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xg3cpo/making_a_game_inspired_by_duck_hunt_if_youre_old/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "Making a game inspired by Duck Hunt if you're old enough to remember that one 😅",
+   "text": "",
+   "author": "MartinTale",
+   "publishedAt": "2026-10-26T17:28:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/c3FyMjltbG9qdXhoMQi24_DLmqdY24naBMYCVJZycfY-TjB3-oYoMAQpN6pG.png?width=640&crop=smart&auto=webp&s=a8ebeab809ab9490023b985efaf56820152b9f56"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MartinTale",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4bc442c44fe8",
+   "canon": "https://www.reddit.com/comments/1xg36zj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xg36zj/the_lost_world_arcade_vr_mod_is_awesome/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "The Lost World Arcade VR Mod is AWESOME!",
+   "text": "I honestly hope every light gun arcade game gets this treatment at some point! Dumped a many of quarters into this game back in the day! Link for those interested...this version is for PCVR. \n https://github.com/headsplosion/lost-world-supermodel-pcvr",
+   "author": "Twistedchild420",
+   "publishedAt": "2026-10-26T17:23:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZHlmZXdqYnFpdXhoMRsNXU2A4m7wMZchA2nOocKT0-sWt9tPQzo0C14jn_R1.png?width=320&crop=smart&auto=webp&s=58cf79d8d167e0dd4b60d60f380723fbf66f0920"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Twistedchild420",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5a95e82f8d6e",
+   "canon": "https://www.reddit.com/comments/1xg328k",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/Spectacles/comments/1xg328k/excitement_for_specs_waiting_for_wow_forever_my/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "Excitement for SPECS + waiting for WoW Forever = My first character, a human mage, as a Spectacles Lens",
+   "text": "With the WoW Forever beta over and a few days left until release, I had some time on my hands, so I tried making a simple WoW Lens recreating my very first character from years ago: a human mage.\n Fanart - Not affiliated with Blizzard",
+   "author": "JLTschirner",
+   "publishedAt": "2026-10-26T17:18:11+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/JLTschirner",
+   "where": "r/Spectacles",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "896ec39862b9",
+   "canon": "https://www.reddit.com/comments/1xg17b0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xg17b0/reached_200_ratings/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "reached 200 ratings",
+   "text": "amplium app reached 200 ratings on the visionOS app store 🎉\n - first 100 ratings took 17 months\n - next 100 ratings took 5 months, 3x faster \n thanks to everyone who took the time to leave a rating 🤝",
+   "author": "amplium",
+   "publishedAt": "2026-10-26T16:11:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/tc1ja1dx5uxh1.jpeg?width=640&crop=smart&auto=webp&s=5bed7b9367f985aef9b64451a2f1454fa0e70d57"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/amplium",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "35bc029a1a39",
+   "canon": "https://www.reddit.com/comments/1xg0lao",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xg0lao/star_wars_data_east_1992_vpx_vr/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "Star Wars (Data East 1992) VPX VR",
+   "text": "Designed by Joe Kaminkow and Ed Cebula, Data East's Star Wars (1992) is one of the definitive early 90s dot matrix pinball classics. Known for its fast paced action, iconic sound clips, and interactive mechanical toy integration (featuring the Death Star target and an animated…",
+   "author": "Real_Spacegoogie",
+   "publishedAt": "2026-10-26T15:49:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Y201ZGVweHYxdXhoMYZgQ04T0M_UghheAKMZQF-kkxqpBuNUArC3tbzucdFS.png?width=640&crop=smart&auto=webp&s=bbde1ad14a4143f30820aec1ec6bec9f56b73009"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Real_Spacegoogie",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "da470a277aa1",
+   "canon": "https://www.reddit.com/comments/1xg07ot",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xg07ot/meta_confirms_lower_quest_sales_says_new_vr/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "Meta Confirms Lower Quest Sales, Says New VR Headsets Must Deliver “major breakthroughs”",
+   "text": "",
+   "author": "Humble_Low721",
+   "publishedAt": "2026-10-26T15:36:11+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/e7ilCldxEGZJCHcHXMk2Frs191drxTVpudTP2ksOBx4.jpeg?width=640&crop=smart&auto=webp&s=da51fd5041e68988a999dcc3cbfdbe8831121522"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Humble_Low721",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5a72aaaa7dc9",
+   "canon": "https://www.reddit.com/comments/1xfziny",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xfziny/three_gaussian_splat_scans_combined_into_an/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "Three Gaussian Splat scans combined into an interactive monastery tour",
+   "text": "This experiment combines three captures of the Monastery of Santa Maria de la Valldigna in Spain: two XGRIDS PortalCam scans covering the exterior and interior, plus an aerial capture made with an Avata 360.\n The aerial capture was processed in PostShot, exported as PLY and…",
+   "author": "Rich-Bodybuilder2973",
+   "publishedAt": "2026-10-26T15:11:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZXdpbjk1ajR2dHhoMUMVJrdTixZtiKZS6FllD5prKVmKs3arKN4OKkT9wbH5.png?width=640&crop=smart&auto=webp&s=485b7645bd4e8f16eefdd486a98977ddbe2619f4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Rich-Bodybuilder2973",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "39a0a850d805",
+   "canon": "https://www.reddit.com/comments/1xfzcc8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xfzcc8/i_tried_rendering_gaussian_splats_with_plain_dom/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "I tried rendering Gaussian splats with plain DOM (DIVs / SVG), no WebGL/Canvas/WebGPU",
+   "text": "I've been reading a lot of 3DGS work and kept wondering whether the browser's own stacking and compositing could stand in for a sort + GPU draw.\n So I built a small experiment:\n - Each Gaussian → absolutely positioned DIV (or SVG ellipse)\n - Camera depth → quantized z-index (no…",
+   "author": "Neo-Tree",
+   "publishedAt": "2026-10-26T15:04:48+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/3wnpy7y1utxh1.png?width=640&crop=smart&auto=webp&s=107f8fd07e0764e1b2799936244ad4ea6003abd3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three",
+    "threejs",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Neo-Tree",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f3a8fd468f21",
+   "canon": "https://www.reddit.com/comments/1xfwwvd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xfwwvd/worlds_linked_by_portals_you_can_walk_through_all/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "Worlds linked by portals you can walk through, all in a single HTML file.",
+   "text": "Everything is inside the file: no server, nothing to install. It runs offline, even from an email attachment. The worlds were generated with Marble by WorldLabs. \n Portals are just one feature of 3DPEER, a full 3D editor in the browser: animate, stage and render, mix meshes and…",
+   "author": "numer041",
+   "publishedAt": "2026-10-26T13:32:08+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NmM4NG43NG9rc3hoMQQgupOdplLIwUSnJBOv5qm65wAKRY4Y7t7DL4n4daUP.png?width=640&crop=smart&auto=webp&s=da115f77e0d4d9c9f6c3bc64a40f4082962c6ed2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/numer041",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e48e2c7fd6de",
+   "canon": "https://www.reddit.com/comments/1xfwio1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xfwio1/qgo_quest_games_optimizer_v1450_brings_back_the/",
+   "addedAt": "2026-10-26T20:34:17.690Z",
+   "title": "QGO (Quest Games Optimizer) v14.5.0 brings back the option to disable Double Tap to passthrough👌",
+   "text": "Hi, Meta removed the option to disable double tap to passthrough in v81.\n QGO now lets you turn this feature off again 👍\n No more accidental passthrough when you adjust your headset mid-game 👌\n And still over 1,950 optimized games, with new titles added every day, all…",
+   "author": "Anagan79",
+   "publishedAt": "2026-10-26T13:15:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/jku72rikatxh1.jpeg?width=140&height=72&auto=webp&s=3c1f016725f715c0479fe13a889a8e601a040d2d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Anagan79",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "dbd5bb146d8f",
    "canon": "https://www.reddit.com/comments/1xfw3kv",
