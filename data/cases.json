@@ -1,7 +1,756 @@
 {
  "version": 1,
- "updatedAt": "2026-10-25T23:25:43.876Z",
+ "updatedAt": "2026-10-26T04:58:44.303Z",
  "cases": [
+  {
+   "id": "4a226d160813",
+   "canon": "https://www.reddit.com/comments/1xfnded",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/threejs/comments/1xfnded/shibuya_crossing_in_threejs_webgpu_3988_real/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "shibuya crossing in three.js webgpu: 3,988 real plateau buildings on real terrain, up to 320 people crossing every way at once",
+   "text": "built on mrdoob's slop-newyork (mit), so the wet street reflections, the window interiors and the crowd rendering/walk cycle are his. what i rebuilt for shibuya is the city data, the terrain and the scramble crossing. built with claude code (opus 5.5) over about 2 days.\n city…",
+   "author": "KUMODeck",
+   "publishedAt": "2026-10-26T04:35:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YjhhZHR6NmdwcXhoMQcISTM8JigLLNwps8CoGqacpoIq9ASRDsFUZRzv-195.png?width=640&crop=smart&auto=webp&s=53b3fa8bec63a9a07bff43416fd2d6b52f7e12b6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/KUMODeck",
+   "where": "r/threejs",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "1dd596ff72ff",
+   "canon": "https://www.reddit.com/comments/1xfn59g",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xfn59g/this_is_cards_a_card_game_made_with_claude/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "This is Cards, a card game made with Claude",
+   "text": "",
+   "author": "crushmewith_thighs",
+   "publishedAt": "2026-10-26T04:22:06+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/crushmewith_thighs",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "595d39d5827f",
+   "canon": "https://www.reddit.com/comments/1xfn33f",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xfn33f/i_made_a_winrar_clone_for_macos_gui/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "I made a WinRAR clone for MacOS (GUI)",
+   "text": "I spent the past three days trying to recreate WinRAR for MacOS using claude and got pretty far into it. The version I have now is fully functional and includes most features, settings, and menus of WinRAR app on Windows, has dark mode support, and MacOS and Windows styles. It…",
+   "author": "BugsByte",
+   "publishedAt": "2026-10-26T04:18:44+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/BugsByte",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "aafbb7cb185a",
+   "canon": "https://www.reddit.com/comments/1xfmp3q",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xfmp3q/i_built_a_fantasy_football_assistant_that_can/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "I built a fantasy football assistant that can text me to help me stay on top of all my leagues. Here’s how I built it.",
+   "text": "I'm in a bunch of leagues, so I built SAM (samfantasy.com), a fantasy football assistant that texts me to help me stay on top of all of them.\n I haven’t touched the actual code. The part I think is most interesting is the setup between Claude as my project manager and the…",
+   "author": "whitehawk6",
+   "publishedAt": "2026-10-26T03:58:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/4iyyfhe7jqxh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=ef4c35c7d2b3003aa58a73c2d281fc5d5b7034ab"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/whitehawk6",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "02d61702e8ee",
+   "canon": "https://www.reddit.com/comments/1xfmhp7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xfmhp7/about_4hrs_in_on_my_own_cv_site_all_html_css_js/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "About 4hrs in on my own CV site... All HTML, CSS & JS",
+   "text": "So a little exposition. I am a FE coder, old school, never really touched AI till this point as I am orders of magnitude faster than anyone else I work with and just being faster again was no draw for me. But last week I was so bored I decided to vibe code my own CV/portfolio…",
+   "author": "kidshibuya",
+   "publishedAt": "2026-10-26T03:47:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/c2xleDRodWxmcXhoMeL250oAniM0SKGmMdp09x2hSWAgJTfJzZaNeTp28mmQ.png?width=640&crop=smart&auto=webp&s=0ac463617f9a50972e598bdb1d2c803c09f276f7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/kidshibuya",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9495121f0be4",
+   "canon": "https://www.reddit.com/comments/1xfm8i7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xfm8i7/i_built_an_open_source_sky_camera_that_claude/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "I built an open source sky camera that Claude Code can actually run. Last night it caught 17 meteors and had them sorted before I woke up.",
+   "text": "https://docs.openskycam.org/\n Finding meteors on a sky camera used to mean scrubbing hours of night video, pulling frames by hand, labeling them, retraining a model, and starting over when it flagged every star. I built openskycam so Claude could do that part instead.\n It…",
+   "author": "Terrible_Award_2124",
+   "publishedAt": "2026-10-26T03:33:43+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eTV6dzF0MzBkcXhoMfFt2KdhB6V5v-2qQGIbJItCDHB9nqUKq33jQmlJ2hEF.png?width=640&crop=smart&auto=webp&s=2177096ee3ab4e0e56ea6cc0a94f9c00497ff910"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Terrible_Award_2124",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "db5193fbbffb",
+   "canon": "https://www.reddit.com/comments/1xfll5p",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xfll5p/obsoverlaynvidialike/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "obs-overlay(nvidia-like)",
+   "text": "ve been working on an app/overlay for OBS inspired by NVIDIA's Instant Replay overlay, especially the feature that lets you check clips right in the overlay.\n I wanted to make something similar but with features that actually make sense for OBS, like scene controls and…",
+   "author": "Inside_Aardvark328",
+   "publishedAt": "2026-10-26T03:00:12+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/d3RqYzJvNGc4cXhoMQLBN7U7bmcW5T29ysoCE9QqlHL9iZpmYgfIojKOTaim.png?width=640&crop=smart&auto=webp&s=4c09e9811874088d7c1d65dc806c761c25b1876d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Inside_Aardvark328",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "331eb84b4e9d",
+   "canon": "https://www.reddit.com/comments/1xflj9j",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/threejs/comments/1xflj9j/this_is_6_months_progress_on_my_little_game_i/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "This is 6 months progress on my little game. I know we all make games now and this adds little value to the world of games, but just wanted to share my own little passion project. Switchback - a little hiking and management sim.",
+   "text": "Hi! - I'm proud of this little game claude and I made through many many hundreds of hours of back and forth and iteration and even some minor manual coding design work on my end. It's cute, it's fun, it's dynamic, and it's what I've always wanted in a little diorama-y / building…",
+   "author": "idun0",
+   "publishedAt": "2026-10-26T02:57:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/a3NkY2V6ZmM1cXhoMbzfcDbH8127OvB7auahcXMAUFTuvEdumsrDjsNiXOoE.png?width=640&crop=smart&auto=webp&s=54b609d0c5106a9e170a615e1a441e28ffbf2c34"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/idun0",
+   "where": "r/threejs",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "979fd7e935c8",
+   "canon": "https://www.reddit.com/comments/1xflfl4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xflfl4/goku_vs_vegeta_made_by_claude/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "Goku vs Vegeta made by Claude.",
+   "text": "Art work by me",
+   "author": "MyName_IS_MyName_IS",
+   "publishedAt": "2026-10-26T02:52:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/d3dxN2NxNzE3cXhoMfzTs0z_PxaJ3KgYxPfRs613DEbf6mUa_72UqmVMEi9q.png?width=640&crop=smart&auto=webp&s=deb6ed306166e5458cb3e301492d6aedf6450fcd"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MyName_IS_MyName_IS",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fabd96e30566",
+   "canon": "https://www.reddit.com/comments/1xfl8us",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xfl8us/spot_the_cow_my_first_3d_game/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "Spot the Cow | My first 3D game",
+   "text": "For almost 20 years, I have been making games, and except for a few demos and projects that I had to do in college, they've all been 2D because 3D is really complicated. There are a lot of aspects to it—modeling, animations, rigging—things that I don't want to have to worry…",
+   "author": "icekiller333",
+   "publishedAt": "2026-10-26T02:42:47+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/xcqn0tj85qxh1.png?width=140&height=111&auto=webp&s=40f05770b05768d5f487d030e077e12b2ee1b953"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/icekiller333",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f0dbafb8602c",
+   "canon": "https://www.reddit.com/comments/1xfl4no",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xfl4no/made_a_skill_that_lets_claude_turn_any_repo_into/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "Made a skill that lets Claude turn any repo into a pixel-art city you can walk around (classes are NPCs, god classes are bosses)",
+   "text": "I wanted a more fun way to onboard onto unfamiliar repos, so I built a Claude Code skill called Repo World.\n How it works:\n A small Python script (no dependencies) scans the repo: files, classes, imports, import cycles, git history.\n Claude opens the important files and writes…",
+   "author": "CautiousMiddle1880",
+   "publishedAt": "2026-10-26T02:36:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eW10a2FxOG40cXhoMTzA_RelJFVpiV1k-JU9pCwdKgBGg46atxdayvRk-V0I.png?width=640&crop=smart&auto=webp&s=e2db4cf1673c58eece549394731112416cbb3e85"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CautiousMiddle1880",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "409c824c7b4c",
+   "canon": "https://www.reddit.com/comments/1xfkzaq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xfkzaq/i_made_a_claude_code_skill_that_turns_your_last/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "I made a Claude Code skill that turns your last commit into a launch video",
+   "text": "Every time I ship something I want a quick clip to show people what it does, and I never make one. So I built a skill for it.\n You run `/demo-it` in any repo, pick what to demo (latest commit, today's commits, specific commits, or a feature by name), and Claude:\n reads the diff…",
+   "author": "CautiousMiddle1880",
+   "publishedAt": "2026-10-26T02:29:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/6tyzmbta3qxh1.gif?width=640&crop=smart&s=ab912ed5200d65b08b04245c7bcd1654ae059c75"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CautiousMiddle1880",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "eb10b3d04678",
+   "canon": "https://www.reddit.com/comments/1xfkvlc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfkvlc/chatgpt和claude怎么选/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "ChatGPT和Claude怎么选",
+   "text": "ChatGPT和Claude怎么选 别只看谁回答得更像人，两家最近都在把聊天变成能交付文件的工作入口。 10月16日，OpenAI公布ChatGPT Slides，可从对话、文件和大纲制作演示文稿。Claude在10月8日宣布，文档、幻灯片和设计功能结束测试，覆盖包括免费版在内的所有套餐。 差别怎么理解？需要分析文件、生成配图、语音交流，ChatGPT可以放进同一条创作流程；经常做文档和演示，Claude的相关工具也值得试。不是一方会、另一方不会，而是看你的任务在哪边更顺手。…",
+   "author": "DiligentLiterature14",
+   "publishedAt": "2026-10-26T02:24:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ajuhre1d2qxh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=f7de0c1544065957e8f82a40d5bcca93b846587b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/DiligentLiterature14",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3a899ef19c05",
+   "canon": "https://www.reddit.com/comments/1xfkq31",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xfkq31/urgent_for_heycyan_glasses_do_not_update_your/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "Urgent for HeyCyan glasses, Do NOT update your glasses - CyanBridge dev",
+   "text": "Hi everyone, it's CyanBridge dev here again. A user has warned me that the official HeyCyan app is forcing users to update their glasses and now everytime you power on your device, you have to send your MAC address to Heycyan Chinese servers for them to authenticate your…",
+   "author": "VergeOfTranscendence",
+   "publishedAt": "2026-10-26T02:16:28+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/wqme9ls01qxh1.jpeg?width=640&crop=smart&auto=webp&s=3f3e63a505b263820239b6c097ea083d2b383293"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/VergeOfTranscendence",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5afc24faf019",
+   "canon": "https://www.reddit.com/comments/1xfke1u",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xfke1u/i_built_foxtrot_using_claude_opus_55_gptsol_61_an/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "I built Foxtrot using Claude Opus 5.5 & GPT-Sol 6.1, an AI Workbench that can connect to Local LLMs through OpenAI compatible APIs and also connect to any major Frontier model (US + China)",
+   "text": "I built Foxtrot: one desktop app, every major AI model, and a team of agents that work together 🦊\n ⠀\n For the past few months I've been building Foxtrot, a desktop agent harness for cloud AI models. You bring your own pay-as-you-go API keys and run a whole team of coding agents…",
+   "author": "plasma1987",
+   "publishedAt": "2026-10-26T02:00:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/anhtaHl5Z3F4cHhoMYRbc3mJ_Ti7JgJ62lLN6pLKeS8tmtk6eZeSoVriPy2A.png?width=640&crop=smart&auto=webp&s=29e75131a9df96080debddd454fb51237b71b912"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/plasma1987",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "53c7cf5172d9",
+   "canon": "https://www.reddit.com/comments/1xfk9a6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xfk9a6/harvey_woods_ai_for_the_energy_grid/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "Harvey Woods: AI For The Energy Grid",
+   "text": "Hey Everyone,\n I thought you would appreciate this milestone and share what I have been building with Claude Code.\n I truly think it is disruptive and haven’t seen anyone put something quite like this together.\n What you are seeing in this video is Harvey working in a live…",
+   "author": "Harveywoodsllc",
+   "publishedAt": "2026-10-26T01:53:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/3-iO49s591zVZeYIoAjWLfJafu_ZitwfMnoUHMTGhVY.jpeg?width=320&crop=smart&auto=webp&s=4ec9cabf15ab7bb94aa347d4b83ce11ed71266f4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Harveywoodsllc",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cd58833ed6e3",
+   "canon": "https://www.reddit.com/comments/1xfk98m",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfk98m/my_tcl_tvs_home_screen_was_full_of_ads_so_i_had/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "My TCL TV’s home screen was full of ads, so I had Claude Code build a 173 KB replacement.",
+   "text": "My TCL TV runs Google TV (Android 14). Every Home press meant a sponsored row, autoplaying trailers and \"picks for you\" before my own apps.\n I didn't want another grid of tiles. I wanted a home screen built for how I use the TV:\n No grid, only a carousel: one row that glides,…",
+   "author": "datainsightguy",
+   "publishedAt": "2026-10-26T01:53:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aTM3MmxxeW13cHhoMaOeMBpdGVDLURYXKv7EiBEFKP6yll4owExZRaXGK26-.png?width=640&crop=smart&auto=webp&s=3fbb18ad6adf6def928961794cc5b2a6288dd146"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/datainsightguy",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3113a8593720",
+   "canon": "https://www.reddit.com/comments/1xfk8sc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xfk8sc/i_built_foxtrot_an_ai_workbench_that_can_connect/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "I built Foxtrot, an AI Workbench that can connect to Local LLMs through OpenAI compatible APIs and also connect to frontier models",
+   "text": "I built Foxtrot: one desktop app, every major AI model, and a team of agents that work together 🦊\n ⠀\n For the past few months I've been building Foxtrot, a desktop agent harness for cloud AI models. You bring your own pay-as-you-go API keys and run a whole team of coding agents…",
+   "author": "plasma1987",
+   "publishedAt": "2026-10-26T01:53:20+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MGxjMTV6cG93cHhoMYRbc3mJ_Ti7JgJ62lLN6pLKeS8tmtk6eZeSoVriPy2A.png?width=640&crop=smart&auto=webp&s=f85b8e5d8238552eabe633a88ef8e2ea89c8450d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/plasma1987",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6c33a98251da",
+   "canon": "https://www.reddit.com/comments/1xfk88l",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xfk88l/working_on_a_social_digital_boardgame_with_claude/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "working on a social digital boardgame with Claude + rapid prototyping rawks",
+   "text": "i've been working on this one for for a few months, but i think i've finally \"found the fun\" thanks to brainstorming with Claude. this game, Posthuman Chess, started as a chess variant (i posted it initially to r/chessvariants, but by the time i did it had warped so far from…",
+   "author": "FetusCommander",
+   "publishedAt": "2026-10-26T01:52:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZnJzNWZnZzZ2cHhoMVs25o4ULvICqVYTaLdFUlLGaj2hwiswZO70AKQQDxbU.png?width=640&crop=smart&auto=webp&s=94003c7a02f320eef093bdcd0797fd547bbf4d02"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/FetusCommander",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0685d86365c8",
+   "canon": "https://www.reddit.com/comments/1xfk1ul",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xfk1ul/something_me_and_my_friends_made/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "Something me and my friends made",
+   "text": "",
+   "author": "TheVibernator",
+   "publishedAt": "2026-10-26T01:43:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/tunvlwy7vpxh1.jpeg?width=640&crop=smart&auto=webp&s=0e6f3a3be69848e0927af7fec8ff2cdf0f8c3fb1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TheVibernator",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0140ac55f5f4",
+   "canon": "https://www.reddit.com/comments/1xfjng3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xfjng3/spotify_wrapped_for_claude/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "Spotify Wrapped for Claude",
+   "text": "I built a Claude Code mod that adds a usage dashboard to the desktop app.\n Type /usage-stats and a side pane opens with a heat map of tokens per day, usage history by model, a chart of what hours you work, and a Wrapped card with your top models, biggest day and peak hour that…",
+   "author": "GlitchNOut",
+   "publishedAt": "2026-10-26T01:24:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/h1b7gb7qrpxh1.png?width=140&height=90&auto=webp&s=3dd6ba700513296431aaf4a2c33de3d16fb0d0da"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/GlitchNOut",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "36ea8cd55dd6",
+   "canon": "https://www.reddit.com/comments/1xfjgqq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfjgqq/i_found_a_book_in_a_thrift_shop_that_claude_was/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "I found a book in a thrift shop that Claude was definitely trained on...",
+   "text": "",
+   "author": "TuringGoneWild",
+   "publishedAt": "2026-10-26T01:15:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/2anae1i5qpxh1.jpeg?width=320&crop=smart&auto=webp&s=52cf913b0d5647739f038319bfa97e1e7f20f67c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TuringGoneWild",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4108563bb75c",
+   "canon": "https://www.reddit.com/comments/1xfi7s8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xfi7s8/in_1961_a_computer_sang_daisy_bell_i_made_one/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "In 1961 a computer sang “Daisy Bell”. I made one sing it again in 2026.",
+   "text": "In 1961 an IBM 7094 at Bell Labs sang Daisy Bell, the first song a computer ever sang. \n 65 years later, I’m feeling... half crazy.\n So I remade it with claude code. It’s a single 400 KB .exe that composes, sings and mixes the whole track live: no samples, no recordings, no…",
+   "author": "Absterdam2000",
+   "publishedAt": "2026-10-26T00:18:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dXdnMXMxamlmcHhoMWayZ8h5vnS1wfkk78-yImK4HQb0DHQ5sGYLxeK6byQq.png?width=640&crop=smart&auto=webp&s=542326e4cc304d6d9616b1562e270d1c4fd63f90"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Absterdam2000",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "008368d2991c",
    "canon": "https://www.reddit.com/comments/1xfgr0m",
@@ -224,6 +973,72 @@
    "authorUrl": "https://www.reddit.com/user/Resident-Priority326",
    "where": "r/ClaudeCode",
    "fetchedAt": "2026-10-25T23:21:13.326Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fe2569b34a35",
+   "canon": "https://www.reddit.com/comments/1xffw2h",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xffw2h/i_kept_getting_fixed_it_from_my_coding_agent_when/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "I kept getting \"fixed it!\" from my coding agent when it wasn't, so I built a small checker for that",
+   "text": "Anyone else run into this? You ask an AI agent to fix a bug, it changes some code, runs the tests, and tells you everything is fixed. Then a couple of days later, you run into the exact same bug.\n Sometimes the fix didn't actually solve the problem. Other times, the tests were…",
+   "author": "Necessary_Sir6006",
+   "publishedAt": "2026-10-25T22:34:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/24a3vryaxoxh1.gif?width=640&crop=smart&s=0d8437951c48ae71b032909862cea1dbd5d05a33"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Necessary_Sir6006",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7776439240d9",
+   "canon": "https://www.reddit.com/comments/1xffsjp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xffsjp/my_local_deepseek_v4_flash_vibedesigned_the/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "My local DeepSeek V4 flash vibe-designed the server rack trays it lives in now. Here's how it went.",
+   "text": "I run DeepSeek locally on two DGX Sparks, and I wanted a proper home for them. So I used the same model to help vibe-design it.\n How it went, in case anyone is interested:\n Claude Code and AGY first built me a small 3D workspace (a React app) where I could play with the layout…",
+   "author": "100_gb",
+   "publishedAt": "2026-10-25T22:29:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/526hy52hloxh1.png?width=140&height=129&auto=webp&s=ce714d616d2c2c3cfb72ea305ffd1e92a6518c71"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/100_gb",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
    "lang": "en",
    "model": null
   },
@@ -1267,6 +2082,35 @@
    "authorUrl": "https://www.reddit.com/user/SimCFB",
    "where": "r/vibecoding",
    "fetchedAt": "2026-10-25T20:57:40.116Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "89b99770b53e",
+   "canon": "https://www.reddit.com/comments/1xf8fzp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xf8fzp/ive_been_building_an_opensource_lightburn/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "I've been building an open-source LightBurn alternative with Claude Code",
+   "text": "​\n I've been working on KizamuBeam, a free and open-source desktop application for laser engraving and cutting, with Claude Code helping me throughout development.\n It's built with Tauri, TypeScript and Rust and currently includes a vector editor, image engraving, laser control,…",
+   "author": "PsychologicalHost624",
+   "publishedAt": "2026-10-25T17:32:26+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/PsychologicalHost624",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
    "lang": "en",
    "model": null
   },
@@ -2692,6 +3536,39 @@
    "authorUrl": "https://www.reddit.com/user/Mundane-Mixture-2068",
    "where": "r/augmentedreality",
    "fetchedAt": "2026-10-25T11:38:34.416Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "116da151d8b6",
+   "canon": "https://www.reddit.com/comments/1xeycl5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xeycl5/i_vibecoded_an_app_that_translates_manga_on_my/",
+   "addedAt": "2026-10-26T04:54:22.323Z",
+   "title": "I vibe-coded an app that translates manga on my phone, no internet needed",
+   "text": "I wanted to read raw Japanese manga without waiting for a scanlation or uploading pages to some cloud service, so I built Yomu. \n Open any manga in any reader app, tap the floating button, and a few seconds later the speech bubbles are redrawn in English (or Portuguese, Spanish,…",
+   "author": "Th3Expl0Rer",
+   "publishedAt": "2026-10-25T09:55:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Zno4aTc2eXk1bHhoMbDq5qYIOoA46luDrqEVcFlvjA1gnq5b-eNtbN4hVvAr.png?width=640&crop=smart&auto=webp&s=356c3e25fcff0e5d2cc1e9e9dfc5178bc66f631c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Th3Expl0Rer",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-26T04:54:22.323Z",
    "lang": "en",
    "model": null
   },
