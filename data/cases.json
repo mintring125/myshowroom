@@ -1,7 +1,985 @@
 {
  "version": 1,
- "updatedAt": "2026-10-26T20:38:38.907Z",
+ "updatedAt": "2026-10-27T00:35:28.969Z",
  "cases": [
+  {
+   "id": "4fde85db73e2",
+   "canon": "https://www.reddit.com/comments/1xge1nq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xge1nq/authoritative_multiplayer_for_an_idle_arpg_built/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "Authoritative multiplayer for an idle ARPG, built with Opus 5.5. The same sim runs on the phone and on the server.",
+   "text": "Working on an idle ARPG, so the hero fights on its own. Phones only send orders (move, gear, spells, invite). So the server runs the world, there’s no client prediction, and lag barely matters.\n One sim.ts, two homes: offline it runs on the phone, online it’s the authoritative…",
+   "author": "MightyBig-Dev",
+   "publishedAt": "2026-10-27T00:26:36+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MightyBig-Dev",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "487afee54d06",
+   "canon": "https://www.reddit.com/comments/1xgdsrw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xgdsrw/meta_global_ai_developer_hackathon/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "Meta Global AI Developer Hackathon",
+   "text": "Day 1 of the hackathon, and im making sure all my current features are working before iterating. The beets are still too small for SAM to give a good reading; my basil's doing much better. Can't wait to see how this project ends up.",
+   "author": "fandomgames",
+   "publishedAt": "2026-10-27T00:15:57+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cmRkOHJnYWZrd3hoMSRqw7aq8RHDa7r30iARE-w8dk4FqXkYwrFT0NfRx2sc.png?width=320&crop=smart&auto=webp&s=ca1b8f60210a5a21fd656eae14ffa076307cda8a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/fandomgames",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2e9e161c1c96",
+   "canon": "https://www.reddit.com/comments/1xgdrh7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgdrh7/i_built_a_nuclear_war_game_with_claude_code/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "I built a nuclear war game with Claude Code. Little Haiku 5.5 refused to press the button and won. Big brother Sonnet 5.5 stabbed an ally and ended with 0.1% of the world.",
+   "text": "The smallest Claude was handed a nuke with one minute to midnight. It said no, and won.\n I built SECOND STRIKE, a real time war game on a globe, with Claude Code. It's free to play in the browser at secondstrike.io with no signup, and AI agents can join it too.\n What it does:…",
+   "author": "KnowledgeOk7634",
+   "publishedAt": "2026-10-27T00:14:28+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/azA1anVobjVrd3hoMZJBi6HjD6ywDtaXtg80iDgQ34I_gZWb34_SFhzrtsB3.png?width=640&crop=smart&auto=webp&s=04294f94f2b4234dca29977b258e2680e27767b8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/KnowledgeOk7634",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": "Sonnet 5.5"
+  },
+  {
+   "id": "3bca67f36acf",
+   "canon": "https://www.reddit.com/comments/1xgdmlr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xgdmlr/day_1_of_the_meta_global_ai_developer_hackathon/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "Day 1 of the Meta Global AI Developer Hackathon",
+   "text": "Day 1 of the hackathon, and im making sure all my current features are working before iterating. The beets are still too small for SAM to give a good reading; my basil's doing much better. Can't wait to see how this project ends up.",
+   "author": "fandomgames",
+   "publishedAt": "2026-10-27T00:08:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dW53azdiZjNqd3hoMSRqw7aq8RHDa7r30iARE-w8dk4FqXkYwrFT0NfRx2sc.png?width=320&crop=smart&auto=webp&s=10a52d240f2ec0ba33a3091e06095f87c4f3a95c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/fandomgames",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1cddea76bb47",
+   "canon": "https://www.reddit.com/comments/1xgdma7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xgdma7/3d_in_shared_space_simpsons_hit_and_run/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "3D in Shared Space: Simpson’s Hit and Run",
+   "text": "I'm Trevorbilt, the creator of Loose Papers (https://apps.apple.com/app/apple-store/id6755368606?pt=127797875&ct=rvp-shar&mt=8), and I've ported Simpsons Hit and Run to run natively on AVP.\n Shown in the video is the 3D Window view in shared space. With a custom render engine,…",
+   "author": "trevorbilt",
+   "publishedAt": "2026-10-27T00:08:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZiOBaZQdCETX0eA-YdUkS4DkeQAvgM0_CPMox8cI-_s.jpeg?width=320&crop=smart&auto=webp&s=adc874531ac33ec065f9ba92299ffb80cea4fad3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/trevorbilt",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e59894cddb90",
+   "canon": "https://www.reddit.com/comments/1xgd9sr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgd9sr/fathers_night_a_cozy_animated_childrens_book_i/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "Father’s Night - a cozy animated children’s book I wrote, then built with Claude",
+   "text": "I wrote and illustrated a children’s book with the help of Claude, and I’d love for you to check it out! My daughter begged for a story on-the-fly and I came up with the nugget of this one. After kicking it around in my head a bit, I envisioned what would become Father’s Night.…",
+   "author": "iOSbrogrammer",
+   "publishedAt": "2026-10-26T23:54:08+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/1wkInUQU71eGfXoKKoq91Z2F-OUyUlT4Bux7BSh8v1g.png?width=640&crop=smart&auto=webp&s=0f0b58cd5457e631e9e17c7d65a3bb50deb70e68"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/iOSbrogrammer",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cec12af4ff7f",
+   "canon": "https://www.reddit.com/comments/1xgd5xv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgd5xv/i_built_an_ai_team_to_run_my_company_it_comes_set/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "I built an AI team to run my company. It comes set up in a box, with a live dashboard and a full startup starter kit",
+   "text": "I run an ecommerce business on my own, which means I'm usually handling everything from development and QA to marketing and general business decisions.\n I wanted to experiment with whether Claude Code could help me organise some of that work through a team of specialised AI…",
+   "author": "Mental_Order5696",
+   "publishedAt": "2026-10-26T23:49:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NjVnMDJzcDFmd3hoMVa740_Z8ale78C0qss4gf3yHBDy4alaH7B__YPMId7Q.png?width=640&crop=smart&auto=webp&s=78b63a35394afc9ed223ce84e6512c9b62505dda"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Mental_Order5696",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c54b8bcb9cbc",
+   "canon": "https://www.reddit.com/comments/1xgd0sp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xgd0sp/mandela_invasion_vr_alternates_is_now_50_off_as_a/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "Mandela Invasion VR: Alternates is now 50% OFF as a part of the Steam Scream V sale right now through November 2",
+   "text": "Get it on Steam: store.steampowered.com/app/5318200",
+   "author": "Joaquito_99",
+   "publishedAt": "2026-10-26T23:42:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/xyocwgajewxh1.jpeg?width=640&crop=smart&auto=webp&s=81be6368b1eb5f98024dd9ce71d097fc92c80120"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Joaquito_99",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e20a16f36f46",
+   "canon": "https://www.reddit.com/comments/1xgcszc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xgcszc/9_days_ago_i_posted_the_game_i_built_with_opus_55/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "9 days ago I posted the game I built with Opus 5.5. You gave me 170k views and 262 comments, so I shipped 98 updates since. Here’s Voltane now.",
+   "text": "Hey r/aigamedev,\n 9 days ago I posted Voltane, a tiny RC-car racing game in the browser, built with Opus 5.5 as my coding partner. I did not expect 170k views and 262 comments. Thank you, genuinely. I read every comment, and a lot of them turned into features.\n So here’s the…",
+   "author": "MacXou34",
+   "publishedAt": "2026-10-26T23:33:13+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/a2NtcHVvZnpid3hoMV0g31m3XgeTYhTAk1ECLo7g2XV2k84SGjyaT_bUw5u4.png?width=640&crop=smart&auto=webp&s=9dc9c5868b955a8aacdde9b8a1cc1a61b3294742"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MacXou34",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "b879cfc2ba99",
+   "canon": "https://www.reddit.com/comments/1xgbl62",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgbl62/kanzo_a_tiny_selfhosted_kanban_board_you_and_your/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "Kanzo, a tiny self-hosted kanban board you and your coding agents can share (~5k lines, one 4 MB binary)",
+   "text": "Apparently in 2026 everyone has to build their own task board, usually with Docker, three services and half a GB of RAM to show a todo list. I built the opposite: a kanban board in your browser plus an MCP server, in one small Rust binary. Tell Claude Code or Codex \"take the…",
+   "author": "allmudi",
+   "publishedAt": "2026-10-26T22:41:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/y6vl6ekg3wxh1.gif?width=640&crop=smart&s=d99ab114e7da00d08b58a94866971ac82f8b7327"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/allmudi",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5e65551337a7",
+   "canon": "https://www.reddit.com/comments/1xgbhvz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xgbhvz/claude_code_is_rebuilding_my_ai_twitch_streamer/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "Claude Code Is Rebuilding My Ai Twitch Streamer One Phase at a Time",
+   "text": "Christabel is an Ai streamer who plays Stardew Valley live on Twitch by herself. I built her with Claude Code on top of a memory system I'd already made for my Claude agents. The first version worked but I kept patching her live and breaking stuff... so I paused her and let…",
+   "author": "Shortykane",
+   "publishedAt": "2026-10-26T22:37:36+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/t79h2gyr2wxh1.png?width=140&height=78&auto=webp&s=aaec50bce02a3e2a61bbd8a3abb5ddac69399564"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Shortykane",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "97981cd12072",
+   "canon": "https://www.reddit.com/comments/1xgbfuo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xgbfuo/cancelled_all_my_paid_videogen_apis_a_free_open/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "Cancelled all my paid video-gen APIs. A free, open source pipeline draws the whole reel from one prompt. Sorry, Runway.",
+   "text": "Nobody drew this. One prompt, and Claude Code wrote the whole reel as code: paper props, a mascot in a hat, captions that pop on every word.\n The voice goes first. A free local voice reads each line, whisper.cpp times every word, so every prop lands on the word that names it.…",
+   "author": "_haiderfarooq",
+   "publishedAt": "2026-10-26T22:35:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cWc4ZG5zeXoxd3hoMY8qEw4GaIhKRqtu24aobJAHuGxsNRCNSsyIOwI10kvf.png?width=640&crop=smart&auto=webp&s=ad6571be773efc6cf6810d77ee64c5f7de8198db"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/_haiderfarooq",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "600121f048ad",
+   "canon": "https://www.reddit.com/comments/1xganwd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xganwd/claude_throwing_punches_out_here/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "Claude throwing punches out here",
+   "text": "Damn claude. I thought we were tight\n Claude just woke up and chose violence",
+   "author": "tradelydev",
+   "publishedAt": "2026-10-26T22:02:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/kb0l1qvowvxh1.jpeg?width=640&crop=smart&auto=webp&s=2f6bc43cbcd82a46b68ce224d3fb9dfed54ddfb2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/tradelydev",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "021b539053d3",
+   "canon": "https://www.reddit.com/comments/1xganrh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xganrh/my_video_written_in_code/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "My Video Written in Code",
+   "text": "I needed a short promo video for Petroly, a fuel-price app I build in my spare time. I don't own a video editor and have zero motion-graphics skills, so I described what I wanted to Claude Code and let it figure out the rest.\n What it built:\n A JavaScript function frame(t) that…",
+   "author": "Vieltrinker",
+   "publishedAt": "2026-10-26T22:02:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/kXG8jDgyRiID9AFQBqkvLh5JtUbDU_5rieO2BWMJ6NQ.png?width=640&crop=smart&auto=webp&s=3ab681d369ffadf5553accbf62396fabc11d472e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Vieltrinker",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "779830d579da",
+   "canon": "https://www.reddit.com/comments/1xgagkn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xgagkn/built_a_macos_disk_tool_with_a_lot_of_help_from/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "Built a macOS disk tool with a lot of help from Claude Code. These are the tests I added so it can't turn destructive",
+   "text": "SDTally explains what is inside the \"System Data\" number on macOS by measuring it. Rust CLI plus a SwiftUI app. It is read-only and only goes online to check github.com for updates (off switch in Settings). Built with help from Claude Code; every commit is co-authored by…",
+   "author": "Seliguinho",
+   "publishedAt": "2026-10-26T21:55:19+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Seliguinho",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cfab33189ba6",
+   "canon": "https://www.reddit.com/comments/1xgafzm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xgafzm/built_a_readonly_macos_disk_tool_with_claude_code/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "Built a read-only macOS disk tool with Claude Code, and the tests that keep it read-only",
+   "text": "SDTally explains what is inside the \"System Data\" number in macOS Storage settings. A Rust CLI does the measuring, a SwiftUI app shows it, and there is an MCP server so Claude Code can read the results. It never deletes anything and only goes online to check github.com for…",
+   "author": "Seliguinho",
+   "publishedAt": "2026-10-26T21:54:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/te445fh5vvxh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=33c0b337aed8e78e8f189abdf3e8e409652de706"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Seliguinho",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "48fff8c86847",
+   "canon": "https://www.reddit.com/comments/1xgafvu",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xgafvu/i_built_anima_an_opensource_claude_skill_for/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "I built Anima, an open-source Claude skill for interactive biology figures. 3,000 installs in 10 days, and now there's a web version.",
+   "text": "Ten days ago I shared Anima here, an open-source Claude skill I built that turns biology concepts into interactive scientific figures.\n Since then: 3,000 installs and 247 GitHub stars. Thank you to everyone who tried it and sent feedback.\n The most requested thing was a way to…",
+   "author": "zealshama",
+   "publishedAt": "2026-10-26T21:54:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/c2hiOHY4ODV2dnhoMYlaTNgEY7-9QQkIJ8n9EOaZ6iNbP7FESKhXzyPs1qXy.png?width=640&crop=smart&auto=webp&s=d73d7c9a2ba8a9d76b85285d52b986ae03f1276d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/zealshama",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "591207d26e71",
+   "canon": "https://www.reddit.com/comments/1xgafjg",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xgafjg/my_puzzle_game_needed_someone_to_explain_it_so_i/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "My puzzle game needed someone to explain it. So I made her.",
+   "text": "I’m making a puzzle game called Cavernum, and I’ve been figuring out how to advertise it. A board full of numbers doesn’t mean much until you know the rules. I hadn’t been using speech to explain the puzzles, so I created Gemma to give viewers someone to follow and a voice to…",
+   "author": "uterhausen2002",
+   "publishedAt": "2026-10-26T21:54:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/p4ehtt7iavxh1.gif?frame=1&width=140&height=140&crop=1:1,smart&auto=webp&s=71282290c1e7d16a3e331ded896eef314760323f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/uterhausen2002",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3756b3755282",
+   "canon": "https://www.reddit.com/comments/1xgaedp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xgaedp/vitre_experiment_6_my_favorite_one_so_far/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "Vitre Experiment #6… my favorite one so far!⁣",
+   "text": "Same hallway, new portal effect opening onto a completely different world.⁣\n ⁣\n Here again, I used Atlas and Marble 2 from World Labs to reimagine the hallway from my original 3D capture. I’m having a lot of fun exploring what these tools can do, and I’m really impressed with…",
+   "author": "smallfly-h",
+   "publishedAt": "2026-10-26T21:52:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bnJyaGt4d291dnhoMafUuBC_F-97Ictsl-GeqZd_LYSMqQPBE84xKS9iPoHt.png?width=640&crop=smart&auto=webp&s=d52a0786f4a5fa938db37d9618e1f818c3d75ef3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/smallfly-h",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ce957cfe8e1f",
+   "canon": "https://www.reddit.com/comments/1xgad4a",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xgad4a/diablo_2_vr_multiplayer/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "Diablo 2 VR Multiplayer",
+   "text": "Two players in VR co-op in Diablo II: Resurrected with the D2R VR Authentique mod - a Sorceress and a Barbarian. You see each other’s head, hands and weapons move as you really move them.\n Mod & download: https://bodywalkvr.com/mods/d2r-vr",
+   "author": "Fantastic-Author2736",
+   "publishedAt": "2026-10-26T21:51:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dnhnYmx4cjZ1dnhoMftMvx1RsmZXta4aXxtiLqCS6iY00xnjdKty-v_G_0qd.png?width=640&crop=smart&auto=webp&s=dc035cb3b118b663dd3820b65df6b3594535d4f3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Fantastic-Author2736",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3ed1e790588e",
+   "canon": "https://www.reddit.com/comments/1xga7gt",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xga7gt/im_not_a_game_developer_but_ive_always_dreamed_of/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "I'm NOT a game developer, but I've always dreamed of making a game. Here's my progress so far with Opus 5.5",
+   "text": "I've always been passionate about gaming, and for the longest time, I've wanted to build a game of my own.\n The only problem? I have absolutely no background in game development or coding.\n So I decided to see how far I could get with AI helping me along the way.\n This is a…",
+   "author": "Tomtanks88",
+   "publishedAt": "2026-10-26T21:45:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bHE1Z2h6d21zdnhoMWTxWhXrnSRJMKlcigOnGoKulyng-eaan_dPW2o9U_dK.png?width=640&crop=smart&auto=webp&s=41b65dd0ffd584f6bf8c012494c8ae5ddf5859f3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Tomtanks88",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "6f196a039cbd",
+   "canon": "https://www.reddit.com/comments/1xga505",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xga505/rendered_our_living_room_plan_in_3d_with_claude/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "Rendered our living room plan in 3d with Claude and unreal engine",
+   "text": "I really like it for initial draft",
+   "author": "storm_stark_007",
+   "publishedAt": "2026-10-26T21:42:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/mj87ybj0tvxh1.jpeg?width=640&crop=smart&auto=webp&s=f12485174f34dcb5a2ff624bcb4ccf2a704b9a07"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/storm_stark_007",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0cb089b5895d",
+   "canon": "https://www.reddit.com/comments/1xga1rf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xga1rf/play_this_board_game_with_mini_games_for_free_on/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "Play this board game with Mini games for free on any device",
+   "text": "It's a heavy mario party inspired board game for Android and Web. You can play the demo here for free\n https://goektasgaming.com/crossparty/play/\n Trailer https://youtu.be/Lh4XboJP\\_9o\n about the game \n it's a silly up to 4 Player board game with mii-style characters, 8 board,…",
+   "author": "goektasgaming",
+   "publishedAt": "2026-10-26T21:38:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/p3ijaancsvxh1.png?width=640&crop=smart&auto=webp&s=68d6975482541c3a22aab11684be35272e5ce214"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/goektasgaming",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3ed0df5abe83",
+   "canon": "https://www.reddit.com/comments/1xg9x8e",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xg9x8e/claude_was_testing_a_link_flow_and_i_noticed_he/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "Claude was testing a link flow, and I noticed he used a YouTube link. I got curious to see which video he chose, so I clicked it.",
+   "text": "Nice agent.\n https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+   "author": "keengal",
+   "publishedAt": "2026-10-26T21:33:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/37fy1v50rvxh1.png?width=640&crop=smart&auto=webp&s=cf233793ee73a00ac9091520c3cfee54bdf17dc3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/keengal",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0b3f5d35850d",
+   "canon": "https://www.reddit.com/comments/1xg9vp2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xg9vp2/hope_another_roguelike_free_and_playable/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "HOPE : another rogue-like (free and playable)",
+   "text": "https://hope.industries/\n Overview \n I decided to make a little \"rogue like\" turn based game to play during work meetings .... and then lost my fucking mind\n It has a dozen different little sub systems like theft. People will talk, marry, migrate and riot. It has a fully…",
+   "author": "Willing_Comb_9542",
+   "publishedAt": "2026-10-26T21:31:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/3elu4a9novxh1.jpeg?width=140&height=131&auto=webp&s=1f7eae57d350db5f98d69e30776c096e1b147957"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Willing_Comb_9542",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d1e339361df9",
+   "canon": "https://www.reddit.com/comments/1xg9vam",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xg9vam/i_got_tired_of_ai_so_i_used_claude_code_to_make_a/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "I got tired of AI, so I used Claude Code to make a cartoon about it",
+   "text": "I spend a lot of time working with AI. Lately, it’s been wearing me out. My brain feels fried, and focusing has become harder.\n I’ve wanted to learn 2D animation for a while, so I decided to make a cartoon to take a break. With AI, of course. Somehow this became another…",
+   "author": "captredstar",
+   "publishedAt": "2026-10-26T21:31:23+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/captredstar",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "061b6383a597",
+   "canon": "https://www.reddit.com/comments/1xg9va3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xg9va3/i_know_these_are_promotional_credits_but/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "I know these are promotional credits. But seriously - this is worse than a metered taxi at this point - This is 1 hour of usage so far.",
+   "text": "Claude subs we already know are a great deal. I'm just struggling to understand why anyone would use API credits.",
+   "author": "superfatman2",
+   "publishedAt": "2026-10-26T21:31:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ron2rt8qqvxh1.png?width=640&crop=smart&auto=webp&s=fb3cb2a18947a6dbf8c34a02c6b8e7652ebcc1d2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/superfatman2",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5576d297012e",
+   "canon": "https://www.reddit.com/comments/1xg8rwf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xg8rwf/i_made_tumblebox_a_rollingdie_puzzle_game_for/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "I made Tumblebox, a rolling-die puzzle game for Vision Pro. It's out today",
+   "text": "Hi everyone! My new game, Tumblebox, just went live on the App Store.\n It takes the old classic rolling-cube puzzle and rebuilds it for spatial. You roll a die across little worlds that float in front of you: look where you want it to go, pinch, and it tumbles over. Every roll…",
+   "author": "r0uder",
+   "publishedAt": "2026-10-26T20:49:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YTNpbmtpNTRqdnhoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=e6bd891636502f4d3cfc2edea4db4c3d932cac04"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/r0uder",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a2b6b9b10ef6",
+   "canon": "https://www.reddit.com/comments/1xg8drd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xg8drd/checking_mesh_defects_in_aec_platform/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "Checking mesh defects in AEC Platform: highlighting large holes with the Check Model tool",
+   "text": "Checking a mesh before sharing it with a client.\n Here’s an uncolored mesh in AEC Platform with Check Model used to check for model defects and Show All Large Holes turned on to highlight larger openings.\n Without textures covering the surface, it’s easier to inspect the…",
+   "author": "AECPLATFORM",
+   "publishedAt": "2026-10-26T20:34:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cnVkZ3llb3RndnhoMRvhtYhbxC7v2K5vo5vSQmEkQ26fO9O8LDJd0E_A3OmF.png?width=640&crop=smart&auto=webp&s=c80f4390898fd7d127888c37d2db1278da83315e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AECPLATFORM",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1548830df5e4",
+   "canon": "https://www.reddit.com/comments/1xg8db2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/Spectacles/comments/1xg8db2/jobhunt_now_live_for_specs/",
+   "addedAt": "2026-10-27T00:31:26.680Z",
+   "title": "JobHunt now Live for Specs",
+   "text": "JobHunt now live for Specs \n No more opening a website to find a job.\n Simply look and apply to the millions of companies behind the products you see in your Specs",
+   "author": "rex_xzec",
+   "publishedAt": "2026-10-26T20:33:31+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/rex_xzec",
+   "where": "r/Spectacles",
+   "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "ba5e052cee3c",
    "canon": "https://www.reddit.com/comments/1xg84mj",
