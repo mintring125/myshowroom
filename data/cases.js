@@ -1,8 +1,844 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-10-27T00:35:28.969Z",
+ "updatedAt": "2026-10-27T09:11:00.898Z",
  "cases": [
+  {
+   "id": "e23481868091",
+   "canon": "https://www.reddit.com/comments/1xgncfv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgncfv/advice_on_building_an_ai_app/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "Advice on building an AI app",
+   "text": "Hi guys! So, I'm an English teacher with an online business and fortunate enough to have a reasonably large online presence (over 250K total followers across social media). I create reels teaching English every day and offer a structured English language course across both…",
+   "author": "Electronic-Squash359",
+   "publishedAt": "2026-10-27T08:55:48+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Electronic-Squash359",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "50c9e8171524",
+   "canon": "https://www.reddit.com/comments/1xgn679",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xgn679/open_design_agent_kit_open_designs_design_skills/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "Open Design Agent Kit — Open Design's design skills to Claude Code",
+   "text": "Open Design Agent Kit* ports the Open Design skill library to coding agents — Claude Code, VS Code, Codex, and any host that can read an npm package.\n What you can make Posters, decks, résumés, app mockups, social cards, certificates, flyers, invitations — real design artifacts,…",
+   "author": "Extreme-Protection74",
+   "publishedAt": "2026-10-27T08:44:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OTRwZGttMXQyenhoMXa9194OZcHzbT8MbkCPmNzpWsxHYZXaHqVR3_K1oMA7.png?width=640&crop=smart&auto=webp&s=07242e3d934dbac10cbd212c1f2802579650902b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Extreme-Protection74",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0873b809bc8e",
+   "canon": "https://www.reddit.com/comments/1xgn3it",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xgn3it/an_ai_agent_took_over_my_local_comfyui_built_a_2d/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "An AI agent took over my local ComfyUI, built a 2D normal-mapping pipeline, and automated store deployments for my cyberpunk idle game (Godot 4)",
+   "text": "Hi everyone,\n Quick note: I originally wrote this post in Spanish and used an AI to translate and polish it into English, but every technical detail and anecdote below is 100% real.\n I recently built Notrunner, a vertical cyberpunk idle RPG in Godot 4.\n The game runs as a…",
+   "author": "javierprieto",
+   "publishedAt": "2026-10-27T08:39:13+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/uviwaua71zxh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=fa73b2956fde3694baec3afe4b1c0800f9b77c41"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/javierprieto",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "11bcf22e8117",
+   "canon": "https://www.reddit.com/comments/1xgmtdd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xgmtdd/i_dont_code_claude_code_built_me_an_ai_that/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "I don’t code. Claude Code built me an AI that answers my phone in 3 languages",
+   "text": "I run a small service business and host short-term rentals, but I hate picking up the phone. Clients, guests, deliveries, family, my phone never stopped ringing, so I just ignored it.\n I decided to see if Claude Code could handle it. I fed it API keys for Retell (voice AI) and…",
+   "author": "Icy_History_4728",
+   "publishedAt": "2026-10-27T08:20:27+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Icy_History_4728",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "18e8804088f2",
+   "canon": "https://www.reddit.com/comments/1xgmsa9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgmsa9/claude_used_my_name_and_email_address_to_retrieve/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "Claude used my name and email address to retrieve a document without permission.",
+   "text": "That… uh…. doesn’t seem great. 😬 Is this normal?",
+   "author": "MoltheElder",
+   "publishedAt": "2026-10-27T08:18:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/bc3n4z5iyyxh1.jpeg?width=640&crop=smart&auto=webp&s=528f999b7e38a9d0c7be11a48d8d102e004346ed"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MoltheElder",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "24f1a0b16dc0",
+   "canon": "https://www.reddit.com/comments/1xgms59",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xgms59/i_made_a_skill_to_generate_images_in_claude/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "I made a skill to generate images in Claude",
+   "text": "I got sick of going else where for image generation so added a simple skill to bring it into Claude code directly. It uses a codex subscription by default but has support for FLUX local model and other API image generation providers. \n Repo:…",
+   "author": "Rare_Guide_9830",
+   "publishedAt": "2026-10-27T08:18:11+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bnJmejk1eTN5eXhoMQgM4_rIeW7-OjJv9lEM_qGYRE-cAWLFZwBuBh9HwqdM.png?width=640&crop=smart&auto=webp&s=ea7fc9b20817f780cf7d1cf2982b1980a1424fa6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Rare_Guide_9830",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4c23e661dd91",
+   "canon": "https://www.reddit.com/comments/1xgmoid",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xgmoid/built_a_claude_code_skill_for_job_hunting_in/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "Built a Claude Code skill for job hunting in Germany, and a few things I learned",
+   "text": "I built an open-source skill for job hunting in Germany: Berlin Job Search. You tell Claude what you're looking for, and it searches, evaluates postings and helps you apply. It never submits anything for you.\n What it does\n Searches Bundesagentur für Arbeit, Arbeitnow,…",
+   "author": "yesildaladam",
+   "publishedAt": "2026-10-27T08:11:20+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/yesildaladam",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fa26e0e6f492",
+   "canon": "https://www.reddit.com/comments/1xgmlas",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/singularity/comments/1xgmlas/internal_claude_research_model_also_independently/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "Internal Claude research model also independently refuted the Exponential Time Hypothesis on October 16, with 14M output tokens and no human input.",
+   "text": "https://github.com/anthropics/formal-math/tree/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth",
+   "author": "likeastar20",
+   "publishedAt": "2026-10-27T08:05:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/5alzpbn6wyxh1.jpeg?width=640&crop=smart&auto=webp&s=b227ffb5d11e12a1359660a71d07378b5dbea5de"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/likeastar20",
+   "where": "r/singularity",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3eda9f7f65c8",
+   "canon": "https://www.reddit.com/comments/1xgm0lx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xgm0lx/halo_3_project_reclaimer_now_has_vr_support/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "Halo 3 Project Reclaimer Now Has VR Support",
+   "text": "Don't mind the racist nicknames\n Nitsujack has made a fork of Pancreations/Moistman's MCC VR mod which brings many new features to the mod. And one of the major features is full compatibility with Project Reclaimer, which means crossplay between VR and flatscreen players is…",
+   "author": "silentvortigaunt",
+   "publishedAt": "2026-10-27T07:27:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MHhsa3kwZTdweXhoMfnZHXqFO2VuOr6XprltGnD0I7vIrSujkewS2QE1JHO4.png?width=640&crop=smart&auto=webp&s=d3e7807bdb2e3dc2b44a7b44ee0f4ba1f875185b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/silentvortigaunt",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "435a21daf146",
+   "canon": "https://www.reddit.com/comments/1xglqvf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xglqvf/i_built_a_free_claude_code_skill_that_draws_a/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "I built a free Claude Code skill that draws a whole explainer reel in code from one prompt. Open source, runs locally, no API keys.",
+   "text": "I built this. It's a Claude Code skill called paper-reel, and Claude Code made the reel in this post from one prompt.\n What it does: you give Claude a topic. It writes six or seven spoken lines, generates a voice, and draws one scene per line as code: paper props, a box mascot…",
+   "author": "_haiderfarooq",
+   "publishedAt": "2026-10-27T07:10:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aWxlenVwajVteXhoMY8qEw4GaIhKRqtu24aobJAHuGxsNRCNSsyIOwI10kvf.png?width=640&crop=smart&auto=webp&s=4941ba9f47ff50ab4e9eabe51e0854f9083ea22b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/_haiderfarooq",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6078862dab68",
+   "canon": "https://www.reddit.com/comments/1xglpzp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xglpzp/railway_clone/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "Railway Clone",
+   "text": "https://preview.redd.it/4968cwhokyxh1.png?width=2000&format=png&auto=webp&s=afb3780625a50dbeb5381e35ebc7559cf0931ac7\n I built a Railway clone in Rust with Claude.\n Why? I love the UX of Railway but after the recent breach I have lost trust in them. So built this and moved all my…",
+   "author": "OkCategory4909",
+   "publishedAt": "2026-10-27T07:08:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/4968cwhokyxh1.png?width=140&height=79&auto=webp&s=178af8c86ffd826f74b165be33414769ffde5c44"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/OkCategory4909",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9d9429fc8754",
+   "canon": "https://www.reddit.com/comments/1xglplm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xglplm/clawd_desktop_buddy/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "Clawd desktop buddy",
+   "text": "I built Clawd with Claude Code running Opus 5.5 He's a little pixel-art buddy who lives on your Windows desktop and has his own AI agent. Opus 5.5 wrote the whole thing in about two days: the Electron app, the character animation, the agent, local voice, a browser extension,…",
+   "author": "Ok-Count-6525",
+   "publishedAt": "2026-10-27T07:07:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dnJmdzVzd3ZseXhoMVZP5rRcUXOC3_vOsgucWbaeoaXLQc6hrSC1h8_JcS2q.png?width=640&crop=smart&auto=webp&s=3fdd75e10774a0006deb2b0f14bb1ed0a655b174"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ok-Count-6525",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "bc2a00869036",
+   "canon": "https://www.reddit.com/comments/1xglnml",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xglnml/31b_tokens_into_claude_code_i_realized_a_long/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "31B tokens into Claude Code, I realized a long chat should be a mind map, not a scroll",
+   "text": "When a project gets too big for my head, I draw a mind map. When a Claude session gets too big, I just… scroll.\n Even a few hours in, coming back meant digging for what Claude asked, what we decided, what changed. A new chat doesn't fix it, it just means writing a handover…",
+   "author": "Illustrious-Quail-99",
+   "publishedAt": "2026-10-27T07:04:08+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/emQwd2RwZGRreXhoMbUR-yNYCY4yKGZrnMK6NzBHpxo7MIxBR6ZgNGUh5cbU.png?width=640&crop=smart&auto=webp&s=f10883abb277813460d68210c32ab77c2bb9136f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Illustrious-Quail-99",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "72e79e5eeaf1",
+   "canon": "https://www.reddit.com/comments/1xglk4t",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xglk4t/xr_developer_news_october_2026/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "XR Developer News - October 2026",
+   "text": "We're in an interesting quieter moment between all the post-summer hardware announcements and developer events on the one hand, and when all the exciting announcements actually ship on the other, resulting in a relatively slow month in XR developer news.",
+   "author": "siekermantechnology",
+   "publishedAt": "2026-10-27T06:58:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/qYYokzpx6O5GMJEuZYWDSCVZ9TGCXUnseuncQ-XlcvI.png?width=640&crop=smart&auto=webp&s=cf3caa81dde8180dca5bcf48b17581624ff80a26"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/siekermantechnology",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3e011ca67872",
+   "canon": "https://www.reddit.com/comments/1xglj71",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xglj71/overdrive_domination_gameplay/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "Overdrive Domination Gameplay!",
+   "text": "Hello everyone! I wanted to show off a new game mode I've recently added to my Transformers inspired game, OverDrive!\n This is Domination, heavily inspired by Call of Duty. The objective is to capture and hold three rotating points around the map while fighting against the enemy…",
+   "author": "ProfMags",
+   "publishedAt": "2026-10-27T06:56:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cHpzM3d1dzVqeXhoMQEkbSofub4nrribWhdxVRsctHPTHt9ehpj6HkyEWW49.png?width=640&crop=smart&auto=webp&s=d14d0265ff2c67cff91bc0db17c4c4ca12faaa98"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ProfMags",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "745ca3ce7b8a",
+   "canon": "https://www.reddit.com/comments/1xgkxht",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xgkxht/made_a_heavy_metal_robot_game_for_my_younger/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "made a heavy metal robot game for my younger brother hahaha",
+   "text": "was bored with claude and made a game for him, asked him if he wanted anything and he proceeded to give me the ideas for a game called “The Big Giant Robot” \n he was so detailed in what he wanted and was insistent that if you use certain move at the wrong time it destroys the…",
+   "author": "CaPnSeA",
+   "publishedAt": "2026-10-27T06:17:28+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YnkwamRjNHRjeXhoMVXQS9EbdrIPcCAoHzig5vCT5ksBC39e9yu8qLJ1lgiV.jpeg?width=640&crop=smart&auto=webp&s=f7340c5b3c71b745722ef729a861ee44fb089769"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CaPnSeA",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "577a22f0378e",
+   "canon": "https://www.reddit.com/comments/1xgkeww",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgkeww/i_made_a_short_film_where_claude_code_wrote_every/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "I made a short film where Claude Code wrote every line: the set, the cameras, the actors' timing. Here's what worked and what didn't",
+   "text": "I wanted to see how far I could get making a short film without drawing anything. I described everything in plain English and Claude Code wrote the code: a Python recipe for each building, tree and vehicle, a JSON file for the set (one line per object, about 24,000 objects in…",
+   "author": "Due-Collar-1951",
+   "publishedAt": "2026-10-27T05:45:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dW1iZHN6dzA3eXhoMQ1FLW_31jfwF-WgwnqFu7B4LtExuMah6Pbz_YRombv1.png?width=640&crop=smart&auto=webp&s=77769414cd83bba65ee22ebe8bbd45e802668e1c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Due-Collar-1951",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "41dc1e511249",
+   "canon": "https://www.reddit.com/comments/1xgk0s2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgk0s2/a_few_days_ago_i_shared_kuron_claude_plays_the/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "A few days ago I shared kuron (Claude plays the whole app instead of writing it). I'd love your honest feedback on where to take it next",
+   "text": "A few days ago I posted kuron here. I built it with Claude Code: you describe an app idea, and instead of generating code, Claude acts as the whole system, every screen and every button press, so you can test whether an idea is useful before building it. It's free and open…",
+   "author": "Other_Train9419",
+   "publishedAt": "2026-10-27T05:21:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZjMyNXpwZm8yeXhoMc6_EGqeglpSbs8EOHspgOtph2_K3LzaT6avC4mC5onp.png?width=640&crop=smart&auto=webp&s=bde121d768417efdeba800be550080e8ece91c37"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Other_Train9419",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "49eadfb5b000",
+   "canon": "https://www.reddit.com/comments/1xgk02u",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xgk02u/rayneo_io_microled_full_color_binocular_waveguide/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "RayNeo iO+: MicroLED Full Color Binocular Waveguide Glasses",
+   "text": "RayNeo just teaser their new RayNeo iO+ glasses which are MicroLED full color binocular waveguide glasses. No specs (weight, resolution, fov), price or release date were announced.\n https://www.ithome.com/1/018/346.htm",
+   "author": "saji8k",
+   "publishedAt": "2026-10-27T05:20:17+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/zmivri8k2yxh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=8da7939380c3201a5c43f4ad054b97bc58a9d458"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/saji8k",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6290228796a4",
+   "canon": "https://www.reddit.com/comments/1xgjt38",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xgjt38/flamethrower_by_claude/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "Flamethrower by Claude",
+   "text": "",
+   "author": "bssrdf",
+   "publishedAt": "2026-10-27T05:09:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NWMybXFja3AweXhoMYlk0ktcv1Ck1PIwTwDxPRNtaHacqRiujdJ8KZwISHrV.png?width=640&crop=smart&auto=webp&s=a7a9f6162ef3bd4839b1c7515c66626600e09770"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/bssrdf",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "66cb2427f578",
+   "canon": "https://www.reddit.com/comments/1xgjof9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgjof9/handling_4_claude_accounts_simultaneously_use/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "Handling 4 Claude accounts simultaneously? Use Allowance Bar to track their usage (and Codex, and Cursor, and Gemini, and…)",
+   "text": "If you use several AI coding accounts (say four Claude Code logins and a Codex one), Allowance Bar shows all their limits in one place. It's a free, open-source Mac menu bar app.\n Multiple accounts, multiple providers\n Add as many accounts as you want for each tool: Claude Code,…",
+   "author": "Pilingo",
+   "publishedAt": "2026-10-27T05:01:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/wa0tmombzxxh1.png?width=640&crop=smart&auto=webp&s=a38eb8d5bbf10b0bee74e65207efbb5cfd00c3e6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Pilingo",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "da45783df7b8",
+   "canon": "https://www.reddit.com/comments/1xgjfvg",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgjfvg/used_claude_code_to_patch_mlb_the_show_16_on/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "Used Claude Code to patch MLB The Show 16 on RPCS3 so I could play online with a friend again",
+   "text": "Spent the past weekend patching MLB The Show 16 on RPCS3 with Claude Code so I could play online with a friend. This game was historically unplayable on RPCS3 due to graphics glitches, and it’s now not only playable, but also playable online. \n PC has been ignored by MLB The…",
+   "author": "tony_b_the_masseuse",
+   "publishedAt": "2026-10-27T04:48:20+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cW40ZTB2ZG53eHhoMbYR2kOe8ygnOZQ1bmfECIpE-dPcqeDi_Q3VtRpcY-xG.png?width=640&crop=smart&auto=webp&s=cbbe8a4adcae5ea7fc27188d3f1b0f5c85713ebd"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/tony_b_the_masseuse",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a7d1449fec7a",
+   "canon": "https://www.reddit.com/comments/1xgimyc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgimyc/since_the_screen_cracked_claude_helps_fit_the/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "Since the screen cracked, Claude helps fit the window into the normal area.",
+   "text": "",
+   "author": "tomyan112",
+   "publishedAt": "2026-10-27T04:04:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/l3bi6jy1pxxh1.jpeg?width=640&crop=smart&auto=webp&s=c65928d1d8b7f05215cd58471a423ad0206aeea9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/tomyan112",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "932c63f33df8",
+   "canon": "https://www.reddit.com/comments/1xgilr2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xgilr2/i_designed_a_cinema_camera_for_gaussian_splats/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "I designed a cinema camera for Gaussian splats. Here’s a short film shot entirely inside one.",
+   "text": "Most splat content I see is a free fly-through: fun to explore, but it rarely feels shot. I wanted to treat a splat scene as a film set, with a real camera, a real lens and planned moves.\n Here's a demo of the app : https://youtu.be/NGLuw4liUrI\n I’m not a developer, so I…",
+   "author": "Guilty-Barracuda8562",
+   "publishedAt": "2026-10-27T04:02:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OGtvNGQzenNueHhoMXgivjL4kw1M7fLAUspyqKUtAEsWaePNOMFmpPSQ93EB.png?width=640&crop=smart&auto=webp&s=11d6c58df19cc54309e38351fbe2016ee9d78f6c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Guilty-Barracuda8562",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fd8816ea933f",
+   "canon": "https://www.reddit.com/comments/1xgijef",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgijef/i_built_a_tamagotchi_for_claude_code_that_eats/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "I built a Tamagotchi for Claude Code that eats your tokens: 12 days, 346 commits, and Claude Code wrote almost all of it",
+   "text": "I built Claude Buddy, a pixel-art desktop pet for Windows that lives on your Claude Code usage. It hatches from an egg and grows through seven life stages by eating the tokens you spend. If you ignore it for too long it gets hungry, starves and ends up in a graveyard. It also…",
+   "author": "Smell_Equal",
+   "publishedAt": "2026-10-27T03:59:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/e216qibaoxxh1.gif?width=640&crop=smart&s=13a83e1d61dad27883c7fee809610c054a8b1031"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Smell_Equal",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "55b6d07752b1",
+   "canon": "https://www.reddit.com/comments/1xggmkx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xggmkx/halflife_alyx_adds_desktop_foveated_rendering_in/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "Half-Life: Alyx adds desktop foveated rendering in its October 26 update",
+   "text": "",
+   "author": "hcsantos",
+   "publishedAt": "2026-10-27T02:24:51+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Rr5q3Hjciy3nTG2m_vz3RoEiloQdX_DVgz9uV3m31MY.jpeg?width=320&crop=smart&auto=webp&s=8d834e5148f704354ffd1580013d5c506fc435da"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/hcsantos",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "4fde85db73e2",
    "canon": "https://www.reddit.com/comments/1xge1nq",
@@ -459,6 +1295,40 @@ window.CASES_DB = {
    "authorUrl": "https://www.reddit.com/user/Vieltrinker",
    "where": "r/ClaudeAI",
    "fetchedAt": "2026-10-27T00:31:26.680Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "97606c97d128",
+   "canon": "https://www.reddit.com/comments/1xgaljh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xgaljh/i_asked_claude_code_for_a_15second_ad_it_built_a/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "I asked Claude Code for a 15-second ad. It built a video renderer, and then wrote unit tests for the video.",
+   "text": "I needed a short promo video for Petroly, a fuel-price app I build in my spare time. I don't own a video editor and have zero motion-graphics skills, so I described what I wanted to Claude Code and let it figure out the rest.\n What it built:\n A JavaScript function frame(t) that…",
+   "author": "Vieltrinker",
+   "publishedAt": "2026-10-26T22:00:28+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/kXG8jDgyRiID9AFQBqkvLh5JtUbDU_5rieO2BWMJ6NQ.png?width=640&crop=smart&auto=webp&s=3ab681d369ffadf5553accbf62396fabc11d472e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Vieltrinker",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
    "lang": "en",
    "model": null
   },
@@ -2246,6 +3116,38 @@ window.CASES_DB = {
    "authorUrl": "https://www.reddit.com/user/Neo-Tree",
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-10-26T20:34:17.690Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f7e55598cf02",
+   "canon": "https://www.reddit.com/comments/1xfyo46",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xfyo46/i_made_a_cli_to_publish_claude_artifacts_from_the/",
+   "addedAt": "2026-10-27T09:06:16.139Z",
+   "title": "I made a CLI to publish Claude Artifacts from the terminal, so any agent, script or CI job can use them",
+   "text": "Claude Code's built-in Artifact tool is great, but it only works inside Claude Code. I wanted to publish artifacts from other agents (Droid, Codex, Cursor, OpenCode), subagents, shell scripts, git hooks and CI, so I built a small CLI for it.\n What it does\n claude-artifact…",
+   "author": "GapProfessional4824",
+   "publishedAt": "2026-10-26T14:39:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/sze02uvhptxh1.png?width=640&crop=smart&auto=webp&s=3be8647baa9aac19fb589e76c3abb33ad622f83a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/GapProfessional4824",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-27T09:06:16.139Z",
    "lang": "en",
    "model": null
   },
