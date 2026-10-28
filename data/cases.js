@@ -1,8 +1,1339 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-10-27T22:24:37.409Z",
+ "updatedAt": "2026-10-28T05:53:41.161Z",
  "cases": [
+  {
+   "id": "bb47bc460a86",
+   "canon": "https://www.reddit.com/comments/1xhfhei",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xhfhei/bro_my_claude_tweaking/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Bro my claude tweaking",
+   "text": "",
+   "author": "Similar_Bid7184",
+   "publishedAt": "2026-10-28T05:19:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/vi3ykxai75yh1.png?width=640&crop=smart&auto=webp&s=237be2a366588b52139856b69e7f430c78c13ff3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Similar_Bid7184",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0c5c074d33fa",
+   "canon": "https://www.reddit.com/comments/1xhf0wl",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhf0wl/i_didnt_touch_a_video_editor_for_this_claude_code/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "I didn't touch a video editor for this, Claude Code made my whole pre-launch video",
+   "text": "I'm building a little Mac app (Diskcity) and needed a pre-launch video. I can't edit video to save my life, so I just asked Claude Code to do it. Honestly didn't expect it to work this well.\n The part that surprised me most: it never screen recorded anything. It wrote a test…",
+   "author": "Zestyclose-Ad-9003",
+   "publishedAt": "2026-10-28T04:53:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Y2p5dHlnMHUyNXloMd2OpeX5jo1WdiACUe0f4t7K0XwrVytPeC9p3jXH9rf-.jpeg?width=640&crop=smart&auto=webp&s=60b3a3970c6b0bbac6d3194ca2e8ffee278b9a96"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Zestyclose-Ad-9003",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4aacd971aa25",
+   "canon": "https://www.reddit.com/comments/1xheavc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xheavc/i_vibecoded_every_metro_line_in_singapore_in_3d/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "I vibecoded every metro line in Singapore in 3D (three.js)",
+   "text": "Last year I vibecoded the passenger flows of Singapore's metro system in 3 weeks\n This year, I thought: Why not turn this into a 3D simulation with Opus 5.5? 😃\n Process / workflow\n To be honest - there was not much of a workflow. I let Opus have free rein on xhigh effort for…",
+   "author": "sudonymio",
+   "publishedAt": "2026-10-28T04:12:47+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/b2h4Z2s5ZXVyNHloMa8_Qp2qs42GEFRUnKeba3D3kJN4dJ-Qosl6-cPRfzFz.png?width=640&crop=smart&auto=webp&s=5d6fed927e16960ab76aa05325ea8fd22c9ae3c5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/sudonymio",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "afa64970deb3",
+   "canon": "https://www.reddit.com/comments/1xhe96u",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xhe96u/morrow/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Morrow",
+   "text": "Ive been thinking of getting VR glasses for myself but oculus quest doesn’t seem like a good option for me. I have a somewhat capable pc already and don’t feel like paying for the ram inside an oculus, that is if ram is the reason for those 600€ price tags.",
+   "author": "looossi",
+   "publishedAt": "2026-10-28T04:10:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/vc8essy5v4yh1.jpeg?width=640&crop=smart&auto=webp&s=431f1bc6b1e07e3bea52f1d95dd793e6aecb65f7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/looossi",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "941f69cb6700",
+   "canon": "https://www.reddit.com/comments/1xhe4u6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xhe4u6/i_need_help_with_my_headset/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "I need help with my headset.",
+   "text": "I was playing a game of Lethal Ape Redux, just enjoying the game itself when I put it down it began doing this, its stuck on finding positoning in room and it wont connect my controllers, the only thing my controllers are doing are vibrating every time the image changes.\n I…",
+   "author": "Awkward-Quantity7323",
+   "publishedAt": "2026-10-28T04:03:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OTFsMWNxMHR0NHloMQS6U6_7tHiUD0isjwOJL6_UKeVy29m82BKai64Y7rt2.png?width=320&crop=smart&auto=webp&s=169e9f958be3ce90f438007e69339134ac64538c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Awkward-Quantity7323",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ae3d549a9fc9",
+   "canon": "https://www.reddit.com/comments/1xhdzts",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xhdzts/two_crystals_quick_prototype/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Two Crystals -- quick prototype",
+   "text": "My son's friend (8yrs old) wanted to build a game. So I had him and his friends talk about a ton of random ideas... I recorded the conversation and then input it into claude to identify a few specific game ideas.\n There were some really interesting 2 dimension/portal gameplay…",
+   "author": "Brave-History-6502",
+   "publishedAt": "2026-10-28T03:56:36+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MzdvMGZ5ejJzNHloMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=e38c5ac7aa4aabf90981dfae8865a31112fb13b3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Brave-History-6502",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f61cc7b6eccc",
+   "canon": "https://www.reddit.com/comments/1xhdv9e",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xhdv9e/when_safeguards_work_against_security/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "When safeguards work against security",
+   "text": "This is becoming ridiculous when the safeguards prevent the work they are supposed to help with. \n So Claude Code is refusing to harden the licensing code for cybersecurity reasons. It stopped the process midway and leaves the whole system exposed.",
+   "author": "s_busso",
+   "publishedAt": "2026-10-28T03:49:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/oh91h0wtq4yh1.png?width=640&crop=smart&auto=webp&s=4eb3e7421a652f7c5f3c418dc59d724086d3516c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/s_busso",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "af9d476db974",
+   "canon": "https://www.reddit.com/comments/1xhdbuv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xhdbuv/file_diff/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "File diff",
+   "text": "I’m using claude remote via my ios app. I noticed that it doesnt have the file diff like in the picture which is from codex. My question is do i have to enable something to have the same feature in the claude ios app or there is nothing like this in claude app.",
+   "author": "No_Guess_5389",
+   "publishedAt": "2026-10-28T03:21:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/xpuynsqem4yh1.jpeg?width=640&crop=smart&auto=webp&s=809a2ddf3f323c4f2dca74d79b37f50ce0abe714"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No_Guess_5389",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b4a42374317a",
+   "canon": "https://www.reddit.com/comments/1xhd5j3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xhd5j3/opus_55_rn/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Opus 5.5 rn",
+   "text": "Rip, bro used to make me feel like I had superpowers fr",
+   "author": "yungastronot",
+   "publishedAt": "2026-10-28T03:12:04+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/6fvm12zck4yh1.png?width=320&crop=smart&auto=webp&s=cf76e0c8707274990886626d86fa6030739a6ace"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/yungastronot",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "64c656892d29",
+   "canon": "https://www.reddit.com/comments/1xhd4wx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xhd4wx/daytona_usa_arcade_playable_on_standalone_quest_3/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Daytona USA Arcade playable on standalone Quest 3 is a dream come true",
+   "text": "In the 90s, I easily poured over a thousand dollars (In quarters) into this arcade gem. Playing it now 30 years later in VR is mindblowing.",
+   "author": "OGVRGAMER",
+   "publishedAt": "2026-10-28T03:11:13+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YXlrOHc1emprNHloMVyjiKJ3CFHBSNwXo269Hgtnw4M3_PmrzHiX_LIm2ZjP.jpeg?width=640&crop=smart&auto=webp&s=df4e42c1c986ecd0bda05381e25da14a8fdc1bd1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/OGVRGAMER",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "39308f31e5c9",
+   "canon": "https://www.reddit.com/comments/1xhcv2m",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xhcv2m/brought_twilight_princess_hd_cave_of_shadows_and/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Brought Twilight Princess HD Cave of Shadows and Wii U stamps over to Dusklight",
+   "text": "Hello all! To anyone using Dusklight and likes Zelda, this might be useful. \n So this all started because when Dusklight came out earlier this year I already had half the game beaten in the Cemu and wanted to avoid starting from scratch. With some vibecoding in Claude I got…",
+   "author": "RickyZ_PR",
+   "publishedAt": "2026-10-28T02:57:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M3B4ZmNwNmhoNHloMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=31fd76101b2a741f00db022bd7feee7658a484cc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RickyZ_PR",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "dea156b8c876",
+   "canon": "https://www.reddit.com/comments/1xhcur5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhcur5/claude_code_needs_support_for_readaloud_plugin/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Claude Code needs support for read-aloud plugin",
+   "text": "I have ADHD, and reading long text is really hard for me: I lose my place and my focus drifts. Claude Code makes this worse, because it writes far more than I can read. I think this slows most people down, ADHD or not: reading the output is now the slowest part of working with…",
+   "author": "IndieDev666",
+   "publishedAt": "2026-10-28T02:56:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cWc2OHE5ZDFpNHloMQ2KbMY8wO1N1kOz8hckB7Z2OSY6KDUsiDKBPnF0_vfl.png?width=640&crop=smart&auto=webp&s=59d80f61fd6b3e08d01d4cc4f10d3bb63432b474"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/IndieDev666",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8e9c579f9f1a",
+   "canon": "https://www.reddit.com/comments/1xhcss7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xhcss7/claude_code_needs_readaloud_plugin_support/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Claude Code needs read-aloud plugin support",
+   "text": "I have ADHD, reading long text is hard for me: I lose my place and my focus drifts. Claude Code makes this worse, because it writes far more than I can read. I think this slows most people down, ADHD or not: reading the output is now the slowest part of working with Claude.…",
+   "author": "IndieDev666",
+   "publishedAt": "2026-10-28T02:54:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NTBubndxbmdoNHloMQ2KbMY8wO1N1kOz8hckB7Z2OSY6KDUsiDKBPnF0_vfl.png?width=640&crop=smart&auto=webp&s=3394f8e7096f22fac19a8944293facc0ce192649"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/IndieDev666",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "aaad448204a1",
+   "canon": "https://www.reddit.com/comments/1xhcl57",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xhcl57/day_1_build_live_action_threejs_mangamultiplayer/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Day 1: build Live Action Three.Js Manga/Multiplayer Game",
+   "text": "Developing a Live Action Manga game\n The game is called :SIGIL, single player/multiplayer. The single player would be the manga portion while the multiplayer game obviously won’t be a manga be still stylized in the anime look \n It is a FPS (as of right now)with the player…",
+   "author": "AI_Sway",
+   "publishedAt": "2026-10-28T02:43:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/z9fl7kbof4yh1.jpeg?width=140&height=78&auto=webp&s=6adbc3fcd7f5ddafdb2cc507e5f1c46842c55e36"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AI_Sway",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2ed90c14269b",
+   "canon": "https://www.reddit.com/comments/1xhckpo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xhckpo/i_made_four_tiny_daily_puzzle_games_theyre_now_an/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "I made four tiny daily puzzle games. They're now an Android app too (no ads, no accounts)",
+   "text": "Hi all. Long-time player, first-time maker here. I'm between jobs at the moment, so I've been building a small collection of daily puzzles called DAILY ROM. One new puzzle per game per day, the same for everyone, no sign-up, no ads, no tracking.\n It's now on Google Play as well…",
+   "author": "sonickong",
+   "publishedAt": "2026-10-28T02:42:57+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/sonickong",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "248c33e23072",
+   "canon": "https://www.reddit.com/comments/1xhcez9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xhcez9/build_this_scrambler_3d_with_opus_55_fully/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Build this Scrambler 3D with Opus 5.5 - Fully editable in Blender",
+   "text": "",
+   "author": "gizmoo007",
+   "publishedAt": "2026-10-28T02:35:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/n9ixiahtd4yh1.png?width=140&height=126&auto=webp&s=95793c45cdd00e7bc0ef5dc853d5a3325d6a6b3b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/gizmoo007",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "b278fa874abc",
+   "canon": "https://www.reddit.com/comments/1xhcdqc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xhcdqc/creating_a_kings_fieldinspired_game_with_opus_55/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Creating a King's Field-inspired game with Opus 5.5",
+   "text": "I've been working with Opus 5.5 over the last few weeks to create a King's Field-inspired game that I'm calling Miasma. Amazed at what it can do! I started with storyboarding ideas, systems, and general game vibes. The graphics are made in BlockBench, using Godot as the game…",
+   "author": "QuadrupedGaming",
+   "publishedAt": "2026-10-28T02:33:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NWY5NWxhdnZjNHloMQL-gg65uEBNwEcswveQ7WN1jK7Kb0W_8652ojNv69iw.png?width=640&crop=smart&auto=webp&s=1a1a896235a792387aafd02b8b96ec3053083046"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/QuadrupedGaming",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "fd489d51a217",
+   "canon": "https://www.reddit.com/comments/1xhcc76",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhcc76/creating_help_document_from_video/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Creating help document from video",
+   "text": "we are trying to improve our internal help document - i would like to know if there is an easy way to use claude to convert a recorded video to documentation. thank you",
+   "author": "Trajectory-Sales",
+   "publishedAt": "2026-10-28T02:31:16+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Trajectory-Sales",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8331275e3e65",
+   "canon": "https://www.reddit.com/comments/1xhcael",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xhcael/unreal_engine_5_games_on_the_web_with_claude_and/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Unreal Engine 5 games on the web with Claude and SimplyStream",
+   "text": "",
+   "author": "astlouis44",
+   "publishedAt": "2026-10-28T02:28:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/nzBwwQsXHYW_v6IXNUkV-LQO0FNvlEKw8Ytuw17swBk.jpeg?width=320&crop=smart&auto=webp&s=85697395c8c1172573e065a3dc76e64bc1fa70fe"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/astlouis44",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d59f867de9ec",
+   "canon": "https://www.reddit.com/comments/1xhc80p",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xhc80p/i_played_fracked_and_some_interesting_things/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "I played Fracked, and some interesting things happened",
+   "text": "",
+   "author": "Chuil01",
+   "publishedAt": "2026-10-28T02:25:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MW1yYW54Y3ZiNHloMWaIBQS-8xMDDB_FpK-3h8rTVCLOU_ZNzhNNIkts7V7X.png?width=640&crop=smart&auto=webp&s=02e7f7d74a6a40fa973c51b99ffa0dca5349403b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Chuil01",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "843ecb008c99",
+   "canon": "https://www.reddit.com/comments/1xhbxyk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xhbxyk/i_built_an_exam_preparation_platform_using_claude/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "I built an exam preparation platform using Claude, ChatGPT, Gemini, Grok and a lot of trial and error — would love some feedback",
+   "text": "Hey everyone!\n Over the past few months, I've been building Prepalot, an online exam preparation platform, and I wanted to share it here because AI-assisted development has been a huge part of the journey.\n What is Prepalot?\n Prepalot is a platform designed to help students…",
+   "author": "Outrageous-Fail-530",
+   "publishedAt": "2026-10-28T02:12:20+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Outrageous-Fail-530",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4938016ee261",
+   "canon": "https://www.reddit.com/comments/1xhbwzz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/singularity/comments/1xhbwzz/i_made_chatgpt_claude_gemini_etc_into_free/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "I made ChatGPT, Claude, Gemini, etc. into FREE text-to-speech sites — perfect for audiobooks and more!",
+   "text": "Nowadays, all popular ai chatting websites like qwen, chatgpt, gemini, claude, etc. come with a read aloud functionality that allows users to read aloud the AI's responses.\n I used that feature to instead make the AI repeat back the text that i gave it -- effectively turning the…",
+   "author": "Cool-Hornet-8191",
+   "publishedAt": "2026-10-28T02:11:04+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Cool-Hornet-8191",
+   "where": "r/singularity",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "98599752e0bf",
+   "canon": "https://www.reddit.com/comments/1xhbue9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xhbue9/i_had_eleven_claude_code_terminals_open_and/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "I had eleven Claude Code terminals open and couldn't tell which one was waiting for me. A sensible person would have closed a few. I built an app.",
+   "text": "My afternoons had turned into whack-a-terminal: click through windows to find the one that finished ten minutes ago, the one stuck on \"Do you want to proceed?\", and wherever yesterday's session lived.\n I run a tiny studio called thedumbstuff. The house rule is \"it looks dumb, it…",
+   "author": "Yoda-commits",
+   "publishedAt": "2026-10-28T02:07:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/d3RkemhiNnM4NHloMTf57qY35MqlaBai2tNaSHq58vRrxn3UFFF2_HLLcCEd.png?width=640&crop=smart&auto=webp&s=0c07f4bc099c0478d0ffdfb831a2dcd797eea479"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Yoda-commits",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "52e04861f5d9",
+   "canon": "https://www.reddit.com/comments/1xhblm9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhblm9/claude_helped_me_connect_my_android_phone_to_my/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Claude helped me connect my Android phone to my Mini over CarPlay",
+   "text": "I've got a 2019 Mini that only has wireless Carplay and I main an Android. There are a ton of cheap boxes you can connect to your car that will let you stream via Android Auto but they're wired only. Boxes for wireless Carplay do exist but they're...pricey.\n Enter Claude. After…",
+   "author": "tr0picana",
+   "publishedAt": "2026-10-28T01:56:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dWVzdnhvajc3NHloMZRNiSsYkbe_1kHrFtgBMTMo1m-Z86FxmSxRoBiD7-Ob.png?width=640&crop=smart&auto=webp&s=72090526216152051209780070042b9788574497"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/tr0picana",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d4889ded8b5e",
+   "canon": "https://www.reddit.com/comments/1xhbj22",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xhbj22/i_shipped_a_topdown_tactical_stealth_game_in/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "I shipped a top-down tactical stealth game in Godot in about a month, with an AI coding assistant doing most of the programming. Here’s how the split worked",
+   "text": "Silent Entry is out on itch.io (Windows/Linux): a top-down tactical stealth game where you lead a police team through ten hostage missions. https://dystostorm.itch.io/silent-entry\n How it was made\n Me: the design and direction, playtesting, every judgment call on feel, the music…",
+   "author": "dystostorm",
+   "publishedAt": "2026-10-28T01:52:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/czVzdXBxaWE2NHloMTa2QAiA1TP6qvqTxeVdXRUyp3zdEgT6jXMEiPo4jFpk.png?width=640&crop=smart&auto=webp&s=953f874a098bd4743df18395d52dac2277ad43ef"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/dystostorm",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9db22f0ae641",
+   "canon": "https://www.reddit.com/comments/1xhbhky",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xhbhky/claude_w_remotion_animate_skill_and_pixellabai/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Claude W/ Remotion, animate skill, and PixelLab.ai for quickly putting together cutscenes.",
+   "text": "Hi, not sure if people are already using this, but I wanted to share a proof of concept I created recently combining AI video editing with pixel assets for cutscene creation. I gave Claude an initial prompt detailing the specifics of the setting in question, a planet from one of…",
+   "author": "CouldaBeen_TheBest",
+   "publishedAt": "2026-10-28T01:51:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aDY2NGxqNGczNHloMRngkdIcdaH75Goqv5e8VlWRTnvXMBfiztlr2Fn7pVVa.png?width=640&crop=smart&auto=webp&s=7e5050d48f81698b52ee4167c3db0e0984dcdec3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CouldaBeen_TheBest",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5df52ca662e0",
+   "canon": "https://www.reddit.com/comments/1xhbh3w",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xhbh3w/im_building_a_free_fps_this_trailer_was_built/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Im building a free FPS. This trailer was built with Claud Opus 5.5",
+   "text": "",
+   "author": "Heavy-Revolution-784",
+   "publishedAt": "2026-10-28T01:50:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/anp3dDlxNjM2NHloMX7zyN9j1XbByhdNv4fX9uoPENotKw-UgYZo3PYcB5M9.png?width=640&crop=smart&auto=webp&s=9e751ad6c19a581dd4bd9ffe17d38880b0c1c9e7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Heavy-Revolution-784",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "b328d7c1ffb2",
+   "canon": "https://www.reddit.com/comments/1xhbc7n",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xhbc7n/dev_update_3_a_real_world_map_two_towns_and/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Dev Update #3 - A real world map, two towns, and choosing where you respawn",
+   "text": "I've been working on this solo and it's been such a blast. I've always dreamt of making my dream MMO especially after the days of good old Lineage 2 passed. \n To be clear there isn't much in the way of content but a lot of infrastructure is in place, and I've been homebrewing…",
+   "author": "Novaworld7",
+   "publishedAt": "2026-10-28T01:44:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/0n3r8lBMR9pW5Z2nekM0GQp8JqTlII7OXkA0NCamWG8.jpeg?width=320&crop=smart&auto=webp&s=5f32e2be74f52288a1b5cb9beef35d3b5ca8eb9d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Novaworld7",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "91ef3c256fac",
+   "canon": "https://www.reddit.com/comments/1xhbc0j",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xhbc0j/had_claude_make_me_a_trailer/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Had Claude make me a trailer",
+   "text": "I recently made a post about a game I made called CheckPOW! I have yet to gain players outside of people I have shown it directly to, so I had Claude make me a trailer.\n Let me know what you guys think!",
+   "author": "Fizassist1",
+   "publishedAt": "2026-10-28T01:43:48+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bjIxamFhMXU0NHloMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=d9c96131c6669faad03ea0ac285b7747ad2a4f8a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Fizassist1",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "db8f9aac26fc",
+   "canon": "https://www.reddit.com/comments/1xhb7yi",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xhb7yi/i_made_the_extreme_ai_for_my_toy_brick_rts_and/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "i made the extreme ai for my toy brick rts and now it doesnt respect me",
+   "text": "solo dev, ue5, toy brick style rts for pc. the enemy ai you see here is plain scripted code, zero ai calls while you play. the game itself was built with claude code plus blender scripts, i play every build and pick what stays. extreme difficulty was supposed to be fun and now i…",
+   "author": "WWEtrump",
+   "publishedAt": "2026-10-28T01:38:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZW1tMnA2MngzNHloMbr8OxeArXhcXWyOaBfbz3nZL4LHm3Prm9sQyzQNCvHE.png?width=640&crop=smart&auto=webp&s=ee7a0c9727c3608d695d68b6e114875abd29e4d8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/WWEtrump",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d77d381cb3af",
+   "canon": "https://www.reddit.com/comments/1xhb3ng",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhb3ng/i_made_a_rowingcrew_app_for_new_parents_and_clubs/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "I made a rowing/crew app for new parents and clubs",
+   "text": "I’m a rowing parent, not a developer. Claude Code and I built a club results app in about two weeks\n My kid is a novice rower. At my first regatta I spent the day scrolling CrewTimer (the timing system most US regattas use) looking for our club's boats. So I asked Claude Code to…",
+   "author": "superdeluxo",
+   "publishedAt": "2026-10-28T01:32:48+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/superdeluxo",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "513476812878",
+   "canon": "https://www.reddit.com/comments/1xhaz1f",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xhaz1f/just_added_new_ship_catamaran_sloop_dismemberment/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Just added new ship: Catamaran Sloop & dismemberment functionality to my VR multicrew pirate fever dream of a game! Check it out now for free via the playtest!",
+   "text": "Let me know what you think of it, and any suggestions/things you would like to see in the game.\n Wishlist on Steam! Would help a lot)\n https://store.steampowered.com/app/4903500/Specters_of_the_Void_Sea/\n Join the discord for access to the free live playtest!…",
+   "author": "Professional_Leek_56",
+   "publishedAt": "2026-10-28T01:27:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/amxsNng1N3kxNHloMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=3d812d736267d67cc77bc20f3d66c82c2cb4c937"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Professional_Leek_56",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5fd8fb2ff426",
+   "canon": "https://www.reddit.com/comments/1xhaoow",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xhaoow/visionos_2/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "visionOS 2",
+   "text": "",
+   "author": "tiogeiwar",
+   "publishedAt": "2026-10-28T01:13:16+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/422wc0liz3yh1.jpeg?width=640&crop=smart&auto=webp&s=034df6469eca966a8ef207572c5cd16e0098bdf4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/tiogeiwar",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "76d3edaa5540",
+   "canon": "https://www.reddit.com/comments/1xh9sep",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xh9sep/free_android_xr_demos_and_creator_meetup_palo/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Free Android XR demos and creator meetup — Palo Alto, November 3",
+   "text": "I’m co-hosting Beyond the Screen with our team at Prompt Driven Studio, and wanted to invite Bay Area AR/MR creators to try Android XR demos and meet other local builders.\n We’ll have quick introductions, short app and device demos, and hands-on headset time. Our team will…",
+   "author": "One_Edge8096",
+   "publishedAt": "2026-10-28T00:31:47+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/One_Edge8096",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "618aa9b185f2",
+   "canon": "https://www.reddit.com/comments/1xh9ev9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xh9ev9/creating_diorama3d_style_mixed_reality_mod_for_an/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Creating Diorama3D style Mixed Reality mod for an old steam game",
+   "text": "I wanted to try to mod a topdown view game into a 3D Diorama for mixed reality, and I thought this old puzzle game from 2021 would be a perfect candidate !\n https://store.steampowered.com/app/1494110/QV/\n You can get the mod Here : https://github.com/Pk-c/QVVR\n It will work on…",
+   "author": "Pierrick-C",
+   "publishedAt": "2026-10-28T00:14:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cWZ6cjNocnZvM3loMVSxri0gCkPqSrH03N4wSknWDk0Tfsgu_Jkpg5AskGaq.png?width=640&crop=smart&auto=webp&s=b3b58fca1157e9cc5572ce42d11db9aeb691320a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Pierrick-C",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5429ae57ccbc",
+   "canon": "https://www.reddit.com/comments/1xh8vb6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xh8vb6/pro_oasis_is_keeping_my_hp_g2_going_con/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Pro: Oasis is keeping my HP G2 going. Con:",
+   "text": "This was definitely more effort than this joke was worth so hopefully doesn't violate rule 2 😂",
+   "author": "GinghamOrangutan",
+   "publishedAt": "2026-10-27T23:52:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/n6y12autk3yh1.png?width=640&crop=smart&auto=webp&s=709a6d0b18c6fb0ff0c5dc794dcdbd4b3307ead7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/GinghamOrangutan",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b7ea4dc5cac4",
+   "canon": "https://www.reddit.com/comments/1xh8mij",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xh8mij/visarun_gs_based_world_in_vrchat/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "VISARUN - GS based World in VRChat",
+   "text": "Hey! I’ve just released VISARUN — an immersive documentary in Community Labs, inspired by my monthly visa runs while living in Serbia.\n During one wait between border checkpoints, I scanned an abandoned kiosk with Ivan Neudalimo’s poem on its wall using Gaussian Splatting. That…",
+   "author": "Top_Bowl3748",
+   "publishedAt": "2026-10-27T23:41:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YTE4empncDZqM3loMX-BFNfTk6F1djoGdJjyFrNG4BALNhF1ECy1bh4S2AxN.png?width=640&crop=smart&auto=webp&s=f4fccf565903eb444843a015d3187dac0c157124"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Top_Bowl3748",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f267108072da",
+   "canon": "https://www.reddit.com/comments/1xh8i64",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1xh8i64/free_android_xr_demo_meetup_in_palo_alto_november/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Free Android XR demo meetup in Palo Alto — November 3, 7–8 PM",
+   "text": "Disclosure: I’m one of the organizers, and Prompt Driven Studio is hosting this.\n We’re putting together a small in-person Android XR meetup in Palo Alto for developers, designers, headset users, and people who want to try XR without buying hardware first. The format is quick…",
+   "author": "One_Edge8096",
+   "publishedAt": "2026-10-27T23:36:18+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/One_Edge8096",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e0b7b637defe",
+   "canon": "https://www.reddit.com/comments/1xh7wa1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xh7wa1/insta360_x6_sam_3_masking_spirula_studio_ue_58/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Insta360 X6 → SAM 3 masking → Spirula Studio → UE 5.8 (XGRIDS plugin): 360 Gaussian splatting pipeline",
+   "text": "Spatial capture keeps getting better, and new tools are making 3D reconstructions look closer and closer to the real place.\n So I put them to the test on an old bank I visited a while ago. I walked through the whole building with my Insta360 X6, turned it into a Gaussian splat,…",
+   "author": "Gabriel_Trinc",
+   "publishedAt": "2026-10-27T23:10:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NjNocDc4aThkM3loMaMoDQ5VYDd3RRK0io9j_XX2caXhEbG83QV147sf6ags.png?width=640&crop=smart&auto=webp&s=bfb6c29423563ce327a8a7bb7a947b354b9935e0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Gabriel_Trinc",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4dded84655ae",
+   "canon": "https://www.reddit.com/comments/1xh7jun",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xh7jun/ar_experience_getting_built_in_san_jose/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "AR experience getting built in San Jose",
+   "text": "Hey AR people! I'm convinced that AR can be used in so many way cooler ways than what people usually do with it, and i've gotten tired of waiting for someone to do the thing with my platform that I think would be the coolest possible thing... which is a geolocative narrative -…",
+   "author": "Jayvb",
+   "publishedAt": "2026-10-27T22:56:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MXNzdmVybndhM3loMQ4spYGT_9MG6dxCKkmzMvEIWGdg4HEf7u43r8zlW1m1.png?width=640&crop=smart&auto=webp&s=10f69c83fbf7db5d1539aef243a3967a98d091a6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Jayvb",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3ce894c0364c",
+   "canon": "https://www.reddit.com/comments/1xh6po2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xh6po2/free_android_xr_demo_meetup_in_palo_alto_november/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Free Android XR demo meetup in Palo Alto — November 3, 7–8 PM",
+   "text": "Disclosure: I’m one of the organizers, and Prompt Driven Studio is hosting this.\n We’re putting together a small in-person Android XR meetup in Palo Alto for developers, designers, headset users, and people who want to try XR without buying hardware first. The format is quick…",
+   "author": "One_Edge8096",
+   "publishedAt": "2026-10-27T22:21:03+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/One_Edge8096",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "fe570cde2d84",
    "canon": "https://www.reddit.com/comments/1xh6l71",
@@ -1118,6 +2449,39 @@ window.CASES_DB = {
    "authorUrl": "https://www.reddit.com/user/Foodimals",
    "where": "r/virtualreality",
    "fetchedAt": "2026-10-27T22:20:33.569Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a2e789b69dbb",
+   "canon": "https://www.reddit.com/comments/1xgy16z",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xgy16z/smart_glasses_are_converging_on_one_shape_and_the/",
+   "addedAt": "2026-10-28T05:49:10.580Z",
+   "title": "Smart glasses are converging on one shape, and the lawsuits have started.",
+   "text": "Finding first: in my caption latency test, the MemoMind One landed 1.38 seconds behind the speaker, same room, same TV, same clip as my last glasses episode. 47 grams, 16 hours, no camera, green monochrome text in both lenses. \n The bigger story is the lawsuit. Another smart…",
+   "author": "MultiJanus",
+   "publishedAt": "2026-10-27T16:56:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/UL8cCMhhOQ5Mo5Binr_-CgHLu1HUzy--yuGaRyN3lYo.jpeg?width=320&crop=smart&auto=webp&s=6836801148bc65b44eaa656b1053ce961ccc6627"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MultiJanus",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-28T05:49:10.580Z",
    "lang": "en",
    "model": null
   },
