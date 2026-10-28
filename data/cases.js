@@ -1,8 +1,1367 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-10-28T13:06:29.510Z",
+ "updatedAt": "2026-10-28T20:24:37.021Z",
  "cases": [
+  {
+   "id": "a333af424156",
+   "canon": "https://www.reddit.com/comments/1xhz7m2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xhz7m2/xreal_aura_is_launching_for_1099_now_its_the_same/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "Xreal Aura is launching for $1099. Now it's the same price as Steam Frame.",
+   "text": "",
+   "author": "No-Dark-7873",
+   "publishedAt": "2026-10-28T20:14:54+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No-Dark-7873",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ae98d07fca41",
+   "canon": "https://www.reddit.com/comments/1xhyteb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1xhyteb/xreal_aura_officially_launched_today_limited_time/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "XREAL AURA - Officially Launched Today - Limited Time Offer $1,099",
+   "text": "",
+   "author": "xrosspost",
+   "publishedAt": "2026-10-28T20:00:30+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/xrosspost",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "716b185b3325",
+   "canon": "https://www.reddit.com/comments/1xhyol9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xhyol9/star_smuggler/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "Star Smuggler:",
+   "text": "This is Star Smuggler, a Daggerfall-meets-Schedule-I-in-space sim I've been writing over the past few weeks. The feel is retro cassette-futurism, and is low-res rendered to give the world a chunky lo-fi feel.\n Find customers, get jobs off the local BBS, and grow your smuggling…",
+   "author": "TunnelBandit",
+   "publishedAt": "2026-10-28T19:55:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/wfpnfp2zi9yh1.png?width=140&height=78&auto=webp&s=0d3fba22e446726346c98cd2a2a07dc7bebaabe3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TunnelBandit",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a27e35cfc173",
+   "canon": "https://www.reddit.com/comments/1xhyokw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhyokw/i_let_claude_code_take_issues_straight_from/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "I let Claude Code take issues straight from YouTrack and open the PRs fully autonomous",
+   "text": "Our backlog is in YouTrack, so I built ymcp (https://github.com/xlsft/ymcp, MIT). A pipeline watches a YouTrack search, say project: BE #Unresolved tag: ai, and for each issue:\n starts claude -p in its own git worktree on a new branch, with YouTrack tools through a per-run MCP…",
+   "author": "xlsoftware",
+   "publishedAt": "2026-10-28T19:55:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bWMwcDl5MmNqOXloMaqQUFrgydrhm-gU_JcIbqeleJPBtKIbSpKNXbaex8Y2.png?width=640&crop=smart&auto=webp&s=f20be15c0b1c377bfc18c86b1c41700834db71f4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/xlsoftware",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7c852eff86d8",
+   "canon": "https://www.reddit.com/comments/1xhyk2q",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xhyk2q/one_month_with_claude_unity_blender_and_meshy/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "One month with Claude, Unity, Blender, and Meshy — building a playable co-op veterinary game",
+   "text": "I've spent the last month building Trauma Room, a veterinary hospital game for 1–4 players, using Claude alongside Unity, Blender, and the Meshy API. Here's the first trailer.\n https://store.steampowered.com/app/5393520/Trauma_Room/",
+   "author": "PixelPawsInt",
+   "publishedAt": "2026-10-28T19:51:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NG01MDRjNHdpOXloMd2844kg3QrPAjeiTzguN7zwfXxxZQDBGla8Kwe1msQ6.png?width=640&crop=smart&auto=webp&s=aa76430253ad75b88ae6e12a65a1772569e0c713"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender",
+    "game",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/PixelPawsInt",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a42c84fa71a0",
+   "canon": "https://www.reddit.com/comments/1xhyde6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xhyde6/i_had_claude_make_me_onboarding_and_tried_to_make/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "I had Claude make me onboarding and tried to make it unique and memorable. What would you improve? It's for an anti-slop design tool for social content.",
+   "text": "Hey folks, first time posting here! I'm building an anti-slop design tool for social & print content where everything is editable and on-brand. I noticed a lot of the signups bounce on the empty canvas, before they figure out how they can start a project. So I tried to offer a…",
+   "author": "JannVanDam",
+   "publishedAt": "2026-10-28T19:44:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ajlneXdudHBoOXloMVjKtZFGt1626bTaci_A9iaPFGMbleV6R4j77vPrGOrC.png?width=640&crop=smart&auto=webp&s=246d96c9a476479169aaf254de3805c600f85a77"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/JannVanDam",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "082eaf21ab15",
+   "canon": "https://www.reddit.com/comments/1xhyc73",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhyc73/im_a_developer_and_built_a_full_replacement_for/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "I’m a developer and built a full replacement for the XAMPP Control Panel with Claude. Here’s how the work was split",
+   "text": "I’m a full-stack developer and use XAMPP every day. Its control panel has annoyed me for years (MySQL tables corrupted by a hard kill, no PHP version switching, hand-editing vhosts and the hosts file), so I built a replacement with Claude: Modern XAMPP Control Panel, a .NET 10 /…",
+   "author": "ClearanceClarence_AI",
+   "publishedAt": "2026-10-28T19:43:00+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ClearanceClarence_AI",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2bf5e6c723f8",
+   "canon": "https://www.reddit.com/comments/1xhyagv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xhyagv/i_made_omux_a_native_mac_app_for_running_lots_of/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "i made omux, a native mac app for running lots of claude code sessions side by side",
+   "text": "omux is a free, open source mac app (swiftui, not electron) for running many claude code sessions at once.\n - projects and sessions in a sidebar, each with a live status: working, needs you, done\n - answer permission prompts with allow / deny right from the sidebar\n - a git…",
+   "author": "oozn",
+   "publishedAt": "2026-10-28T19:41:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/w87uprr7h9yh1.png?width=640&crop=smart&auto=webp&s=b45b5740e9640b6211f241248a6d06e824f8ec8f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/oozn",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "352f6bf40bff",
+   "canon": "https://www.reddit.com/comments/1xhy1jm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xhy1jm/i_asked_my_agent_for_a_feature_in_chat_and_claude/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "I asked my agent for a feature in chat and Claude Code built, reviewed and merged it off our board",
+   "text": "This is how we run our own dev board now. I ask the PM agent for a feature in chat. Here it was \"let me star todos so they sort to the top.\" It replies with a spec form in the chat: title, why, acceptance criteria. I submit the form and it becomes a card on the board.\n A Claude…",
+   "author": "protoLabsAI",
+   "publishedAt": "2026-10-28T19:31:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/amd4Z3N0dGlmOXloMRK6jT5afEmJLDSvCtMBak1hpijDInNV4-DfV071NSVQ.png?width=640&crop=smart&auto=webp&s=e550c1af047043af9c8d97bf930de623e0515371"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/protoLabsAI",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7e89f019408c",
+   "canon": "https://www.reddit.com/comments/1xhxz9b",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xhxz9b/spatial_shooting_range_40_was_approved_yesterday/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "Spatial Shooting Range 4.0 was approved yesterday!!",
+   "text": "Live Fire Run Is a linear shootout that you can navigate freely with the PSVR2 controllers, but without the controllers, there's a set path that the game will take you through from cover to cover.\n There are 11 Live Fire Runs in addition to the 20 built-in shoot houses, 38…",
+   "author": "AHApps",
+   "publishedAt": "2026-10-28T19:29:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NmRxeGpvNHBlOXloMdbQjV6HO5uqXRmNxIyziw3VetxPvAUTzw4Ka_vhYQZl.png?width=640&crop=smart&auto=webp&s=4b1c4964b2e64b10efdeb7f495011bc65b0cb351"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AHApps",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c2db381aaa73",
+   "canon": "https://www.reddit.com/comments/1xhxpgj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhxpgj/cctabs_i_lost_track_of_my_50_claude_code_sessions/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "cctabs - I lost track of my 50+ Claude Code sessions, so now Claude opens, checks on and restores its own tabs",
+   "text": "I kept losing myself in how many Claude Code sessions I had running, and which one was doing what.\n I tried a couple of session managers, but they were all built on tmux or some other TUI, and I didn't like the feel: switching between sessions inside one terminal tab, keyboard…",
+   "author": "fredrik_motin",
+   "publishedAt": "2026-10-28T19:19:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bm82eDF0bDU5OXloMUjQOfu0I7vIol1hE5Kt5XB7kVjS29Ytibg3HRTBehbu.png?width=640&crop=smart&auto=webp&s=4fb6fc2e45cecc4ab04476939c737e6eba810836"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/fredrik_motin",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d57cd3787201",
+   "canon": "https://www.reddit.com/comments/1xhxmu8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xhxmu8/3_months_of_vibecoding_an_mmo_and_im_throwing_in/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "3 months of vibecoding an MMO and I'm throwing in the towel",
+   "text": "So it's been 3 months since I started vibecoding my MMO, and I'm 50% certain I'm going to put it on the app store and then officially \"give up\".\n It's playable, it's moderately fun, it's pretty polished. But it's a niche game competing with stuff like ROTMG, and I have a second…",
+   "author": "Electrical-Pig",
+   "publishedAt": "2026-10-28T19:16:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NDZ2bTg3MHZjOXloMfHgY0sEUE-z4uzF9xpfQduzMTc4OMZ7xOOlWYrnXluD.png?width=640&crop=smart&auto=webp&s=7824b922363152ffe978e265aaf987a15655293f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Electrical-Pig",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3ef5d654607c",
+   "canon": "https://www.reddit.com/comments/1xhxk6b",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xhxk6b/i_let_ai_agents_do_the_game_design_and_balancing/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "I let AI agents do the game design and balancing on my first game, then watched real players to check their work",
+   "text": "backend dev here, first game. I can code, but game design, balance and \"feel\" are not my thing. so for Mitts I set up a small team of claude code subagents (designer, engineer, art director, artist, playtester, marketer) and made myself the producer. the interesting part turned…",
+   "author": "ConcertTasty6181",
+   "publishedAt": "2026-10-28T19:14:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/pMLX8jckgnKvwIqZNLCO3YlS7iNvg1fl2iyg1F91hQg.jpeg?width=140&height=73&auto=webp&s=40c39c0efbf2b1998ae106f202227add31a7fc67"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ConcertTasty6181",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bb95de9b5774",
+   "canon": "https://www.reddit.com/comments/1xhxfbi",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xhxfbi/vr_questionnaire/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "VR Questionnaire",
+   "text": "Hi I'm doing a personal project on VR and was hoping I could get some insight into user trends and position on VR.\n I've made a short simple questionnaire, it's not very deep; and was hoping people might be willing to give some time to fill it out.",
+   "author": "UnitResearch",
+   "publishedAt": "2026-10-28T19:09:34+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Ul6x4oWUHlne0RAwyh2tTkM_3gmKiVp2ZsidOfZyahQ.png?width=640&crop=smart&auto=webp&s=be185885b525196ec9ee7bae46d1c77acdd7f7fe"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/UnitResearch",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0ac445ea04a7",
+   "canon": "https://www.reddit.com/comments/1xhxadg",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xhxadg/research_i_built_a_design_harness_that_lets_open/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "Research: I built a design harness that lets open source models design at the level of Sonnet 5.5, and launches Sonnet itself into the stratosphere",
+   "text": "Hey all!\n I've been working on a custom agentic harness called Rivermark for social, marketing & print design. Whoever has tried to use LLMs for this knows that they can be a bit hit or miss, compared to website and app design, where their skills are much better.\n Well, the…",
+   "author": "JannVanDam",
+   "publishedAt": "2026-10-28T19:04:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/5rlkv8foa9yh1.png?width=140&height=78&auto=webp&s=a8387947f153e90552e992c3d1bf3bacbbdccfe3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/JannVanDam",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": "Sonnet 5.5"
+  },
+  {
+   "id": "ae121fbf0f3e",
+   "canon": "https://www.reddit.com/comments/1xhx7uv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xhx7uv/i_let_claude_build_my_entire_balatroinspired_game/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "I let Claude build my entire Balatro-inspired game. Then blud made a devlog roasting me",
+   "text": "Babel's Ledger is a Balatro-inspired word incremental/roguelike: every page is random letters, real words score, and bookmarks multiply your score until the numbers get stupid.\n I'm not a developer. My workflow was: play it on my phone, send Claude one-line notes (\"lower the…",
+   "author": "Top_West5024",
+   "publishedAt": "2026-10-28T19:02:17+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ODd4ZzZ1NTlhOXloMaCAPu9NiTnxa8t5xbv-Af8UKONBox8a9tOo8_c7fhns.png?width=640&crop=smart&auto=webp&s=cb8cdf99e5187d2a2704fdc24a8cd25a9558ba82"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Top_West5024",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ba4257d8a737",
+   "canon": "https://www.reddit.com/comments/1xhx678",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhx678/seems_like_i_get_about_4000_per_months_worth_of/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "seems like i get about $4000 per month's worth of usage out of my $100 claude code subscription",
+   "text": "I set up grafana to track my tokens with claude code. it's still a work in progress, and very likely inaccurate, but i'm still fine-tuning and gathering data . \n What have you found in your usage?",
+   "author": "Ska-jayjay",
+   "publishedAt": "2026-10-28T19:00:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/m0czr4yn99yh1.png?width=640&crop=smart&auto=webp&s=6a9218723f8d755f1dab6e8d601b536463e8d0bc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ska-jayjay",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "84bbd9e79a8c",
+   "canon": "https://www.reddit.com/comments/1xhx5qx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1xhx5qx/xreal_aura_is_officially_here_launch_pricing/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "🕶️ XREAL AURA Is Officially Here! | Launch Pricing Starting at $1,099",
+   "text": "",
+   "author": "xrosspost",
+   "publishedAt": "2026-10-28T19:00:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/xHlb1IXXwNDBe8tPZh_QFQOw2s_tMXdEusc9Jcvw6qE.png?width=140&height=140&auto=webp&s=a1a641c32928087ff607ad5c5730d987976f9382"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/xrosspost",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "02cdc88454f7",
+   "canon": "https://www.reddit.com/comments/1xhx5qk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1xhx5qk/xreal_aura_wired_xr_glasses_to_watch_work_and_play/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "XREAL AURA: Wired XR glasses to watch, work, and play",
+   "text": "",
+   "author": "xrosspost",
+   "publishedAt": "2026-10-28T19:00:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/AIvxUFViJz47NgKadOnrs8KRLHbzqxXOMDpmag0tEW8.png?width=640&crop=smart&auto=webp&s=090723efdc5cc0d3123d4cb061dc1739a6c4d7f0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/xrosspost",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7f5e577fb80c",
+   "canon": "https://www.reddit.com/comments/1xhx5q3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1xhx5q3/agentic_and_flexible_a_next_era_of_android/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "Agentic and Flexible: A next era of Android development",
+   "text": "",
+   "author": "xrosspost",
+   "publishedAt": "2026-10-28T19:00:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/D-c2QbDnpgMiewunrnrzEU7WjhjD8rhUTeRKhkhF0UA.jpeg?width=640&crop=smart&auto=webp&s=3dbbc127712fd6f8d69fecdd5641697b930e8c80"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/xrosspost",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4fedc23dfd5b",
+   "canon": "https://www.reddit.com/comments/1xhwz6m",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xhwz6m/android_xr_dev_toolkits_reach_10_stable_alongside/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "Android XR dev toolkits reach 1.0 Stable alongside XREAL AURA launch",
+   "text": "Watch the Android XR segment at the Android Dev Summit Keynote including live demos with XREAL AURA: youtube.com\n At Android Dev Summit, Google released Version 1.0.0 Stable for the three core software toolkits of the Android XR Jetpack SDK:\n Jetpack SceneCore ARCore for Jetpack…",
+   "author": "AR_MR_XR",
+   "publishedAt": "2026-10-28T18:54:48+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/vkshrm3t79yh1.png?width=140&height=94&auto=webp&s=45fab259c2bacc52b2740a7c256fd3e460ef0bc2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AR_MR_XR",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "25e1188614c9",
+   "canon": "https://www.reddit.com/comments/1xhwpgp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xhwpgp/i_built_a_spaceship_layout_generator_in_30/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "I built a spaceship layout generator in 30 minutes using AI, and now creating a ship takes 5 minutes instead of hours",
+   "text": "I'm a solo indie developer currently working on a space game where players can build their own spaceships by strategically placing different modules on a grid.\n The ship-building system is inspired by the mobile game Space Arena, which uses a similar grid-based approach to…",
+   "author": "ozollagames",
+   "publishedAt": "2026-10-28T18:44:34+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/44ov6xt179yh1.png?width=140&height=69&auto=webp&s=6682c58fb101eca7ce78e70da6996162a83c04ab"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ozollagames",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0f68ce5dd9ce",
+   "canon": "https://www.reddit.com/comments/1xhw9cd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xhw9cd/free_diy_concept_to_character_pipeline/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "Free DIY Concept to Character Pipeline",
+   "text": "Claude made this explainer for the concept art -> character pipeline it just built me. I learned about doing this from this sub, so thought I'd share back in case anyone else is wondering about specifics. \n LMK if I'm doing something really dumb too please! Also, it seems like…",
+   "author": "sleeper-2",
+   "publishedAt": "2026-10-28T18:28:12+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/o_3xV0me1h4p3TObAaDcxquaA5h2LbB5XH1AxwP35cQ.jpeg?width=640&crop=smart&auto=webp&s=7aea7213c24d06c78db51cd2cdb807f4f7b6e560"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/sleeper-2",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "50456cbaa8b5",
+   "canon": "https://www.reddit.com/comments/1xhw0va",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xhw0va/i_built_ponder_a_claude_code_skill_for_ai_that/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "I built Ponder: a Claude Code skill for AI that knows when to speak — and when to shut up",
+   "text": "Right now, AI basically means pattern matching—and as soon as a model doesn't have a piece of information, or finishes finding the real bugs on Pass 1, it decides to make up or assume information just to fill the turn. Why? Because LLMs are trained to never stay silent.\n I built…",
+   "author": "JobRevolutionary7785",
+   "publishedAt": "2026-10-28T18:19:43+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/JobRevolutionary7785",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d4fa5104c89c",
+   "canon": "https://www.reddit.com/comments/1xhvysw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xhvysw/built_a_remote_job_board_with_claude_code_the_llm/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "Built a remote job board with Claude Code: the LLM quotes evidence, code makes the call",
+   "text": "Side project I've been building with Claude Code: a job board for truly remote product roles, where \"remote\" is checked against the posting's own words.\n The pattern that made it work: the model never judges whether a job fits you. It only extracts facts, with proof.\n Each…",
+   "author": "Chemical_Emu_6555",
+   "publishedAt": "2026-10-28T18:17:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Z2xlb2RqM2MyOXloMQ0DDAgj5rbCtaQbYmiJ5Qxzovi72EjKp3h7bni-i9HJ.png?width=320&crop=smart&auto=webp&s=be81797bfcf6f9ddd156e80708c7a23662500d6b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Chemical_Emu_6555",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d8c35711a2c8",
+   "canon": "https://www.reddit.com/comments/1xhvy7r",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xhvy7r/zombie_wasteland_open_world_survival_game_with/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "Zombie Wasteland (open world survival game with claudes help)",
+   "text": "Its free and it would help a lot if you tell me your opinion on the game <3\n Link: https://smstudiosid.itch.io/zombie-wastelands\n Hey guys,\n I created an open world zombie survival game.\n Features:\n - open world\n - 70+ weapons\n - base building\n - farming\n - events\n - trading…",
+   "author": "ZWOfficial",
+   "publishedAt": "2026-10-28T18:17:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/zm0wrjg829yh1.jpeg?width=140&height=78&auto=webp&s=dad262eb35804ee35cfd88774ff02da3e7fef167"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ZWOfficial",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "436cd5d4f35a",
+   "canon": "https://www.reddit.com/comments/1xhvvny",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xhvvny/madeforxr_apps_on_xreal_aura/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "Made-For-XR Apps on XREAL AURA",
+   "text": "",
+   "author": "AR_MR_XR",
+   "publishedAt": "2026-10-28T18:14:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/c2tzMXNmdnIxOXloMcmo9-TJdz9SVaEuKtOH32WdimWMXqxAdlTKRFobiUha.png?width=640&crop=smart&auto=webp&s=a0908e573b34455b34cc754ae61a0c1104278475"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AR_MR_XR",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "23b4e0b8e257",
+   "canon": "https://www.reddit.com/comments/1xhvuil",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xhvuil/i_made_an_arpg_inspired_by_path_of_exile_and_wow/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "I made an ARPG inspired by Path of Exile and WoW that runs in your browser",
+   "text": "IIt’s called Moonwell. I took ideas from my two favourite games: talent trees with game-changing keystones from PoE, and boss fights and class feel from WoW. Three classes, cursed dungeons, loot.\n Claude wrote most of the code and I did the design. What I learned: AI can build…",
+   "author": "tooavg",
+   "publishedAt": "2026-10-28T18:13:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/3fvtiI4SuirAZV3kGFUsQGMyqvgLo6XVy-waG6aS2ZU.png?width=140&height=111&auto=webp&s=97efb9216c96cb4107ff5e3281a2cdee890e0194"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/tooavg",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c672c87313b5",
+   "canon": "https://www.reddit.com/comments/1xhvr45",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xhvr45/vr_tabletop_but_with_the_spooks/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "VR Tabletop, but with the spooks!",
+   "text": "VR Tabletop, but with the spooks! And we are the team behind it. 👀\n Looking for an exclusive Halloween plan with friends? Might want to give our game Table Party a try! 🎃\n 🔗Table Party on Meta Quest\n 🔗Table Party on Steam\n 🔗Join our Discord Community",
+   "author": "divexr",
+   "publishedAt": "2026-10-28T18:10:04+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bGtzaXo2Y3AwOXloMfEYq542r8x6a_RmBiom3nTt6X4k2coJkeUmlHzcYTi0.png?width=640&crop=smart&auto=webp&s=f6f7af756d16ebd57dd5f909a4db4a59fdc5ae1f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/divexr",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ee5e23f39432",
+   "canon": "https://www.reddit.com/comments/1xhvnjw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xhvnjw/my_claude_code_now_calls_my_phone_when_it_needs/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "My Claude Code now calls my phone when it needs me. No Twilio, no phone number, free",
+   "text": "I kept leaving long Claude Code runs going and coming back to find them stuck on a question for an hour. So I built agentring: an MCP server plus an Android app that let the agent actually call you.\n In the video a migration fails. Claude Code uses the `call` tool and my locked…",
+   "author": "mutonbini",
+   "publishedAt": "2026-10-28T18:06:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YmpzajY0a3hlOHloMaF3BqZGMsBjRKRNxFmFS2xVdoqIov2PllC_70guhW64.png?width=640&crop=smart&auto=webp&s=d19f19aeeed7d790674e1920b77a094e3bd5c59f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/mutonbini",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8bcaa8be68ec",
+   "canon": "https://www.reddit.com/comments/1xhvaw0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xhvaw0/tonezzer_racers_play_for_free_in_the_browser/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "Tonezzer Racers — Play for free in the browser",
+   "text": "Hello everyone, \n I would like to share with you a Project I've solo developed on Claude code . It's a racing game made in HD Voxel Art.\n The development took about 5 days of work(Claude work not mine) and about 15 prompts. We are at a point where we can be PM and leave all of…",
+   "author": "RevolutionaryAnt7793",
+   "publishedAt": "2026-10-28T17:54:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/CJD7LdxC2lcZQj5sjDg3s_lNLwnsS6GiO3a7iAaXdxo.jpeg?width=640&crop=smart&auto=webp&s=e02d2cc34bf6a03d8b5b7245a703f12b924f49b5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "voxel"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RevolutionaryAnt7793",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ea66b57f379f",
+   "canon": "https://www.reddit.com/comments/1xhv8v4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhv8v4/vídeos_no_claude/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "Vídeos no Claude",
+   "text": "Estou criando esses vídeos no Claude com Narração do ElevenLabs, alguém tem feito algo parecido? Alguma dica para melhorar a qualidade da entrega?",
+   "author": "Ok_Acanthisitta_9100",
+   "publishedAt": "2026-10-28T17:52:04+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZjFrazlvOXJ4OHloMcOtiQuaOz1fmiHINOb47fR2BQk2ur_ROO1nWJ7Eo1VM.png?width=320&crop=smart&auto=webp&s=170282308a9b63bf51e1faed691234d537a5db45"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ok_Acanthisitta_9100",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ace8707cd3ba",
+   "canon": "https://www.reddit.com/comments/1xhu1a6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1xhu1a6/xreal_aura_officially_launched_today_limited_time/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "XREAL AURA - Officially Launched Today - Limited Time Offer $1,099",
+   "text": "",
+   "author": "AR_MR_XR",
+   "publishedAt": "2026-10-28T17:09:19+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AR_MR_XR",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bb9d5377a3b5",
+   "canon": "https://www.reddit.com/comments/1xhtrze",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xhtrze/xreal_aura_officially_launched_today_limited_time/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "XREAL AURA - Officially Launched Today - Limited Time Offer $1,099",
+   "text": "Starting today, customers in the United States, Canada, Japan, and South Korea can order XREAL AURA. The company is offering a surprise, making the 12GB + 256GB configuration $1,099; and the 16GB + 512GB configuration $1,299. Devices are expected to begin shipping in…",
+   "author": "AR_MR_XR",
+   "publishedAt": "2026-10-28T17:00:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cXIweWJwOTlvOHloMTZ_8LkE7ASumtpsIYhXxONGPv9dfAXZV3NDehIXm5OR.png?width=640&crop=smart&auto=webp&s=02c4afa1478a6c8ae9b5557997d6954f8ad20616"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AR_MR_XR",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "229e1ceb18ec",
+   "canon": "https://www.reddit.com/comments/1xhsnf0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xhsnf0/ashburrow_is_a_coop_action_rpg_with_optional_vr/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "Ashburrow is a co-op action RPG with optional VR combat, shields, bows, and spellcasting",
+   "text": "Hey everyone! I'm an indie developer working on Ashburrow, a fantasy action RPG with roguelite mechanics and optional VR support.\n In VR, you physically swing weapons, block with your shield, draw a bow, and cast spells with your hands. You can also play without a headset, solo…",
+   "author": "mendlo",
+   "publishedAt": "2026-10-28T16:19:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MWdpNGd1ZWZnOHloMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=5ccb40d14ce8cf3a3bf780c6505a4385707c8d9e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/mendlo",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e24289f8cf6d",
+   "canon": "https://www.reddit.com/comments/1xhr91y",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xhr91y/worlds_first_10_vision_pro_headsets_inside_the/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "WORLD'S FIRST 💥 10 Vision Pro headsets, inside the Palais Garnier in Paris!",
+   "text": "🎥 We're INIT Lab, the creative French studio behind this project, and we wanted to share it here because honestly this community would get it better than most.\n We've spent the past year producing an Apple Immersive film shot inside one of the most beautiful buildings in Paris,…",
+   "author": "INIT-Lab",
+   "publishedAt": "2026-10-28T15:30:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/nnqvk3fa88yh1.jpeg?width=140&height=105&auto=webp&s=de542b0c7d0ac3ecba0be6fd63a13ca683e8d9b5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/INIT-Lab",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "389b4b5c1511",
+   "canon": "https://www.reddit.com/comments/1xhr0tu",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xhr0tu/vision_pro_turned_out_to_be_a_genuinely_great/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "Vision Pro turned out to be a genuinely great interior design tool. I made a video showing exactly how I used it",
+   "text": "",
+   "author": "sarangborude",
+   "publishedAt": "2026-10-28T15:21:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/agND593Lq3gff21Za8oUjzh82WjiFKSCfk489ckljZE.jpeg?width=320&crop=smart&auto=webp&s=2bb178b4e03ad777994357b6e1570da8e7eefae7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/sarangborude",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9b0243c8983a",
+   "canon": "https://www.reddit.com/comments/1xhqu23",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xhqu23/timeshift_2007_vr_mod/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "TimeShift 2007 VR mod",
+   "text": "Ready for testing in flat2vr discord",
+   "author": "MonsterDeadWood",
+   "publishedAt": "2026-10-28T15:15:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YnkzbmRlYW81OHloMZ3M8cMmDZ6dv9xk-HqCnuLp5dASQGOKJGVA54RIilgy.png?width=640&crop=smart&auto=webp&s=9541492e7ee5e57e36abccc0689939573aae9956"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MonsterDeadWood",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8e2c52deda41",
+   "canon": "https://www.reddit.com/comments/1xhq2id",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xhq2id/i_never_felt_fully_immersed_watching_my/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "I never felt fully immersed watching my films/series library in VR, so I built my own theater app. It's free, and you can now watch with friends",
+   "text": "Hi everyone, solo dev here.\n I've tried a lot of the video players on Quest, and many of them are really good. But watching my own films from Plex or from the headset, I never quite got the feeling of being at the movies, and I wanted my files to look exactly as they are. So I…",
+   "author": "MrFrosas",
+   "publishedAt": "2026-10-28T14:46:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bnJrN20xamowOHloMeNQ7onliFsgkP_C9vSe3nj65NAGA4SWB3MEF2HihtFB.png?width=640&crop=smart&auto=webp&s=d56d2f7affeed66873b4e0545298045e3247d0be"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MrFrosas",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6aedf1c2acba",
+   "canon": "https://www.reddit.com/comments/1xhp1x4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xhp1x4/my_titanfall_2_vr_mod_multiplayer_open_beta/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "My Titanfall 2 VR Mod Multiplayer OPEN BETA starts tomorrow!",
+   "text": "",
+   "author": "CircuitsRevenge",
+   "publishedAt": "2026-10-28T14:07:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NnQ1MHl6ZGp0N3loMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=282e3fa42a60d1cc8d7e4ff5d255d1fc7432d06f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CircuitsRevenge",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a35afa6d865c",
+   "canon": "https://www.reddit.com/comments/1xholiw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xholiw/meta_cybrid_999_38_off/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "[Meta] CYBRID ($9.99 / 38% Off )",
+   "text": "",
+   "author": "shada_games",
+   "publishedAt": "2026-10-28T13:49:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/26KeachNT2z8jMGti_RPt1Hxzm0fiDJ9m6u5r8eYNRw.jpeg?width=640&crop=smart&auto=webp&s=3d72be384418faae15314368677188119479c1d4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/shada_games",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3a94994af098",
+   "canon": "https://www.reddit.com/comments/1xhnlot",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xhnlot/ghostbusters_2023_stern_2016/",
+   "addedAt": "2026-10-28T20:20:18.136Z",
+   "title": "Ghostbusters 2023 (Stern 2016)",
+   "text": "Ghostbusters (Stern 2016) in VR on VPX.\n This is the one, The one in a gray area. With that said, there's no public download link available for it — please don't ask (request will be ignored) or post links in the comments. If you want the backstory on this one, you'll have to…",
+   "author": "Real_Spacegoogie",
+   "publishedAt": "2026-10-28T13:08:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cWU0Zm9nazNqN3loMSrF1cWM8t7PwhiE5yVX-K96cY8XNXEYEK6rKJd4BlTc.png?width=640&crop=smart&auto=webp&s=6988145a0277b5b736ed40a76e23f4219839c9fc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Real_Spacegoogie",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "e39d0f1cff05",
    "canon": "https://www.reddit.com/comments/1xhn9z8",
