@@ -1,8 +1,945 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-10-29T01:08:11.820Z",
+ "updatedAt": "2026-10-29T10:10:12.985Z",
  "cases": [
+  {
+   "id": "b385d51ef084",
+   "canon": "https://www.reddit.com/comments/1xifnqh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xifnqh/fix_for_mcp_tools_timing_out_on_long_runs_tests/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "Fix for MCP tools timing out on long runs (tests, builds, crawls)",
+   "text": "If you've got an MCP tool that takes longer than the timeout, the call just dies and the work is gone.\n mcp-coatcheck wraps any MCP server. If a call takes longer than 20s, Claude gets a job id instead of a timeout and picks up the result with a coatcheck_result tool when it's…",
+   "author": "Awacer",
+   "publishedAt": "2026-10-29T09:55:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dXBxZnU2dWtwZHloMVezGNFV4E4Y_9QSIL2OpUhcvttRk4jGOYwdZkP1fVug.png?width=640&crop=smart&auto=webp&s=cc8fdaaf5edae05a91762bcd1b5ae94638e8bf46"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Awacer",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4610f2c208f8",
+   "canon": "https://www.reddit.com/comments/1xifl00",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xifl00/got_the_official_claude_stickers_and_plushie_from/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "Got the official Claude stickers and plushie from Claude code terminal easter egg event!",
+   "text": "Did anyone grabbed both? I only see people got stickers!",
+   "author": "Mevarx",
+   "publishedAt": "2026-10-29T09:50:47+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/pff06i1sodyh1.jpeg?width=140&height=105&auto=webp&s=0043aad582f2b96af2efeccc62d5a76ef32c686c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Mevarx",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6b2b8419258e",
+   "canon": "https://www.reddit.com/comments/1xif7ts",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xif7ts/i_redesigned_my_whole_mobile_game_with_an_image/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "I redesigned my whole mobile game with an image model – the hard part wasn't the concepts, it was turning them into something that runs on old phones",
+   "text": "I'm a solo dev working on Scitch, a live reaction game for Android and iOS (up to 24 players per round, the slowest get knocked out). Over the last weeks I redesigned the entire app, and I wanted to share how the AI part actually worked, because it was different from what I…",
+   "author": "thexyba",
+   "publishedAt": "2026-10-29T09:27:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/zn849wsckdyh1.png?width=640&crop=smart&auto=webp&s=956721c27706b452b49c63d25c4c911e17fb2f28"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/thexyba",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2bc5d7ffc3f1",
+   "canon": "https://www.reddit.com/comments/1xif65z",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xif65z/guardrail_commands/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "Guardrail commands",
+   "text": "What way do you stop Claude (or any other AI), from doing things it shouldnt, I have mine set so I have to type a confirmation for it to action certain processes, this after I learned the hard way…",
+   "author": "Electrical_Chard3255",
+   "publishedAt": "2026-10-29T09:24:57+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/kpjig6l0kdyh1.png?width=140&height=78&auto=webp&s=cc1183d02494c4840670d0694552d1d81eb72fb5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Electrical_Chard3255",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3e0458d26a94",
+   "canon": "https://www.reddit.com/comments/1xif321",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xif321/i_just_made_a_fun_little_vision_pro_app/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "I just made a fun little Vision Pro app～",
+   "text": "",
+   "author": "wangke665",
+   "publishedAt": "2026-10-29T09:19:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/s4ojbzs6jdyh1.jpeg?width=640&crop=smart&auto=webp&s=9a2e3232aa0b9f6825201f7db327bde843ac8e2c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/wangke665",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9ab917cb71ca",
+   "canon": "https://www.reddit.com/comments/1xif0sa",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xif0sa/openheronbrowser_a_new_browser_engine_in_rust/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "OpenHeronBrowser – a new browser engine in Rust, built with Claude. Acid3 97/100, opens Discord, VS Code for the Web, and Windows 1.01 in v86",
+   "text": "",
+   "author": "marissatech_",
+   "publishedAt": "2026-10-29T09:15:22+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/marissatech_",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ff8edebce9b7",
+   "canon": "https://www.reddit.com/comments/1xiex5k",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiex5k/claude_is_stressing/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "Claude is stressing😭😭",
+   "text": "",
+   "author": "Numerous-Campaign844",
+   "publishedAt": "2026-10-29T09:08:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/1lhj1dnjfdyh1.png?width=140&height=97&auto=webp&s=f8d70fe7cd4be79a0ef05af7d2224fe438522f0a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Numerous-Campaign844",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "69b6a6397da4",
+   "canon": "https://www.reddit.com/comments/1xiel8g",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xiel8g/ninelock_i_built_a_sudoku_roguelike_in_a_week/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "Ninelock - I built a sudoku roguelike in a week, directing Claude Code from my phone. Here’s how the workflow went (free alpha, feedback welcome)",
+   "text": "Trailer: https://youtube.com/shorts/u7S5ETozDOk \n Ninelock is a puzzle roguelike: every row, column and box of a sudoku is a lock. You draw digits from a deck and place them by normal sudoku rules, but there’s no fixed solution. Fill a unit and it opens, empties and scores…",
+   "author": "superCata27",
+   "publishedAt": "2026-10-29T08:47:36+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/mrt7bd11ddyh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=50157e92596e983439dd5ac8451add5f931ed149"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/superCata27",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9e288b37a761",
+   "canon": "https://www.reddit.com/comments/1xieezp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xieezp/a_month_of_claude_code_and_codex_200_on/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "A month of Claude Code and Codex: $200 on subscriptions, $2,180 at per-token rates!",
+   "text": "Cheap AI tokens are running out",
+   "author": "Suspicious_Orchid770",
+   "publishedAt": "2026-10-29T08:35:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/p5HyteIvbc2vuC5gPWofiLgwM0DBDSPmgLQFO9U5kIA.jpeg?width=640&crop=smart&auto=webp&s=eaef059d4dbe26442ef001388a6a6d4e2a886b08"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Suspicious_Orchid770",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a1cbd292e94b",
+   "canon": "https://www.reddit.com/comments/1xie52e",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xie52e/i_made_a_claude_code_mod_with_a_wake_word_voice/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "I made a Claude Code mod with a wake word, voice isolation and voice commands. Nothing else to install, and the audio never leaves your machine.",
+   "text": "https://github.com/alkove-ai/alkove\n Hi, this mod comes out of a bigger project of mine, Alkove: an SDK and a set of small speech models I trained to run on the device. There are five of them, 7.5 MB in all: a wake word you type as text, voice isolation that keeps your voice and…",
+   "author": "cocktailpartyfixer",
+   "publishedAt": "2026-10-29T08:18:16+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aHptZ293OTU4ZHloMU-S0we6dWErOpXqfR_qXUYzkkqOMWEOFBFPsvCOLXbS.png?width=640&crop=smart&auto=webp&s=dbf015b496475ff80cda85834a629026bea9b018"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/cocktailpartyfixer",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bceedfeb4637",
+   "canon": "https://www.reddit.com/comments/1xidyxe",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xidyxe/resurrectanything_claude_code_skill_for_some_fun/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "resurrect-anything: claude code skill for some fun and nostalgia, bring things back to life from whatever tidbits exist about it online",
+   "text": "https://github.com/sshah03/resurrect-anything\n Although I have probably gone through 50 or more iterations at this point repeatedly trying some subset of close to 100 recreations (some in the demo video above), I would say this is very much still a work in progress. I was having…",
+   "author": "0xcontext",
+   "publishedAt": "2026-10-29T08:07:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NXAwazlnNmQ2ZHloMTPMQRCt5Q1iiq4U-CZRo2v8xjVOkgwYMD_xdm0m1Fbs.png?width=640&crop=smart&auto=webp&s=fe6b4e403e002a3be7bd7e5ace603781e5da265b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/0xcontext",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5184b42fd7a1",
+   "canon": "https://www.reddit.com/comments/1xidy0e",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xidy0e/sof2vr_releasing_in_a_few_days_hopefully/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "SoF2VR (releasing in a few days hopefully)",
+   "text": "HUGE THANKS TO TheFreeMike (Creator of F.E.A.R. VR) FOR INSPIRING THIS MOD! CHECK HIM OUT AND SOF1VR HERE:-\n https://youtube.com/@the\\_free\\_mike?si=RvqLjnkgKesWfeqv\n I’m bringing Soldier of Fortune II: Double Helix into virtual reality, putting you in John Mullins’ boots with:…",
+   "author": "MrSkarKasm",
+   "publishedAt": "2026-10-29T08:05:51+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cPzpKYEDQ-nx0V4_OcQR9NgicPFWkJdGfK1_TX55Ka8.jpeg?width=320&crop=smart&auto=webp&s=d545f612959d382dcc369544525d857d64c648d8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MrSkarKasm",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "753aa2d1836b",
+   "canon": "https://www.reddit.com/comments/1xidxlw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xidxlw/splat_edit_engine_opensourced_by_yours_truly/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "Splat Edit Engine opensourced by yours truly. Extract/Remove/Replace elements in Gaussian Splat scenes.",
+   "text": "",
+   "author": "Burgstall",
+   "publishedAt": "2026-10-29T08:05:10+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bTV5dWExcmc1ZHloMYLycCeMDGVhBMDnbQ-m-xT-gClCIWFRtAPPJ8FjWstn.png?width=640&crop=smart&auto=webp&s=5a36faeea320e93cdf49095ca929346564514070"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Burgstall",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4851dffecb6a",
+   "canon": "https://www.reddit.com/comments/1xidsu3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xidsu3/monopoly_written_by_claude_in_1_day/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "Monopoly written by Claude in 1 day",
+   "text": "Monopoly written by Claude\n This game project was written by me using a Claude CLI agent on Linux in less than 24 hours. It is a full implementation of the game Monopoly and Claude was used for everything related to the specifics of the game. It was built using my custom Pascal…",
+   "author": "sysrpl",
+   "publishedAt": "2026-10-29T07:57:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/czFyZGwwMWo0ZHloMTLQX_uu7wlDpD7RElU-VBAwPr5HDwx1gyC8L5xds4Ps.png?width=640&crop=smart&auto=webp&s=3e6c8e4b8742da5cf335a614af37c8d6d54f8cbf"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/sysrpl",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "16c9e634f444",
+   "canon": "https://www.reddit.com/comments/1xidr7z",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xidr7z/the_htc_vive_flow_is_now_a_steamvr_native_pcvr/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "The HTC VIVE Flow is now a SteamVR native, PCVR compatible wireless streaming headset thanks to the efforts of a Japanese VTuber",
+   "text": "A.K.A the Poor Man's Bigscreen Beyond\n Source: https://x.com/kirisamenanoha/status/2113126413947846922\n Github: https://github.com/Kirisame-Nanoha/VIVE-Flow-Business-Streaming-Patch\n By applying a patch to the VIVE Business Streaming APK that comes downloaded with VIVE Hub on…",
+   "author": "pindow_wisser",
+   "publishedAt": "2026-10-29T07:54:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dmJ6OWtsejIzZHloMdl0rcCoaQNCFJYEL7ciZHrIAKKc2ELkDEJeC_cJwtYa.png?width=640&crop=smart&auto=webp&s=bd357e9cc1d430938af23eafc9d894aa980e3ef3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/pindow_wisser",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fb1a097ae4dc",
+   "canon": "https://www.reddit.com/comments/1xidmms",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xidmms/made_a_bunch_of_social_media_extensions_to_make/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "Made a bunch of social media extensions to make my doomscrolling more efficient.",
+   "text": "Used claude to make extensions for Reddit, Youtube, Facebook and IG. This project happened because I was mulling over whether I should buy the \"Pocket Tube\" extension to be able to see my youtube subscribed channels better. Then I randomly thought, wait a minute Claude can just…",
+   "author": "Leonature26",
+   "publishedAt": "2026-10-29T07:46:12+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/usvh7f8g2dyh1.png?width=140&height=57&auto=webp&s=23132ad5cb547d91180e2251e79c2c0253d6e89c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Leonature26",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "dca7e8956257",
+   "canon": "https://www.reddit.com/comments/1xiddtx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xiddtx/hyena_for_my_mobile_game/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "Hyena for my mobile game",
+   "text": "Hyena for my mobile game\n Hey everyone!\n I've been working on creating 3D models with Tripo for a while now, then using Claude to rig and fully animate them.\n I'm doing all of this entirely on my phone, since I don't even own a PC, so I think the result is actually pretty good!…",
+   "author": "FewEntertainment9716",
+   "publishedAt": "2026-10-29T07:30:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eW8wNjc3c256Y3loMUjVKjCMXe3uJAdZisQPZIrakDJpwgsIfDsZ4ftLzOET.png?width=320&crop=smart&auto=webp&s=1fd5589a4982823034b255c86ef5d91381cdff9c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/FewEntertainment9716",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d96401624944",
+   "canon": "https://www.reddit.com/comments/1xid9y6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xid9y6/day_1_vs_day_52_of_my_social_resort_game_built/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "Day 1 vs Day 52 of my social resort game built with Claude Code",
+   "text": "I built this game with Claude Code, and I wanted to share how it went.\n The game is called Sunspire. It’s a cozy pixel art casino resort, kind of like Stardew Valley but in a casino. You walk around the resort in a pixel world, and when you sit down at a slot machine or a table,…",
+   "author": "TheGrowthYardGaming",
+   "publishedAt": "2026-10-29T07:23:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cm5jOXlwd3h4Y3loMcBJ0B3tAjzljqg-aRap-wTxXIXCmN1oKM12gLIV1ZM6.png?width=640&crop=smart&auto=webp&s=0873ee572fcbd1bdf4ea369ea0da880baea05499"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TheGrowthYardGaming",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "57a87cac479b",
+   "canon": "https://www.reddit.com/comments/1xid1o2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xid1o2/_/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "👍",
+   "text": "I'm having Claude help me install Kubuntu and the boomer thumbs up is cracking me up 😄",
+   "author": "alwaysalmosts",
+   "publishedAt": "2026-10-29T07:08:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/rlrniowuvcyh1.jpeg?width=640&crop=smart&auto=webp&s=23a4c2466f4e0ac6135256899882fb9f4ea100af"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/alwaysalmosts",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a672deae0f1f",
+   "canon": "https://www.reddit.com/comments/1xicv8a",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xicv8a/i_asked_claude_to_create_drawing_tools_and_draw/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "I asked Claude to create drawing tools and draw. Here are the results",
+   "text": "I think I found interesting Claude usage where it is not intended to be used for: drawing images. I basically have asked Claude Code to create Javascript drawing tools for drawing techniques, draw specific images with them and iterate on what is drawn. Result is artifact with 17…",
+   "author": "daliusd_",
+   "publishedAt": "2026-10-29T06:58:04+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/E7f--exj6kyqLVjTYdq0sem2IIOwjT2Y-mt3AaAYS-0.jpeg?width=640&crop=smart&auto=webp&s=4e345355e14acc6847a76138a03bcef23900558b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/daliusd_",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f2530fe1b2f0",
+   "canon": "https://www.reddit.com/comments/1xicohv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xicohv/titanfall_2_vr_mutliplayer_open_beta_gameplay/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "Titanfall 2 VR Mutliplayer open beta gameplay!",
+   "text": "Absolutely amazing, Rodeoing in VR is so much fun.thid is a pilot vs pilot match, The prox chat is cool, this is just absolutely a blast. if you wanted mutliplayer here it comes. credits to circuitlord!",
+   "author": "AssociateOk73",
+   "publishedAt": "2026-10-29T06:45:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aWhrdGQ1bm5yY3loMXCScgRESfIxiKOldUbn-IJSPQNwYliXhwImz7SdkeP9.png?width=640&crop=smart&auto=webp&s=cb1b6a9c21b0679da75e2ef6e5207a7ef27db553"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AssociateOk73",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "87cf7eb1c0a9",
+   "canon": "https://www.reddit.com/comments/1xicgbo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xicgbo/introducing_openfusion_for_appropriate_model/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "Introducing OpenFusion for appropriate model routing",
+   "text": "It routes each subtask to the cheapest model that can do it well, and has a judge escalate to a stronger model when the cheap attempt isn't good enough. \n Open Sourcing this. You can use it if it helps you with token and time saving. I am seeing about 30% token and 25-40% time…",
+   "author": "ElkMysterious2181",
+   "publishedAt": "2026-10-29T06:31:27+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ElkMysterious2181",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b2a312cb1ccf",
+   "canon": "https://www.reddit.com/comments/1xicbbo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xicbbo/8_border_names_4_looks_what_claude_code_desktop/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "8 border names, 4 looks: what Claude Code desktop 2.1.299 actually rendered for my mod",
+   "text": "I kept redesigning my Claude Code desktop mod without knowing what the desktop could actually render. So I had Claude build a pane of UI specimens, one tab per element, with notes beside each one about what worked. The screenshot is the border tab.\n Everything below is what I…",
+   "author": "Random96503",
+   "publishedAt": "2026-10-29T06:22:51+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/df16jtahncyh1.png?width=640&crop=smart&auto=webp&s=255abd41b23830456344b253d182fbb150931347"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Random96503",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bead3c58779c",
+   "canon": "https://www.reddit.com/comments/1xic7ox",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xic7ox/fill_the_gap_between_wow_forever_beta_and_launch/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "Fill the gap between WoW Forever beta and launch: Guild of Souls, an RPG where you play your whole guild (Claude Code + Codex)",
+   "text": "Guild of Souls is out on Steam. It's inspired by multiboxing: every hero you make joins your guild, you swap between them mid-fight, and you can take 40 of them into a raid. 40 classes, 11 dungeons, solo or co-op. Your healer can't flame you, because you are the healer.\n WoW…",
+   "author": "Mojo2013",
+   "publishedAt": "2026-10-29T06:16:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MWU4ZzJzZThrY3loMSJI6TFMM4ZKBGsrMWavDAIJt_TFSr5wi7FtJVPCjj3f.png?width=640&crop=smart&auto=webp&s=c96702e5f4be560bfa7d70729fffd52451b47e3a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Mojo2013",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f01008270d3a",
+   "canon": "https://www.reddit.com/comments/1xic6d6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xic6d6/i_had_claude_code_synthesise_my_web_games_music/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "I had Claude Code synthesise my web game's music in code: no samples, no licences, a 172 KB seamless loop",
+   "text": "Honey Line, my draw-to-protect web puzzle, had no music. Its sound effects were already generated by a Node script, so I asked Claude Code to do the same for a music loop instead of hunting for a licensed track.\n The music is data: four chords (Cmaj7, Am7, Fmaj7, G6) at 92 BPM,…",
+   "author": "Commercial_Cable_404",
+   "publishedAt": "2026-10-29T06:14:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZjR0YW4wMzFtY3loMQo8EYbimIxmiwM-ZrXFqCInaD1pb-InZnSfrf0jY87M.png?width=640&crop=smart&auto=webp&s=4aba5ca7d42096097f18cf69ddbaa6ab56d29500"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Commercial_Cable_404",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "560f11859235",
+   "canon": "https://www.reddit.com/comments/1xibw36",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xibw36/100_days_of_dev_and_my_numbers_1_month_after/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "100 days of dev, and my numbers 1 month after launch: users, marketing, and how I run it!",
+   "text": "When I was 1 month into development, I wrote my first devlog here on Reddit, about making characters with AI. (July 31: https://www.reddit.com/r/aigamedev/comments/1vbm7cp/i_couldnt_get_19_aigenerated_goblins_to_look_like/)\n Before I knew it, I finished the first round of…",
+   "author": "Joeykiwis",
+   "publishedAt": "2026-10-29T05:57:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/glbzoxhsicyh1.gif?width=640&crop=smart&s=b7647c14c7ca8044129f494ea418886f68e8627b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Joeykiwis",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c6a6ed025b77",
+   "canon": "https://www.reddit.com/comments/1xi96p2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xi96p2/segas_house_of_the_dead_reawakened_vr_arcade/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "Sega's House of the Dead Reawakened VR arcade machine",
+   "text": "https://preview.redd.it/ze8oukerrbyh1.png?width=996&format=png&auto=webp&s=457e3beff19193e21f47461e86b4f6f031e41071\n https://www.uploadvr.com/sega-amusements-shares-new-house-of-the-dead-reawakened-details/…",
+   "author": "Night247",
+   "publishedAt": "2026-10-29T03:25:12+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ze8oukerrbyh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=47a235b58aaf313eb2858169508a077fa20eebb6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Night247",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3fe07af5dec9",
+   "canon": "https://www.reddit.com/comments/1xi7sci",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xi7sci/announcing_venture_extremely_fast_and_easy_to_use/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "Announcing Venture - Extremely fast and easy to use Meta Quest Emulator for PCVR",
+   "text": "Today I am extremely excited to announce I've been working on Venture for a long time, and I'm really excited to share it with everyone! \n It is an extremely fast, reliable, broadly compatible emulator for Quest games!\n Venture is designed to be as easy as possible to use. Just…",
+   "author": "YeetYoot-69",
+   "publishedAt": "2026-10-29T02:16:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eDdjejZuczFlYnloMZ_-a2q89dbJAyKnFBRAxxINOe4_4PtuicCsKKjgsmD4.png?width=640&crop=smart&auto=webp&s=08fd463d7953dcf478ad218b4cc395ebcaf40c9b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/YeetYoot-69",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "60d290b13ec0",
+   "canon": "https://www.reddit.com/comments/1xi6fgo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xi6fgo/no_mans_sky_returns_to_its_darkest_corners_in_new/",
+   "addedAt": "2026-10-29T10:05:35.867Z",
+   "title": "No Man's Sky Returns To Its Darkest Corners In New Forsaken Update",
+   "text": "",
+   "author": "hcsantos",
+   "publishedAt": "2026-10-29T01:12:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/5Qtvc4Jy7Y3d7jXgkI4kNYU0LOh8WC8NWV4nOobiHSo.jpeg?width=640&crop=smart&auto=webp&s=934cabf7524e7a94794d5d047aa66b8c53ab28e9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/hcsantos",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-29T10:05:35.867Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "4ce343842dad",
    "canon": "https://www.reddit.com/comments/1xi5hnf",
