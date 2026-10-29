@@ -1,7 +1,853 @@
 {
  "version": 1,
- "updatedAt": "2026-10-28T20:24:37.021Z",
+ "updatedAt": "2026-10-29T01:08:11.820Z",
  "cases": [
+  {
+   "id": "4ce343842dad",
+   "canon": "https://www.reddit.com/comments/1xi5hnf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xi5hnf/claude_code_projects/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "Claude Code Projects",
+   "text": "Did a short talk this morning at an Claude Community event around Claude Code. After the talk, I used Opus 5.5 to animate my slides. \n I've been using Claude Code Projects heavily for a few weeks and have grown to love it. Running the threaads in the cloud is so nice (I don't…",
+   "author": "matthartman513",
+   "publishedAt": "2026-10-29T00:29:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cnNlaG1temZ3YXloMWh85JNGEYEIYo0LCzoNwTg_qV7czxX81mPtxpEh_udE.png?width=640&crop=smart&auto=webp&s=b8c3a8f6d40f46825b43ca6e773e7859ed59155e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/matthartman513",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "86d4cc163a6e",
+   "canon": "https://www.reddit.com/comments/1xi5far",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xi5far/shiftform_an_endless_procedural_platformer/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "Shiftform: An Endless Procedural Platformer",
+   "text": "I've been experimenting with procedural worlds and physics, and built a browser-based platformer called Shiftform using Claude Code.\n Claude Code / Opus 5.5 worked autonomously on most of the implementation, building the game engine, assets, procedural level generation and…",
+   "author": "luke__uk",
+   "publishedAt": "2026-10-29T00:26:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cmh0cDNuMXd2YXloMQ7dlcahHD_7siE6W5I888oWccZlQm-7yjWZXd3V19tg.png?width=640&crop=smart&auto=webp&s=3e4971a2a3f46602b6de4da6aeacd5c2da81030e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/luke__uk",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "5a8d91645f59",
+   "canon": "https://www.reddit.com/comments/1xi5ab4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xi5ab4/i_built_a_claude_code_plugin_that_gives_claude_a/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "I built a Claude Code plugin that gives Claude a second reviewer (Gemini 4 Argon), and Claude Code wrote most of it",
+   "text": "I built argon-bridge, a free and open source (MIT) plugin for Claude Code. It sends Claude's plans and commits to Gemini 4 Argon for an independent review.\n Why: after a long session, Claude starts sharing my assumptions. When I asked it to review its own work, it reviewed with…",
+   "author": "zukoo7",
+   "publishedAt": "2026-10-29T00:20:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/r15e9jazuayh1.jpeg?width=640&crop=smart&auto=webp&s=6b78475a94d6c2f8ab62fd1992577c03a3f3a62c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/zukoo7",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9039ac303109",
+   "canon": "https://www.reddit.com/comments/1xi4g68",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xi4g68/made_a_full_scratchoff_gambling_game_with_claude/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "Made a full scratch-off gambling game with Claude, heading to Steam",
+   "text": "First game I’ve finished. One More Ticket is a single HTML file: all the art is drawn in code and the music and sound are generated live. No asset files at all.\n You start with a trash bag and $5,000 of debt to a guy named Vinnie. Dig cans behind the gas station, buy scratch-off…",
+   "author": "Responsible_Web934",
+   "publishedAt": "2026-10-28T23:44:59+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Responsible_Web934",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5f211f072037",
+   "canon": "https://www.reddit.com/comments/1xi46zo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xi46zo/hiking_video_gaussian_splat_original_footage_and/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "Hiking video → Gaussian splat: original footage and reconstruction side by side",
+   "text": "Testing a hiking video captured with Meta glasses as input for a Gaussian splat in AEC Platform.\n Here’s the original footage (right) alongside the reconstructed scene (left). It’s an early test of how an everyday recording can translate into an explorable 3D environment.",
+   "author": "AECPLATFORM",
+   "publishedAt": "2026-10-28T23:33:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cm5yaWUwN29tYXloMdukqNdMK2manBg9ZDrmpML52a9w6_v7eWdJzuprcSjH.png?width=640&crop=smart&auto=webp&s=27325879dce55f078d6996f4f792f0a100b7a357"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AECPLATFORM",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f5f3af7bc55a",
+   "canon": "https://www.reddit.com/comments/1xi3s3l",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xi3s3l/i_used_claude_code_to_reverse_engineer_the_old/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "I used Claude Code to reverse engineer the old clacking airport departure boards. You can even take one apart",
+   "text": "Sound on for this one.\n I've always loved the old Solari departure boards at airports. That moment when an entire wall of letters starts flipping at once is strangely satisfying. Most of them are gone now, so I wanted to recreate one.\n I built analogflightboard.com. It's free,…",
+   "author": "SelectionNo3613",
+   "publishedAt": "2026-10-28T23:16:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bWdtOHdnZ2NoYXloMS5FXO1VihqKZGkYrsMnlZ_JneD0Q-HFzLsiNU_6F-uo.png?width=640&crop=smart&auto=webp&s=93b77393b3abb1e48840293f143be103d72d9ffc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SelectionNo3613",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b792187ba0a2",
+   "canon": "https://www.reddit.com/comments/1xi3qes",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xi3qes/atualizei_o_design_das_minhas_barras_de_vida/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "Atualizei o design das minhas barras de vida",
+   "text": "Não estava aceitando o design primitivo da interface do meu jogo, então resolvi utilizar o opus 5.5 para fazer uma pesquisa e atualização baseada em jogos da Vanillaware, eai, acharam que ficou melhor?\n a segunda imagem é a versão nova*",
+   "author": "Final_Huckleberry408",
+   "publishedAt": "2026-10-28T23:14:20+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/09ravoiwhayh1.png?width=140&height=65&auto=webp&s=defcf7b9c33b1239529cfac2cb2a039cf56bef35"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Final_Huckleberry408",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "614495aeb9a4",
+   "canon": "https://www.reddit.com/comments/1xi3o2x",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xi3o2x/rink_hockey_manager_one_engine_two_views_our/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "Rink Hockey Manager — One engine, two views: our first steps in 3D",
+   "text": "Hi everyone!\n Alongside our 2D viewer, we are now taking our first steps towards a 3D representation of Rink Hockey Manager (RHM).\n We are still in the Stone Age of development, but some of our ideas are starting to take shape. In this first video, we want to share a small…",
+   "author": "FerjorPT",
+   "publishedAt": "2026-10-28T23:11:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cnp5NHczNW1pYXloMXsoo5KDVz0DPjRjKYcpakIkP4tyD-TrieaiScKXZetW.png?width=640&crop=smart&auto=webp&s=c1ee3687f711f99c6298dd4746ebb25ee041ed35"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/FerjorPT",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7eef3ebdf1a8",
+   "canon": "https://www.reddit.com/comments/1xi3mj3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xi3mj3/claude_rated_its_own_art_910_codex_blind_gave_it/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "Claude rated its own art 9/10. Codex, blind, gave it a 4. How I set up Claude Code after that (part 2)",
+   "text": "I posted a couple days ago but; Part 1 was my before/after (grey boxes in August, my game on Steam now). A few people asked how I actually split the work, so here's my setup.\n What changed things for me: in mid October Claude rated its own new art a 9/10. The same screenshots…",
+   "author": "Masterkiefs",
+   "publishedAt": "2026-10-28T23:09:43+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/N3AwZjJieXRoYXloMfZnAnApkRaSFrKENrenzmUtGUDLg-9az9KZJoOhJm4a.png?width=640&crop=smart&auto=webp&s=bcad2c0951fffbd2ee744969f485c0f8419fec17"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Masterkiefs",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0882bd6fa015",
+   "canon": "https://www.reddit.com/comments/1xi35yy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xi35yy/longer_generation_times/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "Longer generation times…",
+   "text": "Anybody else feel recently the time for running commands to finish take forever?\n I used to be able to bust out animations within 15 minutes. But recently it’s been taking over 5 hours to finish one. Could it be my Mac internal storage running close to full? Is there a certain…",
+   "author": "Financial_Money648",
+   "publishedAt": "2026-10-28T22:50:25+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Financial_Money648",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "87c88a95ed06",
+   "canon": "https://www.reddit.com/comments/1xi2znm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xi2znm/finally_done_with_all_four_claude_certs_three/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "Finally done with all four Claude certs. Three things I wish I'd known going in",
+   "text": "Hey all,\n Just wrapped up the last one, so I now have all four: Associate, Developer Foundations, Architect Foundations and Architect Professional.\n I've seen quite a few posts here asking how to prepare, so I figured I'd share what worked for me.\n A few things I learned along…",
+   "author": "DaannyJ",
+   "publishedAt": "2026-10-28T22:42:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/lpwusfqndayh1.jpeg?width=640&crop=smart&auto=webp&s=776b37cce9b680ff2f17aaff1843942efde57358"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/DaannyJ",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9039b0230a7c",
+   "canon": "https://www.reddit.com/comments/1xi2wxk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xi2wxk/argonbridge_gemini_reviews_your_plans_and_commits/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "argon-bridge: Gemini reviews your plans and commits, Claude verifies, you approve",
+   "text": "A plugin built on hooks: it sends Claude Code's plans and commits to Gemini 4 Argon for review.\n - Reviews never block your flow: commits run in the background, and Claude is woken up when findings arrive.\n - Claude has to verify every finding in the code before it reaches you,…",
+   "author": "zukoo7",
+   "publishedAt": "2026-10-28T22:39:51+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/32d4z3s1dayh1.png?width=140&height=78&auto=webp&s=cd6970fa26f8b48194125f80816ebedd2ff7dae0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/zukoo7",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "da6a0da17319",
+   "canon": "https://www.reddit.com/comments/1xi2uzv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xi2uzv/i_built_an_open_source_metaharness_that_runs_my/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "I built an open source meta-harness that runs my Claude Code sessions as a mesh of peers across every machine I own",
+   "text": "Hapimatic is my open-source meta-harness project. The core is free to try on your own Linux machine or Windows with WSL2. \n Here's a 4-minute tour of the product: https://youtu.be/CWw3NQhVC1c\n What it does\n Every session can coordinate with any other session or spawn a new…",
+   "author": "MattMose",
+   "publishedAt": "2026-10-28T22:37:36+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MattMose",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f9f7e5fbcbbc",
+   "canon": "https://www.reddit.com/comments/1xi2t1n",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xi2t1n/cyberpunk_2077_3d_braindance_edition_mod/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "Cyberpunk 2077: 3D Braindance Edition Mod",
+   "text": "Play Cyberpunk 2077 in real stereoscopic 3D using the game's own 3D renderer, shown side by side for any 3D / VR headset with SBS support (half-SBS for now, full SBS planned). The game appears on a big virtual screen with real depth.\n Not VR: no head tracking, no motion…",
+   "author": "vlad3ree",
+   "publishedAt": "2026-10-28T22:35:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/kkcyq1v7cayh1.png?width=640&crop=smart&auto=webp&s=f60f6ea9915cd5a2642c9bc90cdcf278fce4db42"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/vlad3ree",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b2d9d75c9c4d",
+   "canon": "https://www.reddit.com/comments/1xi2p4n",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xi2p4n/gta_v_halo_jak_minecraft_running_natively_on/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "GTA V, Halo, Jak & Minecraft Running Natively on Apple Vision Pro",
+   "text": "I've been bringing some of my favorite games into Vision Pro just as a personal project. These unofficial ports all build on the work of other open source projects and wouldn't be possible without them. Thought I'd share with the community in case anybody else wants to try them…",
+   "author": "Low_Cress_9158",
+   "publishedAt": "2026-10-28T22:30:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/EZ_aNz94TBGo2zAWVWKdLau-jCGD83HKmHIWBiMe4bk.jpeg?width=320&crop=smart&auto=webp&s=6540f3a6a9d2085a898f8a4cce175d8a188fb9c0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three",
+    "game",
+    "voxel"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Low_Cress_9158",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f8c0be9b5161",
+   "canon": "https://www.reddit.com/comments/1xi28c3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xi28c3/claude_max_20x_weekly_limit_from_50_after_a_full/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "Claude Max 20x weekly limit: from <50% after a full week to 100% in one day",
+   "text": "https://preview.redd.it/h66xwaza7ayh1.png?width=888&format=png&auto=webp&s=8773247090be65d74ea606cefcf01a93199d6c61\n I've been using Claude Max 20x consistently for serious product development.\n My usage pattern has changed noticeably:\n Before: heavy use for a full week →…",
+   "author": "Ameen-Alam",
+   "publishedAt": "2026-10-28T22:12:08+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/h66xwaza7ayh1.png?width=140&height=94&auto=webp&s=afbb7b3fa1108e0db1f9df2253a25290bff21374"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ameen-Alam",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c1a8e8eac4c3",
+   "canon": "https://www.reddit.com/comments/1xi1yek",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xi1yek/show_us_what_youve_created_with_claude/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "Show us what you've created with Claude!",
+   "text": "Inspired by this popular post, this is a weekly post for everyone to show what they have been working on that helps you or that you're proud of!",
+   "author": "sixbillionthsheep",
+   "publishedAt": "2026-10-28T22:01:10+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/sixbillionthsheep",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "13c863ea78ef",
+   "canon": "https://www.reddit.com/comments/1xi1w3s",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xi1w3s/i_let_claude_run_3_youtube_channels_for_a_month/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "I let Claude run 3 YouTube channels for a month, here are the real numbers",
+   "text": "I set up 9 Claude sessions that work in parallel on a shared task board. One researches and fact checks, others write scripts, generate the voice, edit the videos in code with Remotion, make thumbnails and upload through the YouTube API. I mostly give direction and veto bad…",
+   "author": "No-Mango8172",
+   "publishedAt": "2026-10-28T21:58:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/mbprrvji5ayh1.png?width=640&crop=smart&auto=webp&s=ff26d3c9565fc7794d43c1b5a9a9ad4bb4568531"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No-Mango8172",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "eafd8dac9a38",
+   "canon": "https://www.reddit.com/comments/1xi1q4r",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xi1q4r/pumpkin_hunt_a_multiplayer_halloween_game_inside/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "Pumpkin hunt: a multiplayer Halloween game inside a Gaussian splat 🎃",
+   "text": "We’re building a multi-user viewer for Gaussian splats, so several people can walk through the same scene together in real time. For Halloween we turned it into a small multiplayer pumpkin hunt, with regular meshes (pumpkins, bats and skeletons) mixed into the splat scene. When…",
+   "author": "maxingoja",
+   "publishedAt": "2026-10-28T21:52:12+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZHpmZmUyMHUzYXloMSjd4YRrLcnmwkbeiAKkcA79K_VuBMzdx2Shbbkal0Yt.png?width=640&crop=smart&auto=webp&s=2efa9ad4229a3f9bf2dcdddad662e26081eab25c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/maxingoja",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9329c1a3d7e9",
+   "canon": "https://www.reddit.com/comments/1xi1lfv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xi1lfv/duplicate_this_artifact_prompt/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "Duplicate this artifact prompt",
+   "text": "This prompt is generating all sorts of noise in our Enterprise. Why is it even offering to do so, can we please choose if Claude should offer to do so or not at all?\n https://preview.redd.it/mqf0mkgl3ayh1.png?width=442&format=png&auto=webp&s=7e666ceb36f1a434f35a71c40069242791c60e…",
+   "author": "surferride",
+   "publishedAt": "2026-10-28T21:46:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/mqf0mkgl3ayh1.png?width=140&height=73&auto=webp&s=89e1e59f235394935a5ddad4fd23b3955eca51f3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/surferride",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4c3e8aecc4d0",
+   "canon": "https://www.reddit.com/comments/1xi1jik",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xi1jik/bloom_wars_duelists_of_the_veil_arpg_and_ccg/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "Bloom Wars: Duelists of the Veil. ARPG and CCG battler!",
+   "text": "Hello all,\n I've always dreamed of a game that combined Pokemon with a CCG instead of pokemon battles. I decided to make one for myself!\n https://potatoman760.itch.io/bloom-wars\n The game is coded in Godot, mainly using Opus 5.5. It was provided comfyui with a krea2 workflow for…",
+   "author": "ironical",
+   "publishedAt": "2026-10-28T21:44:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/iamknoq33ayh1.jpeg?width=140&height=78&auto=webp&s=b495d3cffa612170b1b501db8f59e054bc51415e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ironical",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "2d9a15b0add7",
+   "canon": "https://www.reddit.com/comments/1xi1b5g",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xi1b5g/claude_built_a_free_browser_game_where_an_entire/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "Claude built a free browser game where an entire planet (and its music) is generated from whatever name you give it. Today I finally added oceans life!",
+   "text": "Hey all! Worldseed is a free browser Open World Sandbox Adventure Game set on a procedurally generated planet.\n Just dropped v51: The Sea, and the Songs!\n Oceans & Boats: Hop on local fishing boats to haul nets, or hire skippers to find hidden islands and shipwrecks. Sea Life:…",
+   "author": "niklasdaking",
+   "publishedAt": "2026-10-28T21:35:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZHQzdGttMGwwYXloMRWnSCXHyKmskk-ukyA1zNNgGq8Qks6wlc_hgiHF8mqH.png?width=640&crop=smart&auto=webp&s=ee77ac2e29f67e2b393ee44a875f6131dd344417"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/niklasdaking",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5378ce9d63eb",
+   "canon": "https://www.reddit.com/comments/1xi14j6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xi14j6/claude_said_no_to_its_own_author/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "Claude said no to its own author",
+   "text": "Is AI actually getting smarter or dumber?\n The author mentions they copied the same article and wanted to publish on their website but the model disagreed\n It was sonnet which disagreed but as soon as the model was changed to opus it did a fuzzy match on name and agreed?…",
+   "author": "ButterscotchTop999",
+   "publishedAt": "2026-10-28T21:28:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/wppk9hka0ayh1.png?width=640&crop=smart&auto=webp&s=c790967f0f2d1da9104970721a8331a09d65a1e1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ButterscotchTop999",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0f01ddc4047d",
+   "canon": "https://www.reddit.com/comments/1xi13ud",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xi13ud/i_built_a_game_with_claude_and_wrote_down_the/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "I built a game with Claude and wrote down the workflow, including where it failed. Setup you can copy inside.",
+   "text": "I have been writing code for about forty years. A few days ago I started a vertical shooter with Claude and kept a log. Sixteen small deliveries in under three hours, twelve passing tests, no fun verdict yet, because it is not finished and the AI cannot hear music or feel a ship…",
+   "author": "Illustrious_Usual_10",
+   "publishedAt": "2026-10-28T21:27:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/z0jhe6030ayh1.png?width=640&crop=smart&auto=webp&s=4f51bc9de12648ec6b1915e8058f60deb04d4746"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Illustrious_Usual_10",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "188f6330ae50",
+   "canon": "https://www.reddit.com/comments/1xi0yhs",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xi0yhs/i_built_a_little_tram_driving_game_called/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "I built a little tram driving game called Tramlijn 2 with Claude generating everything",
+   "text": "Hi All, just wanted to share a game I made with a workflow I am testing. It's called Tramlijn 2, a game where you get to drive a tram through Amsterdam.\n The game itself is fun but the nicer part is how I set up Claude Code to do everything - I basically just wrote a design…",
+   "author": "octopus_limbs",
+   "publishedAt": "2026-10-28T21:21:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZmJHV7kbH_nRUTNTsCV2fhbb0lhWS_kLJnWkFKOEDzY.png?width=320&crop=smart&auto=webp&s=4cff691b830fe6bae759127b052e937851962926"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/octopus_limbs",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "72485cf75a67",
+   "canon": "https://www.reddit.com/comments/1xi0o38",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/singularity/comments/1xi0o38/gpt6_astra_painted_this_on_a_real_robot_arm_then/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "GPT-6 Astra painted this on a real robot arm, then filmed and edited it, all from one chat",
+   "text": "What Astra did, in one Codex chat:\n designed three fish circling an empty centre, generated a concept image, then wrote 34 brush strokes simulated how the water would spread (and threw out a first version where the water swallowed the fish) compiled the arm’s motion and checked…",
+   "author": "dhvanil",
+   "publishedAt": "2026-10-28T21:10:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Z3Jlc3MyYTN3OXloMQNbq47WgXkAKZMTF00NTAeO5LL4xMuARtE9IqPAEh7z.png?width=640&crop=smart&auto=webp&s=d0d8dc0bd6bf6f155fa4f5501b5a6a8d94d04e7d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/dhvanil",
+   "where": "r/singularity",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "a333af424156",
    "canon": "https://www.reddit.com/comments/1xhz7m2",
@@ -1228,6 +2074,38 @@
    "authorUrl": "https://www.reddit.com/user/MonsterDeadWood",
    "where": "r/virtualreality",
    "fetchedAt": "2026-10-28T20:20:18.136Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bc062695bd59",
+   "canon": "https://www.reddit.com/comments/1xhqmec",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xhqmec/claude_can_make_mods_but_cant_turn_them_off/",
+   "addedAt": "2026-10-29T01:03:34.585Z",
+   "title": "Claude can make mods but cant turn them off 😭",
+   "text": "https://preview.redd.it/t5owvsh448yh1.png?width=1078&format=png&auto=webp&s=990c1f091dd8cbe238d37383409d48b3e00b89dc",
+   "author": "s0NRAY-",
+   "publishedAt": "2026-10-28T15:07:10+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/t5owvsh448yh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=9795fa9a03a82a11ba7aa12daebb5fd897da82ab"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/s0NRAY-",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-29T01:03:34.585Z",
    "lang": "en",
    "model": null
   },
