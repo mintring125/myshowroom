@@ -1,8 +1,1217 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-10-30T01:10:28.765Z",
+ "updatedAt": "2026-10-30T10:12:41.500Z",
  "cases": [
+  {
+   "id": "bae6ab999bbf",
+   "canon": "https://www.reddit.com/comments/1xjbapf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xjbapf/3dsen_vr_v20_release_subvoxel_bend_it_shade_it/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "3dSen VR v2.0 Release - Sub-voxel, bend it, shade it, make it shine",
+   "text": "VR-specific changes OpenXR: 3dSenVR now runs on OpenXR, the common standard for PC VR. It works with SteamVR headsets, Meta Quest (Link, Air Link or Virtual Desktop) and Steam Frame. VR controller bindings: Remap any VR controller button in Settings > Controls > VR Controllers,…",
+   "author": "tructv",
+   "publishedAt": "2026-10-30T10:03:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/qofmQY1P7mhpb7caa2xBJBAy5PWqJZdYY8T4R78ztoA.jpeg?width=320&crop=smart&auto=webp&s=b1995bb8932b4236a46f7b4185c4d51385addcef"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three",
+    "game",
+    "voxel"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/tructv",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4db43543abaa",
+   "canon": "https://www.reddit.com/comments/1xjbaoy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjbaoy/not_a_developer_my_first_claudebuilt_app_got_zero/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "Not a developer: my first Claude-built app got zero downloads, so I rebuilt it as a browser game",
+   "text": "Earlier this year I built a word game as an iOS app with Claude. It got basically zero downloads. My guess is that almost nobody installs an app for a daily puzzle, so this week I rebuilt it for the browser, where a friend can just tap a link.\n The game is the same idea as…",
+   "author": "Alexole1",
+   "publishedAt": "2026-10-30T10:03:44+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Alexole1",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d99c56053e45",
+   "canon": "https://www.reddit.com/comments/1xjbaer",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjbaer/i_got_tired_of_watching_claude_code_work_in_a/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "I got tired of watching Claude Code work in a plain terminal so I built it a 3D cozy game simulation. 3 months later, my agents have a boss",
+   "text": "Hey everyone,\n A few months ago I shared Termi Protocol here, a cozy 3D room where your coding agents work at their desks instead of in a plain terminal. Thanks to everyone who tried it and sent feedback. Here is what changed since then.\n Post 1:…",
+   "author": "FreshnessAi",
+   "publishedAt": "2026-10-30T10:03:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MGswNWJieHZ2a3loMc7qY2QFdZd4hnMbsw7Nk44FVZdh82FnGd0JR1fwZxga.png?width=640&crop=smart&auto=webp&s=b3c6d51daccc0e5f34a76f3f41fc16d59c4c224a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/FreshnessAi",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "191b102c069e",
+   "canon": "https://www.reddit.com/comments/1xjb6y8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xjb6y8/we_made_32_free_offline_asset_tools_for_coding/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "We made 32 free, offline asset tools for coding agents: pivots, colliders, palette swaps, loop checks (open source)",
+   "text": "This one doesn't need a Ludo account: our CLI now has a free toolbox for the boring asset work your coding agent otherwise guesses at. It works on the assets you already have: any spritesheet, image, sound or glTF model, not just ours.\n What's in it:\n - Engine setup: pivot on…",
+   "author": "ludoaiplatform",
+   "publishedAt": "2026-10-30T09:57:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NnQxOTNpcHd1a3loMZUC8rpkNIoep3XS7IBybfKodprfC9u8XV5XPlPf0zNU.png?width=640&crop=smart&auto=webp&s=09310070318a738b8fe24cda89bad6d0ecbff25e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ludoaiplatform",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0794e22d011f",
+   "canon": "https://www.reddit.com/comments/1xjb375",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/threejs/comments/1xjb375/yes_threejs_is_cool_blender_too_opus_55_toothank/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "yes threejs is cool! blender too! opus 5.5 too..thank you AI!",
+   "text": "haters will hate.. boats are cool.. water too ;)",
+   "author": "Efficient_Ad8214",
+   "publishedAt": "2026-10-30T09:51:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/anVtYzkydG50a3loMSa5EJr85WT9I-VoVVCd6RJsuyf5UQgORFYq6eZtBIjl.png?width=640&crop=smart&auto=webp&s=9c9f7ae8c387522f9c0113f7b69798ab26acc352"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender",
+    "threejs"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Efficient_Ad8214",
+   "where": "r/threejs",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "ff837d0b8461",
+   "canon": "https://www.reddit.com/comments/1xjb1d1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xjb1d1/critique_my_artsy_onboarding_flow_built_with_opus/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "Critique my artsy onboarding flow! Built with Opus 5.5 + Midjourney",
+   "text": "Backstory: I'm building an anti-slop design tool for social & print content where everything is editable and on-brand. I noticed a lot of the signups bounce on the empty canvas, before they figure out how they can start a project. So I tried to offer a few ways in, with a…",
+   "author": "JannVanDam",
+   "publishedAt": "2026-10-30T09:48:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YXllbTNidXpza3loMVjKtZFGt1626bTaci_A9iaPFGMbleV6R4j77vPrGOrC.png?width=640&crop=smart&auto=webp&s=35bafca37e6ce20f539857b23ddeaa337df01b76"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/JannVanDam",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "478db5b068c0",
+   "canon": "https://www.reddit.com/comments/1xjavvr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjavvr/claude_code_built_my_whole_affiliate_system_its/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "Claude Code built my whole affiliate system. Its security review is the part that blew my mind",
+   "text": "I run Globatics, a real-time web analytics SaaS where every visitor shows up live on a 3D globe. I wanted people to be able to earn money by recommending it, so I asked Claude Code to build a full affiliate program.\n Not a landing page. The real thing, where actual money moves.…",
+   "author": "DutyOnly4308",
+   "publishedAt": "2026-10-30T09:38:47+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/k2k9lfeirkyh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=9af37e757b52fbaea1902309a0871ee15f7b7502"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/DutyOnly4308",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "99491a2bee81",
+   "canon": "https://www.reddit.com/comments/1xjaheo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vrdev/comments/1xjaheo/my_company_has_just_released_a_vr_game_on_steam/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "My company has just released a VR game on Steam called History Experience: Rome.",
+   "text": "Hey everyone! My company has just released a VR game on Steam and Meta Store called History Experience: Rome.\n https://store.steampowered.com/app/5325200/History_Experience_Rome/\n https://www.meta.com/es-es/experiences/history-experience-rome/27031724146464622/?srsltid=AYCX9vKURZ…",
+   "author": "Bubbly_Assumption530",
+   "publishedAt": "2026-10-30T09:13:35+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Bubbly_Assumption530",
+   "where": "r/vrdev",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "eab39e9fe8f7",
+   "canon": "https://www.reddit.com/comments/1xjag7n",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vrdev/comments/1xjag7n/i_finally_made_a_tower_defense_that_two_players/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "I finally made a tower defense that two players can play together on a real table (Quest 3 mixed reality)",
+   "text": "Hello there! I'm a solo dev, and I've been building TabletopSiege, a tower defense for Quest 3 that plays out on your real table using mixed reality.\n The board anchors to whatever table you're sitting at, and a friend can join in the same room to defend it with you. You build…",
+   "author": "Inplov",
+   "publishedAt": "2026-10-30T09:11:38+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Inplov",
+   "where": "r/vrdev",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "28f294635a1d",
+   "canon": "https://www.reddit.com/comments/1xjabve",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjabve/claude_code_made_a_macbook_pro_style_launch_film/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "Claude Code made a MacBook Pro style launch film from one product photo",
+   "text": "Everyone is posting the touchscreen MacBook Pro, and someone open sourced an agent skill that turns one product photo into a match cut promo. Tried it in Claude Code with a made up laptop.\n GPT Image 2.5 Sunburst drew the product, Claude wrote a 15 second shot list where each…",
+   "author": "Practical_Low29",
+   "publishedAt": "2026-10-30T09:03:43+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZjMwMzVsM3hja3loMSwD83FoOhBUAmUsOtlI9oES3mUvmNl5x6M6Kf1lRme6.png?width=640&crop=smart&auto=webp&s=27f9960edb7f143bd207d340baa2dc5600016693"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Practical_Low29",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "97111fda9753",
+   "canon": "https://www.reddit.com/comments/1xjabef",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xjabef/blocked_a_shot_with_a_grey_3d_model_then_let/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "Blocked a shot with a grey 3D model, then let Seedance 2.5 render it",
+   "text": "Saw a thread telling people to stop burning tokens on basic 3D animation: grab a Tripo model, rig it, animate it. I wanted the next step, where the grey model is only a camera and blocking pass and a video model does the look.\n Tripo H3.1 text-to-3D for a chubby toy dinosaur.…",
+   "author": "Practical_Low29",
+   "publishedAt": "2026-10-30T09:02:57+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ODU5OXpxNGFka3loMWsffyUJiO5jESvJYQyW43yakV2uPRdVQXdBaq7qLy_v.png?width=640&crop=smart&auto=webp&s=58396de079a040d93a48e2457947eefc0f345de3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Practical_Low29",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6aa13b1a2ed1",
+   "canon": "https://www.reddit.com/comments/1xja85n",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xja85n/i_worked_on_this_swordthemed_card_game_for_almost/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "I worked on this sword-themed Card Game for almost a year, now on Google Play Store for Open Beta",
+   "text": "Hi everyone, I would like to share a trailer of my mobile card game:\"5 Seconds Showdown\", now available as Open beta on Google play store. No plans for pc or ios release for now.\n https://play.google.com/apps/testing/com.Chocoweb.FiveSecondsShowdown\n I mostly use Claude to…",
+   "author": "Chocoweb88",
+   "publishedAt": "2026-10-30T08:57:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MzFvMm51ejdra3loMQEEPG484T37KAZCmY2kXZiguvlsye9jKYV2Wx3Oi7sS.png?width=320&crop=smart&auto=webp&s=035f4c04c6094b4b10321e3254539be0d56e3a22"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Chocoweb88",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3dd81a651ebc",
+   "canon": "https://www.reddit.com/comments/1xja4vw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xja4vw/working_on_a_realtime_3d_pokémon_battle_game_the/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "Working on a real-time 3D Pokémon battle game. The demo is free and open source",
+   "text": "For the last week I've been making PokeBrawl with the help of Claude Code: Pokémon battles in real time, where you control the Pokémon directly, dodge attacks and fight with its four moves while each one recharges. Against the AI or 1 vs 1 online with a friend.\n A few things…",
+   "author": "ApprehensiveFocus287",
+   "publishedAt": "2026-10-30T08:51:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/emNib2wxZnhpa3loMY5PQC5qglYxFkYjYPTVQBqfr46VzUhIBqjm9tpDub3C.png?width=640&crop=smart&auto=webp&s=546b858d2957146b25e24dc5428bd975edca6581"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ApprehensiveFocus287",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ed56162609df",
+   "canon": "https://www.reddit.com/comments/1xj9x8c",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xj9x8c/i_built_and_shipped_a_free_game_to_steam_about/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "I built and shipped a free game to Steam about Orange cat eating up everything",
+   "text": "To built it I used a standart Claude license, and had to wait a lot for 5 hour resets :D but now the game is done, it is a very simple small project and is available to everyone for FREE to play so you can check out what cool things you can build with AI. Of course a lot of…",
+   "author": "acem13",
+   "publishedAt": "2026-10-30T08:37:34+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Ynd1NzY2dWxna3loMf5VmOefKNnHYiTqeSqVlZNXtNs0iotYqqoFIHwIYMed.png?width=640&crop=smart&auto=webp&s=69bdb882af4393867318e8189b77bf8c8c56e6b2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/acem13",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "072e7ef737b0",
+   "canon": "https://www.reddit.com/comments/1xj9vb0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xj9vb0/appliance_control_bridge_ac_bridge_turns_your/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "Appliance Control Bridge - AC Bridge turns your smart lights into a silent status light for Claude Code (built with Claude Code)",
+   "text": "Claude Code stops for permission, a question or a finished turn, and unless you're watching the terminal it just waits. AC Bridge lets the room tell you instead: no beeps, no pop-ups, just a light you notice from across the room.…",
+   "author": "Necessary_Number604",
+   "publishedAt": "2026-10-30T08:33:57+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Y2pwY3Brdnlma3loMWnot_vN-lSRqxfo5BzPki5VA2CqoSy-TYUkMlMQYyKt.png?width=640&crop=smart&auto=webp&s=0be5c0ecc26e5e58ef43cb0f58529246f5d9e8dd"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Necessary_Number604",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "333156d66d28",
+   "canon": "https://www.reddit.com/comments/1xj9tcz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xj9tcz/i_built_a_splat_effect_tool_that_turns_your/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "I built a splat effect tool that turns your Gaussian splat into a cinematic video, right in the browser. Here's a fossil skull",
+   "text": "I kept wanting a quick way to show off splats as video instead of screen-recording a viewer, so we built Effect: luxbox.ai/effect\n Since it's still in beta, all advice is welcome:\n - Camera tracks you'd like next (flythrough, crane, handheld, a custom keyframed path…)\n - Reveal…",
+   "author": "capcam-thomas",
+   "publishedAt": "2026-10-30T08:30:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YnJydGtsbXJla3loMZdMPcssMVBXY4dLnIH4_-5DGCMjzoTbAQsdj86GSAV5.png?width=640&crop=smart&auto=webp&s=f20e1e2fbb5b8dfeafdf309c81afd6731f86b7b9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/capcam-thomas",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cef3df4cc800",
+   "canon": "https://www.reddit.com/comments/1xj9r4m",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xj9r4m/i_reverseengineered_my_old_hisense_tv_with_claude/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "I reverse-engineered my old Hisense TV with Claude.",
+   "text": "",
+   "author": "Commercial_Ear_6989",
+   "publishedAt": "2026-10-30T08:26:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OHFkODE5ZW5la3loMbrTnXbE7Hpu2Q3OlmR6mqazn3MgD81c0sa_tF0kz_73.png?width=640&crop=smart&auto=webp&s=cbd3bd5734afc06472fafa495340f0774926f734"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Commercial_Ear_6989",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "23d6f6476ddb",
+   "canon": "https://www.reddit.com/comments/1xj9j0r",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xj9j0r/black_white_the_best_vr_game_that_never_was/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "Black & White: The Best VR Game That Never Was",
+   "text": "Hi all, I created this introduction video to B&W and the VR mod complete with installation guide and brief controls tutorial. Hope it helps if you're still on the fence about playing this!",
+   "author": "buckzor122",
+   "publishedAt": "2026-10-30T08:11:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/80aZg2YtX0F5INEQe6NykmqrYQF6nbxwXfpBu9nLfGs.jpeg?width=320&crop=smart&auto=webp&s=be8111a2ac8efe5441e25164a36075bdcc046eef"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/buckzor122",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e5d62a9c0519",
+   "canon": "https://www.reddit.com/comments/1xj9f2u",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xj9f2u/open_source_tool_to_extract_objects_from_splats/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "Open source tool to extract objects from splats",
+   "text": "I'm not super familiar with splatting, but I think this could actually be pretty useful!",
+   "author": "mrMuppet06",
+   "publishedAt": "2026-10-30T08:04:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/fmuD3AqhFIMh9ien8h8Ea8cRKntIc2fWmxwZIJLjWN0.png?width=640&crop=smart&auto=webp&s=e0839f734b7407906662dadff1502ffe1768193f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/mrMuppet06",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "371426de167a",
+   "canon": "https://www.reddit.com/comments/1xj987e",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xj987e/cryodeath_is_out_now_on_meta_quest/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "CRYODEATH is out now on Meta Quest!",
+   "text": "CRYODEATH is out now on Meta Quest, just in time for Halloween.\n You’re an engineer aboard the deep-space station Evriskon, and something has gone very wrong. Scavenge, craft and sneak your way through the station while something hunts you in the dark.\n Every mission is…",
+   "author": "Glass_Piglet6260",
+   "publishedAt": "2026-10-30T07:52:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/oit5tu6i8kyh1.png?width=640&crop=smart&auto=webp&s=6f25dd53ebf7119efbd9817aa2722093ecf17e3b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Glass_Piglet6260",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "10f83669155c",
+   "canon": "https://www.reddit.com/comments/1xj93b4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xj93b4/update_5_on_cruising_bones_downhill_for_the/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "Update 5 on Cruising Bones: downhill for the dearly departed",
+   "text": "Another ~5 days have passed since my last update and I have been busy taking this game another step further. I started building this game completely with AI about 2 weeks ago.\n I used Claude AI as an orchestrator to help navigate Magnific, Tripo 3D, Elevenlabs and Claude Code to…",
+   "author": "Apprehensive-Law77",
+   "publishedAt": "2026-10-30T07:42:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NnEybGU5cGU2a3loMb9HlKXaiYdZIEm2JVQShTS1sLN3bndQeuut_MUOCdG2.png?width=640&crop=smart&auto=webp&s=4cedbc819cd554aa76043de29bbdb00eca44042d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Apprehensive-Law77",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "683990c69abb",
+   "canon": "https://www.reddit.com/comments/1xj91vq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xj91vq/claude_code_cut_eight_travel_photos_to_the_beat/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "Claude Code cut eight travel photos to the beat of a generated track",
+   "text": "Wanted a beat synced montage without opening an editor. Claude Code generated eight photos of an Italian seaside village with Nano Banana 2.1 and an instrumental with MiniMax Music 3.0, then wrote a small script to find the beat and cut with ffmpeg.\n I asked the music model for…",
+   "author": "Fresh-Resolution182",
+   "publishedAt": "2026-10-30T07:40:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YWU4Y2FvMGE0a3loMSSUtlfZ_YQkMYN8U7RConBQJgG9N7bdHeN00W8rJg2l.png?width=640&crop=smart&auto=webp&s=8b4285fc108fe73ed8c562e896b35f6da283fd72"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Fresh-Resolution182",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3622f51f5d38",
+   "canon": "https://www.reddit.com/comments/1xj8y25",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xj8y25/ive_been_building_a_god_simulator_with_claude/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "I've been building a god simulator with Claude Code, and it's turned into a pretty ambitious project",
+   "text": "Hey!\n I've been working on a game called GODSHIFT, a god simulator where civilizations evolve independently in a living sandbox world.\n I've been using Claude Code to help with programming, debugging, and implementing some of the more complex systems.\n I handle the game design,…",
+   "author": "Dependent-Block-1319",
+   "publishedAt": "2026-10-30T07:32:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/anc5MnQ3eTM1a3loMYtGnNfG1x8Z6d8tmgZHhODe7fvXaFFxf6MF8lPz8Vl6.png?width=640&crop=smart&auto=webp&s=7ed412f0c229bef04254b362cbbfdc2db8024ce4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Dependent-Block-1319",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c651a7b6bdf0",
+   "canon": "https://www.reddit.com/comments/1xj8rpe",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xj8rpe/gorash_where_loots_meet_a_mobile_game_concept/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "Gorash : Where loots meet a mobile game concept",
+   "text": "I'm your average developer, a jack of all trades but a master of none.\n AI has allowed me to branch out to the point where almost nothing feels out of reach in the digital space.\n I'm now leaning towards teaching these new tools to the people around me.\n Professionally speaking,…",
+   "author": "morganinuk2",
+   "publishedAt": "2026-10-30T07:21:20+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/N3JhcHZmNHUya3loMf22Kd8VhJly6UX5lzuXaOL-DUpD5IZUyoB5OJCjwhhq.png?width=640&crop=smart&auto=webp&s=3ea80061965cd27257da3cd8b514b5aa6ca7f59e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/morganinuk2",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2ac27fd34190",
+   "canon": "https://www.reddit.com/comments/1xj8joq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xj8joq/released_my_first_quest_standalone_fps_game/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "Released my first quest standalone fps game",
+   "text": "Hello guys and girls. My first vr game is now complete. Its called kargil and based on real events that occurred in 1999. I have shown the story from a non biased view. \n Its only 3.99 usd in early access but you can try before you buy. So please atleast go check it out. I…",
+   "author": "Glad_Translator6742",
+   "publishedAt": "2026-10-30T07:07:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Je6ASzHxZVZ77-IiSdjwUqzm2pGQMmvFZBxhuN2BFaI.jpeg?width=640&crop=smart&auto=webp&s=6e805b7e965a18f8b5edee9ea1a273e4b8edc328"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Glad_Translator6742",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "06cb01df7ee3",
+   "canon": "https://www.reddit.com/comments/1xj8gmc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xj8gmc/tired_of_explaining_your_own_code_to_claude_every/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "Tired of explaining your own code to Claude every new session? Same. So I built this.",
+   "text": "Every new session I'd spend the first few minutes explaining why the code looks the way it does. The reasons were all sitting in old chats. Claude couldn't see them.\n So I built Thenwise, a free, open source plugin for Claude Code that gives Claude a memory of your past chats,…",
+   "author": "dheeraj_ponnaganti",
+   "publishedAt": "2026-10-30T07:02:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MDhvMHE3NWx6anloMRg6atmLmiVSBnA3X2wl6fPC-fQR2iZQUOdSr-dlJl1M.png?width=640&crop=smart&auto=webp&s=ff15c3112010fed50df5c82a06a95ec4e81bba46"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/dheeraj_ponnaganti",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6d33fe759b11",
+   "canon": "https://www.reddit.com/comments/1xj8ein",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/threejs/comments/1xj8ein/gargantua_the_verse_and_a_wolfrayet_star_rendered/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "Gargantua, The Verse, and a Wolf-Rayet star, rendered in a browser N-body simulator built on Three.js",
+   "text": "I've been building Teskooano, a 3D N-body simulator that runs in the browser. The physics runs every body against every other, so the orbits come from gravity, not from rails, and the renderer is Three.js.\n **Round one** went fast: about 540 commits from April to July 2025.…",
+   "author": "tanepiper",
+   "publishedAt": "2026-10-30T06:58:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/r80uqua1zjyh1.jpeg?width=140&height=46&auto=webp&s=ecfb410ec37d3991b79e1629fff89b62adae18ae"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/tanepiper",
+   "where": "r/threejs",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f9bfc6bc55f7",
+   "canon": "https://www.reddit.com/comments/1xj88ci",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xj88ci/a_oneperson_studio_shipped_a_steam_demo_of_a/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "A one-person studio shipped a Steam demo of a 12-chapter FPS coded by AI agents in 20 working days. Here is what the agents could and could not do.",
+   "text": "I am Ekin, a one-person game studio in Turkey. On 28 October the free demo of Iron Curtain Call went live on Steam: a fast cartoon-noir FPS set in an alternate 1965 where a customer-service AI runs World War III. The code is written by Claude Code agents working from my design…",
+   "author": "Aware_Bell1295",
+   "publishedAt": "2026-10-30T06:47:35+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Aware_Bell1295",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ee51af7b9c45",
+   "canon": "https://www.reddit.com/comments/1xj85oj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xj85oj/claude_code_kept_guessing_my_rails_app_now_it/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "Claude Code kept guessing my Rails app. Now it asks the app: 35 read-only MCP tools, like a rails console it can read but never write to.",
+   "text": "... \n Claude Code writes Rails code from what an average Rails app looks like, not from yours. So it invents columns, guesses association names and misses the before_action a parent controller adds. Not its fault. It has never seen the app.\n rails-ai-context gives it the app: an…",
+   "author": "Tricky-Pilot-2570",
+   "publishedAt": "2026-10-30T06:42:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/fr29eQ_vMe8CbAdLpAGgZLKMndvosrr7LMmLNzvpM-k.png?width=640&crop=smart&auto=webp&s=6f673aee45d03f27937c5ec65c1a8d64045f1e84"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Tricky-Pilot-2570",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6e46ce637753",
+   "canon": "https://www.reddit.com/comments/1xj7rth",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xj7rth/i_built_my_own_spotify_with_claude_code_meet/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "I built my own Spotify with Claude Code. Meet HolyArrs",
+   "text": "Last week I showed the Netflix-style side of HolyArrs. This is the music side, and honestly the part I wanted most.\n If you keep your own music library you probably know the pain:\n no real way to discover new music, you have to already know what you want adding an artist can…",
+   "author": "CoderLuii",
+   "publishedAt": "2026-10-30T06:18:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dmY3Z2JjdHByanloMUP-4ROOMVLrPZ3kcn7YL9BTEneoCQlMuKuL-kahyuSr.png?width=640&crop=smart&auto=webp&s=0a3f152d1a6f9dac97660872e8a498286736e12a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CoderLuii",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f96a7cca7806",
+   "canon": "https://www.reddit.com/comments/1xj7d4p",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xj7d4p/the_official_claude_code_vs_code_extension_was/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "The official Claude code VS Code extension was compromised and pulling it would’ve installed an ssh backdoor on your machine for a brief window today.",
+   "text": "",
+   "author": "tornikeo",
+   "publishedAt": "2026-10-30T05:52:48+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ww2g4518njyh1.jpeg?width=640&crop=smart&auto=webp&s=93407c4b1828ee03fa17f5451cd49128c0d18ec0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/tornikeo",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fc1bde64bf68",
+   "canon": "https://www.reddit.com/comments/1xj7958",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xj7958/copy_printed_text_to_desktop_with_mlkitarcore/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "Copy printed text to Desktop with MLKitARCore",
+   "text": "",
+   "author": "taskdamney",
+   "publishedAt": "2026-10-30T05:45:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/z0r5j3qyljyh1.gif?width=320&crop=smart&s=b4114fd8ba2312e82014ebe4473b8fe1fabab660"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/taskdamney",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c3180fa56b0b",
+   "canon": "https://www.reddit.com/comments/1xj6rvq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xj6rvq/i_built_a_desktop_app_to_keep_track_of_multiple/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "I built a desktop app to keep track of multiple Claude Code sessions",
+   "text": "I usually have 4 or 5 Claude Code sessions going at once, in different projects. In plain terminal tabs I kept losing track of which one was done and which one was sitting there waiting for me to answer something, so I started building an app around that.\n It's called Gantry.…",
+   "author": "Green12334",
+   "publishedAt": "2026-10-30T05:16:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/yulmmhg9gjyh1.png?width=140&height=72&auto=webp&s=1c82d0af2132ed35670d0733568dda151e699336"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Green12334",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6026f1c5621c",
+   "canon": "https://www.reddit.com/comments/1xj6m9o",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xj6m9o/trojanized_claude_code_extension_on_open_vsx/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "Trojanized Claude Code extension on Open VSX planted a persistent SSH backdoor",
+   "text": "",
+   "author": "ryanmerket",
+   "publishedAt": "2026-10-30T05:07:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/FxZ4TWOX0OUH9FoichIbDSKLZdRXvJRuk9VPB93isPw.jpeg?width=640&crop=smart&auto=webp&s=b2b681784cd3d83facb5389efc06405638da868e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ryanmerket",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a74cf0f3f4e4",
+   "canon": "https://www.reddit.com/comments/1xj6glx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xj6glx/2_months_of_progress_on_my_game/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "2 months of progress on my game",
+   "text": "Recently I shared my game here and some other places and opened up multiplayer for testing. I got some of the best feedback ever and it really changed my perspective on what I am building and the direction to take it.\n This is day 1 vs day 52. The next update should be really…",
+   "author": "TheGrowthYardGaming",
+   "publishedAt": "2026-10-30T04:58:57+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bzM2cnV3cDZkanloMfj2RFklkKGiCjy5GyKWQFA7EmauKW2axmfBW9KaAgNH.png?width=640&crop=smart&auto=webp&s=3d572ce5893b13987eea31e558c5e9f304a24daa"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TheGrowthYardGaming",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e1e95e82e61b",
+   "canon": "https://www.reddit.com/comments/1xj405w",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xj405w/forefront_update_adds_new_game_mode_melee_weapon/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "Forefront Update Adds New Game Mode, Melee Weapon, \"Battle Pass\" & More",
+   "text": "",
+   "author": "Square-Description83",
+   "publishedAt": "2026-10-30T02:48:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/IVBAjKErjnMUrcRS6r8Ns5eCnwXe1XhdWHG9FkNH5jk.png?width=640&crop=smart&auto=webp&s=bf4e456b811ea39db9d2136f88275fab3afe9119"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Square-Description83",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7f43594446f0",
+   "canon": "https://www.reddit.com/comments/1xj3m0w",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xj3m0w/spatial_capture_with_insta360/",
+   "addedAt": "2026-10-30T10:08:20.250Z",
+   "title": "Spatial Capture with Insta360",
+   "text": "I've been experimenting with the Spatial Capture mode from the X line at Insta360. I haven't seen it posted yet, but they just announced a Spatial Capture contest today, too.",
+   "author": "RadianceFields",
+   "publishedAt": "2026-10-30T02:29:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ry8RcwEJ9va-I4KbuenPvIAcebRk0Wo0mrJfokKVK-c.jpeg?width=320&crop=smart&auto=webp&s=83dc585eb62df48eb0e54678f170571426670964"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RadianceFields",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-30T10:08:20.250Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "3e0fabc73b7a",
    "canon": "https://www.reddit.com/comments/1xj1mbk",
