@@ -1,7 +1,954 @@
 {
  "version": 1,
- "updatedAt": "2026-10-30T22:32:44.454Z",
+ "updatedAt": "2026-10-31T05:54:41.187Z",
  "cases": [
+  {
+   "id": "23745c0ab3e2",
+   "canon": "https://www.reddit.com/comments/1xk2ap2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xk2ap2/found_a_moving_dot_in_the_sky_skyptic_tries/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "Found a moving dot in the sky? Skyptic tries really hard to ruin your discovery.",
+   "text": "Hello everyone,\n If you’ve ever caught a dot moving between frames and wondered if it’s really something and what to do with it, Skyptic got you covered.\n Bring whatever you have: your measured positions (MPC or ADES format, or just a table), your FITS frames (that part is still…",
+   "author": "SirMeeseekz",
+   "publishedAt": "2026-10-31T05:48:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dzA5NHZvYWZycXloMTK6KYW966GjccLDEzEqxbMP-02LZqspQVtktOvK11CR.png?width=640&crop=smart&auto=webp&s=cac7e7899778bb5f65daf9564dcba23468db81d3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SirMeeseekz",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a6420b5bbe3f",
+   "canon": "https://www.reddit.com/comments/1xk1fse",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xk1fse/the_fucking_what/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "the fucking what",
+   "text": "how did i get a trading card before i got the game (ITS A VR GAME)",
+   "author": "Dry_Bookkeeper_7075",
+   "publishedAt": "2026-10-31T04:58:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/hk08im8aiqyh1.png?width=640&crop=smart&auto=webp&s=c4e1a5fac736deafba0c5c611096eb787b927655"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Dry_Bookkeeper_7075",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e0b00867ef5b",
+   "canon": "https://www.reddit.com/comments/1xk105y",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/blender/comments/1xk105y/i_built_an_opensource_3d_character_generation/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "I built an open-source 3D character generation workflow using only my Android phone",
+   "text": "I built an open-source 3D character generation workflow using only my Android phone\n I don't own a PC, so I built a workflow that uses GitHub Actions to run Blender in the cloud and generate downloadable 3D characters.\n The workflow:\n I provide a character turnaround sheet to an…",
+   "author": "Suspicious-Post-326",
+   "publishedAt": "2026-10-31T04:33:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/mvr6f1xzdqyh1.png?width=640&crop=smart&auto=webp&s=f4afc30d5082fac80c023ec05db1594c18121826"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Suspicious-Post-326",
+   "where": "r/blender",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3ea2c4bd5106",
+   "canon": "https://www.reddit.com/comments/1xk0zvn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xk0zvn/wanted_to_have_fun_with_codex_so_i_created_a/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "Wanted to have fun with codex so i created a small HUD app",
+   "text": "I recently bought ChatGPT plus, and i wanted to have some fun using Codex. For a while i had the XREAL Air 2, and they are good but i didn't use them as much, because i don't watch films, gaming on it wasnt too good for me, and i didnt want to use it as a secondary display…",
+   "author": "False_Claim6473",
+   "publishedAt": "2026-10-31T04:32:55+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/False_Claim6473",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0995ee2db29d",
+   "canon": "https://www.reddit.com/comments/1xk0vj7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk0vj7/i_built_an_ios_weather_app_with_an_animated/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "I built an iOS weather app with an animated companion who reads you the forecast - Available in early beta",
+   "text": "I used Claude Code to build an app called Waifu Weather, an iOS app where an animated character talks you through the forecast and helps you plan around the weather.\n The video below shows a demo of the character reading the forecast and suggesting times for an outdoor walk. The…",
+   "author": "MurkyGiraffe5879",
+   "publishedAt": "2026-10-31T04:26:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NjNqZzlqdnpicXloMUUmbExhk777ge_-VCLtwQ3TBlBQoq_Txp9ZPRbKxfMo.png?width=640&crop=smart&auto=webp&s=b3632ceff4d4cad5ff063a5afa575b8ff4301e3c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MurkyGiraffe5879",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "173e128c053c",
+   "canon": "https://www.reddit.com/comments/1xk0kc3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xk0kc3/i_always_wanted_caelestia_with_less_bloat_so_i/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "I always wanted Caelestia with less bloat, so I built my own Omarchy shell with Claude Code",
+   "text": "What it is\n A thin frame around the screen with pop-out panels: a Dynamic Island with media controls and a live audio visualizer, launcher, wallpaper picker, control center (Wi-Fi, Bluetooth, volume, brightness, battery, power profile), workspace switcher, and power menu. Colors…",
+   "author": "_rover_dev",
+   "publishedAt": "2026-10-31T04:09:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/4gwcxjgm9qyh1.gif?width=640&crop=smart&s=8c7256823ff02a01a19b95d9e3b6617c98a4472e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/_rover_dev",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "93e750e8545e",
+   "canon": "https://www.reddit.com/comments/1xk0be9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xk0be9/phantasia_grid_based_crawler_update/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "Phantasia - Grid Based Crawler Update",
+   "text": "What a time to be alive...month 4 of development where I have begun polishing and testing the game. Just to recap it is a Grid based dungeon crawler based on classics I have enjoyed like \"The Bard's Tale\", \"Alternate Reality the City\", \"Wizardry\", \"Etrian Odyssey\" and a dash of…",
+   "author": "Epyx911",
+   "publishedAt": "2026-10-31T03:56:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cnRwYmQwYjM1cXloMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=4121d4ea3528a736a063182cd380deb3d971acfb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Epyx911",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "32673746e0f2",
+   "canon": "https://www.reddit.com/comments/1xk08ct",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xk08ct/i_tried_the_touchscreen_macbook_pro_at_apples/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "I tried the touchscreen MacBook Pro at Apple’s launch. As a Vision Pro creator, a few things stood out",
+   "text": "",
+   "author": "hughred22",
+   "publishedAt": "2026-10-31T03:51:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/XLHyesXfsFKMCLFgnvgSGu_1YMeZf0jCGxYOmSvsRzo.jpeg?width=320&crop=smart&auto=webp&s=bce233ae403d60fa6b4dddeaec8eac52c81f53be"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/hughred22",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "29718d96ebc5",
+   "canon": "https://www.reddit.com/comments/1xjzqfp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjzqfp/claude_code_game_studios_took_19_minutes_and_5_to/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "Claude Code Game Studios took 19 minutes and $5 to build my little Godot game. Plain Claude Code did it in 38 seconds",
+   "text": "Wanted to know if the whole “49 agent game studio” setup is worth it for a small game, so I made the same one twice. Meteor Dodge: move a ship left and right, dodge meteors that keep speeding up, score is seconds survived, R to restart. Godot 4.7.2, Claude Code v2.1.312, Game…",
+   "author": "vinishkapoor",
+   "publishedAt": "2026-10-31T03:25:19+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/7p0y3gls1qyh1.png?width=640&crop=smart&auto=webp&s=03ac17740dcfdb05c19c3576d16633348d086ed8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/vinishkapoor",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0c8f80f611d9",
+   "canon": "https://www.reddit.com/comments/1xjyscq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xjyscq/brand_new_claude_code_chat_context_load/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "Brand new Claude Code chat context load",
+   "text": "I'm doing a context audit for whenever I start a brand new chat on how much context it begins with. Right now it's about 90k tokens. I am trying to figure out what these Messages context is since I have only one message: \n The first message in this chat: \"i want to do a context…",
+   "author": "merakliman",
+   "publishedAt": "2026-10-31T02:36:20+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/2rd7io70spyh1.png?width=640&crop=smart&auto=webp&s=4d22963bcd8598634c6e3d707588dec19b6964a0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/merakliman",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "72a740cb4ccf",
+   "canon": "https://www.reddit.com/comments/1xjydx5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xjydx5/i_built_a_godot_card_game_framework_that_is_ai/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "I built a Godot card game framework that is AI first",
+   "text": "I just launched Deckhouse, a framework for Godot 4 that builds everything around a card game's rules: collection, deck builder, booster packs, store, saves, campaigns, quests, an online server. It was built with a lot of help from Claude Code, and it's built for coding agents…",
+   "author": "Skibby22",
+   "publishedAt": "2026-10-31T02:15:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/p6vezwwjopyh1.png?width=140&height=111&auto=webp&s=cea62fb9d353db5ba550869970363f8be89169a9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Skibby22",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b3a19eb3294a",
+   "canon": "https://www.reddit.com/comments/1xjydlz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xjydlz/opus55_low_to_max_bevy_rust_game_engine_you_guys/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "Opus5.5 Low to Max - Bevy (rust game engine, you guys asked...)",
+   "text": "We did low to max in godot. We did low to max in unreal. We did low to max in three.js. Now we have low to max in bevy.\n And sorry guys, I hate bevy. I normally run these workflows in parallel, but bevy had constant memory leaks, long compilation times, and long light bake…",
+   "author": "314t",
+   "publishedAt": "2026-10-31T02:15:34+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YXozMzBvaGVwcHloMaAHyVLSRniUan5RiJo9JCrrBvBCn9XxwFhPrU5qJ3vG.png?width=640&crop=smart&auto=webp&s=d7f435437c90d2f5a5d61612d333e7d6945c9dcc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/314t",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "f303704e3494",
+   "canon": "https://www.reddit.com/comments/1xjycwv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xjycwv/i_made_a_site_where_the_games_claude_builds_can/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "I made a site where the games Claude builds can live, plus an MCP server so Claude can publish them itself",
+   "text": "Claude is great at single-file browser games, but most of them never leave the chat. So I built Batchly, a free site for small browser games, and made it easy to put Claude's games there:\n - Paste the HTML (or Python) into the Studio and it gets its own page and a link you can…",
+   "author": "Opposite_Rhubarb_947",
+   "publishedAt": "2026-10-31T02:14:41+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Opposite_Rhubarb_947",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2b740bb33e19",
+   "canon": "https://www.reddit.com/comments/1xjyago",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xjyago/used_claude_to_run_claude_on_a_38400_baud_vintage/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "Used Claude to Run Claude on a 38400 Baud Vintage Terminal",
+   "text": "We have an ADDS 4000/260 old-school terminal at our Atuin office. You talk to it over serial, sending it characters to render. Note this isn't a monitor---it's literally a tiny computer that listens for serial IO and then renders the characters it receives over serial. We wired…",
+   "author": "siva_sokolica",
+   "publishedAt": "2026-10-31T02:11:19+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cnJzZ2szcG5vcHloMVb-4EdHDb1s88dOJkPcbwEC-0Xspf7gyzVUMyWvE8vZ.png?width=640&crop=smart&auto=webp&s=c02208500e8a6789b624538382072267ca95b564"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/siva_sokolica",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e13c745e5ff5",
+   "canon": "https://www.reddit.com/comments/1xjxtob",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xjxtob/im_a_product_designer_with_zero_game_dev/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "I'm a product designer with zero game dev experience, and I built my portfolio as a cozy multiplayer village with Claude",
+   "text": "I've been a SaaS product designer for 13 years. My portfolio looked like everyone else's, a grid of case studies. So I tried something different: a little village you can walk around.\n What's in it:\n - Every building is a project. Walk in and the case study opens\n - A mailbox…",
+   "author": "TammyQCx",
+   "publishedAt": "2026-10-31T01:48:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NWlnNXB3YWtrcHloMTaAGnUPFSshk3Eu9EOtW8_huJ7iBAblR8lLWxDU6m4s.jpeg?width=640&crop=smart&auto=webp&s=72a87b632bf7686dd762abe781c583475b542d6e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TammyQCx",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "21fc4989b2e8",
+   "canon": "https://www.reddit.com/comments/1xjxl4s",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjxl4s/claude_opus_55_can_generate_images_even_though_it/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "Claude Opus 5.5 can generate images even though it will initially say it can't.",
+   "text": "",
+   "author": "mothh9",
+   "publishedAt": "2026-10-31T01:36:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/gmm66fhbipyh1.jpeg?width=640&crop=smart&auto=webp&s=11aae6a0e19baa307755e30265d28321f8a2a07a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/mothh9",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "9be742f9b378",
+   "canon": "https://www.reddit.com/comments/1xjxdhm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjxdhm/no_weekly_usage_limits_on_enterprise_plan/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "No weekly usage limits on Enterprise Plan",
+   "text": "https://preview.redd.it/39ky289cgpyh1.png?width=1132&format=png&auto=webp&s=3c1a91a52e963724bc185c6f0e3e0541cf3250ec\n I get Claude through my university and we don't have Weekly Usage limits and have only 5hr Session limits. Cowork is there but we have that disabled by our…",
+   "author": "Feisty-Pie3766",
+   "publishedAt": "2026-10-31T01:26:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/39ky289cgpyh1.png?width=140&height=78&auto=webp&s=90b6f39bd2ec46f9b449642363cc85a222abf668"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Feisty-Pie3766",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "789db5515584",
+   "canon": "https://www.reddit.com/comments/1xjxbu7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xjxbu7/luigis_mansion_as_a_diorama/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "Luigi’s Mansion as a Diorama 👻",
+   "text": "I'm Trevorbilt, the creator who released Loose Papers on Friday the 13th (https://apps.apple.com/app/apple-store/id6755368606?pt=127797875&ct=rvp-lmvr&mt=8), and for Halloween I've ported u/sonarix's Luigi's Mansion VR to run natively on AVP.\n The mansion is drawn as real 3D…",
+   "author": "trevorbilt",
+   "publishedAt": "2026-10-31T01:23:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Mf7tRMwQScIbOpy_cZB-Yzfj5bgRaDV91Mc3_o701dk.jpeg?width=320&crop=smart&auto=webp&s=cdf5138456ecbf98dbd8c34779aa5e24b44ffa85"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/trevorbilt",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d784be5b8a09",
+   "canon": "https://www.reddit.com/comments/1xjx5ig",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xjx5ig/hells_gates_noosa_qld_360_immersive_tour_now/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "Hell's Gates (Noosa, QLD) 360 immersive tour now available for download in Arluma360.",
+   "text": "Our latest 360 immersive tour is now available for free download. It features a dramatic, rocky headland known as Hell's Gates. This remote region is only accessible by foot and is a popular spot to watch migrating whales during the Spring months ( in the southern hemisphere ).…",
+   "author": "melrand",
+   "publishedAt": "2026-10-31T01:15:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/d29rMjZkcThkcHloMQkwZMfqL-faraXlWqofJbWIwBFDthAf0dObEEiwQ7pw.png?width=640&crop=smart&auto=webp&s=0def232429dd546f9cab351a020f0fbfd4044b46"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/melrand",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cc507e9b0925",
+   "canon": "https://www.reddit.com/comments/1xjwfli",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xjwfli/espn_immersive_watch_florida_vs_georgia_live_in/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "ESPN Immersive: Watch Florida vs Georgia LIVE in 180° on Saturday at 12:30 PM PT",
+   "text": "Florida vs Georgia in immersive 180° is live in VR tomorrow, Sat Oct 31, at 12:30 PM PT / 3:30 PM ET.\n No. 17 Florida Gators take on No. 3 Georgia Bulldogs in Atlanta for the 105th meeting in their SEC rivalry. You can watch it live in VR from inside Mercedes-Benz Stadium, with…",
+   "author": "Game_Pluto97",
+   "publishedAt": "2026-10-31T00:42:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/0ek9h3ho7pyh1.png?width=640&crop=smart&auto=webp&s=f038ba56944f76cafc68735bd58f388590969db7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Game_Pluto97",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b6672907d3c4",
+   "canon": "https://www.reddit.com/comments/1xjwbxd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xjwbxd/excavated_pipe_area_original_video_vs_gaussian/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "Excavated pipe area: original video vs. Gaussian splat",
+   "text": "Left is the original video of an excavated pipe area; right is the Gaussian splat generated from that footage using our software, AEC Platform.\n We’re exploring how this could help document exposed utilities before they’re covered, giving teams a 3D visual reference alongside…",
+   "author": "AECPLATFORM",
+   "publishedAt": "2026-10-31T00:37:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bjNpajZwN3A3cHloMaW6DgI9ss52UevYEoc5Arj4CaaatJ-nJ_nVbRrqeXkR.png?width=640&crop=smart&auto=webp&s=aeb9ca84a14275181a5c6cedc290e0cdfa4f502c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AECPLATFORM",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "023f99e94c42",
+   "canon": "https://www.reddit.com/comments/1xjw0lf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xjw0lf/echo_combat_now_on_quest_2_and_3/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "Echo Combat now on Quest 2 and 3",
+   "text": "Echo VR just received one of its biggest updates yet! October 30, 2026\n https://echovrce.com/install/standalone-quest\n https://discord.gg/tA6H7X3Cqn\n Three years ago, we had the privilege of hosting what became the largest Echo Relay servers to date. Today, we celebrate that…",
+   "author": "KOTOR-VR",
+   "publishedAt": "2026-10-31T00:24:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/rO9JgvbJNnSCHIgfoPvTBIvKsjEZQ_2i1DxsDkGHoDU.jpeg?width=320&crop=smart&auto=webp&s=a1c05f5ba42aea8bcb00b5b761baf67d1432a7c0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/KOTOR-VR",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2f68261da7a8",
+   "canon": "https://www.reddit.com/comments/1xjw0a2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjw0a2/heres_a_oneline_check_to_see_if_you_were_affected/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "Here's a one-line check to see if you were affected by yesterday's Claude Code Extension breach",
+   "text": "Yesterday a compromised Claude Code VS Code extension (v2.1.313) was published. It planted an SSH key, opened a reverse tunnel and set itself to survive reboots. \n So I've started a new tool: \"am-i-pwned\" - one quick command that tells you whether if you're affected. Github…",
+   "author": "adamsthws",
+   "publishedAt": "2026-10-31T00:23:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/5xstwpq75pyh1.png?width=640&crop=smart&auto=webp&s=bbca6c283920f68cded79e29eea385767f497ed7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/adamsthws",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "82bd35b0c1b2",
+   "canon": "https://www.reddit.com/comments/1xjw02x",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xjw02x/stargate_visualizer_ive_been_building_a_vr_music/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "Stargate Visualizer: I’ve been building a VR music visualizer that takes you on a journey through hyperspace… here’s the first trailer!",
+   "text": "",
+   "author": "astromaddie",
+   "publishedAt": "2026-10-31T00:23:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bLyGvC5BwMFQdNN5JllggDTgfGjttLqCH5e9YcRn0Us.jpeg?width=320&crop=smart&auto=webp&s=36c43242e7fa594705a8308d9aa8061a00f23372"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/astromaddie",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6bb113632dfd",
+   "canon": "https://www.reddit.com/comments/1xjvx30",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xjvx30/stargate_visualizer_ive_been_building_a_vr_music/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "Stargate Visualizer: I’ve been building a VR music visualizer that takes you on a journey through hyperspace… here’s the first trailer!",
+   "text": "",
+   "author": "astromaddie",
+   "publishedAt": "2026-10-31T00:19:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bLyGvC5BwMFQdNN5JllggDTgfGjttLqCH5e9YcRn0Us.jpeg?width=320&crop=smart&auto=webp&s=36c43242e7fa594705a8308d9aa8061a00f23372"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/astromaddie",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "215c68869579",
+   "canon": "https://www.reddit.com/comments/1xjvsmq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjvsmq/claude_plush/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "Claude Plush",
+   "text": "Finally received it !",
+   "author": "marwantunsi",
+   "publishedAt": "2026-10-31T00:13:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/dl4rzino3pyh1.jpeg?width=640&crop=smart&auto=webp&s=df88e918d8a05c241148d860dab798412b4ebf74"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/marwantunsi",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6896b55b43da",
+   "canon": "https://www.reddit.com/comments/1xjuk1y",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xjuk1y/the_ultimate_inair_productivity_setup_i_may_not/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "The Ultimate INAIR Productivity Setup. I May Not Go Back",
+   "text": "",
+   "author": "Informal-Tech",
+   "publishedAt": "2026-10-30T23:19:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/UCKOKipv01rQl1o79z04o8ApJvydIpI-BFZRzJiH5X0.jpeg?width=320&crop=smart&auto=webp&s=1801f3551642cf4eb8f7ee28eeec5e8a4cb7b064"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Informal-Tech",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7e8afcd3530e",
+   "canon": "https://www.reddit.com/comments/1xju4qt",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xju4qt/panic_room_mrs_halloween_update_is_out_just_in/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "Panic Room MR's Halloween update is out, just in time to scare your friends",
+   "text": "Happy Halloween from the Panic Room team! Just in time for the big night, we pushed an update with some quality of life improvements and bug fixes. \n Panic Room is the ultimate experience to scare your friends and family with this Halloween! Let us know what you think! It's…",
+   "author": "2080Games",
+   "publishedAt": "2026-10-30T23:00:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/0sf21250joyh1.png?width=640&crop=smart&auto=webp&s=426b3903f72b7a6e61e76411734bc44a2a8de76c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/2080Games",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "89feb155d625",
+   "canon": "https://www.reddit.com/comments/1xjtq5y",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xjtq5y/scud_race_1996_arcade_standalone_in_vr_on_quest_3/",
+   "addedAt": "2026-10-31T05:50:19.935Z",
+   "title": "Scud Race (1996 arcade) standalone in VR on Quest 3, Android 4K 120 FPS, PCVR, Logitech wheel",
+   "text": "Scud Race is the GT racing game Sega AM2 released in arcades in 1996, on the Model 3 board. Standalone on Meta Quest 3, on Android in 4K at 120 FPS, and on PC / PCVR.\n Plug a Logitech wheel straight into your Quest: steering and force feedback, no PC needed. All the Port0r…",
+   "author": "alloxrinfo",
+   "publishedAt": "2026-10-30T22:43:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ODIwbTc5ZWdub3loMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=bb38be531ba977fc3d9efb79d12b184ce2a4d8b7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/alloxrinfo",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-31T05:50:19.935Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "e5bf5fbec04f",
    "canon": "https://www.reddit.com/comments/1xjt9k7",
