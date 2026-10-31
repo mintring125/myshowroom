@@ -1,8 +1,746 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-10-31T05:54:41.187Z",
+ "updatedAt": "2026-10-31T12:44:46.053Z",
  "cases": [
+  {
+   "id": "c2493be7d134",
+   "canon": "https://www.reddit.com/comments/1xk8yqp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk8yqp/i_built_an_opensource_ai_usage_optimizer_with/",
+   "addedAt": "2026-10-31T12:40:15.323Z",
+   "title": "I built an open-source AI usage optimizer with Claude Code. Just shipped a VS Code extension.",
+   "text": "I’ve been building optimAIzr as a side project while working as a senior SWE. Claude Code has been a big part of the development process, from implementing features and debugging integrations to helping build the VS Code extension.\n The project tracks and optimizes AI coding…",
+   "author": "stichstichstich",
+   "publishedAt": "2026-10-31T12:29:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MXV0bzAycnVxc3loMasTTYfhjNRMnPJTFZCNveBdoy2QcjA7e-NRmE6kdCF8.png?width=640&crop=smart&auto=webp&s=85b2a0c21772fa950697dffe6e643904053a9ddb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/stichstichstich",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-31T12:40:15.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9ee919590649",
+   "canon": "https://www.reddit.com/comments/1xk8saz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xk8saz/giving_a_week_pro_trial_to_any_bugs_reported_on/",
+   "addedAt": "2026-10-31T12:40:15.323Z",
+   "title": "Giving a week Pro trial to any bugs reported on AR.Works",
+   "text": "Hey all, I've posted about AR.Works here before, but it's grown quite a bit since then (We are at over 1000 users), so I wanted to share it again and ask for some help.\n Quick recap if you missed it. It's a tool for building AR experiences that runs entirely in the browser. You…",
+   "author": "Ar-Works",
+   "publishedAt": "2026-10-31T12:20:11+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/gJEX1ZSgYK1TJ7xHcbMFqEAxaMAJX1UlZjiQWpa21yA.png?width=140&height=73&auto=webp&s=e1e7327ce85c47a3491f361fad8abfdaf87fe7e1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ar-Works",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-31T12:40:15.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "634d09bbc8ac",
+   "canon": "https://www.reddit.com/comments/1xk8gjd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xk8gjd/claudecode_captures_screenshots_without_explicit/",
+   "addedAt": "2026-10-31T12:40:15.323Z",
+   "title": "ClaudeCode captures screenshots without explicit consent.",
+   "text": "Was surprised to see Claude taking screenshots of things it's working on. Previously (in a desktop chat) it tried to do something similar (\"Claude wants to capture a page\") but I denied it.\n Today, while working with ClaudeCode on a GUI it captured a page of the browser without…",
+   "author": "No_Price_3299",
+   "publishedAt": "2026-10-31T12:03:40+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No_Price_3299",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-31T12:40:15.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1e8a60df78a9",
+   "canon": "https://www.reddit.com/comments/1xk8e38",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk8e38/claude_project_showcase_discussion_hub_updated_on/",
+   "addedAt": "2026-10-31T12:40:15.323Z",
+   "title": "Claude Project Showcase Discussion Hub updated on 31 October 2026 (Sort this by New!)",
+   "text": "This is the Discussion Hub for showcasing your project built using Claude products. We appreciate all of your submissions as they are a great inspiration to many people on the subreddit. It is sorted by default by New.\n Anyone is welcome to submit a project to this Megathread…",
+   "author": "claudeai-perfhub",
+   "publishedAt": "2026-10-31T12:00:34+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/claudeai-perfhub",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-31T12:40:15.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c7bcb8896e8a",
+   "canon": "https://www.reddit.com/comments/1xk8dzz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1xk8dzz/still_haunted_by_a_turkish_ice_cream_vendor_in/",
+   "addedAt": "2026-10-31T12:40:15.323Z",
+   "title": "Still haunted by a Turkish ice cream vendor in Istanbul, so I built an AR simulator on SPECS to face my fears.",
+   "text": "",
+   "author": "xrosspost",
+   "publishedAt": "2026-10-31T12:00:30+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/xrosspost",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-10-31T12:40:15.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "347cc24dd62d",
+   "canon": "https://www.reddit.com/comments/1xk8dp8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk8dp8/i_directed_claude_code_agents_through_a_12/",
+   "addedAt": "2026-10-31T12:40:15.323Z",
+   "title": "I directed Claude Code agents through a 12 chapter cartoon FPS. the free demo is on Steam now",
+   "text": "I'm a solo dev. over about 20 working days I ran Claude Code agents like a small studio: one plans a chapter, others build levels, enemies, guns and UI in Godot 4, and I play every build and send it back with notes.\n the result is Iron Curtain Call, a cartoon noir shooter set in…",
+   "author": "Aware_Bell1295",
+   "publishedAt": "2026-10-31T12:00:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dWVucWczbnc2c3loMSu_HlciCPrqjq6cYje38U-0PJnPKnk-18Avm32WNNoN.png?width=640&crop=smart&auto=webp&s=891be9818957d75ed598f550bb3bce7530480fcf"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Aware_Bell1295",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-31T12:40:15.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ff9661a1f843",
+   "canon": "https://www.reddit.com/comments/1xk8bkc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk8bkc/i_built_cloader_with_claude_code_so_every_claude/",
+   "addedAt": "2026-10-31T12:40:15.323Z",
+   "title": "I built Cloader with Claude Code so every Claude account shows all my Code tab sessions",
+   "text": "If you use two Claude accounts, like work and personal, you've probably seen this: switch accounts in the desktop app and the Code tab is empty.\n It happened to me with 25 sessions. They were all still on my computer. The app just keeps a separate list for each account.\n So I…",
+   "author": "mariecurie66",
+   "publishedAt": "2026-10-31T11:57:17+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/mariecurie66",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-31T12:40:15.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "52de8ce5bca9",
+   "canon": "https://www.reddit.com/comments/1xk8apo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk8apo/if_youre_letting_claude_code_clean_up_your_smart/",
+   "addedAt": "2026-10-31T12:40:15.323Z",
+   "title": "If you’re letting Claude Code clean up your smart TV, do these things first",
+   "text": "Saw a lot of the “gave Claude Code my TV model and it removed 25 bloatware apps” posts last week, and also a few people who bricked their TV doing it. So I put together the safe version of the process. Some stuff that’s easy to skip but really matters:\n Start in manual mode, not…",
+   "author": "vinishkapoor",
+   "publishedAt": "2026-10-31T11:56:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/in2rj4cyksyh1.jpeg?width=640&crop=smart&auto=webp&s=4d15d4fe5e434936aa634c80796a23e41276f4e0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/vinishkapoor",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-31T12:40:15.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c36c882372ec",
+   "canon": "https://www.reddit.com/comments/1xk841s",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xk841s/flowdeck_a_claude_mod_that_shows_what_every/",
+   "addedAt": "2026-10-31T12:40:15.323Z",
+   "title": "FlowDeck: a Claude mod that shows what every subagent is doing, which model it used, and what it cost",
+   "text": "I built FlowDeck, a Claude mod for Claude Code, because long sessions run work I can’t see. Subagents start and finish out of view, so I never knew which model did what, what it cost, or which task was still open.\n It turns each request into a flow of tasks and shows it live:\n A…",
+   "author": "coooloz",
+   "publishedAt": "2026-10-31T11:45:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dDMzdW85bDZpc3loMYUHxwoxRMOSY2zDB5aR-dxigB3q8uhk0KSjJoKEsMoR.png?width=640&crop=smart&auto=webp&s=f0892fb8e6166fc80c33a99675b3715fb11a5663"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/coooloz",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-31T12:40:15.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4dcf9d6e42c8",
+   "canon": "https://www.reddit.com/comments/1xk7u5h",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xk7u5h/claude_knows_that_the_session_limit_is_gone_from/",
+   "addedAt": "2026-10-31T12:40:15.323Z",
+   "title": "Claude knows that the session limit is gone from Ultra",
+   "text": "So it knows how to consume your weekly limit in one quick move. Be careful out there 😱",
+   "author": "ImNezz",
+   "publishedAt": "2026-10-31T11:30:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/axys5iaagsyh1.png?width=640&crop=smart&auto=webp&s=a116d106a7dc6a1fba12834997a4af35933a3954"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ImNezz",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-31T12:40:15.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bf45a1d0c97d",
+   "canon": "https://www.reddit.com/comments/1xk7rn2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xk7rn2/minimalistic_context_bar_mod/",
+   "addedAt": "2026-10-31T12:40:15.323Z",
+   "title": "Minimalistic context bar mod",
+   "text": "Having to run /context or /usage all the time gets annoying fast, so I had Opus build this simple mod instead.\n Install with claude plugin install context-bar --marketplace TheHighestBit/context-bar\n Repo: https://github.com/TheHighestBit/context-bar",
+   "author": "fent665",
+   "publishedAt": "2026-10-31T11:26:10+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/tod48k99esyh1.png?width=640&crop=smart&auto=webp&s=5e0469505fbce3adda95bba9603543d04ad512a0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/fent665",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-31T12:40:15.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ff5566460b30",
+   "canon": "https://www.reddit.com/comments/1xk7ph6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xk7ph6/dont_try_to_use_rea_with_claude/",
+   "addedAt": "2026-10-31T12:40:15.323Z",
+   "title": "Don't try to use REA with Claude.",
+   "text": "https://preview.redd.it/0v6wqiwvesyh1.png?width=607&format=png&auto=webp&s=5cc2a54b027b63c1edc952b6b3d1c6a7fee39ccf\n I was lucky on my end. But don’t try using Opus 5.5 or Claude in general with REA or any type of MCP for reverse engineering. \n I almost lost 2 accounts.",
+   "author": "Ill_Explanation5427",
+   "publishedAt": "2026-10-31T11:22:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/55vcttyresyh1.png?width=320&crop=smart&auto=webp&s=4fd1a7ec52f157f41fb10b5e6df73d090c018587"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ill_Explanation5427",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-10-31T12:40:15.323Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "036af1b67915",
+   "canon": "https://www.reddit.com/comments/1xk7ny1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk7ny1/no_session_usage_shown/",
+   "addedAt": "2026-10-31T12:40:15.323Z",
+   "title": "No session usage shown",
+   "text": "Claude suddenly stopped showing session usage on my account, anybody experienced something similar? When can it happen?",
+   "author": "Vegetable-Tap-6297",
+   "publishedAt": "2026-10-31T11:20:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/opk8zaulesyh1.png?width=640&crop=smart&auto=webp&s=912e5055c30f14fffa6d936057e6ccf6ead99725"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Vegetable-Tap-6297",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-31T12:40:15.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f5fd06162259",
+   "canon": "https://www.reddit.com/comments/1xk7my7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/blender/comments/1xk7my7/im_building_a_blender_addon_for_aluminium_profile/",
+   "addedAt": "2026-10-31T12:40:15.323Z",
+   "title": "I'm building a Blender add-on for aluminium profile frames – 0.7 is out, and STEP export to CAD is next",
+   "text": "Hello there, \n I recently had to build a lot of different aluminium frames for work and got really tired of the tedious placing and adding of profiles, one by one. \n So instead of being a normal person and just finishing them, I started another side project: automating it with…",
+   "author": "Snoo_21830",
+   "publishedAt": "2026-10-31T11:18:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/xcwiilh5dsyh1.gif?width=640&crop=smart&s=d0f7658d8f701fcdd4f0587217b0f2d7487dd736"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Snoo_21830",
+   "where": "r/blender",
+   "fetchedAt": "2026-10-31T12:40:15.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "99d30a1aea09",
+   "canon": "https://www.reddit.com/comments/1xk6vgv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk6vgv/i_built_livingcanvas_a_free_claude_skill_that/",
+   "addedAt": "2026-10-31T12:40:15.323Z",
+   "title": "I built living-canvas, a free Claude skill that turns any repo, site or idea into an animated explainer",
+   "text": "I built living-canvas, a free, open-source skill for Claude. You point it at a GitHub repo, a URL, a doc or a single sentence, and Claude turns it into an animated explainer that a stranger can understand from one still frame.\n What it does\n Claude reads the subject, distills it…",
+   "author": "Substantial_Load_690",
+   "publishedAt": "2026-10-31T10:35:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Mmc5bG83b2w2c3loMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=cc2799a0a6c30a1178fd9369ff35a68ad490f8ce"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Substantial_Load_690",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-31T12:40:15.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b6282a0bd76a",
+   "canon": "https://www.reddit.com/comments/1xk6mz2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xk6mz2/i_made_a_6min_scifi_short_in_blender_using_claude/",
+   "addedAt": "2026-10-31T12:40:15.323Z",
+   "title": "I made a 6-min sci-fi short in Blender using Claude Code.",
+   "text": "built a 6-minute hard sci-fi horror short titled TARTARUS natively in Blender Eevee, Kinda my first fully project fully made with blender, The beginning was a bit shaky but overall it came out good.\n Claude code wrote little scripts that built every scene for me: the ground, the…",
+   "author": "Rimuru257",
+   "publishedAt": "2026-10-31T10:21:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MTByanZwYzU0c3loMbrbjNfv3cx1P6Efs-zsY3E62d4pyYbx1JkbWmMgcnRA.png?width=640&crop=smart&auto=webp&s=23cc1f6e62e4578e6871bab8656321f011f1b804"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Rimuru257",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-31T12:40:15.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a8b1490ca4f4",
+   "canon": "https://www.reddit.com/comments/1xk6i49",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk6i49/potionui_an_opensource_generation_studio_built/",
+   "addedAt": "2026-10-31T12:40:15.323Z",
+   "title": "PotionUI: an open-source generation studio built with Claude Code subagents working in parallel git worktrees",
+   "text": "I've been building PotionUI for about two years, and since last summer it has been built with Claude Code. It just reached 0.0.18. The video shows what it does.\n What it is\n PotionUI is a free, open-source (GPL-3.0), self-hosted studio for making images, video and music with AI…",
+   "author": "0roborus_",
+   "publishedAt": "2026-10-31T10:13:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MmxtODAybW4yc3loMXArQE-_1Al0O0clTybKPY6hXyprT3s6d01UAS5E0fMd.png?width=640&crop=smart&auto=webp&s=2da336fed0d9a52f6315661ee1ea23f153e9b699"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/0roborus_",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-10-31T12:40:15.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b3a2b62d3115",
+   "canon": "https://www.reddit.com/comments/1xk6dwx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xk6dwx/just_delete_the_files_claude_you_have_already/",
+   "addedAt": "2026-10-31T12:40:15.323Z",
+   "title": "Just delete the files, Claude. You have already made 3 backups and we are supposed to be cleaning.",
+   "text": "",
+   "author": "curiousgreenidea",
+   "publishedAt": "2026-10-31T10:06:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/fa7e9tah1syh1.jpeg?width=640&crop=smart&auto=webp&s=81a767c819ae5e9fba5ff13c29b395b2a69cfaf9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/curiousgreenidea",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-31T12:40:15.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "45257fc6cb51",
+   "canon": "https://www.reddit.com/comments/1xk5de5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xk5de5/i_built_two_claude_code_skillsplugins_one_makes/",
+   "addedAt": "2026-10-31T12:40:15.323Z",
+   "title": "I built two Claude Code skills/plugins: one makes the main session delegate its work, the other shows the agents in a pixel-art office",
+   "text": "Both are free and MIT licensed.\n I run several subagents at once in Claude Code. The main context kept filling up with file dumps, and I couldn't see what each agent was doing, so I built these for my own use.\n foreman turns the main session into an orchestrator. It reads the…",
+   "author": "ilkemerol",
+   "publishedAt": "2026-10-31T09:03:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ngwtxma1qryh1.gif?frame=1&width=140&height=76&auto=webp&s=e4297d347c75fc7b5aecb7857b194fbcc859de71"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ilkemerol",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-10-31T12:40:15.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4e11a822d737",
+   "canon": "https://www.reddit.com/comments/1xk4yyf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xk4yyf/dusted_every_single_shotgun_pellet_in_the_shot/",
+   "addedAt": "2026-10-31T12:40:15.323Z",
+   "title": "Dusted - Every single shotgun pellet in the shot string, fully simulated in PCVR!",
+   "text": "Hello everyone,\n I shoot clays and I'm a software engineer, I wanted to create a Clay Pigeon shooting simulator that gave Sporting Clays the same level of detail that driving and flight sims do for their markets. So I built Dusted, a Sporting Clays simulator for PC VR. It has…",
+   "author": "dev_dusted",
+   "publishedAt": "2026-10-31T08:38:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dmtqZWUxeXlpcnloMazxz1xVHZlO1ZhlIvnBjt1XdmoxWli67fsWQor24L2y.png?width=640&crop=smart&auto=webp&s=81448eebeeb3852a4a73234e925d8a705654e1bc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/dev_dusted",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-10-31T12:40:15.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7561901e9a97",
+   "canon": "https://www.reddit.com/comments/1xk4pmh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xk4pmh/auto_create_collision_voxels/",
+   "addedAt": "2026-10-31T12:40:15.323Z",
+   "title": "Auto create collision voxels",
+   "text": "Is it possible to auto create the walkable route in this scene what i recorded?\n So use only the camera position datas for path.\n I use Spirula +Supersplat.\n https://preview.redd.it/gd20i9u1eryh1.png?width=1143&format=png&auto=webp&s=3ea7964df56d56b53f9524adf86b8aaff565eb77",
+   "author": "relaxred",
+   "publishedAt": "2026-10-31T08:20:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/gd20i9u1eryh1.png?width=140&height=67&auto=webp&s=d06bef8b7804ec89d0ade3b6e319044f603cd698"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "voxel"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/relaxred",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-10-31T12:40:15.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ec26d6fa6b62",
+   "canon": "https://www.reddit.com/comments/1xk3sj6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xk3sj6/cyberpunk_2077_running_natively_on_vision_pro_in/",
+   "addedAt": "2026-10-31T12:40:15.323Z",
+   "title": "Cyberpunk 2077 running natively on Vision Pro in VR — head tracking, 3D, no PC or streaming (preview)",
+   "text": "This is Cyberpunk 2077 (the Mac App Store version) running directly on Apple Vision Pro — no PC, no Mac streaming, everything on the headset's M2. I've been building the layer that makes this work, and this is the first preview.\n What you're seeing:\n - Head-tracked VR: you look…",
+   "author": "Other_Train9419",
+   "publishedAt": "2026-10-31T07:21:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/c2hrMzl5eng2cnloMYWnXII6sjb3mEdhD6l04hFDbDZv5nDjtO0I6F7uBaSD.png?width=640&crop=smart&auto=webp&s=e2c02b1019524ba1f9cbbba2d4a5c090af6a3833"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Other_Train9419",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-10-31T12:40:15.323Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d628267339fb",
+   "canon": "https://www.reddit.com/comments/1xk3hr3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xk3hr3/still_haunted_by_a_turkish_ice_cream_vendor_in/",
+   "addedAt": "2026-10-31T12:40:15.323Z",
+   "title": "Still haunted by a Turkish ice cream vendor in Istanbul, so I built an AR simulator on SPECS to face my fears.",
+   "text": "A long time ago in Istanbul, a Turkish ice cream man did the cone trick on me and I never really got over it. So I built a simulator on SPECS to practice for the rematch, and it turned out to be way more fun than I expected. \n How it plays:\n He stands on your real floor, turns…",
+   "author": "shincreates",
+   "publishedAt": "2026-10-31T07:02:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Mml5M3Rucmw0cnloMfkkyALrHVmvSKxbh2uZ3s3TYhpsmY7zEIwdXaPZBm7d.png?width=640&crop=smart&auto=webp&s=8cd987d9bdacc9042b13c788ebad64793cd432ed"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/shincreates",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-10-31T12:40:15.323Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "23745c0ab3e2",
    "canon": "https://www.reddit.com/comments/1xk2ap2",
