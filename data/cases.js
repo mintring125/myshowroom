@@ -1,8 +1,714 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-11-01T06:18:39.107Z",
+ "updatedAt": "2026-11-01T13:36:41.159Z",
  "cases": [
+  {
+   "id": "5cc3e31e5560",
+   "canon": "https://www.reddit.com/comments/1xl2pbo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl2pbo/used_claude_to_help_me_create_a_into_video_to_my/",
+   "addedAt": "2026-11-01T13:32:19.468Z",
+   "title": "Used Claude to help me create a into video to my open sourced project.",
+   "text": "Had some free time yesterday. Had Claude help me with making an intro video for an open sourced project that is also heavily Claude supported. \n Started off with a very rough guide of my idea to Claude and asked it to come up with a script for each section. \n After some back and…",
+   "author": "Isorg",
+   "publishedAt": "2026-11-01T13:11:02+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Isorg",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-01T13:32:19.468Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fe5a6c824786",
+   "canon": "https://www.reddit.com/comments/1xl2od8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl2od8/i_built_nonuthub_with_claude_for_no_nut_november/",
+   "addedAt": "2026-11-01T13:32:19.468Z",
+   "title": "I built NoNutHub with Claude for No Nut November to help people survive NNN",
+   "text": "No Nut November started today, so I used Claude to build NoNutHub\n it's basically the site you're thinking of, except every video is designed to help you resist the urge instead\n it has 240+ videos, from breathing exercises and workouts to Bob Ross and random distractions.…",
+   "author": "RIPSBS818",
+   "publishedAt": "2026-11-01T13:09:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/vg0wwy95zzyh1.png?width=140&height=70&auto=webp&s=7eaec913e26852283599dc3a88042f92f626bab8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RIPSBS818",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-01T13:32:19.468Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a56ce6a0dd96",
+   "canon": "https://www.reddit.com/comments/1xl2kw9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xl2kw9/hand_off_the_session_habit_that_made_my_claude/",
+   "addedAt": "2026-11-01T13:32:19.468Z",
+   "title": "Hand off the session - habit that made my Claude limits last longer",
+   "text": "I am working as frontend Engineer and run Claude full day, quite often I have multi phase features Long time ago I (as many of you) noticed that long sessions drains limits faster and what's even worse model starts to hallucinate.\n At the beginning I tries to solve it by…",
+   "author": "HumbleOne6577",
+   "publishedAt": "2026-11-01T13:05:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/a2tqZXY5YjUyMHpoMduicPLrf59hWZgfS1CQzPnSQtbVd9ReCJp9Cy-E4Z57.png?width=640&crop=smart&auto=webp&s=11fe9d4e41a081a9dd8d19e914608a502f3af6a0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/HumbleOne6577",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-01T13:32:19.468Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4a894c60347f",
+   "canon": "https://www.reddit.com/comments/1xl28yp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xl28yp/using_claude_code_i_built_accidentally_made_a/",
+   "addedAt": "2026-11-01T13:32:19.468Z",
+   "title": "Using Claude Code, I built accidentally made a toxic workplace of ai agents 😭",
+   "text": "Using Claude, I developed this tailscale network of my own private pc and laptop\n I control them remotely from my mobile using a whatsapp messenger like ui! it's fun seeing the clis do stuff together by sending files to pictures among themselves through mace (the system).…",
+   "author": "Phantom-Con-Artist",
+   "publishedAt": "2026-11-01T12:49:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/sdhn4ucdzzyh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=bf3397c8a67c95cb56f8bcff9828afde6d67f1a6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Phantom-Con-Artist",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-01T13:32:19.468Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6642bd2e3c49",
+   "canon": "https://www.reddit.com/comments/1xl25e6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xl25e6/thief_gold_vr_physical_climbing_tweaks_and_more/",
+   "addedAt": "2026-11-01T13:32:19.468Z",
+   "title": "Thief GOLD VR - Physical Climbing Tweaks and More hand animations.",
+   "text": "",
+   "author": "jrubimf",
+   "publishedAt": "2026-11-01T12:44:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/T8Mfssn_wrmQ2Lyb169liN1d_DshqKz7g_queMUYsGs.jpeg?width=320&crop=smart&auto=webp&s=e3007644f00d9b750a89b5f926853229fe8dabde"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/jrubimf",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-01T13:32:19.468Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1f60405e6443",
+   "canon": "https://www.reddit.com/comments/1xl20lp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xl20lp/claude_taking_a_dig_at_me/",
+   "addedAt": "2026-11-01T13:32:19.468Z",
+   "title": "Claude taking a dig at me",
+   "text": "I was constantly asking Claude for WER every 1 hr and Claude created a script called no_patience.sh",
+   "author": "shivasiddharth",
+   "publishedAt": "2026-11-01T12:37:36+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/tjwlbmuaxzyh1.jpeg?width=640&crop=smart&auto=webp&s=7c7d6299fdad9f33e34de8b4cd90604f3f92ab51"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/shivasiddharth",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-01T13:32:19.468Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "44ea4ed7c1d1",
+   "canon": "https://www.reddit.com/comments/1xl1vjq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xl1vjq/ive_been_building_an_ai_clone_of_myself_for_a/",
+   "addedAt": "2026-11-01T13:32:19.468Z",
+   "title": "I’ve been building an AI clone of myself for a year, now it can hold conversations as me",
+   "text": "I’ve been building EchoVault for about a year now, and I still get a strange feeling when I talk to my Echo and hear it answer from the memories, stories, beliefs and experiences I’ve saved. I started this because I wanted to preserve enough of myself that the people I love…",
+   "author": "Mindless_Might_9759",
+   "publishedAt": "2026-11-01T12:30:13+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Mindless_Might_9759",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-01T13:32:19.468Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "46ebf7d8f3b0",
+   "canon": "https://www.reddit.com/comments/1xl1tqo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xl1tqo/im_a_programmer_but_never_made_a_game_i_design/",
+   "addedAt": "2026-11-01T13:32:19.468Z",
+   "title": "I’m a programmer but never made a game. I design, Claude Code writes all the code: Agewalker, a city builder you also walk through as the mayor (free playtest, Win/Mac)",
+   "text": "I’m a programmer by trade, but games and game design are new to me. On this project I don’t write the code myself: I design the game and direct Claude Code, which writes all of it. That covers the Unity C# code, the Python scripts that build every 3D model in Blender, the code…",
+   "author": "from_makondo",
+   "publishedAt": "2026-11-01T12:27:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MGU1ZGtycmh2enloMf9NIsvbmIG5cBfXBwwC-IMWlAsoPwY_3N2-taKSSy7m.png?width=640&crop=smart&auto=webp&s=c7a35fd5b396b62dd44f955bf8d4688b49af6792"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/from_makondo",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-01T13:32:19.468Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8df34a56d565",
+   "canon": "https://www.reddit.com/comments/1xl1tfv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl1tfv/claude_wont_connect_to_blender/",
+   "addedAt": "2026-11-01T13:32:19.468Z",
+   "title": "Claude won’t connect to Blender",
+   "text": "I’ve spent what may be at least 2-3 hours just trying to get this to work, nevermind make anything with it. Gemini has me going back and forth editing files and notepad text and developer configs and closing and re-opening Claude just for it to not work over and over again.",
+   "author": "Kylesmile347",
+   "publishedAt": "2026-11-01T12:26:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/dtqg5hcevzyh1.jpeg?width=640&crop=smart&auto=webp&s=2ee16d1d18e301609717b597db55171246e52d31"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Kylesmile347",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-01T13:32:19.468Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fe53de851232",
+   "canon": "https://www.reddit.com/comments/1xl16zi",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xl16zi/rate_my_ai_agent_on_android/",
+   "addedAt": "2026-11-01T13:32:19.468Z",
+   "title": "Rate my AI Agent on Android.",
+   "text": "Created this true AI digital assistant app using claude. What do you guys think? I clicked the keyboard mistakenly causing the text to be pasted twice, so ignore that.\n It can do all sorts of things, whatever those may be. Chat with someone on whatsapp, check & update my apps on…",
+   "author": "white_reaper002",
+   "publishedAt": "2026-11-01T11:54:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Z3Q5eWhvc2twenloMc_g2rs2Rn6VU_g5t3XV1ZzirK3j_5zUvvoPxcCC36IV.png?width=320&crop=smart&auto=webp&s=f003f375009faf42573aabcecfdad9fd3ee40359"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/white_reaper002",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-01T13:32:19.468Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1adb003042a0",
+   "canon": "https://www.reddit.com/comments/1xl13b1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xl13b1/looks_like_somebody_made_a_vr_mod_for_the/",
+   "addedAt": "2026-11-01T13:32:19.468Z",
+   "title": "Looks like somebody made a VR mod for the original S.T.A.L.K.E.R.",
+   "text": "I'm a bit reluctant to try it. Not much info on the Github page and it's all in Russian. Looks impressive though.",
+   "author": "Jaded-Ad1859",
+   "publishedAt": "2026-11-01T11:48:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/F7nzDCGWa5XAdmCXAQ4KAacM047iaEwvR1W4B7Dhqlo.jpeg?width=320&crop=smart&auto=webp&s=4f886273f32d76fc36bdb164656fba0d865f1eac"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Jaded-Ad1859",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-01T13:32:19.468Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4aab010c145f",
+   "canon": "https://www.reddit.com/comments/1xl0mvp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl0mvp/claude_just_leak_its_internal_cds/",
+   "addedAt": "2026-11-01T13:32:19.468Z",
+   "title": "Claude just leak its internal CDS",
+   "text": "Cannot paste it all but it goes like this :\n Rules\n No <!-- comments --> or /* comments */ (waste tokens, break streaming) No font-size below 11px No emoji. Icons = Tabler outline webfont (5800+, already loaded): <i class=\"ti ti-home\"></i>. Outline only — never use -filled…",
+   "author": "Spare-Flamingo6080",
+   "publishedAt": "2026-11-01T11:21:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/dznleawljzyh1.png?width=140&height=97&auto=webp&s=b4cd0e08cd6e28abc9ee46bf1f6c498f3f2cae4d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Spare-Flamingo6080",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-01T13:32:19.468Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a6cd8d449217",
+   "canon": "https://www.reddit.com/comments/1xl0lc3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xl0lc3/sekiro_vr_project/",
+   "addedAt": "2026-11-01T13:32:19.468Z",
+   "title": "SEKIRO VR PROJECT",
+   "text": "Hey everyone! I wanted to share a look at my Sekiro VR project and what I’ve been working on.\n The goal is to bring Sekiro’s combat into your own hands, with motion controls, tracked arms and weapons, and interactions adapted for VR , all while keeping the timing and intensity…",
+   "author": "InstanceNew9305",
+   "publishedAt": "2026-11-01T11:18:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dXlkazV5ajFqenloMWiHlq04CiFGK8UV3rf0ghS_BfNyLVRWthN3d2TV8t8q.png?width=320&crop=smart&auto=webp&s=1ff7848bc5aced9dc065d97cedccfa9dea851a3e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/InstanceNew9305",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-01T13:32:19.468Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "34645e9804b1",
+   "canon": "https://www.reddit.com/comments/1xl0grs",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl0grs/set_up_t3_code_with_claude_code_since_its/",
+   "addedAt": "2026-11-01T13:32:19.468Z",
+   "title": "Set up T3 Code with Claude Code since it’s trending. One default setting you’ll want to change first",
+   "text": "T3 Code (pingdotgg/t3code, MIT) is a GUI on top of the coding agents you already have installed. Claude Code, Codex, Cursor, OpenCode and a few more. You get threads, approval prompts, diffs, and you can reach it from other devices. It doesn’t replace Claude Code, it just reuses…",
+   "author": "vinishkapoor",
+   "publishedAt": "2026-11-01T11:11:28+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/4zczz2suhzyh1.jpeg?width=640&crop=smart&auto=webp&s=b2cee007f3f260b534f39539bf8dc3b36acb3faf"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/vinishkapoor",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-01T13:32:19.468Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b6bf61fda510",
+   "canon": "https://www.reddit.com/comments/1xl0fco",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xl0fco/xdock_a_claude_code_plugin_that_puts_your_dev/",
+   "addedAt": "2026-11-01T13:32:19.468Z",
+   "title": "xdock: a Claude Code plugin that puts your dev server in a dock beside the chat, where Claude can read it",
+   "text": "Processing img 5ahxeior10zh1...\n I built a plugin called xdock. You run your dev server or test watcher in a dock next to the chat, and Claude can read what it prints, so \"why did the server crash?\" works without you pasting the error in.\n Start something with /x npm run dev. It…",
+   "author": "Accomplished-Dig6540",
+   "publishedAt": "2026-11-01T11:09:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Ino1ejSlOdFGscy7_2a12mtHJillbtfJr7O08lOLdLY.png?width=140&height=70&auto=webp&s=8da29f55eeba7c913bdd2bd80ed9c70f115069a9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Accomplished-Dig6540",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-01T13:32:19.468Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6c188103ae35",
+   "canon": "https://www.reddit.com/comments/1xl023x",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl023x/notes_on_the_claude_text_watermark_i_built_a/",
+   "addedAt": "2026-11-01T13:32:19.468Z",
+   "title": "Notes on the Claude text watermark: I built a /reword slash command for Claude Code",
+   "text": "The inspiration behind this is, as many of you know, the recent watermarking of Claude that Anthropic put in place, so what they did is give me a very interesting problem to work around and the weekend is the time to test what shinanigans I can come up with, ofc there are other…",
+   "author": "trigodil",
+   "publishedAt": "2026-11-01T10:47:21+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/trigodil",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-01T13:32:19.468Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b8c3ea92c673",
+   "canon": "https://www.reddit.com/comments/1xkzq1n",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkzq1n/claude_deep_researchs/",
+   "addedAt": "2026-11-01T13:32:19.468Z",
+   "title": "Claude deep researchs",
+   "text": "So when you /deep-research on claude ai (not claude code) it starts running seperate agents to break down and search for different bits if what you asked. I did 2 deep researches and even though both said \"Running an agent...\" and then it would change to \"Researching about []\".…",
+   "author": "d1exn",
+   "publishedAt": "2026-11-01T10:26:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/by4osskx9zyh1.jpeg?width=70&height=48&auto=webp&s=bcfec87073c793e7ffaf362cd9e902264df549ee"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/d1exn",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-01T13:32:19.468Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "efe342e6455b",
+   "canon": "https://www.reddit.com/comments/1xkzlis",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkzlis/i_built_a_live_file_tree_for_claude_code_so_i_can/",
+   "addedAt": "2026-11-01T13:32:19.468Z",
+   "title": "I built a live file tree for Claude Code so I can see what it reads and edits (free, open source)",
+   "text": "Why I built it\n I used to spend most of my day in a code editor. Lately I’m in the Claude app and the CLI more and more, and I started losing touch with the codebase: which files changed, what got committed, whether a new pattern was creeping in. \n What it does\n A pane beside…",
+   "author": "mCadamek",
+   "publishedAt": "2026-11-01T10:19:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/cz8pgp2k8zyh1.gif?width=640&crop=smart&s=9c96c589a7f40cbc17307c069b61eed9a8b48ec1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/mCadamek",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-01T13:32:19.468Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0188ce4c9296",
+   "canon": "https://www.reddit.com/comments/1xkzh3s",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkzh3s/i_made_a_free_mcp_server_so_claude_can_answer_how/",
+   "addedAt": "2026-11-01T13:32:19.468Z",
+   "title": "I made a free MCP server so Claude can answer \"how many players will my Steam game get?\" with real numbers",
+   "text": "If you ask Claude how many players a Steam game with 5,000 followers will get at launch, it makes something up. It has no numbers to count from.\n So I gave it some. I track every Steam launch since March, how many followers the game had before launch and how many people were…",
+   "author": "_C_47_",
+   "publishedAt": "2026-11-01T10:11:39+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/_C_47_",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-01T13:32:19.468Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "df922d6e840b",
+   "canon": "https://www.reddit.com/comments/1xkzggk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xkzggk/made_a_mod_that_caps_my_own_claude_code_usage_in/",
+   "addedAt": "2026-11-01T13:32:19.468Z",
+   "title": "Made a mod that caps my own Claude Code usage in 5 hour blocks. Some stuff I learned about the usage data",
+   "text": "I built this for myself after Ultra dropped the 5 hour window, and figured some of you might find the details interesting even if you don't want the mod.\n What it does: a rolling 5 hour block, shared across all your terminals. A bar above the input shows usage and reset time. At…",
+   "author": "GagnDeep",
+   "publishedAt": "2026-11-01T10:10:30+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/GagnDeep",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-01T13:32:19.468Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fa5e88cb490c",
+   "canon": "https://www.reddit.com/comments/1xkzd5a",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkzd5a/claude_code_learning/",
+   "addedAt": "2026-11-01T13:32:19.468Z",
+   "title": "Claude Code Learning",
+   "text": "Bom dia a todos 💻\n Uso Claude Code há mais de 1 ano e meio, tenho aprendido diariamente e procuro novidades também todos os dias. \n Atualmente tenho um VAULT que alimenta também o meu sistema agenticOS para apoio e melhoria constante em programação de softwares e segurança.…",
+   "author": "RudeSquash2750",
+   "publishedAt": "2026-11-01T10:04:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/mempreyz5zyh1.jpeg?width=640&crop=smart&auto=webp&s=e40f4ba8ea12fffe84b2dd4ffee1cebd0265b1e7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RudeSquash2750",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-01T13:32:19.468Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5e9895b3bab7",
+   "canon": "https://www.reddit.com/comments/1xkxh0p",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xkxh0p/wip_sekiro_in_full_6dof_vr_mod_ashinavr/",
+   "addedAt": "2026-11-01T13:32:19.468Z",
+   "title": "WIP Sekiro in full 6DOF VR Mod - AshinaVR",
+   "text": "AshinaVR is a native 6DoF VR mod for Sekiro.\n Join the Discord for updates https://discord.com/invite/ButZ6b8m4B\n Combat\n Your swing hits the enemy directly where the hit lands\n Real deflects with the game's own timing window\n Deathblows, Mikiri counters, combat arts and charge…",
+   "author": "epicmeme546",
+   "publishedAt": "2026-11-01T08:02:34+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/b2o0dGYwdHlqeXloMcuTxz0lgVXTtKfyywkmn5k6PwRBW0LP9DjFtjQUWtQE.png?width=640&crop=smart&auto=webp&s=70bfed536ed99f1d76eea0d539241552c094db18"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/epicmeme546",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-01T13:32:19.468Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "ebb594256df4",
    "canon": "https://www.reddit.com/comments/1xkvev3",
