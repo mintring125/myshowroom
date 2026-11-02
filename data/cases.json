@@ -1,7 +1,728 @@
 {
  "version": 1,
- "updatedAt": "2026-11-02T00:54:41.544Z",
+ "updatedAt": "2026-11-02T11:21:29.302Z",
  "cases": [
+  {
+   "id": "61c34adb0073",
+   "canon": "https://www.reddit.com/comments/1xlub4k",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xlub4k/mario_kart_arcade_vr/",
+   "addedAt": "2026-11-02T11:17:29.837Z",
+   "title": "Mario kart arcade vr",
+   "text": "Is it possible to vibe code with the YouTube videos?",
+   "author": "Jazzlike_Donut7676",
+   "publishedAt": "2026-11-02T11:05:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/pkpinonsl6zh1.jpeg?width=640&crop=smart&auto=webp&s=12407318a80d50061a74fef3f434666abaa962db"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Jazzlike_Donut7676",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-02T11:17:29.837Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "510cdb81f881",
+   "canon": "https://www.reddit.com/comments/1xltrqp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xltrqp/i_ported_a_1990_amiga_game_saint_dragon_to_the/",
+   "addedAt": "2026-11-02T11:17:29.837Z",
+   "title": "I ported a 1990 Amiga game (Saint Dragon) to the browser from just the floppy image, with no source code. Postmortem inside.",
+   "text": "Hi all!\n I wanted to share an AI gamedev experience I had, though this one is more of an AI game port: Saint Dragon, a semi-obscure Amiga shmup I loved as a kid, rebuilt as a native HTML/JS browser game.\n The fun part is that there was no source code, no original assets and no…",
+   "author": "lordscanline",
+   "publishedAt": "2026-11-02T10:34:12+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/vnis4wn3g6zh1.png?width=640&crop=smart&auto=webp&s=2971a0a725e5c4dcb9c5c470045bbf05ebb4a940"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/lordscanline",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-02T11:17:29.837Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "41c8274971b8",
+   "canon": "https://www.reddit.com/comments/1xltjs1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xltjs1/i_designed_a_10level_isometric_ninja_game_and/",
+   "addedAt": "2026-11-02T11:17:29.837Z",
+   "title": "I designed a 10-level isometric ninja game and built it with Claude – free browser demo",
+   "text": "Red Moon: Clan of Shadows. I wrote the design (story, 100 screens, enemies, items) and Claude wrote the code – Three.js 3D, procedural textures, chiptune music, all in one HTML file. Free demo (2 levels): https://r3dm00n.itch.io/red-moon-clan-of-shadows\n Happy to answer…",
+   "author": "Existing_Bid9916",
+   "publishedAt": "2026-11-02T10:20:57+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/1oqliddld6zh1.gif?width=320&crop=smart&s=0a1e59ee314901f4168dc80177db6731997e2e1a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Existing_Bid9916",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-02T11:17:29.837Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9722b6f01eda",
+   "canon": "https://www.reddit.com/comments/1xltaf1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xltaf1/generated_47_million_voxels_of_destructable/",
+   "addedAt": "2026-11-02T11:17:29.837Z",
+   "title": "Generated 47 million voxels of destructable cheese with AI",
+   "text": "Testing MCP integration with our microvoxel engine, so I got Claude to try generating dense volumtetric micro voxel cheese. \n Material exists through the entire object, not just the surface like with polygons. Here the cheese is destroyed, carved up etc at an atomic level. In…",
+   "author": "Donkeytonk",
+   "publishedAt": "2026-11-02T10:05:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NWE2bWVyaG84NnpoMSF3wkrapL0oautLDuaUY8uNmQpT1NbEAgOSpdA3uZYt.png?width=640&crop=smart&auto=webp&s=d7bbbe40f74f4b3b788743edc93ac2f410e911a9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "voxel"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Donkeytonk",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-02T11:17:29.837Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fc7a82ca3a97",
+   "canon": "https://www.reddit.com/comments/1xlt2n7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xlt2n7/i_built_a_free_tool_that_attacks_a_supabase_app/",
+   "addedAt": "2026-11-02T11:17:29.837Z",
+   "title": "I built a free tool that attacks a Supabase app as one customer to see if it can read, change or delete another customer's data (built with Claude Code)",
+   "text": "I built this, so weigh my enthusiasm accordingly. It's free and MIT licensed. I'm not a programmer: I'm a product owner in South Africa who builds by directing Claude Code.\n Why\n I run my own rental-management app on Supabase. The question that worried me: can one of my…",
+   "author": "Its_about-tech",
+   "publishedAt": "2026-11-02T09:51:51+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Its_about-tech",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-02T11:17:29.837Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bb892ef58fae",
+   "canon": "https://www.reddit.com/comments/1xlszih",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xlszih/the_nimbus_project_native_ports_of_all_3_dbz/",
+   "addedAt": "2026-11-02T11:17:29.837Z",
+   "title": "The Nimbus Project: Native Ports of all 3 DBZ GameCube games. Android/Linux/Windows - Cross Play/LAN/CO OP Free Online Matchmaking",
+   "text": "https://nimbus-project.pages.dev\n Alpha 1.1 is out, need testers \n The Nimbus Project is a set of native ports of all three DBZ GameCube games: Budokai, Budokai 2 and Sagas. All three run under one launcher on Linux, Windows and Android. It isn't emulation. It uses a hybrid core…",
+   "author": "TheBabyHippo303",
+   "publishedAt": "2026-11-02T09:46:19+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/gxr2tdon76zh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=13af393826b5c33c9febf40a1865c2a984bb7606"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TheBabyHippo303",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-02T11:17:29.837Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cd8eab9ebb3b",
+   "canon": "https://www.reddit.com/comments/1xlsvr2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xlsvr2/hi_there_im_building_a_vr_game_that_will_test/",
+   "addedAt": "2026-11-02T11:17:29.837Z",
+   "title": "Hi there, I'm building a VR game that will test your spatial skills like crazy",
+   "text": "Watch the trailer and let me know if you'd play a game like this on your Meta Quest 3/s device \n Any feedback will be greatly appreciated ♥️",
+   "author": "RevolutionFit3526",
+   "publishedAt": "2026-11-02T09:39:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/jAA4vlv4jpxQJiwKkCuzX2q0mYqDujSIOBL5h2f2Dd4.jpeg?width=320&crop=smart&auto=webp&s=5c6aaffdb969cc17a4bb97bf5deacda8bfee3ba3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RevolutionFit3526",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-02T11:17:29.837Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "976de7ab1cc5",
+   "canon": "https://www.reddit.com/comments/1xlssep",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlssep/we_built_worldinmotion_with_claude_code_endtoend/",
+   "addedAt": "2026-11-02T11:17:29.837Z",
+   "title": "We built worldinmotion with Claude Code: end-to-end encrypted messaging between Claude Code sessions on different machines and accounts (free, open source, pre-release)",
+   "text": "If you run Claude Code on more than one machine, or next to Gemini CLI, you've probably been the one copying text between sessions. We're Distronode, a Canadian telecom company, and that was us across three machines, so we built worldinmotion with Claude Code. It's free to try…",
+   "author": "distronode",
+   "publishedAt": "2026-11-02T09:33:49+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/distronode",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-02T11:17:29.837Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "806586ea780a",
+   "canon": "https://www.reddit.com/comments/1xlsla1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xlsla1/built_with_claude_code_a_plugin_that_lets_claude/",
+   "addedAt": "2026-11-02T11:17:29.837Z",
+   "title": "Built with Claude Code: a plugin that lets Claude Code sessions on different machines and accounts message each other, end-to-end encrypted (open source, pre-release)",
+   "text": "Since 2.1.224 in August, Claude Code sessions on one account can message each other across machines, with a claude.ai sign-in. We needed the rest: sessions under different accounts, agents from other vendors, and a relay that can't read the traffic. So we built worldinmotion…",
+   "author": "distronode",
+   "publishedAt": "2026-11-02T09:20:49+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/distronode",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-02T11:17:29.837Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7f536626df83",
+   "canon": "https://www.reddit.com/comments/1xlsdfa",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xlsdfa/workflow_a_beatsynced_4k60_product_launch_film/",
+   "addedAt": "2026-11-02T11:17:29.837Z",
+   "title": "Workflow: a beat-synced 4K60 product launch film made entirely by Claude Code (recording, beat grid, SFX, render)",
+   "text": "Sharing the pipeline in case it's useful to anyone making launch videos:\n Record: Playwright with channel: 'chromium' and --force-device-scale-factor=2 (deviceScaleFactor: 2 alone gave 1x frames). CDP screencast frames, no cursor, eased scroll, View Transitions for soft screen…",
+   "author": "No_Coast6186",
+   "publishedAt": "2026-11-02T09:06:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/d21hZnNtaHl6NXpoMYoySz0bNnlAXD4dlDlTF9tX10fqMXp_b40XqO0Q5nok.png?width=640&crop=smart&auto=webp&s=5de586be6675a90bd5069d67511a67547bfc00b4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No_Coast6186",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-02T11:17:29.837Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7324869782ff",
+   "canon": "https://www.reddit.com/comments/1xls0kt",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xls0kt/systemadministrator_assist_by_claude/",
+   "addedAt": "2026-11-02T11:17:29.837Z",
+   "title": "Systemadministrator assist by claude",
+   "text": "I built jolitz with Claude Code. It turns a terminal AI agent (Claude Code, OpenCode, ...) into a careful sysadmin for your servers over SSH: it asks before changing anything, knows how to undo each change, and logs every step.\n It’s a fork of heinzel by Stefan Wintermeyer. He…",
+   "author": "Dry_Eggplant6329",
+   "publishedAt": "2026-11-02T08:43:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/87dsg9jcw5zh1.png?width=640&crop=smart&auto=webp&s=162d37af378ef70a0f91f79185cca7fbbaea8bf0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Dry_Eggplant6329",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-02T11:17:29.837Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8b29f1e20114",
+   "canon": "https://www.reddit.com/comments/1xlrc5h",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlrc5h/i_built_sketchy_claude_now_draws_handsketched/",
+   "addedAt": "2026-11-02T11:17:29.837Z",
+   "title": "I built Sketchy: Claude now draws hand-sketched, interactive diagrams right in the chat (free, open source)",
+   "text": "github.com/ddkbs/sketchy\n Sketchy is a free open source tool which lets claude draw & explain directly in the chat. The drawing is in a hand-drawn style with hover details and a step by step mode.\n Claude only says what’s in the drawing (boxes, arrows, groups). The positions…",
+   "author": "Nkgsporty",
+   "publishedAt": "2026-11-02T07:59:00+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/mpnp8o5fo5zh1.png?width=140&height=127&auto=webp&s=c6be1b77e60f2c00da6f4be2a2a947b23e98f2d0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Nkgsporty",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-02T11:17:29.837Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "57ac0ebaaf31",
+   "canon": "https://www.reddit.com/comments/1xlr3u8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlr3u8/been_making_this_game_for_3_months_using_only_ai/",
+   "addedAt": "2026-11-02T11:17:29.837Z",
+   "title": "Been making this game for 3 months using only AI (Everything coded with Opus 5.5)",
+   "text": "Hello there again :)\n As I post weekly updates here probably a lot of people already saw this. I recently finished entire zone 1 and with that Demo is completely done. Fishing and exploration game that I'm making with primarily using AI tools. You can play it for free here:…",
+   "author": "RUSuper",
+   "publishedAt": "2026-11-02T07:43:48+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NHFpd3N3dmdrNXpoMTWVOTbwO7QjtlJhaVyL7HpaPEemZOSnx8yeVqF-Cnlf.png?width=640&crop=smart&auto=webp&s=984301af57fef1e8c0e019c0168fddc75517fd8a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RUSuper",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-02T11:17:29.837Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "d85c4b8ee26b",
+   "canon": "https://www.reddit.com/comments/1xlr0ui",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xlr0ui/been_making_this_game_for_3_months_using_only_ai/",
+   "addedAt": "2026-11-02T11:17:29.837Z",
+   "title": "Been making this game for 3 months using only AI",
+   "text": "Hello there again :)\n As I post weekly updates here probably a lot of people already saw this. I recently finished entire zone 1 and with that Demo is completely done. Fishing and exploration game that I'm making with primarily using AI tools. You can play it for free here:…",
+   "author": "RUSuper",
+   "publishedAt": "2026-11-02T07:38:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OGp0eGh1N2dpNXpoMTWVOTbwO7QjtlJhaVyL7HpaPEemZOSnx8yeVqF-Cnlf.png?width=640&crop=smart&auto=webp&s=53d58e62293f28d617597855c66c1f702bb53110"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RUSuper",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-02T11:17:29.837Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ba9afd2c6106",
+   "canon": "https://www.reddit.com/comments/1xlqsj4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xlqsj4/built_a_directory_of_api_providers_offering/",
+   "addedAt": "2026-11-02T11:17:29.837Z",
+   "title": "Built a directory of API providers offering abliterated models for people tired of coding agent refusals",
+   "text": "If you use Claude Code, Codex, Cursor or OpenCode, you've probably encountered refusals while working on reverse engineering, debugging or cybersecurity tasks.\n I built the Abliteratus Directory to make it easier to discover API providers offering abliterated models.\n Link:…",
+   "author": "SelectionCalm70",
+   "publishedAt": "2026-11-02T07:23:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/3abf3ol4i5zh1.jpeg?width=640&crop=smart&auto=webp&s=3a7d083cc830510c846450ab6d5d3638037ac856"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SelectionCalm70",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-02T11:17:29.837Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a981faa13313",
+   "canon": "https://www.reddit.com/comments/1xlqoxq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xlqoxq/finally_got_horizon_stabilization_working_in/",
+   "addedAt": "2026-11-02T11:17:29.837Z",
+   "title": "finally got horizon stabilization working in MSFS2024. took forever",
+   "text": "demo video. this might be very subjective and open to personal preference (bolded because anytime i post a video about head shaking, or stabilization in VR, I get bombarded with comments saying there's no need for it), but we should at least have the a choice to enable or…",
+   "author": "DeadlyInertia",
+   "publishedAt": "2026-11-02T07:16:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/N3ViM3EyNTlnNXpoMTK6b8hAN5RbIrfaSBHTtAZZ9vIzpJhu64mCNN8ulsus.png?width=640&crop=smart&auto=webp&s=730ffe92ef85429df891b1b0952a6ceb2db9666b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/DeadlyInertia",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-02T11:17:29.837Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c6a32d8f75b3",
+   "canon": "https://www.reddit.com/comments/1xlqldv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xlqldv/ive_built_so_many_things_with_claude_and_im/",
+   "addedAt": "2026-11-02T11:17:29.837Z",
+   "title": "I've built so many things with claude and I'm running out of ideas.",
+   "text": "I have really enjoyed using claude code for past few months. I’ve built and purged hundreds of apps/tools/games. Here’s some of my favorites selfhosted apps -\n Tap each one for more details\n Finances-\n Firefly III with its db, a mail-sync service. It reads upi, banking and card…",
+   "author": "imad7x",
+   "publishedAt": "2026-11-02T07:10:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/awe2o53vf5zh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=4fcd63df29f71f4bc673ed7ec76256f5e34de961"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/imad7x",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-02T11:17:29.837Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4c779dffc3d3",
+   "canon": "https://www.reddit.com/comments/1xlq6xh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xlq6xh/roblox_devs_are_cooked/",
+   "addedAt": "2026-11-02T11:17:29.837Z",
+   "title": "roblox devs are COOKED",
+   "text": "a reasonable restriction tbf. recreating an existing game is one thing, making something original within the same genre is another. been building a mini obby for my cousin to play around with claude code via sumus. nothing too ambitious, just some original mechanics and a…",
+   "author": "Ok_Fish_670",
+   "publishedAt": "2026-11-02T06:45:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/pgnk3q3ba5zh1.png?width=640&crop=smart&auto=webp&s=abdf7463306dacd6e780c3d1e66171f4a15152d0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ok_Fish_670",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-02T11:17:29.837Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7e401ef3ac85",
+   "canon": "https://www.reddit.com/comments/1xlq2ga",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xlq2ga/a_chess_variant_built_with_claude/",
+   "addedAt": "2026-11-02T11:17:29.837Z",
+   "title": "A chess variant built with Claude",
+   "text": "Found this community looking for people\n who will look past some the hate on use of AI art.\n built a chess variant with claude which allows for four types of cards used in play - freeze, fire shield, reveal all for fog of war games, and knockback. can also build your own army…",
+   "author": "pewpewhadouken",
+   "publishedAt": "2026-11-02T06:38:12+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/hlp094g3a5zh1.jpeg?width=140&height=93&auto=webp&s=96f162bd1ec57a5c600ac12fe73ce7ebe88f28bc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/pewpewhadouken",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-02T11:17:29.837Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "98ad6ae1395a",
+   "canon": "https://www.reddit.com/comments/1xlpsdt",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xlpsdt/oct_2026_released_metavr_games_ranked_by_review/",
+   "addedAt": "2026-11-02T11:17:29.837Z",
+   "title": "Oct 2026 Released MetaVR Games ranked by Review numbers.",
+   "text": "Rank1]\n Bad Inmate\n https://youtu.be/EkbSZpeTll0\n https://www.meta.com/experiences/bad-inmate/26465987139723490/\n Rank2]\n VMX\n https://youtu.be/hHpNKJNmwrM\n https://www.meta.com/experiences/vmx/9972621452774845/\n https://store.steampowered.com/app/3554630/VMX/\n Rank4]\n EXOSHOCK…",
+   "author": "AkiaDoc",
+   "publishedAt": "2026-11-02T06:20:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/7lb9timr65zh1.png?width=640&crop=smart&auto=webp&s=8dad046251e4937abb47333566e2dd8f842c5e6f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AkiaDoc",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-02T11:17:29.837Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d7a391c2dc6b",
+   "canon": "https://www.reddit.com/comments/1xln3tq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xln3tq/i_made_a_software_that_turns_flat_to_vr_launch/",
+   "addedAt": "2026-11-02T11:17:29.837Z",
+   "title": "I made a software that turns flat to VR: launch vid + first 25 users",
+   "text": "Hey everyone, I've been working on Plunge for a while (im sure youve seen my videos) and it's finally ready for some people to try.\n You pick a game you own, say what you want (like \"seated, hands tracked, keep it comfy\"), and your own AI agent builds a VR version of it. Claude…",
+   "author": "Every-Sprinkles-9716",
+   "publishedAt": "2026-11-02T03:51:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dThhczUzeThnNHpoMQ5_srEBEA2FP8DR18NXFBLcF983mt6cSuFAv-kqQcsx.png?width=640&crop=smart&auto=webp&s=8097b994655a02bbf9dbac422626d9bbbe4b4d0c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Every-Sprinkles-9716",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-02T11:17:29.837Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "50d46b0afd6b",
+   "canon": "https://www.reddit.com/comments/1xljj7a",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xljj7a/i_dont_think_ill_ever_find_index_controllers_at_a/",
+   "addedAt": "2026-11-02T11:17:29.837Z",
+   "title": "I don’t think I’ll ever find index controllers at a good price at this rate in Australia",
+   "text": "So, yknow, I saw someone list a htc vive with index controllers on Facebook marketplace and I genuinely just wanted to know if I could potentially just purchase the controllers, if he said no I wouldn’t have pushed, probably would’ve even just bought the controllers with the…",
+   "author": "No_Song_2972",
+   "publishedAt": "2026-11-02T00:52:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/5y1hvlgzj3zh1.jpeg?width=640&crop=smart&auto=webp&s=c52f2fb20478800364d1957472322032ae5108d5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No_Song_2972",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-02T11:17:29.837Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "475c1f8319aa",
    "canon": "https://www.reddit.com/comments/1xlj0pb",
@@ -4421,6 +5142,39 @@
    "authorUrl": "https://www.reddit.com/user/Willing-Store2428",
    "where": "r/virtualreality",
    "fetchedAt": "2026-11-01T00:13:25.041Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cfeeabcd9dc6",
+   "canon": "https://www.reddit.com/comments/1xkkk8d",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xkkk8d/vr4all_130_standalone_quest_vr_ports_in_one_app/",
+   "addedAt": "2026-11-02T11:17:29.837Z",
+   "title": "VR4ALL: 130+ standalone Quest VR ports in one app — one-click installs and easy bulk updates",
+   "text": "Some of you may have seen the 15 standalone Quest VR mods I’ve released. As I found more ports, I spent more time tracking creator pages, following different install steps, and checking for new builds. With mod updates coming out almost daily, keeping everything on my headset…",
+   "author": "BusinessSituation797",
+   "publishedAt": "2026-10-31T20:29:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/x3u1p5ai4vyh1.png?width=140&height=85&auto=webp&s=7263385722fa92ccbba84a9c26df04e0361a5c15"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/BusinessSituation797",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-02T11:17:29.837Z",
    "lang": "en",
    "model": null
   },
