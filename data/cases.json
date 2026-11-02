@@ -1,7 +1,1433 @@
 {
  "version": 1,
- "updatedAt": "2026-11-02T11:21:29.302Z",
+ "updatedAt": "2026-11-02T21:51:26.122Z",
  "cases": [
+  {
+   "id": "4ddbbd9513ed",
+   "canon": "https://www.reddit.com/comments/1xma9fu",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xma9fu/my_current_experience_with_the_steam_frame/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "My current experience with the steam frame",
+   "text": "",
+   "author": "A_Hyper_Nova",
+   "publishedAt": "2026-11-02T21:34:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/j19vfnnup9zh1.png?width=640&crop=smart&auto=webp&s=d8ef75a8b71d41f64e6914c4b2ac8a8551fdf72e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/A_Hyper_Nova",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0625e9624014",
+   "canon": "https://www.reddit.com/comments/1xma3xf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xma3xf/the_game_workbench_for_your_coding_ai_since_its/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "The game workbench for your coding AI: Since it’s gotten harder to code games with Claude, I created a companion workbench for coding assistants for games",
+   "text": "Think of it as the SAP for game creation.. \n I had this idea a while back ago, but I saw that a lot of people with no prior software engineering knowledge struggle to create more complex games. \n To save tokens and stop reinventing the wheel on every project, your AI can now…",
+   "author": "LegoFighter2",
+   "publishedAt": "2026-11-02T21:28:55+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/LegoFighter2",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fe3c03fe2735",
+   "canon": "https://www.reddit.com/comments/1xm97bv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xm97bv/sprite_gibber_a_tool_to_destroy_any_pixel_art/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "Sprite Gibber - a tool to destroy any pixel art into pieces! #gamedev",
+   "text": "Get it here: https://reactorcore.itch.io/sprite-gibber\n Many animals were harmed in making this video, I am sorry\n Jokes aside, I built this originally with Claude Sonnet, then finished it up with Opus later. It works on the seemingly basic principle of \"shatter this sprite into…",
+   "author": "Melodic_Charity_1770",
+   "publishedAt": "2026-11-02T20:54:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aHEwYTZhYmtoOXpoMft6YPKkgNPGdY78Ee25q0-Vl2VbMX98yAPFWkhQTjkq.png?width=640&crop=smart&auto=webp&s=b5e457ae56a3959e68cf18780c3ccd88eb51389d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Melodic_Charity_1770",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1e7f4352bb29",
+   "canon": "https://www.reddit.com/comments/1xm96p5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/threejs/comments/1xm96p5/threejs_claude_code_made_a_little_game_to_make/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "Three.js + claude code - Made a little game to make some content to promote my song",
+   "text": "Including my original character Marzelle as our hero.",
+   "author": "arthurwalsh_",
+   "publishedAt": "2026-11-02T20:53:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aTM1Y28zcW5pOXpoMSQcqU9R0uC5q9QHliLMFXbDRAfUqtSewD1YJf7NY1HQ.png?width=640&crop=smart&auto=webp&s=5c6be93175662da43b8acbd8ffcb754ff182b82b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/arthurwalsh_",
+   "where": "r/threejs",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ea32652ce9d0",
+   "canon": "https://www.reddit.com/comments/1xm90ly",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/threejs/comments/1xm90ly/i_made_a_popup_book_you_can_walk_into/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "I made a pop-up book you can walk into",
+   "text": "Hi! Origami World is a small, cozy exploration game set inside a pop-up book. Walk around, and the paper houses fold up around you as you go.\n 5 paper worlds: a seaside harbor, a lantern canal town, a desert bazaar, an aurora snowfield, and an observatory above the clouds Little…",
+   "author": "SuruiMakesGames",
+   "publishedAt": "2026-11-02T20:47:13+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bDA0Z2hzZWNoOXpoMRPrg4x7A5QD2JfqbAsdxETV-Eh5vNq41q8zQ2gI9E8a.png?width=640&crop=smart&auto=webp&s=50aae76c935223e0fb0620d5719715a8b622164a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SuruiMakesGames",
+   "where": "r/threejs",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f24a421e7fe7",
+   "canon": "https://www.reddit.com/comments/1xm90i8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xm90i8/i_built_this_world_war_i_rts_game_with_opus55_in/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "I built this World War I RTS game with opus5.5 in 3 days.",
+   "text": "this is the Battle of Soissons with the French army.\n the game has a dynamic campaign and 11 historical battles and 9 factions With a skirmish mode.\n The sound effects and voices were made by elevenlabs.\n ALL of that while having zero coding experience\n We are living in an…",
+   "author": "Nearby-Band-7869",
+   "publishedAt": "2026-11-02T20:47:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NzhtZW5kcGFnOXpoMZFUQ43gwVzXnD6cf4-hzqajqVhlIbIZMpkx6ZDSaUmN.png?width=640&crop=smart&auto=webp&s=20703673e7d93759d649c4d2bec860bb4b9941cf"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Nearby-Band-7869",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "b320a1553631",
+   "canon": "https://www.reddit.com/comments/1xm8z1i",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xm8z1i/i_made_a_popup_book_you_can_walk_into/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "I made a pop-up book you can walk into",
+   "text": "Hi! Origami World is a small, cozy exploration game set inside a pop-up book. Walk around, and the paper houses fold up around you as you go.\n 5 paper worlds: a seaside harbor, a lantern canal town, a desert bazaar, an aurora snowfield, and an observatory above the clouds Little…",
+   "author": "SuruiMakesGames",
+   "publishedAt": "2026-11-02T20:45:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/c3Jvdzg4bzNoOXpoMRPrg4x7A5QD2JfqbAsdxETV-Eh5vNq41q8zQ2gI9E8a.png?width=640&crop=smart&auto=webp&s=5972c452e7bdc63edfd1125ebdb3bff85393a921"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SuruiMakesGames",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1890dad5c189",
+   "canon": "https://www.reddit.com/comments/1xm8s23",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xm8s23/aiassisted_remake_of_freelancer_spacesim_using/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "AI-Assisted remake of Freelancer (Space-Sim) using custom AI harness",
+   "text": "https://preview.redd.it/fwhgw1uff9zh1.jpeg?width=1920&format=pjpg&auto=webp&s=5145f247ead33b0984fbf43cb745536064a90427\n Hello fellow pilots. I wanted to show a remake of Freelancer called Project Sirius that me and my friends been developing using Opus 5.5, and GPT-6 Astra using…",
+   "author": "YourElectricityBill",
+   "publishedAt": "2026-11-02T20:37:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ji3lxbnsf9zh1.jpeg?width=140&height=78&auto=webp&s=fd9155075dd22f60826df76e95064a4bb70be947"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/YourElectricityBill",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "3fb317c686f0",
+   "canon": "https://www.reddit.com/comments/1xm8lwp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xm8lwp/pc_doji_run_a_cyberpunk_stock_market_roguelite/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "[PC] DOJI RUN: a cyberpunk stock market roguelite. Playtest is open on Steam",
+   "text": "Hey everyone, I'm a solo dev and the DOJI RUN playtest is open on Steam. It's free and developed in conjuntion with Claude Code, used for coding, test harness, data analysis and initial balancing.\n It's a cyberpunk stock market roguelite. You play cards onto a live chart, trade…",
+   "author": "DojiRun",
+   "publishedAt": "2026-11-02T20:31:17+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/HT3ZUrOEixffj-OwrV77pbMh4jZeHd0yrdOEfoLhfQU.jpeg?width=320&crop=smart&auto=webp&s=6904a597f5413543b98681eac188eb093bf14949"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/DojiRun",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "aefd3930c068",
+   "canon": "https://www.reddit.com/comments/1xm8ips",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xm8ips/pc_doji_run_a_cyberpunk_stock_market_roguelite/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "[PC] DOJI RUN: a cyberpunk stock market roguelite. Playtest is open on Steam",
+   "text": "I'm a solo dev and the DOJI RUN playtest is open on Steam. It's free.\n It's a cyberpunk stock market roguelite. You play cards onto a live chart, trade your way to the weekly goal, and fight a boss every Friday.\n The goal of this playtest is simple: gather data and feedback so I…",
+   "author": "DojiRun",
+   "publishedAt": "2026-11-02T20:28:04+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/HT3ZUrOEixffj-OwrV77pbMh4jZeHd0yrdOEfoLhfQU.jpeg?width=320&crop=smart&auto=webp&s=6904a597f5413543b98681eac188eb093bf14949"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/DojiRun",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c1ddb3e83cea",
+   "canon": "https://www.reddit.com/comments/1xm8fup",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xm8fup/i_built_callrdv_a_phone_call_becomes_a_booked/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "I built CallRDV: a phone call becomes a booked appointment, with automatic reminders for your client",
+   "text": "Hi everyone,\n I'm a self-taught developer and I built CallRDV with Claude. It's a web app for small businesses that take bookings by phone (garages, barbers, tradespeople…).\n What it does\n During the call, you type the client's name and the date: the appointment is saved:\n - The…",
+   "author": "Salaam_sow",
+   "publishedAt": "2026-11-02T20:25:00+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/eyon7msld9zh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=f6ef9702358ace5eba4eb707aca1786515cfb636"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Salaam_sow",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "36a8c22df1ae",
+   "canon": "https://www.reddit.com/comments/1xm8etd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm8etd/opus_55_built_4_games_from_oneline_prompts_all_4/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "Opus 5.5 built 4 games from one-line prompts. All 4 look the same",
+   "text": "gave Opus 5.5 in Claude Code one sentence each, empty folder, nothing else: platformer, top-down shooter, racer, island code was solid, it added coyote time, a jump buffer, screen shake and a dash nobody asked for not one image, sound or font in any folder, so capsules, circles,…",
+   "author": "flockbaygames",
+   "publishedAt": "2026-11-02T20:23:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/S0Ea7HHPfG9kWe41laXOUPJs9GYPFWvmTC32WDNGN1s.jpeg?width=320&crop=smart&auto=webp&s=4afac0e4ac0777696b7cd9b1f166ff87b5b7b4d6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/flockbaygames",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "157f9074c56d",
+   "canon": "https://www.reddit.com/comments/1xm8c4j",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xm8c4j/i_built_a_free_opensource_plugin_suite_that_has_a/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "I built a free, open-source plugin suite that has a small judge model double-check Claude Code (safety + token savings)",
+   "text": "I use Claude Code all day, and I built **ClauJev**, a free, open-source plugin suite that gives Claude a second pair of eyes. The checker is [Jev](https://typesafe.ai), a small, fast judgment model from TypeSafe AI.\n What it does:\n Safety\n - 🛑 Asks for confirmation before…",
+   "author": "covalskirelatorio",
+   "publishedAt": "2026-11-02T20:21:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/b1o1dq6lc9zh1.png?width=640&crop=smart&auto=webp&s=2fb2aa9969136996eead2c2b5b49f7bd11d6d1c1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/covalskirelatorio",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "dd1f2153e74e",
+   "canon": "https://www.reddit.com/comments/1xm87yq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xm87yq/i_built_a_local_workflow_layer_so_claude_code/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "I built a local workflow layer so Claude Code can't mark a task done without green gates and an independent review",
+   "text": "I kept hitting the same two problems with coding agents: they forget the repo between sessions, and they say \"done\" too easily. Agent Flow is my answer, as a CLI plus skills for Claude Code (/flow-plan, /flow-harden, /flow-orchestrate) and Codex. \n How it works: you author a…",
+   "author": "AmbitiousLocation957",
+   "publishedAt": "2026-11-02T20:16:58+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AmbitiousLocation957",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0beaf9b07285",
+   "canon": "https://www.reddit.com/comments/1xm7uiy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm7uiy/i_had_claude_make_the_same_video_twice_5_months/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "I had Claude make the same video twice, 5 months apart. The difference is staggering.",
+   "text": "Back in May, I had Claude Code make a demo video for Videowright, my open source tool for making videos in Claude Code. Last week I had it make the same video again: same script, same brief, but Opus 5.5 instead of Opus 4.7. The attached video compares them.\n The video gen tool:…",
+   "author": "davernow",
+   "publishedAt": "2026-11-02T20:03:08+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NXFhNnF4Nnc4OXpoMZK1jiv3QfHBus2_YVcRVCa5e6yFAvUuhMusDR7xZTJo.png?width=640&crop=smart&auto=webp&s=aa85a978a5ee27615d7560bcdecda2870f869c47"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/davernow",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "17be59152931",
+   "canon": "https://www.reddit.com/comments/1xm7kw7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm7kw7/started_a_hobby_project_about_the_mongol/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "Started a hobby project about the Mongol Invasions of Vietnam. Claude helped turn it into a real game",
+   "text": "Vietnamese representation in video games has historically been limited to meme-able farmers that you get to blow up in a tank while blasting CCR (shoutout BF:Vietnam! Also Shoutout AOE2 for being the one exception I can think of)\n So, even with very little prior experience, I…",
+   "author": "Ok-Pirate5732",
+   "publishedAt": "2026-11-02T19:53:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/a3QyemRxeXl2OHpoMRMqF-eTw2q-VRZO0bMyyIdm9RmsfAnllafoSW9SSV8N.png?width=640&crop=smart&auto=webp&s=4dd1bb88a9cfd752157940bb57abbf250f352332"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ok-Pirate5732",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "dd290292844c",
+   "canon": "https://www.reddit.com/comments/1xm71go",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xm71go/finally_asking_about_it_ive_been_building_an_ai/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "Finally asking about it, I’ve been building an AI creative Linux OS with Pro till now",
+   "text": "I’m an artist working on comics and animation, in college for film directing and acting, also still can’t get rid of that interest of exploring the more narrative leaning side of gaming. I’m really passionate about creating for some reason, genuinely grew up hating the fact that…",
+   "author": "NecroCannon",
+   "publishedAt": "2026-11-02T19:33:36+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/NecroCannon",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "36679e81e95b",
+   "canon": "https://www.reddit.com/comments/1xm6ymm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xm6ymm/obs_streamdeck_tools/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "OBS + Streamdeck Tools",
+   "text": "I'm a virtual VJ. OBS is my whole rig: it streams, records and mixes, and it's free. But I couldn't find the pieces I needed. So I described what I wanted, and Claude wrote the code with me.\n What came out of it (all free, GPL, on GitHub):\n Playlister: an OBS source that plays…",
+   "author": "fflluuxxuuss",
+   "publishedAt": "2026-11-02T19:30:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Z29wOGxvaWIzOXpoMbb4BFwZM-2WFpDdbfufb83DDqDP9SKzMUwDJjqqghYJ.png?width=640&crop=smart&auto=webp&s=2f41c06580bc6c9ab48673f5174e0ac52b5b27b6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/fflluuxxuuss",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e1066527e0a1",
+   "canon": "https://www.reddit.com/comments/1xm6w0t",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xm6w0t/i_fell_for_someone_and_lost_three_days_to_it_so_i/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "I fell for someone and lost three days to it, so i built a Claude skill that slaps me back to reality (open source)",
+   "text": "Hello guys, sharing a small skill that came out of a very real week.\n Short story: ten years closed, then someone. Within three days that person was living rent free in my head twelve hours a day, work slipped, sleep slipped, i rewrote the plan for one conversation about forty…",
+   "author": "breakzoras",
+   "publishedAt": "2026-11-02T19:28:16+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/6e0z64dg39zh1.jpeg?width=640&crop=smart&auto=webp&s=18b123575e9ba642d84713a3e6f5b556262442ca"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/breakzoras",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6b34d26009e2",
+   "canon": "https://www.reddit.com/comments/1xm6abm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xm6abm/drifters_steam_next_fest_post_mortem_the_good_the/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "DRIFTERS Steam Next Fest Post Mortem - the good, the bad and the ugly in context of VR Games",
+   "text": "Hi there!\n Yacine from Salmi Games here - devs of Sweet Surrender and now we are working on a new VR co-op extraction shooter called DRIFTERS: Blackout Crew!\n As with our previous games, we are working closely with the VR community to build DRIFTERS, with regular playtests and…",
+   "author": "_retromario_",
+   "publishedAt": "2026-11-02T19:06:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/2htj4FokytxSCVO_KFJuNBn-0rR16JLurlZIS3k9Nl4.jpeg?width=140&height=80&auto=webp&s=76541a76550b439780c20ba5919b61b0efa61863"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/_retromario_",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "836c5ab5d0c8",
+   "canon": "https://www.reddit.com/comments/1xm646t",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xm646t/we_built_a_more_advanced_3d_viewer_for_vision_pro/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "We built a more advanced 3D viewer for Vision Pro — scene building, model slicing, 8K textures and more",
+   "text": "Hey everyone,\n I'm one of the developers behind presentAR, which we just released on the visionOS App Store.\n Some of the features we've been working on:\n Scene building: Import and arrange multiple 3D objects in the same spatial environment. Model slicing: Cut through 3D…",
+   "author": "uneedtee",
+   "publishedAt": "2026-11-02T18:59:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bWQ5MW1qemtuOHpoMSiYc8KKytfW_vndnbbPrzTFoJUNKOqq_l8RUv8OLtmu.png?width=640&crop=smart&auto=webp&s=d1d41ac11de49dd02b359e3d0ec63e7398780159"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/uneedtee",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "673c4ea5c2d7",
+   "canon": "https://www.reddit.com/comments/1xm5jxv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xm5jxv/i_made_a_fully_playable_vr_mod_for_gothic_3/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "I made a fully playable VR mod for Gothic 3 — version 1.0 is live",
+   "text": "Hey everyone!\n I've been working on bringing Gothic 3 into VR, and version 1.0 is finally ready. You can look around naturally, move your hands, draw a bowstring and fight using your own movements.\n Here’s what the mod includes:\n Full stereoscopic VR, 6DoF tracking, room-scale…",
+   "author": "Mundanix1987",
+   "publishedAt": "2026-11-02T18:40:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dTkwcWh0cmx1OHpoMeE29rr_FcN5fI-CQbwqqRgU9Ct-vfZ94ZkTX87v_ejo.png?width=640&crop=smart&auto=webp&s=e8a3d62e647f053df28014c59d2b8aeaa9ae4a5e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Mundanix1987",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8195794b86f7",
+   "canon": "https://www.reddit.com/comments/1xm5512",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xm5512/behold_my_latest_diwhy_a_very_comfortable/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "behold my latest DiWHY a very comfortable headstrap for vrc which i can use while laying down built with 3 no brand headstraps that eventually broke or was too uncomfortable",
+   "text": "additional info long ass charging cable i usually have it on a rail/pully system above me but found out my room has termites so full floor redo rocking the floor wire method for now (cable is charging only no data transfer)",
+   "author": "arora_fox",
+   "publishedAt": "2026-11-02T18:25:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/guwg0q8bs8zh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=22d47337bbb566bec56224634111eff2b2beea7c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/arora_fox",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e045936c6be3",
+   "canon": "https://www.reddit.com/comments/1xm39n4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xm39n4/titanfall_2_vr_is_impeccable/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "Titanfall 2 VR is impeccable!",
+   "text": "Go play it now!\n This is just a hasty edit of my play through, using random clips.\n Theres a very special moment at the end of this mod that absolutely sells it to me as the greatest VR mod we have seen. \n Thank you CircuitLord!\n Hurts my soul we never got a Titanfall 3. But…",
+   "author": "1337Archivist",
+   "publishedAt": "2026-11-02T17:19:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ajdtN3BmdWhnOHpoMYLno0VYt25FZIF6Fy_Kh19HxkobBKfuxPX20D29zFJt.png?width=640&crop=smart&auto=webp&s=7990e0a2961b418160e420aa57bc0ef38c4a3978"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/1337Archivist",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "daacc347263d",
+   "canon": "https://www.reddit.com/comments/1xm38tw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xm38tw/mit_engineers_have_developed_a_flexible/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "MIT engineers have developed a flexible, shape-sensing sheet that digitally reconstructs its own form as it bends and twists, this flexible material could be used as a wearable, motion-monitoring “skin” in physical therapy, virtual reality, and gaming.",
+   "text": "The sensor is similar in principle to some motion-capture garments, which track a person’s physical movements to mimic them in a virtual avatar. Those designs use rigid sensors that are stitched into a suit at strategic locations. \n In contrast, the team’s new design uses…",
+   "author": "Reinier_Reinier",
+   "publishedAt": "2026-11-02T17:18:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/EJGV1P6xxANkn04k1_0V4oUws3a1ae0MgOQrLoltsKk.jpeg?width=640&crop=smart&auto=webp&s=1a134469c88171e02f0f0cf5c1a3170a72a17fb3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Reinier_Reinier",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2d834fa64378",
+   "canon": "https://www.reddit.com/comments/1xm2u0l",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xm2u0l/i_dont_have_2_vision_pros_to_test_pool/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "I don't have 2 Vision Pros to test pool multiplayer, so I'm giving away 25 codes for the game for free",
+   "text": "Two weeks ago I posted my pool game here, and the most common question was \"can I play a friend?\". Version 1.1 adds that with SharePlay.\n How it works:\n Start a FaceTime call with a friend who also has a Vision Pro, open the Together screen and tap Start SharePlay.\n Play a full…",
+   "author": "steffan_",
+   "publishedAt": "2026-11-02T17:04:20+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YXU1dzRwMGtkOHpoMdKgbMiG1FxzV3TZgOSWBF4k_VeEtChGtyHbqbn-RubP.png?width=640&crop=smart&auto=webp&s=20b56748bdddd90c795ea75e637289b57f1444fc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/steffan_",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5b426c65bacc",
+   "canon": "https://www.reddit.com/comments/1xm28e4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xm28e4/free_image_to_3d_model_in_comfyui_and_local/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "Free Image to 3D Model in ComfyUI and Local Gradio App (Low VRAM)",
+   "text": "A ready-to-run ComfyUI workflow for Idol by Sperid Labs: give it one picture of an object, and it builds a 3D Gaussian splat you can spin all the way around, including the sides the picture never showed. It runs on ComfyUI's own built-in TripoSplat nodes plus the small…",
+   "author": "TheLocalLab",
+   "publishedAt": "2026-11-02T16:42:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/nj1PsqVvrFCX47j-JqceQ8fCj_bD_4G-3kcfFUY3gGQ.jpeg?width=320&crop=smart&auto=webp&s=286f952e3c1af4458726753bc4f3c8e4137a2756"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TheLocalLab",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "030d48210dec",
+   "canon": "https://www.reddit.com/comments/1xm1f2s",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xm1f2s/steam_vr_october_hardware_survey/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "Steam VR October hardware survey",
+   "text": "",
+   "author": "-Venser-",
+   "publishedAt": "2026-11-02T16:12:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ktodoceg48zh1.png?width=320&crop=smart&auto=webp&s=473ee6e24d9015aea85ee9652e9bc48cd24191f1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/-Venser-",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e766c3d545d1",
+   "canon": "https://www.reddit.com/comments/1xm0udf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xm0udf/saphlux_and_innovision_have_collectively_secured/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "Saphlux and InnoVision have collectively secured $450 million USD in new investments for AR microLED manufacturing projects",
+   "text": "Saphlux has signed an agreement for an AR microLED display module production base in Wuxi’s Liangxi District, backed by a total investment of RMB 1 billion ($150M). Spanning 2.5 hectares, this Phase 2 facility will utilize 12-inch GaN-on-Si wafers for an end-to-end production…",
+   "author": "AR_MR_XR",
+   "publishedAt": "2026-11-02T15:51:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/7rrvcini08zh1.jpeg?width=640&crop=smart&auto=webp&s=f1cbd28926ff545ce0429e6daa50330a9426a01f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AR_MR_XR",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d0768e3ced4f",
+   "canon": "https://www.reddit.com/comments/1xm0cy4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xm0cy4/thief_gold_vr_lockpick_minigame_with_and_without/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "Thief GOLD VR - Lockpick Minigame (with and without UI)",
+   "text": "",
+   "author": "jrubimf",
+   "publishedAt": "2026-11-02T15:33:28+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/4e8yJl3iI1lB30KtEOqDG9kGYrwpHSlqGy8fej03Kao.jpeg?width=320&crop=smart&auto=webp&s=9adb1b20001574e1fd110f79fa4c0bde11302286"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/jrubimf",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "871bde478f7f",
+   "canon": "https://www.reddit.com/comments/1xlyzme",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xlyzme/turning_a_gaussian_splat_scene_into_2m_physics/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "Turning a gaussian splat scene into 2M physics particles that burn, pour and shatter (WebGPU, runs in the browser)",
+   "text": "Live demo (needs a WebGPU browser): https://engine-iam7nszj6-playcanvas.vercel.app/#/gaussian-splatting/particle-blast\n Controls: LMB look, RMB blast, WASD/QE move, wheel for brush size, hold Space for a gravity well. Twelve presets: some run on their own, others you paint with…",
+   "author": "mvaligursky",
+   "publishedAt": "2026-11-02T14:41:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YzRocnBlNDRvN3poMcmd-gbepXvZs4sOoZ0DAcpTeXBEgdHnRgMQA0OOt5Ml.png?width=640&crop=smart&auto=webp&s=9179a350e4faf179f1da4fa132f91f8412ae77b0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/mvaligursky",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fd3af6748cc8",
+   "canon": "https://www.reddit.com/comments/1xlyoro",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xlyoro/neiteys_xwing_alliance_vr_multiplayer_over_local/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "Neitey's X-Wing Alliance VR - Multiplayer over local wifi is now supported.",
+   "text": "Other features:\n Working native on Quest, Steam Frame & PCVR 6DoF VR cockpit, with the HUDs adapted for VR. A new virtual touch console: energy, shields, targeting, wingmen and ship commands at your fingertips. Side panel with tactical map, voice commands and the button mapping.…",
+   "author": "VR_Bummser",
+   "publishedAt": "2026-11-02T14:29:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dmc4d3oxcHhsN3poMV6uZiAzrbJX8QVh6bS9gtrkCZSA-JdGjqUZkq65wHsQ.png?width=640&crop=smart&auto=webp&s=3f0983dccf736ebf61233417d9be53d2931a437f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/VR_Bummser",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e786040038ce",
+   "canon": "https://www.reddit.com/comments/1xlyjsv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xlyjsv/xreal_aura_to_be_sold_in_brickandmortar_stores_in/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "XREAL AURA to be sold in brick-and-mortar stores in Japan",
+   "text": "NTT Docomo will launch the XREAL AURA in Japan on Friday, November 27, 2026. Sales will begin first through the Docomo Online Shop, with physical retail availability rolling out at Docomo Shops nationwide starting in December 2026. However, they did not announce how many of the…",
+   "author": "AR_MR_XR",
+   "publishedAt": "2026-11-02T14:24:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/xmlwsizrk7zh1.png?width=140&height=79&auto=webp&s=e126b68c534eebabb9872ee30faba97a8ea5e108"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AR_MR_XR",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b01745571ea3",
+   "canon": "https://www.reddit.com/comments/1xly5lp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xly5lp/new_game_coming_to_psvr2_grim/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "NEW GAME COMING TO PSVR2: GRIM",
+   "text": "Coming soon to psvr2",
+   "author": "No_Echo6023",
+   "publishedAt": "2026-11-02T14:08:43+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dVxafvkOCBzkkRPzwV_fwjduSofMsEEa7WkgxxLMOxE.jpeg?width=320&crop=smart&auto=webp&s=72e12c69b0b37d4e0d507e0794ebd3e755c6242c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No_Echo6023",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "be2759fdb454",
+   "canon": "https://www.reddit.com/comments/1xly2s4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xly2s4/trees_thunderstorm_birds_my_little_ar_cloud/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "Trees, Thunderstorm, Birds; My little AR cloud experiment got an update",
+   "text": "I've been working on the little cloud experiment from last time, adding trees and the ability to grow (and destroy) them, as well as a thunderstorm. Full video is here: https://youtu.be/VLIuwMD7AW0?si=lbfVn0aNJ0_Uwmt2",
+   "author": "Alive_Studios",
+   "publishedAt": "2026-11-02T14:05:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ajR5azltcmpoN3poMev8I3IPgTSaaMt_XVWBcFIlXPlvsquoSrXDtZBrPvTr.png?width=640&crop=smart&auto=webp&s=3f23ec357382deb8b362b762d1bc9da01e2bcc30"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Alive_Studios",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "44808f6387e4",
+   "canon": "https://www.reddit.com/comments/1xlwxjy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xlwxjy/sh_codebook_now_supported_in_my_nodejs_3dgs_rad/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "SH codebook now supported in my Node.js 3DGS RAD converter, making SH3 RAD files over 55% smaller",
+   "text": "Following up on my previous post about the Node.js RAD converter, I’ve added SH codebook compression to Gaussian-Splat-Lite.\n It stores shared spherical harmonics coefficients instead of separate coefficients for every splat, reducing file size while preserving view-dependent…",
+   "author": "PropertyPleasant4993",
+   "publishedAt": "2026-11-02T13:18:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MzQ2YW5wdTQ5N3poMckI0HaD5Gtv_13pNGqlTJCj03nQi-7ictQ6gXVh107K.png?width=640&crop=smart&auto=webp&s=59c92ac21f6b5e7ba0e4fd402dda4cf56a44d58b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/PropertyPleasant4993",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "232537e6eac1",
+   "canon": "https://www.reddit.com/comments/1xlwwi2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xlwwi2/ohi_day/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "OHI DAY 🇬🇷",
+   "text": "Last week, Greece celebrated Ohi Day. 🇬🇷\n Flags on balconies. School parades. A date we all recognize, but when I ask younger people what we’re celebrating, many aren’t sure.\n And it made me wonder: What if the Greek flag could trigger a history quiz, right in front of your…",
+   "author": "FutureAugmentedMedia",
+   "publishedAt": "2026-11-02T13:16:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZjdxcjhkODY5N3poMUnZ17DuvzYjUWuGzCfutaRA2qVQpwlOYB7QaeFzgxh1.jpeg?width=640&crop=smart&auto=webp&s=baddacf2b1ce4d831d6ba32af81040b1bde8f3af"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/FutureAugmentedMedia",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b5bcaa0dbfe6",
+   "canon": "https://www.reddit.com/comments/1xlwpdv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xlwpdv/lens_damage/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "Lens damage",
+   "text": "Just bought a second-hand pair of AVPs.\n I don't notice anything major when using them, but when shining a flashlight on the lens, I see these lines; it looks like they're inside the lens. I've only carefully used the Apple cleaning cloth.\n I'm not sure what it could be;…",
+   "author": "No_Savings_9636",
+   "publishedAt": "2026-11-02T13:08:08+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/pek6ykrn77zh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=6ae0847f2a36022ec6b7082c2d00405d190ad3cb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No_Savings_9636",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "41d2a7112285",
+   "canon": "https://www.reddit.com/comments/1xlw78o",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vrdev/comments/1xlw78o/reality_collective_launches_a_webxr_version_of/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "Reality Collective launches a WEBXR version of their cross-platform framework",
+   "text": "One of my claims to fame is that I architected and designed Microsoft's MRTK 2 (With the help of a friend). I was brought on to the HoloToolkit project for HoloLens 1 for my experience with XR and SDK's. At the time, VRTK was on its way out (before the Epic support package) and…",
+   "author": "Darks1de",
+   "publishedAt": "2026-11-02T12:44:57+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Darks1de",
+   "where": "r/vrdev",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fe05d2575e13",
+   "canon": "https://www.reddit.com/comments/1xlw6dw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1xlw6dw/reality_collective_launches_a_webxr_version_of/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "Reality Collective launches a WEBXR version of their cross-platform framework",
+   "text": "One of my claims to fame is that I architected and designed Microsoft's MRTK 2 (With the help of a friend). I was brought on to the HoloToolkit project for HoloLens 1 for my experience with XR and SDK's. At the time, VRTK was on its way out (before the Epic support package) and…",
+   "author": "Darks1de",
+   "publishedAt": "2026-11-02T12:43:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/xtcb930z27zh1.png?width=640&crop=smart&auto=webp&s=b24ba166851c6ab78e2341333c2ab405ac93a50f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Darks1de",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "19c6121c1d81",
+   "canon": "https://www.reddit.com/comments/1xlw4k2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xlw4k2/gaussian_splat_glsl_mirror_of_my_bathroom/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "Gaussian Splat + GLSL mirror of my bathroom",
+   "text": "GS generated with Echo-3 by spAItial, rendered in playcanvas viewer, with custom GLSL mirror.",
+   "author": "_chunrapeepat",
+   "publishedAt": "2026-11-02T12:41:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZnhkcnNhMjIyN3poMR0uPc8pplc6ARuL-PkPt2Oe2OplZkRlJ2X7CgtMzPco.png?width=640&crop=smart&auto=webp&s=9da685f4cf1e5df9840a33e9fa0448702d574602"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/_chunrapeepat",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "27747af04468",
+   "canon": "https://www.reddit.com/comments/1xlvi6c",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xlvi6c/i_build_my_own_splattour/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "I build my own splattour",
+   "text": "How can I improve this. There are lot of artifacts on the view camera never saw. But I see some scan apps produces better results than this even on the view camera never saw? And also how to reduce training time?\n Give some tips for better results. You can explore mine in the…",
+   "author": "Adorable_Test4694",
+   "publishedAt": "2026-11-02T12:10:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ajR1eXhqa2Z4NnpoMaGnN040RI0iSnmiDVizdBpDthyveNbCUj4iQNDx2JEo.png?width=320&crop=smart&auto=webp&s=5fe678fb4a3d9e72578faae3cd7abc920b7b4cbc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Adorable_Test4694",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a6cc1ef08d05",
+   "canon": "https://www.reddit.com/comments/1xlurse",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xlurse/vrchat_faces_user_backlash_after_rejecting/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "‘VRChat’ Faces User Backlash After Rejecting ‘AI-generated’ Content Label",
+   "text": "",
+   "author": "Humble_Low721",
+   "publishedAt": "2026-11-02T11:31:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/RGuzj8FN1dhvek1KRWz9q7l284e008hA7Aikyb8UN-o.jpeg?width=640&crop=smart&auto=webp&s=41212a97e918ea095129e8c892b27204b790588e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Humble_Low721",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "80c4c57e340b",
+   "canon": "https://www.reddit.com/comments/1xluj4l",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xluj4l/rokid_color/",
+   "addedAt": "2026-11-02T21:47:08.156Z",
+   "title": "Rokid Color",
+   "text": "Unfortunately the hands on is not english but it shows the glasses well enough.\n This is the original video from the creator on bilibili:\n https://m.bilibili.com/video/BV1zhxj6jEgj?site=OVERSEAS&lang=en",
+   "author": "15H391FT",
+   "publishedAt": "2026-11-02T11:18:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NmhsenY3aDJvNnpoMaC_7L3dw25X8bPTtNXV1toR_VjXjKX6niiVNCRzvlRT.jpeg?width=640&crop=smart&auto=webp&s=905d222ad4227055d8295c8e6e935946c6eea562"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/15H391FT",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-02T21:47:08.156Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "61c34adb0073",
    "canon": "https://www.reddit.com/comments/1xlub4k",
