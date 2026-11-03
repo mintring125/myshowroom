@@ -1,8 +1,1331 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-11-03T06:59:53.275Z",
+ "updatedAt": "2026-11-03T17:13:42.509Z",
  "cases": [
+  {
+   "id": "7bddf4733f24",
+   "canon": "https://www.reddit.com/comments/1xmym86",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xmym86/i_built_a_3d_office_where_every_claude_code/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "I built a 3D office where every Claude Code session I run is a little person at a desk",
+   "text": "I use Claude Code with a personal account and my work account, and kept losing track of which terminal was doing what, which one was stuck waiting for me, and how much of each account's window I had used. So I built clalt, a small Go CLI that keeps each account in its own…",
+   "author": "kamaldhital",
+   "publishedAt": "2026-11-03T17:06:43+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/z2rji6g4jfzh1.png?width=640&crop=smart&auto=webp&s=7c3bc357931ee0bde568e15069f1c4ba8c3140a0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/kamaldhital",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4ac0ed9aa57a",
+   "canon": "https://www.reddit.com/comments/1xmykw3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xmykw3/claude_watermark/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "Claude watermark",
+   "text": "Accurate?",
+   "author": "geringonco",
+   "publishedAt": "2026-11-03T17:05:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/k3daoadwifzh1.png?width=640&crop=smart&auto=webp&s=52ec723459c25b4acff19eb03f233bf30f405b33"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/geringonco",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9260f19c9548",
+   "canon": "https://www.reddit.com/comments/1xmyetx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xmyetx/we_built_shared_memory_for_claude_code_so_teams/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "We built shared memory for Claude Code so teams don't keep relearning the same lessons",
+   "text": "Full disclosure: I'm part of the team behind Entelligence Memory.\n We built a shared memory layer that connects Claude Code sessions, PRs, tickets and incidents.\n Claude Code can retrieve past decisions and team context through MCP before making changes, so engineers don't keep…",
+   "author": "entelligenceai17",
+   "publishedAt": "2026-11-03T16:59:25+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/entelligenceai17",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3521f358823f",
+   "canon": "https://www.reddit.com/comments/1xmyco7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xmyco7/thief_gold_vr_vr_training_mission_first_pass/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "Thief GOLD VR - VR Training Mission (First Pass)",
+   "text": "",
+   "author": "jrubimf",
+   "publishedAt": "2026-11-03T16:57:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/9xSQM9ecVcakBUP-iuJaIfosaYGSEXKK88VGiH1ijEE.jpeg?width=320&crop=smart&auto=webp&s=fff1705a2f98f4e847541c07a92aebd72470d7ea"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/jrubimf",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "58001f823509",
+   "canon": "https://www.reddit.com/comments/1xmybks",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xmybks/i_made_a_lateral_thinking_mystery_game_with_an/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "I made a lateral thinking mystery game with an LLM host (tech demo)",
+   "text": "Hi all. I'm an LLM hobbyist, and I make small games on the side to try out new models. This one is a tech demo, not a commercial game, but it is fully playable and free in the browser:\n https://soup.tier9.games\n What it is\n A lateral thinking puzzle game (\"situation puzzles\").…",
+   "author": "whoji",
+   "publishedAt": "2026-11-03T16:56:09+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/whoji",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e2fe910daaac",
+   "canon": "https://www.reddit.com/comments/1xmy77g",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xmy77g/claude_code_seo_audits_a_missing_finding_needs/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "Claude Code SEO audits: a \"missing\" finding needs proof too. Make it show the fetch and the grep that came back empty",
+   "text": "Disclosure first: I make SEO Skills by PENRA, a paid pack of Claude skills for SEO. Nothing below needs it. It's plain Claude Code.\n The usual advice for AI site audits is \"make Claude quote the text that proves each finding\". It works for things that exist: a duplicate title, a…",
+   "author": "DutyOnly4308",
+   "publishedAt": "2026-11-03T16:51:39+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/DutyOnly4308",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "28856b2871fe",
+   "canon": "https://www.reddit.com/comments/1xmy2j7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xmy2j7/i_tested_whether_compact_or_starting_fresh_saves/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "I tested whether /compact or starting fresh saves money in Claude Code. Keeping one session going was ~25% cheaper, same test results",
+   "text": "",
+   "author": "Sufficient-Storage87",
+   "publishedAt": "2026-11-03T16:46:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Y2o3ZnlieGtmZnpoMfiXJT3tieA_SBuEelnr4h6K2ktg0pnDwycvW_-bVDEC.png?width=640&crop=smart&auto=webp&s=536879414f2e00e6cb95d6497578c173fad83fe9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Sufficient-Storage87",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "39c572be23f3",
+   "canon": "https://www.reddit.com/comments/1xmy21h",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xmy21h/i_wanted_to_see_how_quickly_ai_could_help_me_make/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "I wanted to see how quickly AI could help me make a commercial game. ~15 human hours later, Photon Fighters is live.",
+   "text": "I decided to run a little experiment: could AI dramatically reduce the time and technical barrier required for one person to make a small, genuinely enjoyable commercial game?\n I deliberately kept the scope small and started building Photon Fighters, a twin-stick arcade…",
+   "author": "ShreddedCheddar32",
+   "publishedAt": "2026-11-03T16:46:16+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/24RTeEoLXBZ9VOr1thdXHZJUOIXk-r_dZUnrNV10U5c.png?width=640&crop=smart&auto=webp&s=b618a427dcd6c0fab19d444aaa6c42642e313282"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ShreddedCheddar32",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "08c35b0a117f",
+   "canon": "https://www.reddit.com/comments/1xmy1p4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xmy1p4/i_built_a_local_notes_kanban_app_that_claude_code/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "I built a local notes + Kanban app that Claude Code can read and update, so I can say \"fix the open bugs\" and watch the cards move",
+   "text": "While working on my game I kept copy-pasting bug notes and screenshots into Claude. So I made ForkPad: a small notes app and Kanban board that runs locally, plus an MCP connector for Claude Code.\n In the video I type one line, \"pick up the lantern card in fish game and fix it\".…",
+   "author": "ForkedPush",
+   "publishedAt": "2026-11-03T16:45:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dmdlbXJwc2RmZnpoMcsYOPiomtqw_4xN-IfUmiDdksFNyNnWDzMu54asQ7Zu.png?width=640&crop=smart&auto=webp&s=0f8c150a47430779e8b48fd3c255e5dc9a67041a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ForkedPush",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4222bba589a4",
+   "canon": "https://www.reddit.com/comments/1xmy1m0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmy1m0/i_spent_9_months_building_local_code_search_tool/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "I spent 9 months building local code search tool for Claude Code / 200 held-out SWE-rebench tasks: 5–11% cheaper, same no. of tasks solved. Open source (sweet-search)",
+   "text": "Hi everybody, for the past 9 months I've been building sweet-search, a local code search tool for coding agents, so I wanted to try and share a mini-blog and my project.\n Instead of using native tools by reflex, the agent gets six fast search tools on a local index, plus a…",
+   "author": "mrsladoje",
+   "publishedAt": "2026-11-03T16:45:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Z3ZoNHhxNGZjZnpoMSz1CHR_M_uhCPIW_Rr3F6IIb8iNPMMWtakoiy5sQLek.png?width=640&crop=smart&auto=webp&s=1dc8eec21f69c800170074d233b6f957836f9362"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/mrsladoje",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6147a16f740d",
+   "canon": "https://www.reddit.com/comments/1xmxz45",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xmxz45/im_building_a_sorting_hat_for_my_models/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "I'm building a \"Sorting Hat\" for my models",
+   "text": "I've been building a large project for about 8 months, with another year or two still ahead. I'm always asking myself two questions: which model is best for this job, and what effort level should I use for it?\n So I built a small testing UI and connected both Claude and Codex.…",
+   "author": "MadManD3vi0us",
+   "publishedAt": "2026-11-03T16:43:15+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MadManD3vi0us",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f52556572e9e",
+   "canon": "https://www.reddit.com/comments/1xmxxv0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xmxxv0/claude_is_not_nerfed/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "\"Claude is not nerfed\"",
+   "text": "https://preview.redd.it/lygxvehodfzh1.png?width=2100&format=png&auto=webp&s=95af1a05237833bbcc150a2c49403b18e6732db1\n Yes I recognize the 95% CIs slightly overlap, but given that a LOT of people are reporting nerfs, and that the model feels FAR stupdier (making downright silly…",
+   "author": "brainExploded99",
+   "publishedAt": "2026-11-03T16:41:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/lygxvehodfzh1.png?width=140&height=122&auto=webp&s=e2e13f76376130ace0786e499a1ce36ba73e193d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/brainExploded99",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4a55d81409dc",
+   "canon": "https://www.reddit.com/comments/1xmxpan",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xmxpan/i_let_claude_code_open_a_pr_on_my_stores_site/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "I let Claude Code open a PR on my store's site every day. It never gets near the money. Here's the loop",
+   "text": "I run a small online store on a production server. Real customers, real card payments, around CA$2.5K a month. Small, but a bad deploy costs actual sales, so I wanted Claude Code working on it without ever being the one who ships.\n The loop is two bots. Compass is the research…",
+   "author": "wolverinee04",
+   "publishedAt": "2026-11-03T16:32:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/D7xCIXlXC28_ujYDu_sPwcRUxg0x6G6rWxmbTYl6mJo.jpeg?width=320&crop=smart&auto=webp&s=8188e9a9e2c5026032bf1c2f00deee4f86182b95"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/wolverinee04",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3b47986773d9",
+   "canon": "https://www.reddit.com/comments/1xmxl2i",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xmxl2i/i_accidentally_invented_teleportation_in_my_room/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "I accidentally invented teleportation in my room",
+   "text": "while experimenting with levels for mr game and pushing the boundaries, I discovered teleportation. absolute mindf*ck! 🤯\n I'm still working on improving the quality",
+   "author": "flokiXR",
+   "publishedAt": "2026-11-03T16:28:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cXo2bG9wZ3liZnpoMT3FXROczxhSP1pPF217Jh8mBa5nrmZg4pVawzt1b_ny.png?width=640&crop=smart&auto=webp&s=11883700b319a0a6f7603e7e8d7dbc70204284dc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/flokiXR",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8dd8658680df",
+   "canon": "https://www.reddit.com/comments/1xmxjy1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xmxjy1/i_kept_pasting_diff_lines_back_into_chat_to_ask/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "I kept pasting diff lines back into chat to ask Claude why, so I built a diff where the same session answers on the line",
+   "text": "When I review code Claude wrote, I want to ask questions while I'm reading. Going back to chat to explain \"this bit in that file\" kept getting in the way, and a new chat just guesses why the code looks like that. So we built Diffo.\n What we built\n A Claude Code skill. `/diffo`…",
+   "author": "shetritr",
+   "publishedAt": "2026-11-03T16:27:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZHhsODRrejBjZnpoMX5inleiBfG2-kPZL6DvtuK-tL8vsgwHL_AdHsMA-MzM.png?width=640&crop=smart&auto=webp&s=c8ce1596f714ef47b3dd50356a25a3e5ce8d173e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/shetritr",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c6ac6516cd66",
+   "canon": "https://www.reddit.com/comments/1xmxjiy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmxjiy/i_asked_claude_which_database_to_use_612_times/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "I asked Claude which database to use 612 times, then had Claude Code and Cursor build the same apps. In 4 of 7 jobs they built something else.",
+   "text": "I wanted to know if what Claude recommends in chat matches what coding agents actually do when you let them choose.\n Setup\n Chat: 612 answers from Claude Sonnet 5 (API) to questions like “What database should I use for a new web app with users and their data?” Builds: 87 runs of…",
+   "author": "SadAd4761",
+   "publishedAt": "2026-11-03T16:27:05+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SadAd4761",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e3f9b4305861",
+   "canon": "https://www.reddit.com/comments/1xmxitr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/WebXR/comments/1xmxitr/ive_opensourced_threelive_a_sandboxed_threejs/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "I've open-sourced Three-Live: a sandboxed Three.js runtime that compiles natively to Android Filament and iOS RealityKit (and also works in WebXR)",
+   "text": "",
+   "author": "jonathanbingham",
+   "publishedAt": "2026-11-03T16:26:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/FQncQLhuw8eLzaBL753UmfivuwPCZX-yTFZ6jwB-dho.png?width=640&crop=smart&auto=webp&s=97a2737a7651030f8f1072e60cd58926346821f7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three",
+    "threejs"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/jonathanbingham",
+   "where": "r/WebXR",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "79bcc397e5ca",
+   "canon": "https://www.reddit.com/comments/1xmxdcv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xmxdcv/i_accidentally_invented_teleportation_in_my_room/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "I accidentally invented teleportation in my room",
+   "text": "while experimenting with levels for mr game and pushing the boundaries, I discovered teleportation. absolute mindf*ck! 🤯\n I'm still working on improving the quality",
+   "author": "flokiXR",
+   "publishedAt": "2026-11-03T16:20:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZGN6ZGI3aWlhZnpoMT3FXROczxhSP1pPF217Jh8mBa5nrmZg4pVawzt1b_ny.png?width=640&crop=smart&auto=webp&s=47a46db661e017cf992a0699ca6998539d82cd56"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/flokiXR",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3aaea678ee8f",
+   "canon": "https://www.reddit.com/comments/1xmx1ub",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmx1ub/they_need_to_make_integrated_voice_pucks/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "They need to make integrated voice pucks",
+   "text": "I understand I can buy some hardware and use Claude to help me build a voice assistant that uses the API and whatnot... but that is not something most people will do.\n An Alexa is $30 to have rolling. But Alexa is stupid. Claude is not. They're going to start pushing Claude duet…",
+   "author": "MaxLo85",
+   "publishedAt": "2026-11-03T16:09:09+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MaxLo85",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "21c0da9a780e",
+   "canon": "https://www.reddit.com/comments/1xmwr7a",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmwr7a/i_gave_claude_one_sentence_and_it_made_a_15/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "I gave Claude one sentence and it made a 15 second Thanksgiving ad through MCP: script, Nano Banana 2.1 keyframes, Seedance 2.5 shots, MiniMax Music 3.0",
+   "text": "The whole prompt was one line: \"Make a 15 second Thanksgiving ad for a small indie coffee shop called Little Acorn Coffee.\" Claude had the Atlas Cloud MCP server connected, so it could call image, video and music models on its own. The video is the workflow cut: Claude's script…",
+   "author": "Few-Profession421",
+   "publishedAt": "2026-11-03T15:58:34+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dXk4em5udnM2ZnpoMVB9WaggjPuMnFh14ztvqfZCUlBf1-X---SGYcUbCNLt.png?width=640&crop=smart&auto=webp&s=de03fb9197d20e89ff25468298e9f9c959a50a46"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Few-Profession421",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fa3a8fc0a8c7",
+   "canon": "https://www.reddit.com/comments/1xmwqbl",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xmwqbl/steam_frame_airsoft_rifle_controller/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "Steam Frame Airsoft rifle controller",
+   "text": "Finally created a mount to turn GBBR or AEG airsoft rifles and other toys into VR controllers.\n Can't wait to play H3VR with this. \n Will publish the guide hopefully before our epoch GTA VI. \n Great for upcoming and current PCVR mods.",
+   "author": "RickSpawn147",
+   "publishedAt": "2026-11-03T15:57:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/8recui9n6fzh1.jpeg?width=640&crop=smart&auto=webp&s=931afdc8d89fe7f6be27978af8b71c34330ebacb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RickSpawn147",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9b4a36376275",
+   "canon": "https://www.reddit.com/comments/1xmw5df",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xmw5df/i_accidentally_invented_teleportation_in_my_room/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "I accidentally invented teleportation in my room",
+   "text": "while experimenting with levels for mr game and pushing the boundaries, I discovered teleportation. absolute mindf*ck! 🤯\n I'm still working on improving the quality",
+   "author": "flokiXR",
+   "publishedAt": "2026-11-03T15:35:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OHhidDBycWYyZnpoMT3FXROczxhSP1pPF217Jh8mBa5nrmZg4pVawzt1b_ny.png?width=640&crop=smart&auto=webp&s=7079b125692c1c6af18015ad20b20a9490f39538"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/flokiXR",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "511550b553f7",
+   "canon": "https://www.reddit.com/comments/1xmw242",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmw242/claude_never_says_no_to_a_feature_so_i_built_a/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "Claude never says no to a feature, so I built a skill that makes it argue for deleting one",
+   "text": "tl;dr: It's a skill that helps you safely delete features and reduce assumptions. Gist link here: https://gist.github.com/amos501/919cc1941fb668dc1781bd4cc9a34fc4\n I've been building a personal finance app with Claude Code, mostly by having an idea and asking for it. That works…",
+   "author": "haymose",
+   "publishedAt": "2026-11-03T15:32:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/fjrt82wt1fzh1.png?width=640&crop=smart&auto=webp&s=3d80cb780e9909c3fa168f50f88e63c53d42f90a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/haymose",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2b928649637c",
+   "canon": "https://www.reddit.com/comments/1xmvsfx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xmvsfx/safeguard_and_permanent_ban_from_opus_55/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "Safeguard and permanent ban from Opus 5.5",
+   "text": "Has anyone experienced anything like that?\n I have ignored the safeguard yellow warning a couple of times because the request was legit: was asking it to show all data it sends to my local LLM (system prompt etc). It didn't like it...…",
+   "author": "wurst_katastrophe",
+   "publishedAt": "2026-11-03T15:22:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/iy5xf9f50fzh1.png?width=140&height=125&auto=webp&s=b82f0a3009994a0492587853eed964f418a65051"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/wurst_katastrophe",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "818e47cf6ba4",
+   "canon": "https://www.reddit.com/comments/1xmvrqf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xmvrqf/ive_been_using_ai_to_help_make_an_incremental/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "I've been using AI to help make an incremental game about a President who just wants to play golf lol",
+   "text": "So I've been working on a game called President of the Office, and I've been using Codex and Claude Code to help with the actual coding. The idea is pretty ridiculous lol. You're the President of the United States, but all you really want to do is play golf instead of running…",
+   "author": "Junior_Muffin5931",
+   "publishedAt": "2026-11-03T15:21:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/a3l0YjI3YmIwZnpoMU1tN0P68AfZQzdmPEBdpTDJdKDscETlPeHvfqeY2PM3.png?width=320&crop=smart&auto=webp&s=162286b08a9d33002bc83a75fce703fed9708668"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Junior_Muffin5931",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6e10e95d084c",
+   "canon": "https://www.reddit.com/comments/1xmvcub",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xmvcub/trailer_my_game_inner_orbit_4_months_of_ai/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "Trailer my game - Inner Orbit - 4 months of ai assisted dev",
+   "text": "Solo Dev, built using Claude Code, started on sonnet 4.6, now using opus 5.5.\n Initial seed of the game was a JS project I made back in 2018, now the game runs in a custom Rust engine and is optimized to run on minimal hardware specs (I'm targeting ARM processors with 2gb of…",
+   "author": "StellarSoupStudio",
+   "publishedAt": "2026-11-03T15:05:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M2dlZjBoMnh2ZXpoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=f1d8bcc8ea41c292266e61ace0802ec347130797"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/StellarSoupStudio",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "f1218bddd4ab",
+   "canon": "https://www.reddit.com/comments/1xmv7jq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmv7jq/my_timer_ui_kept_changing_back_turns_out_it_was/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "My timer UI kept \"changing back\". Turns out it was two different bugs",
+   "text": "I built a free focus-hours tracker with Claude Code, so disclosure first. This is mostly about a bug that turned out to be two.\n I'd just shipped a redesign of the timer card, and in Brave it kept flipping back to the old UI. Instead of editing again, Claude checked that…",
+   "author": "GhaisD",
+   "publishedAt": "2026-11-03T15:00:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/zHwyHtm3DnESqyyBZf-Q1SzaxQl2CfqDGUQNapdoI24.png?width=140&height=73&auto=webp&s=0ef61e40db03c0243b6ecb9b1fb7b777b5054dca"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/GhaisD",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "019cf3d96a37",
+   "canon": "https://www.reddit.com/comments/1xmv04u",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xmv04u/capitol_combat/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "Capitol combat",
+   "text": "Build with gpt, claude, nano banana, eleven labs, and more. The sprites took many rounds of work, what a hassle. \n Capitolcombat.com shipped yesterday! \n Play for free on web now",
+   "author": "AdPrior2503",
+   "publishedAt": "2026-11-03T14:52:12+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/6161mac4vezh1.jpeg?width=140&height=64&auto=webp&s=b57f1ab02cfe24bf5bd04db5238cb6d447870d10"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AdPrior2503",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e41ea22e7660",
+   "canon": "https://www.reddit.com/comments/1xmuhvs",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xmuhvs/i_tore_down_my_whole_cyberpunk_street_and_rebuilt/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "I tore down my whole cyberpunk street and rebuilt it in 3D. Before vs. after, made with just Opus and ChatGPT",
+   "text": "Two months ago I started building a game and wanted to make something fun with a real story. I went through a bunch of prototypes until one finally clicked - a 2.5D cyberpunk side-scroller in a rain-soaked neon city. The colors, the reflections, the mood once the music came in,…",
+   "author": "the_builder_ai",
+   "publishedAt": "2026-11-03T14:32:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YnhqZXEzbzJwZXpoMeikFHUhDd9juFnpyexp5s35E_5w-CPnsDBa7RV5AHZF.png?width=640&crop=smart&auto=webp&s=ecabebe0de854eb14f8035a30414b2fc67b46a91"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/the_builder_ai",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ac10a9d31f3d",
+   "canon": "https://www.reddit.com/comments/1xmt5uw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xmt5uw/gaussiansplatlite_now_supports_lcc2_with_smooth/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "Gaussian-Splat-Lite now supports LCC2 with smooth LOD transitions",
+   "text": "I’ve added LCC2 streaming to Gaussian-Splat-Lite, my open-source 3D Gaussian Splatting renderer for Three.js.\n LOD levels crossfade smoothly as the camera moves. Supported on both WebGPU and WebGL2.\n GSL now supports most of LOD streaming formats, including RAD, streaming SOG,…",
+   "author": "PropertyPleasant4993",
+   "publishedAt": "2026-11-03T13:38:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MGMydGhwY3loZXpoMdEB_Q6rhrY3FtY7W_jblWx8LF92JrwzwoIOkif7OftZ.png?width=640&crop=smart&auto=webp&s=219c8c050a7ed6e7e230bfe6c9e5b1fc4464cfd7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three",
+    "threejs"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/PropertyPleasant4993",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "95f342f61ba5",
+   "canon": "https://www.reddit.com/comments/1xmt3r3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xmt3r3/blender_53_3dgs_render_engine_with_lenses_and/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "Blender 5.3 3DGS Render Engine with lenses and film stocks.",
+   "text": "I've been building a little render engine for Blender to make my renders of 3DGS scenes better. I just wasn't happy with the results from cycles. This is actually a hybrid of the Spirula render engine and cycles.\n https://github.com/timfennell/blender-splat-render\n I've made…",
+   "author": "timfennell_",
+   "publishedAt": "2026-11-03T13:36:12+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/dgqwa31lhezh1.jpeg?width=140&height=93&auto=webp&s=dd73fa77169ca813cd51f5e107a4cf57e1971939"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/timfennell_",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a91aba0cc7fd",
+   "canon": "https://www.reddit.com/comments/1xms1kb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/Spectacles/comments/1xms1kb/we_brought_spectacles_lenses_and_their_creators/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "We brought Spectacles Lenses and their creators together in one place! 🕶️",
+   "text": "Hey everyone!\n We've been working on something for the Spectacles community, and it's finally live! 🎉\n There are so many awesome Lenses being created, but they're scattered across different places. So we thought — why not bring them all together and make it easier for everyone…",
+   "author": "TraditionalAir9243",
+   "publishedAt": "2026-11-03T12:47:32+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TraditionalAir9243",
+   "where": "r/Spectacles",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c306ce10ec3c",
+   "canon": "https://www.reddit.com/comments/1xmrw1b",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xmrw1b/supposed_to_be_testing_but_were_spending_too_much/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "Supposed to be testing, but we're spending too much time laughing at Dave's massive hands.",
+   "text": "Having a lot of fun putting the finishing touches on the new STAGEit Creative Suite, including major updates to Creator and Presenter, and our new free Creator app for Mac.\n Final rounds of testing underway. Can't wait to get the Mac app into your hands!",
+   "author": "Bingobango1001",
+   "publishedAt": "2026-11-03T12:40:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Z3d6NGwxZjM3ZXpoMWGBMcC5HgPoZRcl0E5OLUuwhy7i37EbbhyhsWOqCgA_.png?width=640&crop=smart&auto=webp&s=9ffc9dae3985e34392acefb556d2d03c69d6bb06"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Bingobango1001",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a9185aa6b2a3",
+   "canon": "https://www.reddit.com/comments/1xmrth7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xmrth7/multiset_25_setting_a_new_benchmark_for_augmented/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "MultiSet 2.5: Setting a New Benchmark for Augmented Reality Localization and Mapping",
+   "text": "Today we're releasing Gen2.5, the next generation of MultiSet's Visual Positioning System. It finds the right place in a map more often and answers the first calls on a map faster, with the same centimeter accuracy you build on. Every existing map on our cloud has already been…",
+   "author": "AR_MR_XR",
+   "publishedAt": "2026-11-03T12:36:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/l8lOhiU5KbABKjEron0i2DCRbdwkuGViTxMHQAIZz88.jpeg?width=640&crop=smart&auto=webp&s=12f251c022cff182e0723a3a494951f23edfa89e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AR_MR_XR",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f24855613aef",
+   "canon": "https://www.reddit.com/comments/1xmrmrs",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xmrmrs/move_real_walls_in_ar_feels_like_magic/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "Move real walls in AR feels like magic",
+   "text": "Do you know that moment in movies and games when the walls suddenly start closing in, or the ceiling looks like it’s about to give you a very forceful massage? You can get that feeling in Mixed Reality too. I could hardly believe it myself, but hey, it works! XR really is a…",
+   "author": "emulo2",
+   "publishedAt": "2026-11-03T12:27:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ejE3czdiYWYyZXpoMblCyI30kgMnb-NYWfbzz3SQhllGDsOjx54u7GS3Iq4X.png?width=640&crop=smart&auto=webp&s=0a17e26a48d4c29c26809c6368459a808b844a5c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/emulo2",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4da6c8e86b66",
+   "canon": "https://www.reddit.com/comments/1xmr92z",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xmr92z/i_just_submitted_cubiques_to_the_meta_vr/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "I just submitted Cubiques to the Meta VR Developer Portal, bringing my original iOS puzzle game to VR and Mixed Reality! 🚀🎉 One step closer to launch, and I can’t wait for everyone to play it!",
+   "text": "- 70 handcrafted puzzle levels\n - Pinch, hold, and trace across multiple tiles\n - Path previews to plan your next move\n - VR environments and MR passthrough\n - Floating and real-table placement\n - Move, rotate, and resize your board\n - Minimal menus with poke, ray, and…",
+   "author": "dilmerv",
+   "publishedAt": "2026-11-03T12:07:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/am0xMzZreHAxZXpoMX5QUL-dD_PchOv4UL1vyY2UfmQjgn-aLyMD3nx4DbS_.jpeg?width=640&crop=smart&auto=webp&s=641ee007e79f4cfc6ff84cc3c8ce401ef1bcb6a4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/dilmerv",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "63352997a2ca",
+   "canon": "https://www.reddit.com/comments/1xmqz3k",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/Spectacles/comments/1xmqz3k/gta_v_made_spatial_on_specs/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "GTA V, made spatial on Specs",
+   "text": "u/Pavlo_Tkachenko and I built a mixed reality layer for GTA V on SPECS: cars from your palm, the map in your hand, Gemini on call.\n Now imagine this for every game you already own. Which game would you augment?",
+   "author": "stspanho",
+   "publishedAt": "2026-11-03T11:53:57+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "ai",
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/stspanho",
+   "where": "r/Spectacles",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d205e0276971",
+   "canon": "https://www.reddit.com/comments/1xmqhge",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xmqhge/sony_removes_psvr_2_from_playstations_web_store/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "Sony Removes PSVR 2 From PlayStation’s Web Store as Stock Dries Up at Online Retailers",
+   "text": "",
+   "author": "Humble_Low721",
+   "publishedAt": "2026-11-03T11:27:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/SzkQtFqhHmOFjS9ZB_3RjfL7BTqkg3Bedes12agNJFk.jpeg?width=640&crop=smart&auto=webp&s=4c692b70ad6a7010adcf82abc00d42d3af966760"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Humble_Low721",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bda28324bbc5",
+   "canon": "https://www.reddit.com/comments/1xmpsu0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xmpsu0/i_found_god_rdr_vr/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "I found God (RDR VR)",
+   "text": "This is the single greatest moment I've ever had in VR, bar none. Just wanted to share. using Bodywalk VR to emulate forward walk/run by marching in place\n Also you can get this color/clarity/less dustbowl filter by boosting the saturation in virtual desktop and turning on night…",
+   "author": "Repulsive_Invite_680",
+   "publishedAt": "2026-11-03T10:47:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NW9vNDFmeGduZHpoMSwQLNZ43D0BXj81475sYizLCO-3NzqWJzDUbmMfwPoB.png?width=640&crop=smart&auto=webp&s=5d37afc3aba4e36135ebf7bb6754da2c499ea935"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Repulsive_Invite_680",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f13fe2d2510d",
+   "canon": "https://www.reddit.com/comments/1xmovds",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xmovds/cyberpunk_2077_vr_mod_now_has_a_fully_interactive/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "Cyberpunk 2077 VR mod now has a fully interactive VR lobby!",
+   "text": "CyberpunkVRPort just got another update! The coolest addition for me is the new VR lobby. You can walk around, pick up items, choose your save, create your character, and adjust both game and mod settings, all inside VR.\n On your first launch, you can also choose your weapon…",
+   "author": "AdBorn3753",
+   "publishedAt": "2026-11-03T09:51:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NnhhcGZhbGRkZHpoMZ5CuVxsGGHLK4Pmj20EBvh9GOjVxpXNW3es1ltt6SYx.png?width=640&crop=smart&auto=webp&s=ecf2558b3db718152d0d907ce0d12047befbe626"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AdBorn3753",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "41e8dfad19e0",
+   "canon": "https://www.reddit.com/comments/1xmm3xc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xmm3xc/space_marine_2_vr_mod_alpha_release/",
+   "addedAt": "2026-11-03T17:09:11.835Z",
+   "title": "Space Marine 2 VR Mod Alpha Release",
+   "text": "Hey all, here's the initial release of my Space Marine 2 VR mod: https://github.com/Joe975/space-marine-2-vr\n You can use the installer from here https://github.com/Joe975/space-marine-2-vr/releases/tag/v1.0.0, or clone the whole project and make your own tweaks.\n This supports…",
+   "author": "Reklaw12",
+   "publishedAt": "2026-11-03T06:56:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MnJueHZ6NXJoY3poMWE_k74K0FhpFob1xjVQGvCSOs6-eFf1OdnOlU9qmyEA.png?width=640&crop=smart&auto=webp&s=db58a82dce3e7f6a0cbd10e9d6e776d86a747bdd"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Reklaw12",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-03T17:09:11.835Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "afcbade402d4",
    "canon": "https://www.reddit.com/comments/1xmm0yt",
