@@ -1,7 +1,1069 @@
 {
  "version": 1,
- "updatedAt": "2026-11-03T17:13:42.509Z",
+ "updatedAt": "2026-11-03T23:33:42.007Z",
  "cases": [
+  {
+   "id": "abc6878981be",
+   "canon": "https://www.reddit.com/comments/1xn8k5d",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xn8k5d/built_a_tool_to_optimize_my_claude_code_usage/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "Built a tool to optimize my Claude Code usage",
+   "text": "I’m a senior SWE using Claude Code daily. I analyzed my transcripts and found that 56% of API-equivalent costs went to rereading context. Cache expiry alone cost me $98.74 in 27 days.\n So I built optimAIz with Claude Code, using it to implement features, write tests, and iterate…",
+   "author": "stichstichstich",
+   "publishedAt": "2026-11-03T23:23:11+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/stichstichstich",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f4ac1855afbf",
+   "canon": "https://www.reddit.com/comments/1xn8b2q",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xn8b2q/dragon_drop_our_project_for_the_vr_start/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "Dragon Drop - our project for the VR Start Developer Competition",
+   "text": "Hey everyone!\n We have been working really hard on a new project for the Meta VR Start Developer Competition, and we officially have our Coming Soon page live on the Meta Horizon store! \n Dragon Drop is a VR handtracking adventure game where you fly dragons though a living open…",
+   "author": "3lbGames",
+   "publishedAt": "2026-11-03T23:12:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cG1raHY1czRjaHpoMdnHzCGr_24D0mI6bH07XKv16pVUbCdi7bCIur4dEq-7.png?width=640&crop=smart&auto=webp&s=a763ca0b469663439877d31d011cfa1fedf676eb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/3lbGames",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "144a9363b6f2",
+   "canon": "https://www.reddit.com/comments/1xn7vh7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xn7vh7/a_polling_loop_in_my_servers_claude_code_session/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "A polling loop in my server's Claude Code session burned ~100M tokens in one day, so I built a watchdog that wakes Claude only when something changes",
+   "text": "I keep a Claude Code session running on a Debian VPS as a resident admin. At one point a polling loop inside that session ate about 100M tokens in a single day, while nothing on the server was wrong.\n Atlas is what I built after that. It's a watchdog for one Linux server, stdlib…",
+   "author": "Se4h",
+   "publishedAt": "2026-11-03T22:53:44+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Se4h",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9ba81e7b22c7",
+   "canon": "https://www.reddit.com/comments/1xn7um8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xn7um8/creating_a_visual_novel_without_ai_or_coding/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "Creating a visual novel without AI or coding",
+   "text": "I’ve built a visual novel timeline engine with the help of Claude, which allows you to implement dating sims, idle mechanics, turn-based combat, relationship systems, and other tools—all without having to write a single line of code yourself.\n And if you do want to use AI, the…",
+   "author": "TheTalkingPegasus",
+   "publishedAt": "2026-11-03T22:52:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/12dusggv8hzh1.jpeg?width=140&height=96&auto=webp&s=e401d0ae3b56260dfa6e11cd59a3e7727043b85f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TheTalkingPegasus",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3db63d28e056",
+   "canon": "https://www.reddit.com/comments/1xn7kz7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn7kz7/ive_been_building_a_dungeon_crawler_carl_card/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "I've been building a Dungeon Crawler Carl card deck-building game with Claude",
+   "text": "I've recently started building a little Dungeon Crawler Carl deck-building game using Claude, and I wanted to share the first few minutes of gameplay.\n The idea is pretty simple.\n You start in your apartment, just before the world collapses. You've got a limited amount of time…",
+   "author": "Gam8bit",
+   "publishedAt": "2026-11-03T22:41:34+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NXR4OWp6cHU2aHpoMXhSbeRvcz_nocNoH2Pf28JerkbkMCVOsp-Z3hRbYOej.png?width=320&crop=smart&auto=webp&s=9c2d4c0a3f9d27e3af5804f4740bb3c1c80f305d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Gam8bit",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1474a1278c6a",
+   "canon": "https://www.reddit.com/comments/1xn7jti",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn7jti/from_a_notebook_sketch_to_an_animated_godot_boss/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "From a notebook sketch to an animated Godot boss — 3D AI + Opus 5.5",
+   "text": "After my first post about After the Wind, I stayed in touch with the developer and asked how he makes his characters. He shared the process behind this penguin boss, from two notebook sketches to a rigged character with 22 animations.\n The stack\n Claude Opus 5.5 + Blender —…",
+   "author": "Delicious-Shower8401",
+   "publishedAt": "2026-11-03T22:40:11+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bmd5aGR3ZGk1aHpoMXPkUATUGVmX00BplUI5h6QuJBgeJO4UfF4mxgl-gNFo.png?width=640&crop=smart&auto=webp&s=bf8760c6701ccdd7cf10915fa4557f1881c5f1e7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Delicious-Shower8401",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "856503859420",
+   "canon": "https://www.reddit.com/comments/1xn7ccj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xn7ccj/i_built_an_android_ar_camera_where_3d_characters/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "I built an Android AR camera where 3D characters and effects follow your face live",
+   "text": "Hi everyone — I’m the solo developer of Augmento, a playful Android AR camera built with Unity and ARCore.\n It places 3D characters, hats, glasses, lightning, and other effects onto faces live in the camera. I also built speech bubbles that follow the mouth, and the app captures…",
+   "author": "dynamicu",
+   "publishedAt": "2026-11-03T22:31:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/abdnn4x15hzh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=cb78849260090fe85ba1dc39bf8064fdd88676ad"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "three",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/dynamicu",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2ae90afa569b",
+   "canon": "https://www.reddit.com/comments/1xn78r2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn78r2/i_built_a_free_and_fun_opensource_mtg_deckbuilder/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "I built a free and fun open-source MTG deckbuilder with Claude as a handly lil helper",
+   "text": "Lately, I have been struggling a lot with inspiration and could not come up with fun and engaging decks to play with.\n I started looking for deckbuilders and went the usual way of checking Scryfall and EDHREC and various other deckbuilding sites, but these were mostly decks…",
+   "author": "Imparat0r",
+   "publishedAt": "2026-11-03T22:27:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/jr7ug5nd4hzh1.jpeg?width=140&height=97&auto=webp&s=03c87da1644870d3bd26b912421abda4431e00f4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Imparat0r",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4a02cf6efd6b",
+   "canon": "https://www.reddit.com/comments/1xn6w4z",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn6w4z/asked_claude_for_a_little_boba_shop_game_for_my/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "Asked Claude for a little boba shop game for my 12 yr old. It made something with atmosphere and heart and I'm wowed",
+   "text": "https://preview.redd.it/tfyuf6yoygzh1.png?width=1800&format=png&auto=webp&s=10f70854c828bfbf829f9cd2dc525371872231ac\n A couple days ago I wanted to make something for my 12-year-old. She loves cozy shop sims. So I typed out a brief for Claude, something about a boba café,…",
+   "author": "earofgeorge",
+   "publishedAt": "2026-11-03T22:13:11+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/tfyuf6yoygzh1.png?width=140&height=93&auto=webp&s=b745a3466a26b22e268a0b332519e3e81dfc8d2c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/earofgeorge",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "62a5bf27f894",
+   "canon": "https://www.reddit.com/comments/1xn6vfv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xn6vfv/i_built_an_open_source_mtg_deck_builder_with/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "I built an open source MTG deck builder with handy Claude integration",
+   "text": "Lately, I have been struggling a lot with inspiration and could not come up with fun and engaging decks to play with.\n I started looking for deckbuilders and went the usual way of checking Scryfall and EDHREC and various other deckbuilding sites, but these were mostly decks…",
+   "author": "Imparat0r",
+   "publishedAt": "2026-11-03T22:12:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/dhlzihno1hzh1.jpeg?width=140&height=97&auto=webp&s=b7213b552eb7343727a7c1cf73ad604766db1e38"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Imparat0r",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "76293f45d197",
+   "canon": "https://www.reddit.com/comments/1xn6tu3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn6tu3/i_gave_claude_700_ransomware_encrypted_files_it/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "I gave Claude ~700 ransomware encrypted files. It told me upfront it couldn't decrypt them, then got two thirds of them usable again",
+   "text": "The most interesting thing I've done with Claude, so sharing how it went.\n Background: ransomware encrypted my files back in 2019. I kept them for seven years, hoping something would eventually be able to open them.\n What stood out about how it worked: \n - It was honest from the…",
+   "author": "Rare-Protection4270",
+   "publishedAt": "2026-11-03T22:10:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/tc5sz9ln0hzh1.jpeg?width=140&height=46&auto=webp&s=9583fc1678eca5bb19c8d684772331c6ba81ff8e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Rare-Protection4270",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bca1e4a8d262",
+   "canon": "https://www.reddit.com/comments/1xn6eli",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn6eli/i_gave_every_claude_model_the_exact_same_prompt/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "I gave every Claude model the exact same prompt since July 2025. 13 models, 14 months, here's the evolution",
+   "text": "Prompt : \"Make me a 3D website that's a kind of video game, with an infinite procedural terrain and a camera that keeps moving forward through it forever. The terrain should be full of stuff and objects, look beautiful with shaders and all, be stylish and scroll on forever.\"…",
+   "author": "Reasonable_Day_9300",
+   "publishedAt": "2026-11-03T21:54:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dmNoYnQ2aHV4Z3poMUsBs7Wrl7Hw-us6NCGMt9voisy1BLevD1UqGeNr2Qjn.png?width=640&crop=smart&auto=webp&s=3c1331886495ad464a2e46c9ceabd848c91dbe83"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Reasonable_Day_9300",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e770d393b7b5",
+   "canon": "https://www.reddit.com/comments/1xn64gt",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xn64gt/vibecoded_with_claude_code_a_2player_splitscreen/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "Vibe-coded with Claude Code: a 2-player split-screen mine cart race for Donkey Kong Country (SNES)",
+   "text": "Cart Chase 2P turns the mine cart levels of Donkey Kong Country into a head-to-head split-screen race. I vibe-coded it: I asked Claude Code to program it and it wrote all the code (about 13,000 lines of C, Python and JavaScript, over four weeks). My part was the game design,…",
+   "author": "SitePowerful1880",
+   "publishedAt": "2026-11-03T21:42:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/WdVMMe36WZVltjG2rwwb7xz0J6kRaw8QXNzqHM35eqk.jpeg?width=320&crop=smart&auto=webp&s=067cf0498776b52b467ebcca0be3141e2c65f4ec"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SitePowerful1880",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a3d1cd03b1e6",
+   "canon": "https://www.reddit.com/comments/1xn63zx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xn63zx/i_finally_released_a_free_demo_of_my_aiassisted/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "I finally released a free demo of my AI-assisted god simulator GODSHIFT! Would love some honest feedback",
+   "text": "Hey everyone!\n I've been working on GODSHIFT, a god simulator inspired by games like WorldBox, and I finally released a free demo!\n You can create civilizations, watch them grow, develop technologies, fight wars, and occasionally cause some chaos with divine powers and…",
+   "author": "Icy-Initiative-4319",
+   "publishedAt": "2026-11-03T21:42:11+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MnM4MG5qNGF3Z3poMYtGnNfG1x8Z6d8tmgZHhODe7fvXaFFxf6MF8lPz8Vl6.png?width=640&crop=smart&auto=webp&s=38b49dea3c0da12efda85286d1b68fab52510f63"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Icy-Initiative-4319",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "eda74f889a62",
+   "canon": "https://www.reddit.com/comments/1xn63qk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xn63qk/vibecoded_a_splitscreen_donkey_kong_country_mod/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "Vibe-coded a split-screen Donkey Kong Country mod with Claude Code: how I kept a 4-week project on track",
+   "text": "I vibe-coded Cart Chase 2P: I asked Claude Code to program a 2-player split-screen mine cart race for Donkey Kong Country (SNES), on top of DKC1Recomp (a static recompilation of the game to C). I didn't write the code; Claude did, about 13,000 lines of C, Python and JavaScript…",
+   "author": "SitePowerful1880",
+   "publishedAt": "2026-11-03T21:41:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/WdVMMe36WZVltjG2rwwb7xz0J6kRaw8QXNzqHM35eqk.jpeg?width=320&crop=smart&auto=webp&s=067cf0498776b52b467ebcca0be3141e2c65f4ec"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SitePowerful1880",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "928ec79f414e",
+   "canon": "https://www.reddit.com/comments/1xn5urg",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xn5urg/ive_been_doing_some_claude_dayz_stuff_and_ask_for/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "I've been doing some Claude + DayZ stuff and ask for a Michael Bay demo of some AI bots its been building.",
+   "text": "I added the music but next time, music + cheesy speech lines.",
+   "author": "maca134",
+   "publishedAt": "2026-11-03T21:32:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/gxUTSjJTVAYF0K3bHqLTZiKH0Z_Jex-cgG6zpL0Zfi4.jpeg?width=320&crop=smart&auto=webp&s=dcfc94ea7f5fdb2a410ed6c38725085d4c6e4399"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/maca134",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ef531ec5e5d0",
+   "canon": "https://www.reddit.com/comments/1xn5p15",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xn5p15/i_built_a_markdown_editor_where_claude_code_edits/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "I built a Markdown editor where Claude Code edits your draft in place",
+   "text": "Quill is a Markdown editor for mac with Claude Code inside it. Hold the right ⌥ key and say the change. Claude Code edits the note in front of you. The old words get a strike line, the new words type in, and you keep or revert each change.\n How Quill runs Claude Code:\n - Quill…",
+   "author": "Puzzled-Stick9170",
+   "publishedAt": "2026-11-03T21:26:00+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MXF3NmE0OWJ0Z3poMWe7TYxFDaLw3nGpghDNIzCq494_YwAsRcfDXkn-416C.png?width=640&crop=smart&auto=webp&s=01550046c73deda4bffb5991828be3948b7da40f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Puzzled-Stick9170",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "91e56540407c",
+   "canon": "https://www.reddit.com/comments/1xn5is3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn5is3/i_built_a_coordination_layer_for_personal_ai/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "I built a coordination layer for personal AI agents with Claude Code in one weekend",
+   "text": "Better Together (better-together.fun) started with a post on X (https://x.com/sethrose/status/2115559371492991038). Seth had added something to his own assistant, and I added something similar to mine.\n This works a lot better if a bunch of people team up and collaborate on it.…",
+   "author": "BeneficialAd3800",
+   "publishedAt": "2026-11-03T21:19:06+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/BeneficialAd3800",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2404d5c831ea",
+   "canon": "https://www.reddit.com/comments/1xn5amw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xn5amw/i_made_a_open_source_tool_which_gives_claude/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "I made a open source tool which gives claude taste for video editing: a Studio, ready-made components and plugins",
+   "text": "Last week I posted Kinetograph here, a way for Claude to make videos without running Chrome. From there i thought about giving AI taste and a more visually pleasing studio to preview and edit videos in, So version 0.3 is all about this. \n Studio. A local editor Claude Code works…",
+   "author": "Solid-Raspberry9133",
+   "publishedAt": "2026-11-03T21:10:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZTlxajkzb2RoZ3poMWwNckUKXGTY5foCs9_rpHByAwIR0RDMYlTp0zX5FmUk.png?width=640&crop=smart&auto=webp&s=9de3520b467527c6cbe4f99905254ee874c31a71"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Solid-Raspberry9133",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "aef84ead764c",
+   "canon": "https://www.reddit.com/comments/1xn59cp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xn59cp/jules_is_shutting_down_and_its_made_me_sad/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "Jules is shutting down, and it's made me sad... 😿",
+   "text": "Jules is a coding agent by Google, an ephemeral, agentic agent, and it's shutting down on the 11th November. So... I discovered this agent I think originally through ChatGPT but it's been a wonderful assistant honestly, and I feel sad we're losing it. https://jules.google.com/…",
+   "author": "Free-Stage-5975",
+   "publishedAt": "2026-11-03T21:08:47+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/5547zfmbqgzh1.png?width=140&height=78&auto=webp&s=80468d61a94a6f7e9a11bb7ae0b783222d64dd54"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Free-Stage-5975",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bc0fb6eb61f0",
+   "canon": "https://www.reddit.com/comments/1xn514n",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn514n/im_not_a_developer_i_built_a_jobsearch_agent_with/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "I’m not a developer. I built a job-search agent with Claude Code, and the job-board list its users find gets shared with everyone",
+   "text": "I’m job hunting, and I got tired of reading 100+ LinkedIn postings a day just to find the 5 worth applying to. So I built FTJA with Claude Code. I can’t really code; Claude Code wrote nearly all of it while I made the decisions.\n It’s a folder on your computer plus a set of…",
+   "author": "Chemical_Emu_6555",
+   "publishedAt": "2026-11-03T21:00:25+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Chemical_Emu_6555",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "af0da1449345",
+   "canon": "https://www.reddit.com/comments/1xn4zs4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xn4zs4/im_not_a_developer_i_built_a_jobsearch_agent_with/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "I’m not a developer. I built a job-search agent with Claude Code, and the job-board list its users find gets shared with everyone",
+   "text": "I’m job hunting, and I got tired of reading 100+ LinkedIn postings a day just to find the 5 worth applying to. So I built FTJA with Claude Code. I can’t really code; Claude Code wrote nearly all of it while I made the decisions.\n It’s a folder on your computer plus a set of…",
+   "author": "Chemical_Emu_6555",
+   "publishedAt": "2026-11-03T20:59:08+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Chemical_Emu_6555",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "21cb9c143259",
+   "canon": "https://www.reddit.com/comments/1xn4zl4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xn4zl4/gaming_since_i_was_6_no_art_or_music_skills_in_2/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "Gaming since I was 6, no art or music skills: in 2 months, AI tools let me build a free demo of my childhood dream game, solo",
+   "text": "Hi! I've mentioned this project in a few comments here, and the free demo of KAGEKARI is now out: a top-down survivors-like roguelite in feudal Japan where you hunt yokai as a shinobi.\n A bit about me: I'm 35, a dad of two, and I've been gaming since I was 6 (Zelda, Diablo,…",
+   "author": "Daikooku",
+   "publishedAt": "2026-11-03T20:58:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Y3hoYm5jbWNvZ3poMe6q-yf9aCxCmgvpKyvB0rObKmS0iC5UsUTvbpkmW_EY.png?width=640&crop=smart&auto=webp&s=967ed554c37c04b38168a406c43ba0bc1cc90ce8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Daikooku",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "aeeb4a7fdae1",
+   "canon": "https://www.reddit.com/comments/1xn4xyj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xn4xyj/scan_the_qr_on_a_printed_photo_and_step_inside_it/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "Scan the QR on a printed photo and step inside it in VR, a side project I’m building",
+   "text": "Retrovise turns one photo into a 3D world. The photo carries a QR code: scan it with your phone, then send the world to your headset and look around inside the moment.\n It’s in closed testing on Android and iOS. I’m especially looking for VR headset owners who’d like to try it…",
+   "author": "UnluckyFirefighter",
+   "publishedAt": "2026-11-03T20:57:13+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/UnluckyFirefighter",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7ede007b3c17",
+   "canon": "https://www.reddit.com/comments/1xn4ubt",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xn4ubt/first_time_showing_this_off_gutter_scrap_build_a/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "First time showing this off. Gutter Scrap, build a mech out of trash.",
+   "text": "This was made in Opus 5.5, no other external programs other than three.js. Feel free to ask anything about the development. Will be back to answer them later tonight.\n Just some colored pencils, mechs, drones, and trash. It's a linear game that takes place in a chaotic city…",
+   "author": "Mekkablood",
+   "publishedAt": "2026-11-03T20:53:20+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ajgwOTNycXVtZ3poMU5SsFGqDzWuhrfTy7Q8EnOPi9ivFZK22Ih9Cqq7zww_.png?width=640&crop=smart&auto=webp&s=ef4dc5b4ff71e64b2d8e703018f3fc61c2129f0f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Mekkablood",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "a82a8187252c",
+   "canon": "https://www.reddit.com/comments/1xn4s7b",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn4s7b/got_my_scanner_working/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "Got my scanner working",
+   "text": "I've got an old canoscan lide 30, I think the last driver was for winxp. Claude got it working on windows 11 64 bit in an hour or so. Amazing really that something that I consider really difficult is now becoming trivial. I used to have to virtualbox into an xp install just to…",
+   "author": "Wizzard_2025",
+   "publishedAt": "2026-11-03T20:51:02+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Wizzard_2025",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f7f047d37fac",
+   "canon": "https://www.reddit.com/comments/1xn44c1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xn44c1/lionsgate_inks_deal_with_meta_to_bring_new_hunger/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "Lionsgate Inks Deal With Meta to Bring New ‘Hunger Games’ Movie to VR Glasses",
+   "text": "\"Meta partnered on the 3D conversion so the movie could eventually play on its VR glasses, distinct from its heavier VR headset, when they become available to consumers in spring 2027.\"",
+   "author": "thevrcritic",
+   "publishedAt": "2026-11-03T20:25:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/si75Mdgj0TFAf3CuhXyBBgHdml1kG8NOTjqLS_Z8r78.jpeg?width=640&crop=smart&auto=webp&s=7f50c4dd4ec232bc36b9a35e1b0550148652f6e3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/thevrcritic",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fa17f05865ae",
+   "canon": "https://www.reddit.com/comments/1xn3xah",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xn3xah/in_6_days_i_publish_my_first_video_game_ever/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "In 6 days I publish my first video game ever",
+   "text": "Growing up with video games has been a blast, but at no point did I ever thought i'd make my own video game a decade later after countless sleepless nights, and for it to have tens of thousands of people hyped up for it is just insane to me.\n Claude helped me a ton with…",
+   "author": "maxlopezos",
+   "publishedAt": "2026-11-03T20:18:10+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cDUwZGs1MHpnZ3poMaA7xtURc5eB9Bj5lTn8yVC9KQkCARUwMV1NGFAtUGyI.png?width=640&crop=smart&auto=webp&s=3d1c399d040b315e7a4fac89a0748207f0fefdde"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/maxlopezos",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9c4eac15fd1e",
+   "canon": "https://www.reddit.com/comments/1xn346d",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xn346d/designs_are_so_much_easier_to_understand_when_you/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "Designs are so much easier to understand when you can walk them.",
+   "text": "I’ve been a longtime fan of this subreddit, and like most people in here, I’ve been discouraged and frustrated by the lack of mainstream acceptance of the tech.\n We’re still such a small group of people who understand how these headsets can solve problems in very unique and…",
+   "author": "TonyBennigans",
+   "publishedAt": "2026-11-03T19:48:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/d2cwbms4bzBhZ3poMalTZfWKNfapYfaetUll6bU22zscQg69iO_XAapf_WyC.png?width=640&crop=smart&auto=webp&s=a764234f52bfedf51f1db667dc68f3aff9cd4892"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TonyBennigans",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cae632538732",
+   "canon": "https://www.reddit.com/comments/1xn0fs6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xn0fs6/visionos_273_beta_1_is_now_available/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "visionOS 27.3 beta 1 is now available",
+   "text": "",
+   "author": "rohidjetha",
+   "publishedAt": "2026-11-03T18:11:41+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/rohidjetha",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5698157624b0",
+   "canon": "https://www.reddit.com/comments/1xn0eb5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xn0eb5/air_traffic_control_mixed_reality_game/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "Air Traffic Control mixed reality game",
+   "text": "My dad spent almost 40 years working as an air traffic controller. His career inspired me to make Vector Tango, an indie game for the Meta Quest.\n You draw flight paths to guide planes safely home, either around your own room in mixed reality or from a control tower in VR. It’s…",
+   "author": "Scobesanity",
+   "publishedAt": "2026-11-03T18:10:19+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NWNwc3NlNXJuZnpoMSrwNfsqzmQNKIwFFsUiHaAfcQMXIxoWpePTWytn-ftc.png?width=640&crop=smart&auto=webp&s=762a07cf711ce652c4318f4d8e38eef94d90acdc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Scobesanity",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4a352c4e947c",
+   "canon": "https://www.reddit.com/comments/1xmz23g",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xmz23g/made_a_cardboard_houndskull_bascinet_for_halloween/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "Made a cardboard houndskull bascinet for Halloween",
+   "text": "I'm making a medieval jousting VR game, so naturally I ended up making a cardboard houndskull helmet for a Halloween party.\n Followed a tutorial by Cardboard Armor Smith, with a reference photo I took at the Fortress Hohensalzburg Museum in Salzburg.…",
+   "author": "ScriptOceanGames",
+   "publishedAt": "2026-11-03T17:22:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/upgx8icvlfzh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=9cae0a2e92e4aab268e137c72aa3cd221cf366e5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ScriptOceanGames",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7704230a4c97",
+   "canon": "https://www.reddit.com/comments/1xmyww8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xmyww8/im_also_working_on_a_bw_1_2001_pc_game_vr_mod/",
+   "addedAt": "2026-11-03T23:29:20.853Z",
+   "title": "I'm *also* working on a B&W 1 (2001 PC Game) VR mod with a handy installer - let me know what you think",
+   "text": "Black and White 1 is one of my favorite games of all time and now with a background in game development, software engineering, and *the power of claude* I have been able to cruise through implementing VR support, features, and functionality! I also made a handy-dandy…",
+   "author": "JManoclay",
+   "publishedAt": "2026-11-03T17:17:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ysRB2NPV9_JEZMoU8sM5LOQXcSd6AH-Ubnq7pyBQO1A.jpeg?width=320&crop=smart&auto=webp&s=964002db9f5067a50ee65d523cfb1442938e0135"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/JManoclay",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-03T23:29:20.853Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "7bddf4733f24",
    "canon": "https://www.reddit.com/comments/1xmym86",
