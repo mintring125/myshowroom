@@ -1,7 +1,924 @@
 {
  "version": 1,
- "updatedAt": "2026-11-04T17:26:28.313Z",
+ "updatedAt": "2026-11-04T23:50:53.517Z",
  "cases": [
+  {
+   "id": "ce067e05fa1c",
+   "canon": "https://www.reddit.com/comments/1xo3n8k",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xo3n8k/ok_this_is_nuts_after_three_months_i_finally/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "Ok, this is nuts. After three months i finally reached a point where i can DIRECT an animation",
+   "text": "I'm developing L'Eredità Bellini, a hand-drawn-style 2D point-and-click adventure inspired by classics like Broken Sword. For the past three months, character animation has been an absolute nightmare. I experimented with Blender, Mixamo, custom animation pipelines, AI video…",
+   "author": "milox88",
+   "publishedAt": "2026-11-04T23:41:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/hey777admozh1.png?width=140&height=74&auto=webp&s=5eef1158d33d44d64acfe5ef304b876aca26cbb9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/milox88",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "544e74654aa0",
+   "canon": "https://www.reddit.com/comments/1xo3l9j",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xo3l9j/you_can_point_claude_code_at_useful/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "You can point Claude Code at useful Python/Typescript etc... packages for great GUIs to simplify using them",
+   "text": "I did just this for https://github.com/sshah03/shrewd-studio as demonstrated in the video above.\n I'm working on a project where I need a large number of small locally runnable models. In service of this, I had initially built what I ended up putting out there as the shrewd…",
+   "author": "0xcontext",
+   "publishedAt": "2026-11-04T23:39:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NHo2c2doZ3Jsb3poMbcGjNRdbzjd0MCyZ7K01rmPamBBlsTfdJ1ht245m_mx.png?width=640&crop=smart&auto=webp&s=27f8d708b6f9ca2d481abdbb2ef0606885b0f96b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/0xcontext",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "85a68add904d",
+   "canon": "https://www.reddit.com/comments/1xo2uw4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xo2uw4/remember_super_hot_im_working_on_a_similar/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "Remember Super Hot? I'm working on a similar concept for Vision Pro- your space gets rouge and time flies only when you move! Shoot, throw and punch enemies and discover new themes on +10 levels!",
+   "text": "Stillpoint is a freeze-frame action game for Apple Vision Pro, out now.\n You scan your room once, then crimson droids break through a real wall and hang there, frozen mid-attack. Your head and hands set the speed of the fight: hold still and time almost stops, lean, reach or…",
+   "author": "steffan_",
+   "publishedAt": "2026-11-04T23:06:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NzM0bTZ0M2hjb3poMYXtwmJJzxp7khGbxp_bf8O7eRDkV8VirUU_DW34DbiO.png?width=640&crop=smart&auto=webp&s=97d5e9b842db40440104e5f3f31668e9132b6643"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/steffan_",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ffd07aae933d",
+   "canon": "https://www.reddit.com/comments/1xo2sdm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xo2sdm/the_absolute_truth/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "The absolute truth",
+   "text": "Lack of trolls and a chill hangout environment.\n I enjoy the VRChat drama, but Resonite is definitely more enjoyable for relaxation and creating things.\n Anyone with any level of previous game programming experience can have alot of fun with the in-game programming, or don't and…",
+   "author": "Chicken_KingVR",
+   "publishedAt": "2026-11-04T23:03:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/c71qv71efozh1.jpeg?width=320&crop=smart&auto=webp&s=397a75cc32dd5ad465f0c958c616a973d3e24290"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Chicken_KingVR",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5492133332d4",
+   "canon": "https://www.reddit.com/comments/1xo2pv0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xo2pv0/made_a_local_game_tracking_website_similar_to/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "Made a local game tracking website similar to MyAnimeList (MyGameList)",
+   "text": "Homepage (with IGDB Worker URL)\n Profile Page\n Browse page\n Search\n Minigames!\n Device Sync\n Don't know if anyone will care, but I gave myself a little project and ended up enjoying it more than I thought I would.\n I just wanted to make my attempt at a MyAnimeList style website…",
+   "author": "FabulousFlavio",
+   "publishedAt": "2026-11-04T23:00:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/30hqoz87eozh1.png?width=140&height=78&auto=webp&s=160ed3415c008360988dc683777a2666724213dc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/FabulousFlavio",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "13d51008f3f5",
+   "canon": "https://www.reddit.com/comments/1xo2mfn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xo2mfn/im_a_microbiology_graduate_and_i_made_an/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "I'm a microbiology graduate and I made an incremental game about microscopic life in a petri dish: Welcome to Petri. (Free, browser and windows available)",
+   "text": "https://i.redd.it/qmnkk1j4eozh1.gif\n Amoebae hunt down and digest stray bacteria. Slime mould grows a vein network between its colonies and your media. Yeast buds and cyanobacteria give off oxygen bubbles. Phages land on a colony and burst its cells until you pop them. Systems:…",
+   "author": "No_Ticket_5074",
+   "publishedAt": "2026-11-04T22:56:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/qmnkk1j4eozh1.gif?frame=1&width=140&height=78&auto=webp&s=57116337af89df4b17b86ce285bf2e036a59843d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No_Ticket_5074",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f46ceabf27d7",
+   "canon": "https://www.reddit.com/comments/1xo296e",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xo296e/my_take_on_a_fast_plex_client_for_samsung_tizen/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "My take on a fast Plex client for Samsung Tizen TVs",
+   "text": "I've been building Velox, a client for Samsung TVs that connects to your Plex Media Server. It's built on SamSUCKS by rfaile313, which already solved the speed problem: the official app takes about a minute to open on these TVs, and this opens in about a second. I wanted Tizen…",
+   "author": "SuperD0S",
+   "publishedAt": "2026-11-04T22:40:57+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/q87trleqaozh1.jpeg?width=140&height=78&auto=webp&s=59431713c125aeac8cfe7dcf58606afe8059a612"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SuperD0S",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ee22dff25797",
+   "canon": "https://www.reddit.com/comments/1xo1apv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xo1apv/show_us_what_youve_created_with_claude/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "Show us what you've created with Claude!",
+   "text": "Inspired by this popular post, this is a weekly post for everyone to show what they have been working on that helps you or that you're proud of!",
+   "author": "sixbillionthsheep",
+   "publishedAt": "2026-11-04T22:01:12+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/sixbillionthsheep",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e05e6c064963",
+   "canon": "https://www.reddit.com/comments/1xo17tm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xo17tm/native_quest_port_of_little_big_adventure_2/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "Native quest port of Little Big Adventure 2 (Twinsen’s Odyssey)",
+   "text": "Little Big Adventure 2 will always hold a special place in my heart, so I built a native Meta Quest port of it.\n Processing img xnrdmlty4ozh1...\n It’s a fork of the LBALab community project, with:\n Native stereo 3D and full 6DoF tracking First-person IK body and camera Interior…",
+   "author": "simsas123",
+   "publishedAt": "2026-11-04T21:58:10+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/2sRceYEVGzhKOx7KjntFNKdTqZA2lUlpYDSJysC10kE.png?width=140&height=70&auto=webp&s=44aa795c46544d8670a1237303e61107e95b2cde"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/simsas123",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6a550ce1df7d",
+   "canon": "https://www.reddit.com/comments/1xo174j",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xo174j/new_claude_code_instructions_by_anthropic/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "New Claude Code instructions by Anthropic",
+   "text": "https://preview.redd.it/7h5515myznzh1.png?width=720&format=png&auto=webp&s=7e2487943bc48b21268d96d38d7f0b7ffeb32a14\n I still want to better understand this \"Auto Memory\" part. Any tips?",
+   "author": "Kadenai",
+   "publishedAt": "2026-11-04T21:57:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/7h5515myznzh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=94e1e78db8241cdd779b3709a5c72de96db39eb8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Kadenai",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cdffebd396f5",
+   "canon": "https://www.reddit.com/comments/1xo0xky",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xo0xky/releasing_games_and_such/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "Releasing games and such",
+   "text": "Hello, basically, I am the kind of person who gets VERY anxious about how people react to stuff I make. Even a novel I am writing purely for myself, now at 88 chapters and 360k words, has not had a single word published.\n Over the last month, since Opus 5.5's release, I have…",
+   "author": "Mediocre_Line7407",
+   "publishedAt": "2026-11-04T21:46:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/bvglos0v1ozh1.png?width=140&height=78&auto=webp&s=ab4773b68367e94a2d8730f0ebeb899a9f564d37"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Mediocre_Line7407",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "3f7210a9cb54",
+   "canon": "https://www.reddit.com/comments/1xo0vej",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xo0vej/challenge_yourself_or_your_ai_to_create_art_but/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "Challenge yourself or your AI to create art - but max 64 KB file size — a weekly size-limited intro compo where AI is allowed",
+   "text": "What 64KB is - See first entries: https://64kb.4xs.dev\n A small competition for intros made with AI. You prompt any model (Claude, ChatGPT, Gemini…), get one self-contained HTML file, and squeeze it into a size class:\n 64K ≤ 65,536 B: the open arena 4K ≤ 4,096 B: the main…",
+   "author": "kotyzap",
+   "publishedAt": "2026-11-04T21:43:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ccaeq76y0ozh1.gif?frame=1&width=140&height=78&auto=webp&s=a3f2d3a9702da8f2ff4a98b9f7ffcc35ada2c7bf"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/kotyzap",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "41d987428553",
+   "canon": "https://www.reddit.com/comments/1xo0h14",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xo0h14/sawbuck_sign_your_agents_to_contracts/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "Sawbuck: sign your agents to contracts",
+   "text": "I built this with Claude Code. Claude wrote the code, hooks, and tests. I steered it, provided architecture, and ran benchmarks/evaluations. It's free and open source (Apache 2.0).\n Install the Sawbuck plugin and continue working on Claude Code as normal. The first time you open…",
+   "author": "ContextWizard",
+   "publishedAt": "2026-11-04T21:27:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/6pum6rlnynzh1.jpeg?width=640&crop=smart&auto=webp&s=6fe5332298fa586feea823ffcb0e819a454c4592"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ContextWizard",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f3d5a861e6a6",
+   "canon": "https://www.reddit.com/comments/1xo083l",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/blender/comments/1xo083l/restoring_my_old_sketchup_apartment_project_in/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "Restoring my old SketchUp apartment project in Blender after losing it to ransomware in 2019",
+   "text": "Back in 2019, ransomware encrypted my SketchUp apartment project, along with a bunch of other files. Last week I managed to recover a large part of it with the help of Claude. It wrote a custom reader that could extract the remaining data from the damaged file and eventually…",
+   "author": "Rare-Protection4270",
+   "publishedAt": "2026-11-04T21:17:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/5afexj9asnzh1.jpeg?width=640&crop=smart&auto=webp&s=8ff1fefd788313b4c1bf9359fb73168c0b03cedb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Rare-Protection4270",
+   "where": "r/blender",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "95ad875dbc3a",
+   "canon": "https://www.reddit.com/comments/1xo0367",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xo0367/progress_bar_with_eta/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "Progress Bar with ETA",
+   "text": "Instead of asking opus 5.5 every time for its coding progress or merge ETA, I told it to show with every update a progress bar + ETA. Now I don't need to ask ever again and I can go find something else to do rather than scroll the screen and read all the bla bla bla.",
+   "author": "rabihwaked",
+   "publishedAt": "2026-11-04T21:12:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/cdk6x82yvnzh1.jpeg?width=640&crop=smart&auto=webp&s=4868c1d7ea167cc55d892649cd92108f6263052d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/rabihwaked",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "9d16b9f17863",
+   "canon": "https://www.reddit.com/comments/1xnzywo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xnzywo/build_grand_theft_auto_x_wii_sports_resort_with/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "Build Grand Theft Auto x Wii Sports Resort with Claude",
+   "text": "I was bored to be honest. I simply just typed in a master prompt and it pretty much one shotted the game first try. \n https://theagencymge.github.io/grand-theft-wuhu-play/",
+   "author": "Admirable-Put7423",
+   "publishedAt": "2026-11-04T21:08:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eHU4M2x6cHp1bnpoMYM78lBaSxRbrGHv1HoH13Z7a5TDuftDPvAWUb9RWuQn.png?width=640&crop=smart&auto=webp&s=31b032bebdeb8e7726a502e2f41a3f377cacf639"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Admirable-Put7423",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bd8c18c01956",
+   "canon": "https://www.reddit.com/comments/1xnzbk4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/threejs/comments/1xnzbk4/i_built_a_whole_drivable_city_in_threejs_real_st/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "I built a whole drivable city in three.js: real St. Louis from open map data, with traffic, police chases and crash physics (Rapier)",
+   "text": "https://reddit.com/link/1xnzbk4/video/e92elwjxfmzh1/player\n Play it (desktop Chrome): https://brinewater.vlad.yt/play/\n It's a GTA-style open world on the real street grid of St. Louis, generated from OpenStreetMap and the city's own data: road lanes and widths, building…",
+   "author": "Ok_Incident222",
+   "publishedAt": "2026-11-04T20:43:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/vRy7j6j0lv-O_cwUIdmYYIvWEvoIUg9Lu6_FHmJqgyA.jpeg?width=140&height=73&auto=webp&s=f4fb567a66d3e54b1a78fa052763c4e5e6dab042"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ok_Incident222",
+   "where": "r/threejs",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e29b89b27c6d",
+   "canon": "https://www.reddit.com/comments/1xnzbim",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnzbim/i_built_a_game_about_a_norwegian_forest_cat_who/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "I built a game about a Norwegian Forest Cat who causes chaos through Europe (with claude!)",
+   "text": "Norwegian forest cats are amazing, and there really aren't enough games where you play as a mischievous cat (Stray is incredible for example). In this game you play as a Norwegian cat who wanders around and somehow ends up at ridiculous places: night club, data center, office,…",
+   "author": "Brave-History-6502",
+   "publishedAt": "2026-11-04T20:43:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/a3JlenVxeXpubnpoMei6dyS3zamZwo3XH4YnCj4HYwqlw_nM4g74ZZ9P5K2-.png?width=640&crop=smart&auto=webp&s=f3e3566500cec3dede934ccf38ec419c701f81e8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Brave-History-6502",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a940a7691953",
+   "canon": "https://www.reddit.com/comments/1xnz7p9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xnz7p9/not_everyone_is_able_to_afford_100200_claude_code/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "not everyone is able to afford $100-200 claude code plans, hence I made antiglaude",
+   "text": "ok, so the thing is that I though have access to multiple $200 plan claude code accounts but those are on my work profile, if I wanted to make a side project or anything using claude code, I had to buy a plan of 100-200$ since I am pretty sure 20$ one will get exhausted within…",
+   "author": "HarryBarryGUY",
+   "publishedAt": "2026-11-04T20:38:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/5iybn7supnzh1.jpeg?width=640&crop=smart&auto=webp&s=987faf6689ccfdb71fb5b93c6acfd52da5e2972a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/HarryBarryGUY",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f234b5553f2f",
+   "canon": "https://www.reddit.com/comments/1xnz396",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnz396/hellcraft_minecraft_mod/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "Hellcraft minecraft mod",
+   "text": "Using Opus 5.5 on high, I made hellcraft! You can read the entire description on https://github.com/The-small-things/hellcraft.\n This was HEAVILY vibecoded; I know little to nothing about coding, and I let Claude make most of the design decisions, so I'm surprised it turned out…",
+   "author": "Cool_Covet",
+   "publishedAt": "2026-11-04T20:33:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/xl8osautmnzh1.jpeg?width=140&height=78&auto=webp&s=134624622691df41da1501870669e6efb67eed30"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "voxel"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Cool_Covet",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "d4a05a85041a",
+   "canon": "https://www.reddit.com/comments/1xnytpz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xnytpz/this_game_is_begging_for_a_vr_mod/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "This game is begging for a VR mod.",
+   "text": "",
+   "author": "redemptionroad",
+   "publishedAt": "2026-11-04T20:23:16+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/jqce2mo1nnzh1.jpeg?width=640&crop=smart&auto=webp&s=04f411a4be5e77ed9e5d6c585d98d0e1d260fb3d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/redemptionroad",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8aebab6d9cdc",
+   "canon": "https://www.reddit.com/comments/1xnyrw0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xnyrw0/sonic_assistant_a_companion_agent_not_just_a/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "Sonic Assistant: a companion agent, not just a chatbot and not just a coding tool",
+   "text": "I built Sonic Assistant using Claude (Haiku and Sonnet) for its reasoning, and I’ve used Claude Code throughout development, including to review my own pull requests and help design pieces like its step-budget system and my test suite.\n A lot of AI tools specialize: a coding…",
+   "author": "mistahj0517",
+   "publishedAt": "2026-11-04T20:21:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/xnj7ow0mmnzh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=107aca8c6c9cc27184df03ef4c5dbd7b847c7cc9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/mistahj0517",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1f624e13c8c0",
+   "canon": "https://www.reddit.com/comments/1xny66o",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xny66o/try_my_game_its_sanctuaries_and_voids_a_chill/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "Try my game :) It's Sanctuaries and Voids, a chill game that's like darts mixed with golf mixed with space. It's on TestFlight.",
+   "text": "Here's the TestFlight link: https://testflight.apple.com/join/WdJJhg3Q\n The beta has one course/level. I'd love to hear your feedback: what works, what's confusing, etc.\n Thanks!",
+   "author": "_IAandE_",
+   "publishedAt": "2026-11-04T19:58:20+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M2wwcHcxb2ppbnpoMWsiFzc1aMSahbnOtHZl2iZpd-1Aai9sqUdbP8UHgEyY.png?width=640&crop=smart&auto=webp&s=68d120aac85af4c7ebbf03aa7e34f9bd7e83c4d6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/_IAandE_",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ccc8184ff600",
+   "canon": "https://www.reddit.com/comments/1xnxeqw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xnxeqw/virtual_desktop_developer_pushes_forced_update/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "Virtual Desktop developer pushes forced update and kill-switch into older versions of Streamer apps, puts blame on users for broken offline setups",
+   "text": "The VD Streamer desktop app has only ever updated automatically under the condition that you've connected to your PC with a headset running a newer version of the client.\n Last afternoon, VD Streamer randomly popped up a download progress bar on my screen, while my headset was…",
+   "author": "coelhoruno",
+   "publishedAt": "2026-11-04T19:28:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/yq7owrugvmzh1.png?width=140&height=94&auto=webp&s=40e7d014ea1847390b4e561032a78cbf66dd1332"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/coelhoruno",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "39d1d6125aac",
+   "canon": "https://www.reddit.com/comments/1xnwon2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/Spectacles/comments/1xnwon2/made_some_improvements_to_utsx3d_s_dimos/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "Made some improvements to u/Tsx3D 's DimOS...",
+   "text": "",
+   "author": "nick-ross",
+   "publishedAt": "2026-11-04T19:00:46+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/nick-ross",
+   "where": "r/Spectacles",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0a9f5a71fa6c",
+   "canon": "https://www.reddit.com/comments/1xnwjem",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xnwjem/uninstall_gone_wrong_trying_to_reinstall_mario/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "Uninstall gone wrong (trying to Reinstall Mario Kart VR)",
+   "text": "Hello, I'm not sure if this is the spot to post this but I'm having trouble re-installing my Mario Kart VR standalone on my quest 3 after uninstalling it before\n I used this app from github called App Manager to see what was going wrong, every time I go to re-install the app it…",
+   "author": "CliffBooth1999",
+   "publishedAt": "2026-11-04T18:55:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/dt4ko3ce7nzh1.jpeg?width=140&height=74&auto=webp&s=1b0856dbf50b2ef79c5c1f218c700b692f4ffc46"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CliffBooth1999",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b253d9e659cb",
+   "canon": "https://www.reddit.com/comments/1xnvy4x",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xnvy4x/steam_link_most_games_run_properly_but_a_few/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "Steam Link | Most games run properly, but a few specific games I can only see on the desktop, with no way to see them on my Quest 3",
+   "text": "I've tried a bunch of things, but none of them worked. I managed to make them start properly on a couple occasions and when they do, my pc lags and occasionally freezes quite a lot too (as you can see in the video it also happens here). as I mentioned, this only happens for a…",
+   "author": "Gold_Office9646",
+   "publishedAt": "2026-11-04T18:32:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dnh0bWlnajQybnpoMc3PwEqpQgDr56gfuO8XKzRQiabPuswysDB8k8o02hfW.png?width=640&crop=smart&auto=webp&s=e8c671a37c081bb7bc0023c772fb335be723af18"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Gold_Office9646",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f93032464fd6",
+   "canon": "https://www.reddit.com/comments/1xnulmj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xnulmj/steam_cybrid_899_40_off/",
+   "addedAt": "2026-11-04T23:46:24.886Z",
+   "title": "[Steam] CYBRID ($8.99 / 40% off)",
+   "text": "",
+   "author": "shada_games",
+   "publishedAt": "2026-11-04T17:41:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ElkADy5njeJmiaYMIyCTgpiRxBsNNil4Njf_0o5ZAF8.jpeg?width=320&crop=smart&auto=webp&s=19b15483b2350645bdd5fbe910f6ba028a7f4386"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/shada_games",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-04T23:46:24.886Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "5330b588c705",
    "canon": "https://www.reddit.com/comments/1xntyrv",
