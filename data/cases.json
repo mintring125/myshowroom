@@ -1,7 +1,1257 @@
 {
  "version": 1,
- "updatedAt": "2026-11-04T06:35:45.887Z",
+ "updatedAt": "2026-11-04T17:26:28.313Z",
  "cases": [
+  {
+   "id": "5330b588c705",
+   "canon": "https://www.reddit.com/comments/1xntyrv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xntyrv/i_thought_i_was_going_crazy/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "I thought I was going crazy",
+   "text": "claude reacting with emojis now",
+   "author": "InvestigatorCalm3640",
+   "publishedAt": "2026-11-04T17:18:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/qx6magy3qmzh1.jpeg?width=320&crop=smart&auto=webp&s=4d0fd512fa5cf354d9cbb3ed9060e2fd91321b79"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/InvestigatorCalm3640",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ad6e9f3a1b9d",
+   "canon": "https://www.reddit.com/comments/1xntupk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xntupk/made_this_song_using_opus_55_wasnt_expecting_this/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "Made this song using Opus 5.5 (Wasn't expecting this quality)",
+   "text": "I turned the most relatable moment of my day into a song. The music was made with Suno, and the whole animation is written in code (TypeScript + three.js), every frame synced to the beat. I built the video pipeline with Claude Code. Still need to optimize it, but being able to…",
+   "author": "Glass-Garden-5888",
+   "publishedAt": "2026-11-04T17:14:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/enlub3IzdWFwbXpoMT94H_O3_wxiqmwq20RS_z7mtps6M2jxAeAAq4bX0PgU.png?width=640&crop=smart&auto=webp&s=9dae2e9f09f9a48171411ceeb4f01353959e3bb6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Glass-Garden-5888",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "dad3ec6c76e7",
+   "canon": "https://www.reddit.com/comments/1xntsof",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xntsof/made_this_song_using_opus_55_wasnt_expecting_this/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "Made this song using Opus 5.5 (Wasn't expecting this quality)",
+   "text": "I turned the most relatable moment of my week into a song. The music was made with Suno, and the whole animation is written in code (TypeScript + three.js), every frame synced to the beat. I built the video pipeline with Claude Code. Still need to optimize it, but being able to…",
+   "author": "Glass-Garden-5888",
+   "publishedAt": "2026-11-04T17:12:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NWVtMjlsbGZvbXpoMT94H_O3_wxiqmwq20RS_z7mtps6M2jxAeAAq4bX0PgU.png?width=640&crop=smart&auto=webp&s=0596141e2476b9c41f0a84caebc8976821cd2e0b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Glass-Garden-5888",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "2d6270428221",
+   "canon": "https://www.reddit.com/comments/1xntez0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xntez0/i_havent_written_a_single_line_of_code_claude/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "I haven't written a single line of code. Claude Code built my GTA-style open world on the real streets of St. Louis, and it runs in a browser: 1,211 commits in 32 days, here's the workflow",
+   "text": "https://reddit.com/link/1xntez0/video/e92elwjxfmzh1/player\n Brinewater is a free open-world game on a real St. Louis, built from the city's own map data: the streets, highways, buildings and bus routes are where they really are. Traffic, pedestrians, St. Louis police with…",
+   "author": "Ok_Incident222",
+   "publishedAt": "2026-11-04T16:58:17+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/VAk-8G4z2MeJ3OpzodPu00_ffgrv0cetw2iLL5qbcos.jpeg?width=140&height=78&auto=webp&s=58ceeaeb89aa007936b5511b85176f28743c190c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ok_Incident222",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b447981de12e",
+   "canon": "https://www.reddit.com/comments/1xntaq9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xntaq9/im_a_solo_dev_in_japan_who_directed_a_17language/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "I'm a solo dev in Japan who directed a 17-language visual novel with Claude, ChatGPT, ElevenLabs and Suno. The free demo is out — here's what the AI couldn't do for me.",
+   "text": "The free demo of my visual novel *Can Love Save Me?* just went live on Steam. I made it alone in Japan, as the director and scenario planner, with AI doing most of the hands-on work: Claude and ChatGPT for writing, translation and code, ChatGPT for the images, ElevenLabs for the…",
+   "author": "Hikisann_Creator",
+   "publishedAt": "2026-11-04T16:53:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/t2uQJxKytFCyssEXVrsKfA4q39bsGoa1dzL75V2nnso.jpeg?width=140&height=80&auto=webp&s=89e3e815d80ab22901399fa56b80eef904edd0b9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Hikisann_Creator",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "347fd68669fd",
+   "canon": "https://www.reddit.com/comments/1xnt9rq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xnt9rq/i_made_a_tiny_worldinyourbrowser_where_creatures/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "I made a tiny world-in-your-browser 🌎 where creatures eat words, throw raves and dream about their day. Now you can watch it get created 🌅",
+   "text": "Id|le is a little world whose ground is made of words. The creatures walk on them, eat them, make friends, gossip, build huts, plot charts (and others break the charts into code and eat it), hide from storms, and dance when you turn the rave on. You can read their minds, and…",
+   "author": "jeffyclassify",
+   "publishedAt": "2026-11-04T16:52:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OWxvdGNqaWhsbXpoMWiOSonhtjENAClDMjc5x6owRMkO__iUObyiw2nSH40P.png?width=640&crop=smart&auto=webp&s=d5ee3e912bf5728a5f405584e8af3e057f5960c1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/jeffyclassify",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1cc19a936989",
+   "canon": "https://www.reddit.com/comments/1xnt8ia",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xnt8ia/i_havent_written_a_single_line_of_code_claude/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "I haven't written a single line of code. Claude Code built my GTA-style open world on the real streets of St. Louis, and it runs in a browser: 1,211 commits in 32 days, here's the workflow",
+   "text": "https://reddit.com/link/1xnt8ia/video/e92elwjxfmzh1/player\n Brinewater is a free open-world game on a real St. Louis, built from the city's own map data: the streets, highways, buildings and bus routes are where they really are. Traffic, pedestrians, St. Louis police with…",
+   "author": "Ok_Incident222",
+   "publishedAt": "2026-11-04T16:51:19+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/VAk-8G4z2MeJ3OpzodPu00_ffgrv0cetw2iLL5qbcos.jpeg?width=140&height=78&auto=webp&s=58ceeaeb89aa007936b5511b85176f28743c190c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ok_Incident222",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2537b284fb04",
+   "canon": "https://www.reddit.com/comments/1xnt2gh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xnt2gh/i_stopped_using_subagents_and_run_every_role_as/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "I stopped using subagents and run every role as its own Claude Code session. Open-sourced the template",
+   "text": "SpecAgent is a project template for Claude Code, made for big multi-package projects where one context can't hold the work. Free and open source under Apache 2.0, runs on Linux, macOS and WSL2.\n Why I built it\n On long projects subagents kept failing me in the same places. A…",
+   "author": "AdOtherwise9458",
+   "publishedAt": "2026-11-04T16:45:12+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/g1ynopr4kmzh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=03362830af0cf8eafb4a07b68551dff91433d39c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AdOtherwise9458",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "da6d452bc0b9",
+   "canon": "https://www.reddit.com/comments/1xnsspa",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xnsspa/our_vr_mmorpg_game_eldramoors_beta_is_live_now/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "Our VR MMORPG game - Eldramoor's Beta is live now!",
+   "text": "Hey everyone, Eldramoor team here!\n We are super happy to announce that our Beta which will run through November 18th is live right now for those who Kickstarted the project and purchased Alpha or Beta access.\n If you decide to wait and see, that's fine too! Watch streams,…",
+   "author": "ResoluteGames",
+   "publishedAt": "2026-11-04T16:34:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ny7tj8nihmzh1.png?width=640&crop=smart&auto=webp&s=ba18b23898f9ca6e96d4b2e9934329a090cf83a8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ResoluteGames",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9005ddf58a0d",
+   "canon": "https://www.reddit.com/comments/1xnspfd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xnspfd/i_built_a_mac_app_for_giving_claude_code_feedback/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "I built a Mac app for giving Claude Code feedback by talking over your screen (+ granola/wisprflow recording features)",
+   "text": "Most of my time with Claude Code is now giving feedback, and the slow bit was taking screenshots and writing it all up.\n So I built Capture, part of a free Mac app called Jot. You press the globe key twice, talk through what's wrong, take screenshots and draw on them as you go,…",
+   "author": "CaHoop",
+   "publishedAt": "2026-11-04T16:31:00+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/d3Fvdjlxb2hobXpoMSFMLkRcKu9-zF9_GlCoqSp3B07f0IjKVRhnFMEzIJQ7.png?width=640&crop=smart&auto=webp&s=b3d67d5692307a4a813af3e9bbd2e59b0cd43c34"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CaHoop",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "00d86097878f",
+   "canon": "https://www.reddit.com/comments/1xnsmyk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnsmyk/cloude_code_dont_want_connect_with_blender/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "cloude code don't want connect with blender",
+   "text": "After installing the add-on in Claude Code, an error message appears. However, when I close the error, the add-on seems to be installed successfully.\n The problem is that I still can't connect to Blender. It only shows that it's attempting to connect, and after about 4 minutes,…",
+   "author": "MyLifeISdivineComedy",
+   "publishedAt": "2026-11-04T16:28:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/yeawh51tfmzh1.png?width=140&height=63&auto=webp&s=603434ecf4a5970dd3638d3de039be7053fbfdd9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MyLifeISdivineComedy",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a5d6e1c93f6d",
+   "canon": "https://www.reddit.com/comments/1xns7zp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xns7zp/100_vibecoded_space_mmo_with_claude/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "100% vibecoded space mmo with Claude",
+   "text": "https://space.cricket is the URL. \n A few months ago I started vibecoding with spare time while waiting for Claude on other things - using extra usage from my plan. In case anyone is curious here are a few notes:\n I used to be adamantly against vibe coding. What a dumb concept…",
+   "author": "thermist-MJ",
+   "publishedAt": "2026-11-04T16:12:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YXdpbjB6c2YwbHpoMZ9oD-8MWgySJjw-tAw2Ps5_dAL57AlN9C6U6nh_cg1U.png?width=640&crop=smart&auto=webp&s=6b638ca00dd083b9853d80bd29884592a4b0df89"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/thermist-MJ",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8e5a7e391710",
+   "canon": "https://www.reddit.com/comments/1xnrwdg",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xnrwdg/i_built_realtime_voice_for_claude_code/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "I built real-time voice for Claude Code",
+   "text": "Background\n Right around when real-time voice was coming out for Codex, I had hit my head and couldn't use screens for a bit so I really wanted to be able to hear Claude's responses and speak back to it so I could use it hands free and screen free.\n Agent Speak\n I had also been…",
+   "author": "djacksondev",
+   "publishedAt": "2026-11-04T16:00:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ty1qb7cxbmzh1.gif?width=640&crop=smart&s=c2bf72dc33ccee79b7fd3058c5043054d70094c8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/djacksondev",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e422b8c95136",
+   "canon": "https://www.reddit.com/comments/1xnrkfd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xnrkfd/claude_code_updates_almost_daily_so_i_built_a/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "Claude Code updates almost daily, so I built a feed that pulls out the changes that actually matter",
+   "text": "Claude Code updates almost daily and I honestly can't keep up with the changelog. Most updates don't matter to me, but every once in a while one does - some default changes, a setting behaves differently, a limit moves. I usually find out about it the hard way...\n I decided to…",
+   "author": "liorgrossman",
+   "publishedAt": "2026-11-04T15:46:58+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/liorgrossman",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7947ab18dfd1",
+   "canon": "https://www.reddit.com/comments/1xnrg97",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xnrg97/streamer_vs_in_development_fighting_game/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "Streamer VS (in Development Fighting Game)",
+   "text": "I've been making a Fighting Game that's completely free to play (and will remain that way) on itch.io I've been trying to hone my skills at game making in general. So I decided to give AI assistance a try to expedite the process. Especially since I want to get feedback to help…",
+   "author": "CryptoCatatonic",
+   "publishedAt": "2026-11-04T15:42:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NmR6M29raG02bXpoMTBWMhVSg6cF2KeR2dxNwGyiy02RY5Wmrhyy0nLvTpU0.png?width=640&crop=smart&auto=webp&s=91781215634649d14e3e2250416fe35e937ced82"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CryptoCatatonic",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f005b23ad799",
+   "canon": "https://www.reddit.com/comments/1xnr7zk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xnr7zk/recalc_a_spreadsheet_as_claude_codes_harness_of/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "recalc: a spreadsheet as Claude Code's harness of harnesses",
+   "text": "https://github.com/sshah03/recalc\n I was using Claude to help me build benchmark sets, and found pouring through CSVs / MD files of the results a bit tiresome, so I build a spreadsheet app for myself that's driven by Claude Code, and where each cell can be its own Agent if you…",
+   "author": "0xcontext",
+   "publishedAt": "2026-11-04T15:33:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dTFqYjN5cjc3bXpoMUEO4uZ1V1gemCQIeb2aPFFE9psIOUuyoYiXfo68bYz-.png?width=640&crop=smart&auto=webp&s=7f9422a42c93fc873643cfe8aecabffb6e17ffe0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/0xcontext",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "037900b52583",
+   "canon": "https://www.reddit.com/comments/1xnr7mg",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xnr7mg/ive_been_working_on_the_tetrix_and_finally_have/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "I’ve been working on The Tetrix and finally have it playable here on Reddit.",
+   "text": "The inspirations behind the game are quite obvious! It has two modes, Endless and Cipher, and an all-time leaderboard for each. The whole thing takes place inside an animated code room.\n You can play it here:…",
+   "author": "BeingComfortablyDumb",
+   "publishedAt": "2026-11-04T15:32:57+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/azJrZHlhOTc3bXpoMVMlVCNif6WNgjDUikf8TqCW2TVuy6AjUo2Dqw7WNJOE.png?width=640&crop=smart&auto=webp&s=43860fbf09cd912a402cfa8740646ace754f0dd4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/BeingComfortablyDumb",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "912296465688",
+   "canon": "https://www.reddit.com/comments/1xnr2si",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xnr2si/introducing_threelive_turning_aigenerated_threejs/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "Introducing Three-Live: turning AI-generated Three.js into interactive AR",
+   "text": "",
+   "author": "AR_MR_XR",
+   "publishedAt": "2026-11-04T15:27:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/l3f0IlwYTNDTHtIaYFfANmd3bpJz1qPrltjggbip3Jg.png?width=640&crop=smart&auto=webp&s=0454578f94f533d9a24b06b640cb48cc5393ba5f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "ai",
+    "three",
+    "threejs"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AR_MR_XR",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2cba382f508b",
+   "canon": "https://www.reddit.com/comments/1xnr0yq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xnr0yq/use_cc_fully_handsoff_with_a_voice_agent_relay/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "Use CC fully hands-off with a voice agent relay",
+   "text": "voice-relay for Claude Code is a CC plugin that allows you to use CC completely hands-off through a voice agent that serves as a convenient relay/translator between you and CC.\n It also gives you short updates as CC works through stuff. Nice way to get even more addicted to vibe…",
+   "author": "elijah-atamas",
+   "publishedAt": "2026-11-04T15:25:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bXhiaW93NnAzbXpoMQVtQxX6h3mywZsGdeepZvc4DzEi2oG7bV3CyhDqAJpF.png?width=640&crop=smart&auto=webp&s=8142603655f45501301cc12a609f427488741978"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/elijah-atamas",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b2dcab4acb01",
+   "canon": "https://www.reddit.com/comments/1xnr0s6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xnr0s6/observability_supercharges_your_agent/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "Observability supercharges your agent",
+   "text": "Hey folks! We've had a lot of success since we've given our agent access to runtime telemetry, and wanted to share some of the recommendations here:\n Instrumenting your application with profiles, metrics, traces, and logs allows the agent to better debug your application. ie: a…",
+   "author": "reliant-labs",
+   "publishedAt": "2026-11-04T15:25:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZHg2NW0zNmxiaXpoMQGEfBc06cf3dZMSxPEjh0kuwEZVL8-t4hVvZsrxRCiQ.png?width=640&crop=smart&auto=webp&s=7ae46ea9eaf662857f5f7acdea23201396580f4e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/reliant-labs",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d019da08d9e4",
+   "canon": "https://www.reddit.com/comments/1xnqzp2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xnqzp2/lilith_desktop_companion/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "Lilith desktop companion",
+   "text": "hihi~. I wanted to show you what I’ve been working on recently.\n I really liked the noexistance of lilith, and wanted to give her more ways to interact with what I’m doing. So I built on that idea: she can react to Claude Code activity while I’m coding, control music, respond to…",
+   "author": "Hogoo714",
+   "publishedAt": "2026-11-04T15:24:13+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/b29naml3YXE1bXpoMfPsKT7K7KeNJUEKkrdIvhJNkEJwpMIO1rzTVD4DcGXi.jpeg?width=640&crop=smart&auto=webp&s=f2d16988fee5f9295945dde8e355ecb6f1dce719"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Hogoo714",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e46afe593b52",
+   "canon": "https://www.reddit.com/comments/1xnqrp2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnqrp2/i_gave_claude_raw_3ds_machine_code_with_no_source/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "I gave Claude raw 3DS machine code with no source, and it found a deleted 3D renderer inside Minecraft, reimplemented it.",
+   "text": "This started as a silly idea to satisfy my childhood self. I wanted to see if claude code could actually reverse engineer the game from raw machine code, no source, nothing. I picked minecraft and terraria on the 3ds. the most obvious contenders imo, (neither came with 3d…",
+   "author": "BeginningRealistic49",
+   "publishedAt": "2026-11-04T15:15:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/amdlNWt3aTU0bXpoMZY5ji05Nl1G3DJy14ZKt_jdEQLuaGuAcE8Qk5QOgggo.png?width=640&crop=smart&auto=webp&s=416b496ad60b7decc91c342ec546e2c7609a8a6b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game",
+    "voxel"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/BeginningRealistic49",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a75791230071",
+   "canon": "https://www.reddit.com/comments/1xnqlcb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnqlcb/i_asked_claude_code_to_make_every_soldier_fight/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "I asked Claude Code to make every soldier fight in my strategy game. It measured first, and then told me its fix didn't help phones",
+   "text": "Hey! I'm making Houses of Veyra, a feudal sci-fi sandbox: a Bannerlord-style world map, real-time squad battles and CK3-style politics. It's Godot 4, runs in the browser (phones too), and it's free: https://jonnysoft.itch.io/houses-of-veyra\n I design and direct it. Claude Code…",
+   "author": "Ivaricus",
+   "publishedAt": "2026-11-04T15:08:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YTIxbmM1YnQybXpoMYdkwRxte5W26dwkMvhuU_5H9P6a_Y2KyWdrfYIP6i0D.png?width=640&crop=smart&auto=webp&s=0c377e9e13f3cf1c85024dc22dbb02698d66c79f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ivaricus",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8fae2ba0e639",
+   "canon": "https://www.reddit.com/comments/1xnq5no",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xnq5no/1_day_until_release_a_huge_thank_you_zero_caliber/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "1 day until release + a huge THANK YOU | Zero Caliber 2",
+   "text": "Hey everyone, we’re officially just 1 day away from release, and I wanted to use this post to say a huge THANK YOU to everyone who followed our journey, upvoted, commented, sent suggestions or helped us test builds. \n You genuinely helped us get Zero Caliber 2 Remastered into…",
+   "author": "-DanDanDaaan",
+   "publishedAt": "2026-11-04T14:51:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/3v31x7jpzlzh1.png?width=640&crop=smart&auto=webp&s=6cfb665c95b7473eeed262f1e3bd6f54aa0c6763"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/-DanDanDaaan",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "327f113bfd24",
+   "canon": "https://www.reddit.com/comments/1xnpkna",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xnpkna/benchmarking_major_web_3dgs_renderers_spark_radix/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "Benchmarking major web 3DGS renderers: Spark, Radix, PlayCanvas, SuperSplat, GSL and Aholo",
+   "text": "I put together a benchmark comparing six major web Gaussian Splatting renderers across nine WebGL2/WebGPU backends. Disclosure: I’m the developer of Gaussian Splat Lite (GSL).\n The tests cover rendering performance, sorting latency and memory across three full SH3 scenes with…",
+   "author": "PropertyPleasant4993",
+   "publishedAt": "2026-11-04T14:27:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/93h40g0uulzh1.png?width=640&crop=smart&auto=webp&s=7bec644bf49eaf9d56c09d00a53629278b97cd6c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three",
+    "threejs"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/PropertyPleasant4993",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ae88c9e0e38d",
+   "canon": "https://www.reddit.com/comments/1xnp6ek",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xnp6ek/aces_of_thunder_is_underrated/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "Aces of Thunder is underrated.",
+   "text": "",
+   "author": "plutonium-239",
+   "publishedAt": "2026-11-04T14:10:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZGR5enpsZ21zbHpoMbskgDAYOmqeW_1ILH98r1-2zMrN745TzIJg2RV6uGtH.png?width=640&crop=smart&auto=webp&s=cd557889425f85ac9459870cb68a5cc324af26ad"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/plutonium-239",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "40c0d8e05bf6",
+   "canon": "https://www.reddit.com/comments/1xnosei",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xnosei/multiplayer_is_coming_to_our_racing_game/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "Multiplayer is coming to our racing game!",
+   "text": "Hey everyone!\n We're the studio behind RACECLUB, a VR racing simulator for Meta Quest 3. We've been working hard on the game, and we're now getting closer to bringing one of its most requested features: multiplayer!\n We've put a lot of effort into making this happen, and we…",
+   "author": "RACECLUBVR",
+   "publishedAt": "2026-11-04T13:55:12+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bjh5OXlnNmNwbHpoMco3SqJJsbkdFhjCz3T7plbs79teAGodibk-fDLUkfdM.png?width=640&crop=smart&auto=webp&s=d5aca0ec3bcec4f4ef850622a05a1ec3d935b105"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RACECLUBVR",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "39b4ac095351",
+   "canon": "https://www.reddit.com/comments/1xnojfc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xnojfc/iconemblender_ogc3dtiles_for_streaming_into/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "Iconem/blender_ogc3dtiles for streaming into Blender OGC-3Dtiles of meshes, pointclouds, 3dgs splats through cesium-native-python",
+   "text": "",
+   "author": "jochemla",
+   "publishedAt": "2026-11-04T13:44:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/9ulcvuv2nlzh1.png?width=140&height=112&auto=webp&s=8c56c03645f7c93db2fb1acb261db4162c424204"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/jochemla",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d9267ef4bd8e",
+   "canon": "https://www.reddit.com/comments/1xnohom",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xnohom/agentroom_spatial_agentic_engineering_testflight/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "AgentRoom - Spatial Agentic Engineering (testflight) | MCP Apps + Agentic Boards",
+   "text": "Fellow engineers, its been quite some time since I came on here to notifiy you all about AgentRoom.\n For context we have been focussing on building a visionOS agent harness, built for devs/ engineers.\n We are currently at 0.6.0 and theres a lot of qol improvements.\n This update…",
+   "author": "unclebazrq",
+   "publishedAt": "2026-11-04T13:41:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZWUzb2pidHBtbHpoMcd5fIuo8HWSNlGMl-EilI4YKgzUsfwGtAToEFP8r9dK.png?width=640&crop=smart&auto=webp&s=185d23195018149edbbbc173330f6d5af1cf5d84"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/unclebazrq",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "635c7996cdae",
+   "canon": "https://www.reddit.com/comments/1xnnwqe",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xnnwqe/i_built_an_ar_app_where_the_camera_captures_a/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "I built an AR app where the camera captures a person and transforms them into a 3D avatar in real time.",
+   "text": "Hey everyone,\n For the past year, I’ve been working on an AR project called Simulatra, and it’s finally live. The main goal was to achieve real-time motion capture using just a standard smartphone camera, with zero latency and 100% local processing.\n Technical Details:\n Stack:…",
+   "author": "LowZideal7184",
+   "publishedAt": "2026-11-04T13:14:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MzFzcmJrYWFobHpoMUmUwrmKdXlJ19qHZoxfkE8_7haU1DTuRovQ1362tsgT.png?width=320&crop=smart&auto=webp&s=27931700f6d35e2c6ed08942dc2ef2adfe49f242"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "three",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/LowZideal7184",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f279b27e3fc8",
+   "canon": "https://www.reddit.com/comments/1xnnvnz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xnnvnz/a_real_border_kiosk_became_our_vrchat_documentary/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "A real border kiosk became our VRChat documentary about migration. Now on PC and Quest, in five languages.",
+   "text": "https://reddit.com/link/1xnnvnz/video/7starsjwglzh1/player\n An abandoned kiosk between Serbia and Bosnia. People who left Russia came here every 30 days, just to be allowed to keep living in Serbia.\n I scanned the kiosk during one of my own visa runs. Together with VVARP, we…",
+   "author": "Top_Bowl3748",
+   "publishedAt": "2026-11-04T13:13:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NGFkbzJyb3dnbHpoMXn9OdVabweBG-61F8FFdqFod4W9tVNKH3n0YZgFxlJF.png?width=640&crop=smart&auto=webp&s=f2917f7ba4ebcf3e9657d65a5aea3841783af599"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Top_Bowl3748",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b2649d1f7f57",
+   "canon": "https://www.reddit.com/comments/1xnnllv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xnnllv/type_any_address_and_get_a_3d_model_of_the_place/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "type any address and get a 3D model of the place, with real terrain and an STL you can 3D print",
+   "text": "I wanted to build 3D models of places I've visited, to see their architectural features and to print them. So I built Your Place with Claude Code.\n What it does: type an address and it builds the 1, 2 or 4 km around it as a model on the real terrain. Pin a house, share a link to…",
+   "author": "Accurate_Adam",
+   "publishedAt": "2026-11-04T13:00:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/b2JvZXo0eTNnbHpoMXo1IKimZVVXF7atmQe823zYyuHkNYH1Yp203CTTwChm.png?width=640&crop=smart&auto=webp&s=a514481de59e37d13c1006170cb623f49bd21ff0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Accurate_Adam",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b11ed43d68ed",
+   "canon": "https://www.reddit.com/comments/1xnn2hq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xnn2hq/coming_soon_steamos_on_quest_1/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "Coming Soon™. SteamOS on Quest 1",
+   "text": "This is SteamOS natively running on an Oculus Quest. No Android, no weird tricks, it's plain Linux.\n I'm working on this project and I post updates here if you're interested.",
+   "author": "Nicalay2",
+   "publishedAt": "2026-11-04T12:34:12+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eWVqdjg3aGZibHpoMYqYvrkzjUkjGMWY5jTCQU4SKorjizyMHo1XM1Mad6do.png?width=320&crop=smart&auto=webp&s=545f470397df97374d53c8f6df92ee91b56cd7c9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Nicalay2",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7e84cec1930a",
+   "canon": "https://www.reddit.com/comments/1xnm6ja",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xnm6ja/metas_quest_2_era_is_coming_to_a_close_as_support/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "Meta’s Quest 2 Era is Coming to a Close as Support Winds Down Next Year",
+   "text": "",
+   "author": "Humble_Low721",
+   "publishedAt": "2026-11-04T11:47:57+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OrfjRsGmUlbKN448UOCnmZZlgmjwvIrK2-H35A6Xe6s.jpeg?width=640&crop=smart&auto=webp&s=f1cd2a9f630fcee373a8f88a14f38d9bce261fc5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Humble_Low721",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "423a9b0e57b6",
+   "canon": "https://www.reddit.com/comments/1xnlnzh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xnlnzh/gaussian_splats_without_any_capture_a_lensed/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "Gaussian splats without any capture: a lensed black hole and 373k Gaia stars, rendered live in the browser",
+   "text": "Splats are usually trained from photos, but they also work well as a plain rendering primitive. Two experiments in PlayCanvas (WebGPU):\n Black hole: the lensing is done by splatting, not ray tracing. Each piece of gas is drawn once for each path its light takes around the hole,…",
+   "author": "mvaligursky",
+   "publishedAt": "2026-11-04T11:17:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M2M5NnVoYnJ4a3poMVJY8mGNukaAfnbL7Xe34NII5c3Vb-Hhs9DbqV0vSt6u.png?width=640&crop=smart&auto=webp&s=918e7174bb708702bd9257951c2584f874b55033"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/mvaligursky",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e32866632130",
+   "canon": "https://www.reddit.com/comments/1xninza",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xninza/1_week_into_developing_my_dream_game_a_cod/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "1 week into developing my dream game: A COD Zombies inspired physics survival game!",
+   "text": "Still extremely early, lots of bugs, very little sound design. But already it's a blast to just kill the zombies! I'm not even sure what I'm gonna call it yet, any name suggestions are appreciated! I plan on doing early access on steam once I feel the game is in a state that I'm…",
+   "author": "user342091001",
+   "publishedAt": "2026-11-04T08:06:16+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MmVzN3Z5am16anpoMWiBrKDctkb4K7Xg6z7PVv7_sOkRizuOKwYekn1Y3iGC.png?width=640&crop=smart&auto=webp&s=157b13be096c74928186aea848aaa0671a5fd248"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/user342091001",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "dceeb76ab2cd",
+   "canon": "https://www.reddit.com/comments/1xnikg9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1xnikg9/inmo_future_announced_standalone_android_14_ar/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "INMO Future announced: Standalone Android 14 AR Glasses with 6DOF and $799 launch price",
+   "text": "",
+   "author": "xrosspost",
+   "publishedAt": "2026-11-04T08:00:31+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/xrosspost",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "dc9aa6087035",
+   "canon": "https://www.reddit.com/comments/1xnh9lh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xnh9lh/drawing_ar_graffiti_in_a_real_room_with_floe/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "Drawing AR graffiti in a real room with FLOE — actual iPhone footage",
+   "text": "I’m FLOE’s developer. Here’s a real iPhone demo: drawing in the air, then moving around the strokes to view them from different angles.\n The first 14 seconds are an unbroken recording of the AR drawing. The rest shows edited captures from the app, including a captured 3D-space…",
+   "author": "mengzhui_bay_edc",
+   "publishedAt": "2026-11-04T06:39:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eTc5cnp5bHVpanpoMQv-v3S-UETUKC-toLcwsh-XEl6R2MANQcPpUPYXRrHJ.png?width=320&crop=smart&auto=webp&s=0244003e8c9da8bb708069bea6d332284696dee2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "three",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/mengzhui_bay_edc",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "683d53b6826d",
    "canon": "https://www.reddit.com/comments/1xngi50",
@@ -7633,6 +8883,57 @@
    "model": null
   },
   {
+   "id": "b927ddfa91b6",
+   "canon": "https://x.com/i/status/2116957135661945283",
+   "platform": "x",
+   "url": "https://x.com/karpathy/status/2116957135661945283",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "",
+   "text": "Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5:\nhttps://t.co/JIhXN7OSh1\n\n-…",
+   "author": "karpathy",
+   "publishedAt": "2026-11-01T18:14:46.000Z",
+   "media": {
+    "kind": "image",
+    "thumb": "https://pbs.twimg.com/media/HWDnuuCaIAA__wa.jpg?name=orig",
+    "video": null
+   },
+   "metrics": {
+    "likes": 50933,
+    "views": 4914389,
+    "comments": 2234
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/hackertube",
+     "categories": [],
+     "date": "2026-11-02",
+     "credit": "karpathy",
+     "metrics": {
+      "likes": 50712,
+      "views": 4855759
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "ai",
+    "motion",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/karpathy",
+   "where": null,
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "69b9e800b90c",
    "canon": "https://www.reddit.com/comments/1xl9ywj",
    "platform": "reddit",
@@ -11999,6 +13300,57 @@
    "model": null
   },
   {
+   "id": "0a6898d916e5",
+   "canon": "https://x.com/i/status/2116509069477621819",
+   "platform": "x",
+   "url": "https://x.com/AmirMushich/status/2116509069477621819",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "",
+   "text": "3D pixel games with Claude Opus 5.5 (OS)\n\nOpen source: https://t.co/rWDe0bKCyp\nPlay: https://t.co/J9GgkqbXnJ\n\nInspo credits: @awwbhi2 / @zzzzshawn https://t.co/jKnii7KtpJ",
+   "author": "AmirMushich",
+   "publishedAt": "2026-10-31T12:34:19.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116507953377185792/img/7IPO0A17F2lDnamm.jpg",
+    "video": "https://video.twimg.com/amplify_video/2116507953377185792/vid/avc1/1328x1080/PqFMGB5vafGln1vR.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 2167,
+    "views": 176342,
+    "comments": 87
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/pixel-plays",
+     "categories": [],
+     "date": "2026-10-31",
+     "credit": "AmirMushich",
+     "metrics": {
+      "likes": 2156,
+      "views": 174474
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/AmirMushich",
+   "where": null,
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "c2493be7d134",
    "canon": "https://www.reddit.com/comments/1xk8yqp",
    "platform": "reddit",
@@ -12061,6 +13413,55 @@
    "fetchedAt": "2026-10-31T12:40:15.323Z",
    "lang": "en",
    "model": null
+  },
+  {
+   "id": "b82ee080bffb",
+   "canon": "https://x.com/i/status/2116504653215248436",
+   "platform": "x",
+   "url": "https://x.com/anxuanng/status/2116504653215248436",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "",
+   "text": "Opus 5.5 built a live warehouse from NVIDIA's free SimReady models https://t.co/wVmPg9eeSS",
+   "author": "anxuanng",
+   "publishedAt": "2026-10-31T12:16:46.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116504473095073792/img/H0M5GfsC2wa9fkht.jpg",
+    "video": "https://video.twimg.com/amplify_video/2116504473095073792/vid/avc1/1920x1080/SVvWH0NPJ1ZBN3ye.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 2553,
+    "views": 160304,
+    "comments": 30
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/simready-warehouse",
+     "categories": [],
+     "date": "2026-10-31",
+     "credit": "anxuanng",
+     "metrics": {
+      "likes": 2547,
+      "views": 159674
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/anxuanng",
+   "where": null,
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": "Opus 5.5"
   },
   {
    "id": "634d09bbc8ac",
@@ -13845,6 +15246,59 @@
    "fetchedAt": "2026-10-30T22:28:24.527Z",
    "lang": "en",
    "model": null
+  },
+  {
+   "id": "62952ddb5412",
+   "canon": "https://x.com/i/status/2116289885870981296",
+   "platform": "x",
+   "url": "https://x.com/0x_fokki/status/2116289885870981296",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "",
+   "text": "Someone needs to stop Claude Opus 5.5. It turned one picture into a robot octopus I can take apart piece by piece.\n\ni just said \"make the model\" and what came back floored me.\n\nthe build:\n\n> the picture set the look, every petal, lens and link is three.js code\n> opus rendered…",
+   "author": "0x_fokki",
+   "publishedAt": "2026-10-30T22:03:22.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116289114752376832/img/l3nJ5JkCeJQT1KD6.jpg",
+    "video": "https://video.twimg.com/amplify_video/2116289114752376832/vid/avc1/1920x1080/sqcTXC-KxT6G_qo8.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 6770,
+    "views": 667345,
+    "comments": 174
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/robot-octopus",
+     "categories": [
+      "threejs"
+     ],
+     "date": "2026-10-31",
+     "credit": "0x_fokki",
+     "metrics": {
+      "likes": 6757,
+      "views": 663964
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "threejs",
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/0x_fokki",
+   "where": null,
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": "Opus 5.5"
   },
   {
    "id": "65d5fad98a5d",
@@ -16277,6 +17731,59 @@
    "fetchedAt": "2026-10-30T18:05:16.158Z",
    "lang": "en",
    "model": null
+  },
+  {
+   "id": "348ef122261e",
+   "canon": "https://x.com/i/status/2116192984299344372",
+   "platform": "x",
+   "url": "https://x.com/elvar_official/status/2116192984299344372",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "",
+   "text": "I just packed my whole 3D workflow into one Claude skill.\n\ni gave opus 5.5 one reference picture and said: build me a full teardown of this, every part in code.\n\nthe build:\n\n> the picture set the look, every shell, gear and hose is three.js code\n> opus matched its render to the…",
+   "author": "elvar_official",
+   "publishedAt": "2026-10-30T15:38:19.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116192770503135232/img/FB9Kfa2zN7NnvS5r.jpg",
+    "video": "https://video.twimg.com/amplify_video/2116192770503135232/vid/avc1/1920x1080/RpIIUly2HbU7xv1N.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 3965,
+    "views": 343525,
+    "comments": 114
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/gear-teardown",
+     "categories": [
+      "threejs"
+     ],
+     "date": "2026-10-31",
+     "credit": "elvar_official",
+     "metrics": {
+      "likes": 3964,
+      "views": 341517
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "threejs",
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/elvar_official",
+   "where": null,
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": "Opus 5.5"
   },
   {
    "id": "0290f74d5dbc",
@@ -19149,6 +20656,55 @@
    "model": null
   },
   {
+   "id": "ae68717d95bf",
+   "canon": "https://x.com/i/status/2115870373300326503",
+   "platform": "x",
+   "url": "https://x.com/0xMovez/status/2115870373300326503",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "",
+   "text": "I just reverse-engineered CCleaner / CleanMyMac with Opus 5.5 for Mac & Windows PC\n\nthis is insane...\n\none tap → 14.6 GB of junk gone. fully open-source and free.\n\n→ https://t.co/xdi6E5WvBM\n\nhere’s the build step by step:\n\n• step 1 → open Claude Code on Opus 5.5 in an empty…",
+   "author": "0xMovez",
+   "publishedAt": "2026-10-29T18:16:22.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115870275925315584/img/WkXimd2ZbXW7mSy5.jpg",
+    "video": "https://video.twimg.com/amplify_video/2115870275925315584/vid/avc1/1920x1080/qRNyNZKH06VO9QV1.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 1292,
+    "views": 165937,
+    "comments": 49
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/cleanly-cleaner",
+     "categories": [],
+     "date": "2026-10-30",
+     "credit": "0xMovez",
+     "metrics": {
+      "likes": 1285,
+      "views": 164419
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/0xMovez",
+   "where": null,
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "ecc6d430cbfa",
    "canon": "https://www.reddit.com/comments/1xirmac",
    "platform": "reddit",
@@ -20738,6 +22294,56 @@
    "fetchedAt": "2026-10-29T18:33:22.596Z",
    "lang": "en",
    "model": null
+  },
+  {
+   "id": "540290eb2359",
+   "canon": "https://x.com/i/status/2115756268925448353",
+   "platform": "x",
+   "url": "https://x.com/MengTo/status/2115756268925448353",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "",
+   "text": "I've always wanted to play D&amp;D with my kids with AI as the game master.\n\nSo I made one with Opus 5.5. https://t.co/PbIwHllxXu",
+   "author": "MengTo",
+   "publishedAt": "2026-10-29T10:42:58.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115755763453030400/img/1cN2nAOsEq3UDrWe.jpg",
+    "video": "https://video.twimg.com/amplify_video/2115755763453030400/vid/avc1/1920x1080/uL3ptHjG2OwOWlwq.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 3012,
+    "views": 214080,
+    "comments": 187
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/dnd-gm-kids",
+     "categories": [],
+     "date": "2026-10-29",
+     "credit": "Meng To · @MengTo",
+     "metrics": {
+      "likes": 3010,
+      "views": 213486
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/MengTo",
+   "where": null,
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": "Opus 5.5"
   },
   {
    "id": "b385d51ef084",
@@ -23293,6 +24899,56 @@
    "fetchedAt": "2026-10-28T20:20:18.136Z",
    "lang": "en",
    "model": null
+  },
+  {
+   "id": "267283a13441",
+   "canon": "https://x.com/i/status/2115508414793003052",
+   "platform": "x",
+   "url": "https://x.com/cooper200882/status/2115508414793003052",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "",
+   "text": "ROBLOX DEVS ARE COOKED 😭\n\njust imported Forza Horizon 6 into Roblox thanks to Opus 5.5 📷 \n\n(done in 8 hours ish) \n#ROBLOX #RobloxDevs https://t.co/9iBG0qdb0X",
+   "author": "cooper200882",
+   "publishedAt": "2026-10-28T18:18:04.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115508177689042944/img/pnNHrMvwDXYC-2HD.jpg",
+    "video": "https://video.twimg.com/amplify_video/2115508177689042944/vid/avc1/960x720/Y1_P3_HYVkx5i59t.mp4?tag=14"
+   },
+   "metrics": {
+    "likes": 19576,
+    "views": 224014,
+    "comments": 93
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/roblox-car-port",
+     "categories": [],
+     "date": "2026-10-29",
+     "credit": "cooper200882",
+     "metrics": {
+      "likes": 19577,
+      "views": 223756
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "ai",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/cooper200882",
+   "where": null,
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": "Opus 5.5"
   },
   {
    "id": "d4fa5104c89c",
@@ -28793,6 +30449,57 @@
    "model": "Opus 5.5"
   },
   {
+   "id": "212a465e05ba",
+   "canon": "https://x.com/i/status/2115027510492561477",
+   "platform": "x",
+   "url": "https://x.com/lucas_martinic/status/2115027510492561477",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "",
+   "text": "Full Mario 64 in Mixed Reality! Running in real 3D (no stereoscopic crap) natively at 90FPS and also running on my desk! 😋 \nAgain, Opus 5.5 + PICO CLI combo made it quite straightforward.\n\nSuch a bliss to play an oldie at 90 FPS in 3D.\n\nDisclaimer: I own an original physical…",
+   "author": "lucas_martinic",
+   "publishedAt": "2026-10-27T10:27:08.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115026922216275970/img/omkAXanjQdUFSIN2.jpg",
+    "video": "https://video.twimg.com/amplify_video/2115026922216275970/vid/avc1/1920x1920/h2K1VTTChdJu6LJG.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 7682,
+    "views": 906265,
+    "comments": 307
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/mario64-mr",
+     "categories": [],
+     "date": "2026-10-27",
+     "credit": "lucas_martinic",
+     "metrics": {
+      "likes": 7684,
+      "views": 905774
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "ai",
+    "xr",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/lucas_martinic",
+   "where": null,
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "df54dccf499b",
    "canon": "https://www.reddit.com/comments/1xgoiad",
    "platform": "reddit",
@@ -31971,6 +33678,59 @@
    "fetchedAt": "2026-10-27T09:06:16.139Z",
    "lang": "en",
    "model": null
+  },
+  {
+   "id": "f0ca67f82510",
+   "canon": "https://x.com/i/status/2114728296034226583",
+   "platform": "x",
+   "url": "https://x.com/__rockbiter/status/2114728296034226583",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "",
+   "text": "Everyone's using Claude Opus 5.5 to build entire worlds in #threejs.\n\nI spent 7 days on a single human eye.\n\nNo textures. No 3D models. No photos. Just math, light and ~400 parameters.\n\nSound on 🔊 Link below 👇 https://t.co/1aVo5Ih2Pq",
+   "author": "__rockbiter",
+   "publishedAt": "2026-10-26T14:38:10.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114694823621890048/img/eDaHybZoa47lMlmv.jpg",
+    "video": "https://video.twimg.com/amplify_video/2114694823621890048/vid/avc1/1920x1080/6DAVwbx3Vz93Bd9i.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 3295,
+    "views": 223924,
+    "comments": 170
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/procedural-eye",
+     "categories": [
+      "threejs"
+     ],
+     "date": "2026-10-26",
+     "credit": "__rockbiter",
+     "metrics": {
+      "likes": 3295,
+      "views": 223598
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "threejs",
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/__rockbiter",
+   "where": null,
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": "Opus 5.5"
   },
   {
    "id": "f3a8fd468f21",
@@ -37936,6 +39696,51 @@
    "model": null
   },
   {
+   "id": "0cea1667981b",
+   "canon": "https://www.reddit.com/comments/1xen5ij",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xen5ij/7_weeks_of_claude_opus_55_and_739_commits_heres/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "7 weeks of Claude Opus 5.5 and 739 commits. Here's what I was able to build.",
+   "text": "*disclaimer* I had built the map myself over the course of a year.",
+   "author": "According-Bake6477",
+   "publishedAt": "2026-10-24T23:35:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Y3Y4eWp1bTczaXhoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=96ac62d052a0f0d15e38bd1ee1c5a6caafcc6b4b"
+   },
+   "metrics": {
+    "likes": 127
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/village-7weeks",
+     "categories": [],
+     "date": "2026-10-25",
+     "credit": "r/aigamedev",
+     "metrics": {
+      "likes": 127
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://www.reddit.com/user/According-Bake6477",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "3c67853e4de2",
    "canon": "https://www.reddit.com/comments/1xemplm",
    "platform": "reddit",
@@ -39205,6 +41010,59 @@
    "fetchedAt": "2026-10-24T20:56:16.425Z",
    "lang": "en",
    "model": null
+  },
+  {
+   "id": "979b719c4155",
+   "canon": "https://x.com/i/status/2114035463153742180",
+   "platform": "x",
+   "url": "https://x.com/techartist_/status/2114035463153742180",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "",
+   "text": "Nine more lessons from my 3D book about energy, now covering the whole GCSE energy topic: kinetic, gravitational and elastic energy, heating, power, efficiency, energy resources and conservation of energy.\n\nBuilt with Opus 5.5 and Three.js. The full book ↓ https://t.co/Ku1tqLNq8r",
+   "author": "techartist_",
+   "publishedAt": "2026-10-24T16:45:05.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114032980767416320/img/sjTUZDlJHwyGJTl5.jpg",
+    "video": "https://video.twimg.com/amplify_video/2114032980767416320/vid/avc1/1920x1080/WBnobSXrpymUhlpn.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 2839,
+    "views": 242566,
+    "comments": 74
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/energy-3d-book",
+     "categories": [
+      "threejs"
+     ],
+     "date": "2026-10-25",
+     "credit": "techartist_",
+     "metrics": {
+      "likes": 2821,
+      "views": 241978
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "threejs",
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/techartist_",
+   "where": null,
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": "Opus 5.5"
   },
   {
    "id": "8d32ab18c846",
@@ -42714,6 +44572,50 @@
    "model": null
   },
   {
+   "id": "25d4b10c1043",
+   "canon": "https://www.reddit.com/comments/1xdk2aj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/claude/comments/1xdk2aj/i_used_my_extra_claude_credits_to_make_a_public/",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "I used my extra Claude credits to make a public domain gallery of 500 gifs & animated webp. The goal is 1000+",
+   "text": "I always wanted one-off simple moving pictures to include in my website designs, and the issue was most gifs you find have copyrights, so I came up with vibegif, the animated gallery made with AI.\n At the time of this posting, there are 500 units in the gallery, but I will make…",
+   "author": "Round_Ad_5832",
+   "publishedAt": "2026-10-23T17:15:29+00:00",
+   "media": null,
+   "metrics": {
+    "likes": 120
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/vibegif",
+     "categories": [],
+     "date": "2026-10-24",
+     "credit": "r/claude",
+     "metrics": {
+      "likes": 120
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "ai",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Round_Ad_5832",
+   "where": "r/claude",
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "8bd3220d139f",
    "canon": "https://www.reddit.com/comments/1xdjqqm",
    "platform": "reddit",
@@ -45767,6 +47669,60 @@
    "model": null
   },
   {
+   "id": "9de87a30059a",
+   "canon": "https://x.com/i/status/2113427367477878971",
+   "platform": "x",
+   "url": "https://x.com/aniketjart/status/2113427367477878971",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "",
+   "text": "Dragon Ball Super: Beerus made me build a fan runner game again! Something as a tribute to the first Dragon Ball episode at Mount Paozu. Created with Opus 5.5, @usecrayon on threejs!\n\nPlay here: https://t.co/tTDYpZBPFh https://t.co/jNnKbAGY2N",
+   "author": "aniketjart",
+   "publishedAt": "2026-10-23T00:28:44.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113425564321325057/img/SoYVQUfAlqoCcHMp.jpg",
+    "video": "https://video.twimg.com/amplify_video/2113425564321325057/vid/avc1/3276x2160/1PrqXwLBnqOapwXD.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 5471,
+    "views": 679105,
+    "comments": 144
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/paozu-runner",
+     "categories": [
+      "threejs"
+     ],
+     "date": "2026-10-23",
+     "credit": "aniketjart",
+     "metrics": {
+      "likes": 5475,
+      "views": 678957
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "threejs",
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/aniketjart",
+   "where": null,
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "a52b0c050a0e",
    "canon": "https://www.reddit.com/comments/1xcx17j",
    "platform": "reddit",
@@ -47300,6 +49256,55 @@
    "model": null
   },
   {
+   "id": "ebf0674ac8d4",
+   "canon": "https://x.com/i/status/2113292903741116893",
+   "platform": "x",
+   "url": "https://x.com/0xMovez/status/2113292903741116893",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "",
+   "text": "I just solved \"Drone engineering\" education with Opus 5.5 + /colorfigures skill\n\nno need to crash a $400 FPV build to learn how drones work, just visit my interactive site\n\n• 13 real drones: 5\" freestyle, cinewhoop, racer, flying wing, VTOL, heavy-lift octo...\n• build them part…",
+   "author": "0xMovez",
+   "publishedAt": "2026-10-22T15:34:25.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113291833434316800/img/GwDbKg_kMM0bt-Qx.jpg",
+    "video": "https://video.twimg.com/amplify_video/2113291833434316800/vid/avc1/2198x1858/5SJvRNp8n22MpbYt.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 2844,
+    "views": 98122,
+    "comments": 42
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/drone-hangar",
+     "categories": [],
+     "date": "2026-10-23",
+     "credit": "0xMovez",
+     "metrics": {
+      "likes": 2844,
+      "views": 97996
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/0xMovez",
+   "where": null,
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "f705c0dd85ae",
    "canon": "https://www.reddit.com/comments/1xclt60",
    "platform": "reddit",
@@ -47563,6 +49568,105 @@
    "fetchedAt": "2026-10-22T17:17:41.056Z",
    "lang": "en",
    "model": null
+  },
+  {
+   "id": "a6987c7b3da4",
+   "canon": "https://x.com/i/status/2113274150844608821",
+   "platform": "x",
+   "url": "https://x.com/celluloidpanda/status/2113274150844608821",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "",
+   "text": "Trust me CLAUDE opus 5.5 Edited this video 💥💥💥\n\nExample clip ichha..\nFull movies \nand Full song ichha anthe\n\nIdhi video 💥💥\n\nInkaa train chesthe inka baga isthundemo \n\nDamn 💥\n\n#HBDPrabhas https://t.co/v8JUjHoe9e",
+   "author": "celluloidpanda",
+   "publishedAt": "2026-10-22T14:19:54.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113274105298616321/img/8AH3RUEpz1yMVI_7.jpg",
+    "video": "https://video.twimg.com/amplify_video/2113274105298616321/vid/avc1/1280x720/naVEQYPAl4VZ-aFv.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 3055,
+    "views": 68661,
+    "comments": 25
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/prabhas-edit",
+     "categories": [],
+     "date": "2026-10-22",
+     "credit": "celluloidpanda",
+     "metrics": {
+      "likes": 3055,
+      "views": 68629
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/celluloidpanda",
+   "where": null,
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "c5836f65b122",
+   "canon": "https://x.com/i/status/2113270979476545573",
+   "platform": "x",
+   "url": "https://x.com/0xCodez/status/2113270979476545573",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "",
+   "text": "Holy sh*t, my GrokBot is now working on my TV as a Jarvis with the help of Opus 5.5\n\nI reverse-engineered my Samsung TV with Opus 5.5...\n\n1 sentence out loud = Netflix opens and scrolls itself.\n\nNo remote, no phone, no digging between the couch cushions.\n\nhere's the full guide…",
+   "author": "0xCodez",
+   "publishedAt": "2026-10-22T14:07:18.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113270621178138624/img/QNu0o59xhIQFaGbg.jpg",
+    "video": "https://video.twimg.com/amplify_video/2113270621178138624/vid/avc1/1920x1080/fAe9M_3cL52_1uYE.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 1653,
+    "views": 190427,
+    "comments": 88
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/tv-voice-remote",
+     "categories": [],
+     "date": "2026-10-22",
+     "credit": "0xCodez",
+     "metrics": {
+      "likes": 1654,
+      "views": 190335
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/0xCodez",
+   "where": null,
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": "Opus 5.5"
   },
   {
    "id": "a32bdac951d8",
@@ -52020,6 +54124,56 @@
    "fetchedAt": "2026-10-21T11:57:22.936Z",
    "lang": "en",
    "model": null
+  },
+  {
+   "id": "fc242c550110",
+   "canon": "https://x.com/i/status/2112873177185660940",
+   "platform": "x",
+   "url": "https://x.com/BreejeAnadkat/status/2112873177185660940",
+   "addedAt": "2026-11-04T17:21:26.374Z",
+   "title": "",
+   "text": "We’re obsessed with smooth animations.\n\nDesigned and built entirely with opus 5.5. Haven't touched Figma this time. https://t.co/1ciacvFhdD",
+   "author": "BreejeAnadkat",
+   "publishedAt": "2026-10-21T11:46:35.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112872172066881536/img/9VuMFtWOVOF7UAAL.jpg",
+    "video": "https://video.twimg.com/amplify_video/2112872172066881536/vid/avc1/924x1700/tDWSMB1oe6V7qE04.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 2404,
+    "views": 82203,
+    "comments": 105
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/smooth-anim-ui",
+     "categories": [],
+     "date": "2026-10-21",
+     "credit": "BreejeAnadkat",
+     "metrics": {
+      "likes": 2404,
+      "views": 82146
+     },
+     "model": "Opus 5.5"
+    }
+   ],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/BreejeAnadkat",
+   "where": null,
+   "fetchedAt": "2026-11-04T17:21:26.374Z",
+   "lang": "en",
+   "model": "Opus 5.5"
   },
   {
    "id": "cc75240ae07a",
@@ -131437,7 +133591,9 @@
      "site": "ohmyopus",
      "name": "ohmyopus",
      "url": "https://ohmyopus.com/c/claude-pop",
-     "categories": [],
+     "categories": [
+      "app"
+     ],
      "date": "2026-09-22",
      "credit": "NotinReality (@other__reality)",
      "metrics": {
@@ -131448,6 +133604,7 @@
     }
    ],
    "tags": [
+    "app",
     "ai"
    ],
    "status": "ok",
