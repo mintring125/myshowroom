@@ -1,8 +1,818 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-11-03T23:33:42.007Z",
+ "updatedAt": "2026-11-04T06:35:45.887Z",
  "cases": [
+  {
+   "id": "683d53b6826d",
+   "canon": "https://www.reddit.com/comments/1xngi50",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xngi50/590_claude_code_sessions_and_20_billion_tokens/",
+   "addedAt": "2026-11-04T06:31:22.941Z",
+   "title": "590 Claude Code sessions and 20 billion tokens later: a ~30-hour monster-taming RPG that runs in your browser",
+   "text": "Four days ago I made the first commit of Kithland, a monster-taming RPG in the style of the old pocket consoles. Since then Claude Code has written nearly all of it: the engine, the voxel world, every sprite, all the music, the story and the battles. I played the builds and said…",
+   "author": "Comprehensive-Dig-31",
+   "publishedAt": "2026-11-04T05:55:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/b2VuZWIzczRjanpoMYRGDBqLUmKoZ7W0K0TKQ4Ngvt0RVTkW4p-Vza4g0Zyo.png?width=640&crop=smart&auto=webp&s=4c0677436af39f1be3707dce51cee274379eace1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "voxel"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Comprehensive-Dig-31",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-04T06:31:22.941Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4face6bf5302",
+   "canon": "https://www.reddit.com/comments/1xngdze",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xngdze/improving_3dgs_and_video_fusion_with_geometric/",
+   "addedAt": "2026-11-04T06:31:22.941Z",
+   "title": "Improving 3DGS and Video Fusion with Geometric Consistency",
+   "text": "We’ve been refining our 3DGS and video fusion workflow. This update applies geometric consistency optimization to reduce elliptical artifacts and noise, making the transition between the video and the 3D scene smoother and more continuous.\n Here’s a before-and-after comparison…",
+   "author": "Betty-Diaz",
+   "publishedAt": "2026-11-04T05:48:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/N3NvdnZwbnc5anpoMZegMlcZCuE-qk9Cspgw-ZtIeYO7W3ReT3-R7VVP79RM.png?width=640&crop=smart&auto=webp&s=a376e0d8013e9ace8f846dbedb15731400b8a7f4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Betty-Diaz",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-04T06:31:22.941Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3ed33041f553",
+   "canon": "https://www.reddit.com/comments/1xng9yi",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xng9yi/my_project_that_no_one_needs/",
+   "addedAt": "2026-11-04T06:31:22.941Z",
+   "title": "My project that no one needs :)",
+   "text": "I love that everyone can build amazing tools, and I also recognize we're all doing it and the hard part is getting anyone else interested. \n All that aside, here's mine! It's a workspace frontend for ComfyUI and Claude. \n The key thing is that I only got this going because I let…",
+   "author": "TheHollywoodGeek",
+   "publishedAt": "2026-11-04T05:42:08+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M25hYnF0eGE5anpoMX4n1oCO7dcjYhcloAi3Fw3VcpiG2qRGy_65htGi4UkG.png?width=640&crop=smart&auto=webp&s=e38b4c916072dc3bb6898eefc305579b24fb64e5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TheHollywoodGeek",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-04T06:31:22.941Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7d5c3ee08869",
+   "canon": "https://www.reddit.com/comments/1xnfzmx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xnfzmx/little_preview_of_what_ive_been_cooking/",
+   "addedAt": "2026-11-04T06:31:22.941Z",
+   "title": "little preview of what I've been cooking",
+   "text": "Game is not anywhere yet and not even going to be playtested quite yet. The destruction physics use baked shatter data and compute shaders for the physics and the rendering so they're extra performant. made in unity 6 with some help from claude.\n Game is called plunderspell and…",
+   "author": "Ajw03Dev",
+   "publishedAt": "2026-11-04T05:26:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NGFhM3BkMDE3anpoMdS7ygN5LaLFuZj3FaWSRnjSQ0ynOTdEXXSCCTONk9zt.png?width=640&crop=smart&auto=webp&s=201c74691cc622b9f94c974d87a47a629509ab9f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ajw03Dev",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-04T06:31:22.941Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d16d1d446ac0",
+   "canon": "https://www.reddit.com/comments/1xneufc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xneufc/steam_frame_steamos_057_beta_for_steam_frame/",
+   "addedAt": "2026-11-04T06:31:22.941Z",
+   "title": "Steam Frame - SteamOS 0.5.7 Beta for Steam Frame",
+   "text": "SteamOS 0.5.7 (for Steam Frame) has just been released.\n This update is for the Steam Frame Beta channel, and includes new features that are still being tested.\n You can opt into this in Settings > System > System Update Channel.\n SteamVR:\n SteamVR has been updated to version…",
+   "author": "Night247",
+   "publishedAt": "2026-11-04T04:24:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/1VL_eFQD4AvM75dFgojxRQ4Amk17IfYWdMy4-3nfimU.jpeg?width=320&crop=smart&auto=webp&s=ce51e314a1ad325eef95a8c2ca38a630eb3a2c53"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Night247",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-04T06:31:22.941Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "efdbf3f1e841",
+   "canon": "https://www.reddit.com/comments/1xneiej",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xneiej/postmans_desktop_app_can_install_its_plugin_into/",
+   "addedAt": "2026-11-04T06:31:22.941Z",
+   "title": "Postman’s desktop app can install its plugin into Claude Code without asking. How to check and remove it",
+   "text": "Recent Postman desktop updates install the Postman plugin into Claude Code for signed-in users. They also add it to Codex, Cursor and Copilot CLI, plus a Postman CLI. It’s the real plugin from the official marketplace, not malware. It’s just installed at user scope, so it loads…",
+   "author": "vinishkapoor",
+   "publishedAt": "2026-11-04T04:07:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/86qy5l7xsizh1.jpeg?width=640&crop=smart&auto=webp&s=36e880ca2b4405e40ca0a72451312009ed7edf1d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/vinishkapoor",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-04T06:31:22.941Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b05da78e12d4",
+   "canon": "https://www.reddit.com/comments/1xnei8n",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnei8n/built_a_2026_us_midterm_election_tracker_with/",
+   "addedAt": "2026-11-04T06:31:22.941Z",
+   "title": "Built a 2026 U.S. midterm election tracker with Claude Sonnet 5.5",
+   "text": "I wanted to share a practical example of what I've been building with Claude Sonnet 5.5 --it is not easy to grasp a plan from Cuba.\n What I am featuring here is a small, free, runnable Flask application tracking the 2026 U.S. midterms through three sources: The People's Tally,…",
+   "author": "Illustrious_Major_14",
+   "publishedAt": "2026-11-04T04:07:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/f2ieempysizh1.png?width=140&height=102&auto=webp&s=1f5dc44573e4267487c6ea52ec72c7edcd0a9345"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Illustrious_Major_14",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-04T06:31:22.941Z",
+   "lang": "en",
+   "model": "Sonnet 5.5"
+  },
+  {
+   "id": "ff84aa70173c",
+   "canon": "https://www.reddit.com/comments/1xneafl",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xneafl/made_the_word_game_i_dreamed_of_with_sonnet/",
+   "addedAt": "2026-11-04T06:31:22.941Z",
+   "title": "Made the word game I dreamed of with Sonnet!",
+   "text": "​\n Hi all!\n first off, the link: \n www.depthword.com\n I made this utilizing claude for the backend and most of the frontend - and it's a daily game where every day there is a brand new 'start' word, everyone gets the same one - and then you have to create a chain of 5 words,…",
+   "author": "dizzi800",
+   "publishedAt": "2026-11-04T03:56:14+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/dizzi800",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-04T06:31:22.941Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d79b651d9266",
+   "canon": "https://www.reddit.com/comments/1xndq0d",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xndq0d/playing_hauntify_during_halloween/",
+   "addedAt": "2026-11-04T06:31:22.941Z",
+   "title": "Playing Hauntify during Halloween",
+   "text": "",
+   "author": "MRARVRdev",
+   "publishedAt": "2026-11-04T03:26:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZzhxZGs3MHNsaXpoMT7SHFt5cSw-oKhUsfI9PDDjYJF-ZOKy6TQAjupmDBeO.png?width=640&crop=smart&auto=webp&s=95c849de0399c0c3580a688adfa19cc96977a40f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MRARVRdev",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-04T06:31:22.941Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f55a4d925cfd",
+   "canon": "https://www.reddit.com/comments/1xndmkl",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xndmkl/my_family_sim_killed_a_soldiers_wife_while_he/",
+   "addedAt": "2026-11-04T06:31:22.941Z",
+   "title": "My family sim killed a soldier’s wife while he waited overseas in 1947. Nobody wrote that. Here’s how the numbers got there.",
+   "text": "\"Kinfolks\" is a text sim of one Appalachian family over a hundred years and more. I built it with Claude. It’s one HTML file, about 18,000 lines, that runs in the browser with no server, and it never calls an AI while you play. Last night it handed me a story I didn’t write, so…",
+   "author": "MDawg74",
+   "publishedAt": "2026-11-04T03:22:08+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/A5yhY5LnbyL3KUbSzKhi-1v-PKiQl2ADKrbGmQDDE48.png?width=140&height=73&auto=webp&s=a0b1faaf6e49eff48de88fa2ee50aa7c38d3d6e5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MDawg74",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-04T06:31:22.941Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3035f1acf1d4",
+   "canon": "https://www.reddit.com/comments/1xndjb0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xndjb0/pov_you_fell_asleep_and_had_a_pirate_fever_dream/",
+   "addedAt": "2026-11-04T06:31:22.941Z",
+   "title": "POV: You fell asleep and had a pirate fever dream ||Specters of the Void Sea||",
+   "text": "Let me know what you think of it, and any suggestions/things you would like to see in the game.\n Wishlist on Steam! Would help a lot)\n Free Demo launching in 1 week!\n https://store.steampowered.com/app/4903500/Specters_of_the_Void_Sea/\n Join the discord for access to the free…",
+   "author": "Professional_Leek_56",
+   "publishedAt": "2026-11-04T03:17:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NTRqemIyZjJraXpoMdFAhiTzf811-vuPtTHHrC7n3gOtVL1_8mbKeMMdSOJ9.png?width=640&crop=smart&auto=webp&s=4dd1dd553aad3aaa12cb1832dc7f2bc21a86f76d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Professional_Leek_56",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-04T06:31:22.941Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2196dd7659de",
+   "canon": "https://www.reddit.com/comments/1xnd1t5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xnd1t5/i_wanted_to_make_a_robot_boxing_game_but_the_ai/",
+   "addedAt": "2026-11-04T06:31:22.941Z",
+   "title": "I wanted to make a robot boxing game, but the AI couldn't draw humanoid robots fighting. It ended up as a warehouse game about cargo robots",
+   "text": "FREIGHT FRIGHT has nothing to do with freight in its DNA. It started as a robot boxing match.\n I'd seen footage out of China of humanoid robots boxing each other, and I wanted to make a game where you're the builder and the cornerman, not the fighter in the ring. Then I hit a…",
+   "author": "office-canard",
+   "publishedAt": "2026-11-04T02:53:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/amoxZjFoZnRmaXpoMRWtDtJXk3UHLiumGdjmJAiPrOPW4Tq-fZ-SzAk365dO.png?width=640&crop=smart&auto=webp&s=940a2dc70f4771f316d06f2c64e052b644bcd480"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/office-canard",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-04T06:31:22.941Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "97130153bfb1",
+   "canon": "https://www.reddit.com/comments/1xnct8z",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xnct8z/until_dawn_rush_of_blood_pc_vr_port_v050_motion/",
+   "addedAt": "2026-11-04T06:31:22.941Z",
+   "title": "Until Dawn: Rush of Blood PC VR port (v0.5.0): Motion controllers are free now, and recompilation almost ready for release",
+   "text": "Hey everyone! another update on RushVR, my port of Until Dawn: Rush of Blood (PSVR) to PC VR, which runs on any OpenXR supported headset and is built on shadPS4.\n Some of you have followed this since the early builds, so here’s the big one: as of v0.5.0, the move controller…",
+   "author": "Icanthinkofusername7",
+   "publishedAt": "2026-11-04T02:41:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/q5zzr0codizh1.png?width=640&crop=smart&auto=webp&s=636c1f2b84d64117ac1f163f7f7bc0de357c67e7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Icanthinkofusername7",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-04T06:31:22.941Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b98857cc33d8",
+   "canon": "https://www.reddit.com/comments/1xncij2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xncij2/aquarium_simulator_freshwater_and_saltwater/",
+   "addedAt": "2026-11-04T06:31:22.941Z",
+   "title": "Aquarium Simulator - freshwater and saltwater aquascapes running in your browser! Free and no signup required",
+   "text": "Made a little aquarium simulator over the weekend. Got 90% of this working with a single Claude Opus 5.5 prompt. The idea came from wanting to have a nice looking virtual aquarium that could be displayed while my custom calendar/todo list dashboard \"sleeps\". I first gave Claude…",
+   "author": "miimario",
+   "publishedAt": "2026-11-04T02:26:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/710xbiywaizh1.png?width=640&crop=smart&auto=webp&s=bb077bc0568403cf73bef6bfe56b07f9ed3d475b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/miimario",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-04T06:31:22.941Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "8e3398eecb5a",
+   "canon": "https://www.reddit.com/comments/1xncdz6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xncdz6/cyberpunk_2077_running_natively_on_a_massive_flat/",
+   "addedAt": "2026-11-04T06:31:22.941Z",
+   "title": "Cyberpunk 2077 running natively on a massive flat screen - AVP is the only headset on the market that can accomplish this",
+   "text": "Running Cyberpunk 2077 ultimate edition on the AVP M5. I’d estimate I’m getting 30-50 fps. \n I’m still in awe that a AAA game runs so well standalone on a VR headset. Honestly, the AVP is probably the only headset that can run it currently. \n Installed with help from the vxpro…",
+   "author": "Phonafied",
+   "publishedAt": "2026-11-04T02:20:43+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/czJtdWFtZnU5aXpoMS6DEF0sREE9YEQZEppmIWTLZCkU6DrzyCi7PVvScx1P.jpeg?width=640&crop=smart&auto=webp&s=d8bc0085aba7a3fc0c5cadcb4d83a73eabeeff82"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Phonafied",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-04T06:31:22.941Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "637e77f2def2",
+   "canon": "https://www.reddit.com/comments/1xncc2w",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xncc2w/skills_vs_subagents_vs_plugins_in_claude_code/",
+   "addedAt": "2026-11-04T06:31:22.941Z",
+   "title": "Skills vs subagents vs plugins in Claude Code, with one small example of each",
+   "text": "The short version: a skill is a recipe, a subagent is a helper, and a plugin is the box that carries both to other people.\n One of each was set up in a small demo folder (Claude Code 2.1.316):\n skill /release-note: reads CHANGES md and writes a release note. It ran in the main…",
+   "author": "vinishkapoor",
+   "publishedAt": "2026-11-04T02:18:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/p25glt6i9izh1.jpeg?width=640&crop=smart&auto=webp&s=ba17bb30155964c3cf20bb9ac46098f20aff073b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/vinishkapoor",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-04T06:31:22.941Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0a81ac598a79",
+   "canon": "https://www.reddit.com/comments/1xnc4re",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xnc4re/every_claude_update_kicked_all_my_sessions_off/",
+   "addedAt": "2026-11-04T06:31:22.941Z",
+   "title": "Every Claude update kicked all my sessions off Remote Control, so I made a little fix for it.",
+   "text": "Anyone else get annoyed by this? I'll have a bunch of Claude Code sessions going on my Mac, I head out, check my phone... and every single one is off Remote Control because the Claude app updated itself or restarted. Then I can't do anything with them until I'm back at my desk…",
+   "author": "DJMannyD",
+   "publishedAt": "2026-11-04T02:08:17+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/xr8nazat6izh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=935cdc30ca4a1624f252f45120fc4c7cb2bcde6c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/DJMannyD",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-04T06:31:22.941Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "26d23782ebb4",
+   "canon": "https://www.reddit.com/comments/1xnbe6g",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vrdev/comments/1xnbe6g/i_made_a_virtual_firstdate_demo_for_quest_browser/",
+   "addedAt": "2026-11-04T06:31:22.941Z",
+   "title": "I made a virtual first-date demo for Quest Browser and would like feedback",
+   "text": "I'm the founder of The 22. The idea is to let two real people have a short virtual first date before deciding whether to meet in person. I wanted something that feels more like making time for a date than swiping and messaging for weeks.\n Here's the free demo for Quest Browser:…",
+   "author": "jally12345",
+   "publishedAt": "2026-11-04T01:32:12+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/jally12345",
+   "where": "r/vrdev",
+   "fetchedAt": "2026-11-04T06:31:22.941Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d088a461f772",
+   "canon": "https://www.reddit.com/comments/1xnbdtk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xnbdtk/i_mapped_6_weeks_of_my_claude_code_tokens_on_one/",
+   "addedAt": "2026-11-04T06:31:22.941Z",
+   "title": "I mapped 6 weeks of my Claude Code tokens on one page. 75% of the spend was Claude re-reading the conversation",
+   "text": "I added a dashboard to tokendoctor, my free local plugin: one page with every Claude Code session on my machine. 334 sessions, 939 subagent runs, Sep 22 to Nov 4.\n What it showed on my setup\n 75% of the spend was cache reads: the whole conversation sent again on every request.…",
+   "author": "Awkward-Let-4628",
+   "publishedAt": "2026-11-04T01:31:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/iq062zcezhzh1.png?width=640&crop=smart&auto=webp&s=74d0345ce11035520fcb69af4d282c510c2a6696"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Awkward-Let-4628",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-04T06:31:22.941Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "522c4bceed73",
+   "canon": "https://www.reddit.com/comments/1xnb6c6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xnb6c6/i_built_a_failclosed_pretooluse_hook_that_asks/",
+   "addedAt": "2026-11-04T06:31:22.941Z",
+   "title": "I built a fail-closed PreToolUse hook that asks before Claude pushes, deploys, posts, sends, pays or deletes (open source, tests included)",
+   "text": "I run a one-person business on Claude Code, and I build it in plain English. I wanted a hard stop between Claude and anything I can't undo.\n What I built\n A 160-line Python PreToolUse hook, standard library only. It checks every tool call against a JSON list of rules: git push,…",
+   "author": "sorant132",
+   "publishedAt": "2026-11-04T01:21:45+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/sorant132",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-04T06:31:22.941Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1c8a253fa178",
+   "canon": "https://www.reddit.com/comments/1xnad89",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xnad89/immersive_baseball_is_still_on_apple_tv_but_hard/",
+   "addedAt": "2026-11-04T06:31:22.941Z",
+   "title": "Immersive baseball is still on Apple TV, but hard to find (also, basketball too, sort of)",
+   "text": "This is a follow-up to a previous post. The four baseball games in Apple Immersive Video are still available for me on Apple TV, but I can only reach them via search. They no longer appear (for me) in any place I can browse to. Some people apparently can still find the games via…",
+   "author": "RandomVision2027",
+   "publishedAt": "2026-11-04T00:44:04+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ri15262brhzh1.jpeg?width=140&height=81&auto=webp&s=9409212a888058b6dd29a60e0827126ef24c2593"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RandomVision2027",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-04T06:31:22.941Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7e39fd8c4132",
+   "canon": "https://www.reddit.com/comments/1xna164",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xna164/i_built_a_tool_that_visually_explains_your/",
+   "addedAt": "2026-11-04T06:31:22.941Z",
+   "title": "I built a tool that visually explains your vibe-coded app so you understand it again",
+   "text": "The feature works. You come back a week later to change it and realize you have no idea what happens after someone clicks Save.\n I built Sketchy for that moment. Ask your coding assistant “Trace what happens from the Save button to the database, and show me where it can fail.”…",
+   "author": "Nkgsporty",
+   "publishedAt": "2026-11-04T00:28:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/k81syceuphzh1.png?width=140&height=102&auto=webp&s=cfe087e46633ecaa3a4fe7520bed355d1dc6efb6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Nkgsporty",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-04T06:31:22.941Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0d3ed742435d",
+   "canon": "https://www.reddit.com/comments/1xn9sl3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xn9sl3/sunlane_tracing_the_real_skyline_to_turn_a_camera/",
+   "addedAt": "2026-11-04T06:31:22.941Z",
+   "title": "Sunlane: tracing the real skyline to turn a camera sun-path overlay into direct-sun time windows",
+   "text": "I'm Sunlane's developer. This is a phone-camera sun-path overlay built around a practical question: when will a particular window, balcony or planting spot receive direct sunlight once the skyline is taken into account?\n The interaction is manual: hold the trace button and sweep…",
+   "author": "porche911_kr",
+   "publishedAt": "2026-11-04T00:17:47+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/t4a53ddcnhzh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=11067dadcd304e26059f7e7a1b0706e50732a7a1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/porche911_kr",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-04T06:31:22.941Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d1ed31e4d9f7",
+   "canon": "https://www.reddit.com/comments/1xn989t",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xn989t/avp_solar_system_environment/",
+   "addedAt": "2026-11-04T06:31:22.941Z",
+   "title": "AVP - Solar System Environment",
+   "text": "A 5 minutes walkthrough into my Immersive World…\n The story is crazy.. It started months ago as a super interactive Immersive Environment… I was aiming to create an Environment from ISS (International Space Station)… soon i discovered that to have the best experience, everything…",
+   "author": "Gold_Row683",
+   "publishedAt": "2026-11-03T23:53:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dzlnZ2N5M2lpaHpoMeXeKJGdzrYwujjXMqNq7s-alep3RpajeUCh5FutmQkq.jpeg?width=640&crop=smart&auto=webp&s=ef70a09c6b24a9fc1fe9e26809ce95b28bade1ed"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Gold_Row683",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-04T06:31:22.941Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "17f516ff3349",
+   "canon": "https://www.reddit.com/comments/1xn8quq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xn8quq/counter_punch_fight_trainer_50_on_apple_vision_pro/",
+   "addedAt": "2026-11-04T06:31:22.941Z",
+   "title": "Counter Punch: Fight Trainer 5.0 on Apple Vision Pro",
+   "text": "Hey, I updated Counter Punch: Fight Trainer. \n It now has a sparring mode and a new opponent (no longer a naked mannequin!) that you can customize. \n The time pressure flames in Moving Target Mode are more intense\n The phases of Counter Punch Mode are more clear with a more…",
+   "author": "AHApps",
+   "publishedAt": "2026-11-03T23:31:34+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/45KayfaZi7SJjONKl5Kty6ts6EKzCIHd00Khwpsefdw.jpeg?width=320&crop=smart&auto=webp&s=178c72a869b264ae4be1f45f4559994372382ca3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AHApps",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-04T06:31:22.941Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "abc6878981be",
    "canon": "https://www.reddit.com/comments/1xn8k5d",
