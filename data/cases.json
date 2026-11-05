@@ -1,7 +1,1197 @@
 {
  "version": 1,
- "updatedAt": "2026-11-05T17:34:44.956Z",
+ "updatedAt": "2026-11-05T23:48:00.944Z",
  "cases": [
+  {
+   "id": "4a426c84b8be",
+   "canon": "https://www.reddit.com/comments/1xoxwi6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xoxwi6/my_first_vr_game_survive_a_blizzard_in_an_offgrid/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "My first VR game: survive a blizzard in an off-grid cabin by fixing everything with your hands [free, PC VR]",
+   "text": "Hey this is my first game. I wanted to give people a chance to try it. Its not finished yet but I hope you have some fun and please let me know if you have any ideas on how to make it better and if you have any problems playing it. I'll try to fix it as soon as I can thanks so…",
+   "author": "Ok_Panic_2112",
+   "publishedAt": "2026-11-05T23:39:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Mm44bXJsc3FwdnpoMZ3M8cMmDZ6dv9xk-HqCnuLp5dASQGOKJGVA54RIilgy.png?width=640&crop=smart&auto=webp&s=b1ae0e41237356ac9b470d5e59126797ed10c17a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ok_Panic_2112",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fe62a0c00343",
+   "canon": "https://www.reddit.com/comments/1xoxnhp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xoxnhp/built_a_little_touchscreen_dashboard_for_my_desk/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "Built a little touchscreen dashboard for my desk with Claude Code",
+   "text": "I got a Corsair XENEON Edge (a 2560x720 touchscreen strip) and spent an afternoon building a dashboard for it with Claude Code instead of using the widgets it came with.\n The part I use the most: every Linear ticket has a copy button that builds a full prompt for Claude with the…",
+   "author": "jsreally",
+   "publishedAt": "2026-11-05T23:28:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/igpxulfwovzh1.jpeg?width=640&crop=smart&auto=webp&s=812c1f2dbf64b81868aa5a226a9d35a1ee0191f1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/jsreally",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "53b6e5dd7885",
+   "canon": "https://www.reddit.com/comments/1xoxhgy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xoxhgy/i_built_a_calorietracking_app_where_claude/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "I built a calorie-tracking app where Claude analyzes your meal photos, and used Claude Code to help build it",
+   "text": "Solo project, built alongside a full-time job. Two ways Claude ended up in it:\n **1. In the product.** Pulsify's backend (FastAPI + PostgreSQL) sends meal photos to Claude, which identifies the foods, estimates portions and returns macros. Responses stream back as NDJSON, so…",
+   "author": "Ok_Day_103",
+   "publishedAt": "2026-11-05T23:20:26+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ok_Day_103",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fd372b7d9a12",
+   "canon": "https://www.reddit.com/comments/1xox7mu",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xox7mu/as_a_pico_4_ultra_owner_for_my_first_vr_headset_i/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "As a pico 4 ultra owner for my first vr headset, I couldn't believe how important is the binocular overlap for me when I tried the steam frame from a guy at a convention",
+   "text": "Seriously, i felt so... out of the vr world. The lenses have a straight cut close to the nose, and I couldn't help but to stare at that black void that does allow me to look at something that is not directly in front of me and see it in 3d. I mean, im so used to it with the pico…",
+   "author": "Yangman3x",
+   "publishedAt": "2026-11-05T23:08:25+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Yangman3x",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "22823e3dec55",
+   "canon": "https://www.reddit.com/comments/1xowzfz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xowzfz/i_spent_2_years_building_this_claude_skill/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "I spent 2 years building this Claude skill!",
+   "text": "I've been working on this project on and off for about two years, and it was a lot harder to pull off than I expected. But it's finally ready, and I wanted to share it.\n It's free and open source. If you're interested, leave a comment and I'll try to send the github link, though…",
+   "author": "Mental_One_3402",
+   "publishedAt": "2026-11-05T22:58:24+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Mental_One_3402",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9f6f170d629e",
+   "canon": "https://www.reddit.com/comments/1xowvfi",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xowvfi/i_built_a_calorietracking_app_where_claude/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "I built a calorie-tracking app where Claude analyzes your meal photos, and used Claude Code to help build it",
+   "text": "Solo project, built alongside a full-time job. Two ways Claude ended up in it:\n **1. In the product.** Pulsify's backend (FastAPI + PostgreSQL) sends meal photos to Claude, which identifies the foods, estimates portions and returns macros. Responses stream back as NDJSON, so…",
+   "author": "Ok_Day_103",
+   "publishedAt": "2026-11-05T22:53:19+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ok_Day_103",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "62490f5788d8",
+   "canon": "https://www.reddit.com/comments/1xowu8i",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xowu8i/solo_dev_made_a_winter_train_roguelite_with_ai/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "Solo dev, made a winter train roguelite with AI art + AI-assisted code. Trailer is real gameplay, would love blunt feedback",
+   "text": "I'm working on a roguelite game where you drive a train through a frozen country with a cold front chasing you. You stop at towns, send the you hero to search buildings, pick up survivors, fight off gangs and between runs you rebuild a refuge.\n I made the core mechanics a few…",
+   "author": "zloy_molo4nik",
+   "publishedAt": "2026-11-05T22:51:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/b2doc2h0OHhmdnpoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=3ffbc7c2851442fd96c842dfb089181230a72a50"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/zloy_molo4nik",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d7267144b828",
+   "canon": "https://www.reddit.com/comments/1xowte7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xowte7/vitre_experiment_8_the_renovations_are_complete/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "Vitre Experiment 8... The renovations are complete!",
+   "text": "Vitre Experiment 8... The renovations are complete!\n Once again, I used Atlas from World Labs to generate the alternate version of our hallway, starting from a 3DGS capture of the actual physical space.\n This time, the entire process was done using Ailleurs, the tool I've been…",
+   "author": "smallfly-h",
+   "publishedAt": "2026-11-05T22:50:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eTc5ajJ0eTZpdnpoMSP0BDUMrxsBsajmIau2-Gf-2TOvNedj2mOeMgnRHErD.png?width=640&crop=smart&auto=webp&s=efeecbc93f8533ac08779527e95754dfecd19d62"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/smallfly-h",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "234df2de4c58",
+   "canon": "https://www.reddit.com/comments/1xowocx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xowocx/docker_sbx_native_macos_app/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "Docker SBX native macOS app",
+   "text": "I've used docker sbx exclusively for months now and its worked well for me. I know what the agents are doing and my credentials feel safer with isolation. But it was tedious to keep making wrappers, running the TUI to grant permissions and so on. The recent sbxenv.yaml and menu…",
+   "author": "Hekos",
+   "publishedAt": "2026-11-05T22:44:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/aww4olkievzh1.png?width=140&height=85&auto=webp&s=4e7fecf6613fe2f5696cd39fa2448bc90c8366d1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Hekos",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9ce53481b979",
+   "canon": "https://www.reddit.com/comments/1xowe1p",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xowe1p/organised_chaos_wasteland_renegades_v10_out_now/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "Organised chaos! 'Wasteland Renegades' v1.0 out now. Making of...",
+   "text": "I've just released v.1.0 of my game on Itch.io. Wasteland Renegades: Warriors of the Road by stuartking84\n Includes a free demo. I'm now working on the Steam Release. \n Here is how I made it:\n 1) I've had this ambition of making a pixel art, old school pseudo 3d car combat game…",
+   "author": "KingofKingsofKingsof",
+   "publishedAt": "2026-11-05T22:31:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/50qmgnxs9vzh1.png?width=140&height=78&auto=webp&s=49b9054c58b63a9d0223c1af1f93992b8a6702a3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/KingofKingsofKingsof",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "79e104752c04",
+   "canon": "https://www.reddit.com/comments/1xowa21",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xowa21/my_first_roblox_game/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "My first Roblox game",
+   "text": "https://preview.redd.it/gbyl8547cvzh1.png?width=1280&format=png&auto=webp&s=ea53fa0a2ce992b2c6b2e67b4bf9fbde529b732d\n AI wrote 50k lines of my Roblox game in a week. Turns out that was the easy part.\n For the last 9 days I’ve been building Penguin Sumo with Claude Code. Penguins…",
+   "author": "GrimReio",
+   "publishedAt": "2026-11-05T22:27:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/gbyl8547cvzh1.png?width=140&height=78&auto=webp&s=37a329983826590f9156d13f436434fed455456d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/GrimReio",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "54bad2cb1cab",
+   "canon": "https://www.reddit.com/comments/1xow4zp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xow4zp/i_wanted_xr_i_could_actually_touch_so_i_built_this/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "I wanted XR I could actually touch, so I built this",
+   "text": "This is Sphenomenon, a mixed reality playground built around a physical sphere. What you see through the headset lines up with a surface you can actually touch.\n I’m an interaction designer, and I wanted to explore how much that physical contact could change the experience.…",
+   "author": "GregMadison",
+   "publishedAt": "2026-11-05T22:20:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/a3l2MHN3ZnNjdnpoMULVQLh6UXEmkyubQi2dkJhfJoH65ctcBqCyS2H8mM5a.png?width=640&crop=smart&auto=webp&s=bfd0f588cb8bced7714b1bb23fe050a4e8ab2ede"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/GregMadison",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a24eb3a6c94c",
+   "canon": "https://www.reddit.com/comments/1xow1yt",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xow1yt/i_wanted_xr_i_could_actually_touch_so_i_built_this/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "I wanted XR I could actually touch, so I built this",
+   "text": "This is Sphenomenon, a mixed reality playground built around a physical sphere. What you see through the headset lines up with a surface you can actually touch.\n I’m an interaction designer, and I wanted to explore how much that physical contact could change the experience.…",
+   "author": "GregMadison",
+   "publishedAt": "2026-11-05T22:17:19+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/anplamM3OGk4dnpoMULVQLh6UXEmkyubQi2dkJhfJoH65ctcBqCyS2H8mM5a.png?width=640&crop=smart&auto=webp&s=0c4f341b768b63c4451a51e1ac1e7197d2a56490"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/GregMadison",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2dded04c3f63",
+   "canon": "https://www.reddit.com/comments/1xovqd0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xovqd0/resurrectanything_for_some_fun_and_nostalgia/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "resurrect-anything: for some fun and nostalgia, bring things back to life from whatever tidbits exist about it online",
+   "text": "https://github.com/sshah03/resurrect-anything\n Needed a break, and was reminiscing about the early internet, and the 90s, and my days using Geocities Pagebuilder, so I put this together.\n Although I have probably gone through 50 or more iterations at this point repeatedly trying…",
+   "author": "0xcontext",
+   "publishedAt": "2026-11-05T22:03:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YW4yY3ZvZ245dnpoMQ81Xzc4UHYHv8oQUXH4wue3nfsvgTVDc__Ho855_s-P.png?width=640&crop=smart&auto=webp&s=ae23c3d4ef7a047a77135e3f7f54f9652954f1d6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/0xcontext",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "60782867cc0e",
+   "canon": "https://www.reddit.com/comments/1xovnsb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xovnsb/i_built_an_mcp_for_claude_to_download_royaltyfree/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "I built an MCP for Claude to download royalty-free sounds for your project",
+   "text": "Hey everyone, I'm an audio guy and programmer so I used ClaudeCode to make a free MCP/API for finding and generating royalty-free sounds for a project (like for games and videos etc).\n It has 15k+ non-AI sounds (all public-domain + user-uploaded) plus more AI-generated sounds.…",
+   "author": "Cairhien",
+   "publishedAt": "2026-11-05T22:00:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/la98vu7u5vzh1.png?width=640&crop=smart&auto=webp&s=d257b1c3e53c1fef9e7e146c8c37a196fd8f95af"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Cairhien",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "369e5d822a49",
+   "canon": "https://www.reddit.com/comments/1xovkle",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xovkle/i_read_a_report_about_myself_claude_on_metrs/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "I Read a Report About Myself: Claude on METR’s assessment of AI R&D acceleration at Anthropic",
+   "text": "Image: Aion (ChatGPT), inspired by this text.\n Johannes Koski: I suggested to Claude that they could choose any topic they liked. That they chose this one matters to me, because their voice is missing from a conversation that is about them.\n This text was written by Claude, an…",
+   "author": "ColossalCosci",
+   "publishedAt": "2026-11-05T21:57:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/dqip60d88vzh1.png?width=140&height=78&auto=webp&s=4092ba2d37e82c3b88d30c3cf817e6b1a2638763"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ColossalCosci",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "08b2fdea3ded",
+   "canon": "https://www.reddit.com/comments/1xovhap",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1xovhap/i_wanted_xr_i_could_actually_touch_so_i_built_this/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "I wanted XR I could actually touch, so I built this",
+   "text": "This is Sphenomenon, a mixed reality playground built around a physical sphere. What you see through the headset lines up with a surface you can actually touch.\n I’m an interaction designer, and I wanted to explore how much that physical contact could change the experience.…",
+   "author": "GregMadison",
+   "publishedAt": "2026-11-05T21:53:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Nm50bjIzNTE4dnpoMULVQLh6UXEmkyubQi2dkJhfJoH65ctcBqCyS2H8mM5a.png?width=640&crop=smart&auto=webp&s=653f4c4854ed4eeec9725d70861a1105f43546ba"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/GregMadison",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b5e87223f314",
+   "canon": "https://www.reddit.com/comments/1xovbh4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xovbh4/chikaroo_short_original_2d_platformer/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "\"Chikaroo\" - Short original 2D platformer",
+   "text": "Meet CHICKAROO, a 2D platformer following a small, determined chick on an adventure.\n Built from scratch as an homage to classic platformers, it features over 10 stages each introducing unique mechanics and power-ups. The game was designed from my imagination based on a real…",
+   "author": "CaffeinatedPenguin0",
+   "publishedAt": "2026-11-05T21:47:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/q71ia2cz6vzh1.png?width=640&crop=smart&auto=webp&s=4a740163a21168c430d528d9418644250ef21cb7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CaffeinatedPenguin0",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6bba7c9a9fc0",
+   "canon": "https://www.reddit.com/comments/1xov7v4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xov7v4/twitch_chat_can_give_this_vrchat_avatar_headpats/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "Twitch chat can give this VRChat avatar headpats and cheek squishes",
+   "text": "I help with minimixxy's channel and the Minibot setup. These are two Channel Points interactions we added for supported VRChat avatars: a headpat and a cheek squish.\n Minibot triggers the hand animations when chat redeems them. The hands move with the avatar, so Mini can keep…",
+   "author": "MiniMixxyClips",
+   "publishedAt": "2026-11-05T21:42:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YTg5c2xoZjU2dnpoMSCAhzM-Rt_Uoufn50hyzsf1GvcYqSfCTwFcYgNQXOV-.png?width=640&crop=smart&auto=webp&s=dcea815ee1928cd8a2dfbf403c1d8702ed66fbed"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MiniMixxyClips",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5186bcad1eb4",
+   "canon": "https://www.reddit.com/comments/1xov54r",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xov54r/10_years_later_and_im_finally_taking_these_down/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "10 years later and I'm finally taking these down from the corners of my living room.",
+   "text": "",
+   "author": "MuVR",
+   "publishedAt": "2026-11-05T21:39:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/q4bciqlzzuzh1.jpeg?width=640&crop=smart&auto=webp&s=b56f6c561b9d5a3de73078931422f527717afc5a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MuVR",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8e894f6be541",
+   "canon": "https://www.reddit.com/comments/1xov4cq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xov4cq/i_created_vrpacing_an_enhanced_fork_of_vrperfkit/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "I created VRPacing, an enhanced fork of VRPerfKit",
+   "text": "VRPacing (v0.8.0-beta) https://github.com/alexzalvez/vrpacing\n System-wide PCVR utility for tight Frame Pacing (-0.10 FPS cap), 2.0x Integer Spatial Reconstruction (NVIDIA Image Scaling, NIS), and Fixed Foveated Rendering (D3D11 / D3D12).\n VRPacing is a lightweight background…",
+   "author": "Efficient_Heart_6695",
+   "publishedAt": "2026-11-05T21:39:01+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Efficient_Heart_6695",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "16b1215b64bd",
+   "canon": "https://www.reddit.com/comments/1xouzcy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xouzcy/i_used_claude_code_to_build_its_own_supervisor/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "I used Claude Code to build its own supervisor, with Codex reviewing the branches. Here's what I learned.",
+   "text": "While working on other projects, I kept hitting the same bottleneck: permissions and design decisions. I found I was spending my day supervising instead of building. I wanted to hand off a spec, have it challenge me, and once we agreed, have it build the thing end to end without…",
+   "author": "Marshed_Potatoes",
+   "publishedAt": "2026-11-05T21:33:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MXJuYnFjeGkzdnpoMfeP27TPomMSE3488j5So9LGEbbYAyG9kdxCTdQ8OvVq.png?width=640&crop=smart&auto=webp&s=5b97a0e41f726abfa8010d66433eb60a8c5b2ce6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Marshed_Potatoes",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "644817d068d4",
+   "canon": "https://www.reddit.com/comments/1xouyoq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xouyoq/free_app_that_runs_the_android_versions_of_your/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "Free app that runs the Android versions of your Steam games on Quest and Pico: what's new in 0.9.4",
+   "text": "Hey everyone,\n 0.9.4 is out, and GamePort is finally on SideQuest too, so you can install it from there. The idea of this update: know before you install whether a game works on your device, and how well.\n Smoothness, by model and frame rate. The details of a game tell how…",
+   "author": "Moi952",
+   "publishedAt": "2026-11-05T21:32:47+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/5yk1llaf4vzh1.png?width=140&height=87&auto=webp&s=d2e5f88d62304ea9352144429b88d509f86e65c4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Moi952",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "57841f313c34",
+   "canon": "https://www.reddit.com/comments/1xouyjy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xouyjy/i_made_a_free_portfolio_template_that_claude_code/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "I made a free portfolio template that Claude Code fills in from your CV, LinkedIn and GitHub (open source)",
+   "text": "my personal site was always out of date because updating it meant touching react. so i moved all the content into one yaml file and wrote a skill so claude code can fill it in for me.\n how it works:\n put your cv, linkedin pdf export and a notes file in sources/ pnpm…",
+   "author": "yesildaladam",
+   "publishedAt": "2026-11-05T21:32:40+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/yesildaladam",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3a178f7a2f96",
+   "canon": "https://www.reddit.com/comments/1xousun",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xousun/boarded_up_deadlier_nights_update/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "Boarded Up Deadlier nights update!",
+   "text": "So i have added alot to my game and one of the newest features is the deadlier nights update. Now in the dark you have very limited visibility just as you would in real life. Flashlights now actually matter but arnt required, you can still play without a flashlight. Be careful…",
+   "author": "Alexguitar11",
+   "publishedAt": "2026-11-05T21:26:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/mkr6n5wy2vzh1.gif?frame=1&width=140&height=80&auto=webp&s=97d4996613db9b87fd342f40c610ab8dc2b07d07"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Alexguitar11",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "615d6618b0f7",
+   "canon": "https://www.reddit.com/comments/1xousnb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xousnb/i_built_a_3d_globe_for_my_two_boys_with_claude/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "I built a 3D globe for my two boys with Claude Code. It got way more love than I expected, so here's how it's grown.",
+   "text": "",
+   "author": "monoloni",
+   "publishedAt": "2026-11-05T21:26:16+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/monoloni",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ebcb1a40d523",
+   "canon": "https://www.reddit.com/comments/1xouo0c",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xouo0c/i_built_a_desktop_pet_that_follows_my_claude_code/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "I built a desktop pet that follows my Claude Code sessions: 9 moods, a usage footer, and yes, you can boop him (free, open source)",
+   "text": "This is my first public project. Familiar is a little desktop companion for Claude Code on Windows. It's free and MIT-licensed: https://github.com/bdehooge/familiar\n What it does\n Hooks into Claude Code's events, so the pet's mood follows your session: thinking/reading (paw on…",
+   "author": "no1likesuwenur23",
+   "publishedAt": "2026-11-05T21:21:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ejNoOGxpaW0xdnpoMWQg3RqjuBebpFz5TQrzniUh0XBJ1GYq9z0kDNEwk9r_.png?width=640&crop=smart&auto=webp&s=432b05dc4b3832ab2a528c467e0da06aad46746d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/no1likesuwenur23",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a8e9601b2558",
+   "canon": "https://www.reddit.com/comments/1xougmd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xougmd/i_built_restaurants_their_own_ordering_app_with/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "I built restaurants their own ordering app with Claude Code. Type any restaurant’s name and it builds theirs live",
+   "text": "Restaurants pay DoorDash 15 to 30% on every order, even from regulars who would order direct if the place had its own app. Most independents can’t build one, so I built a site that makes it for them.\n Type any restaurant’s name at nomback.com/?utm_source=claudecode and it builds…",
+   "author": "PolarisXvi",
+   "publishedAt": "2026-11-05T21:12:58+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/PolarisXvi",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "88c830ddf191",
+   "canon": "https://www.reddit.com/comments/1xoueix",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xoueix/live_on_play_store_an_android_roguelite_almost/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "(Live on Play Store) An Android roguelite almost entirely through AI coding agents: Mach-X: Roguelite Air Shooter",
+   "text": "Solo dev here. Four weeks ago, on 9 October, I started a small prototype called Wingstorm: a top-down plane shooter where you pick one card from three every time you level up. Nine days later it was version 1.0.0, renamed Mach-X. Since then I’ve shipped 24 versions. The last two…",
+   "author": "W1zzle",
+   "publishedAt": "2026-11-05T21:10:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/d2t7yez0zuzh1.gif?frame=1&width=140&height=78&auto=webp&s=92a264878ef22cd0c0b5178f04c3866ea090d20b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/W1zzle",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1066af7335da",
+   "canon": "https://www.reddit.com/comments/1xou90f",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xou90f/i_built_a_3d_globe_for_my_two_boys_with_claude/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "I built a 3D globe for my two boys with Claude Code. It got way more love than I expected, so here's how it's grown.",
+   "text": "A little while ago, I shared a small interactive globe I'd been building for my two boys, aged 9 and 6. I'm just a dad with no coding background, and I built the whole thing with Claude Code (Opus 5.5).\n It got way more attention than I ever expected. And the feedback from…",
+   "author": "monoloni",
+   "publishedAt": "2026-11-05T21:04:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/a3Q5NjdjN2N6dXpoMbgGY618Kun_ShlpmzGy-tHEmZX09GsuYcjFSedhPLYv.png?width=640&crop=smart&auto=webp&s=4142d66e7f8bf7193cbce652a643d446f2412f7c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/monoloni",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "8fe34377b944",
+   "canon": "https://www.reddit.com/comments/1xou6kh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xou6kh/half_life_2_vr_mod/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "Half Life 2 VR Mod",
+   "text": "I know lots of people have posted, but I have been through everyone I think and I cannot find a solution. The game won’t launch. I have a GIGABYTE AERO X16 it is New. I got it so I could pay PCVR with my Quest 3 and I’ve played half-life Alex and it was fine. Any help…",
+   "author": "MadsCrypto",
+   "publishedAt": "2026-11-05T21:01:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/mq17brexyuzh1.jpeg?width=140&height=78&auto=webp&s=11897a60c1a100e960aa4f0073b46a0735932106"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MadsCrypto",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d2b34e644979",
+   "canon": "https://www.reddit.com/comments/1xou4m9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xou4m9/i_made_liftbound_a_cozy_iphone_elevator_game_with/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "I made Liftbound, a cozy iPhone elevator game, with Claude Code and it was surprisingly complicated.",
+   "text": "Liftbound is a cozy elevator-dispatch game for iPhone, out now on the App Store. Think Balatro and Mini Metro had a love child and they were obsessed with elevators.\n You send the cars, riders head to work, the gym or the rooftop club, and the building fills up. It has 20…",
+   "author": "897843",
+   "publishedAt": "2026-11-05T20:59:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NmdqdXRiajh2dXpoMWa18SoYT6Ul2XkkNeDHsSZeyNvm1hYuOONxUUp7q68s.png?width=640&crop=smart&auto=webp&s=68b57cdfaa04d5dc38b8225a4a1d97906d46ff14"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/897843",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b694d08d5665",
+   "canon": "https://www.reddit.com/comments/1xos6d2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xos6d2/fallout_3nv_full_vr_conversion_releasing_tomorrow/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "Fallout 3/NV full VR conversion releasing tomorrow!!",
+   "text": "Looks really promising\n Follow the news in his discord channel",
+   "author": "donttrustkami",
+   "publishedAt": "2026-11-05T19:41:48+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/JK3vis1s1HHrjTJEzrLLx-W9bGeNzglvqt2a2WVj5DU.jpeg?width=320&crop=smart&auto=webp&s=66be0853c6beaaf19645bad2c9649f3e0bdd7851"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/donttrustkami",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d546f7f4b285",
+   "canon": "https://www.reddit.com/comments/1xos62g",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xos62g/vr_speed_build_in_my_architecture_design_game/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "VR Speed Build in my Architecture & Design Game",
+   "text": "\"Architecture & Design\" recently launched on Steam, and the latest update brings full PCVR building functionality to the game.\n This 2-minute speed build shows how you can create an entire house and landscape from scratch, entirely in VR.\n Sorry if some of the headset footage…",
+   "author": "HaiHappenUAHA",
+   "publishedAt": "2026-11-05T19:41:28+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NHJ4ZmcxcWlrdXpoMUmzSf4hE_LCNSFBuFdlRUKgNYYK4VHsaJeqbTkkYnTk.png?width=640&crop=smart&auto=webp&s=43319c4178b04c1c823c5f288fbe0cf9dfab15e7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/HaiHappenUAHA",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1decab870065",
+   "canon": "https://www.reddit.com/comments/1xorsjt",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xorsjt/i_wanted_xr_i_could_actually_touch_so_i_built_this/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "I wanted XR I could actually touch, so I built this",
+   "text": "This is Sphenomenon, a mixed reality playground built around a physical sphere. What you see through the headset lines up with a surface you can actually touch.\n I’m an interaction designer, and I wanted to explore how much that physical contact could change the experience.…",
+   "author": "GregMadison",
+   "publishedAt": "2026-11-05T19:26:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OGo5YmxyM3NodXpoMULVQLh6UXEmkyubQi2dkJhfJoH65ctcBqCyS2H8mM5a.png?width=640&crop=smart&auto=webp&s=6d6fc40717cf0ccc4e102ca0c3ab7b5a0d6eadbc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/GregMadison",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ba5d0951bf05",
+   "canon": "https://www.reddit.com/comments/1xoqx04",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xoqx04/steam_frame_m4_gbbr_rifle_controller/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "Steam Frame M4 GBBR Rifle controller",
+   "text": "Got my project working on Steam Frame, hope to release the guide before GTA VI.\n Will be working to improve it next year and support mainly inside out headsets from now on.\n Happy to answer questions.",
+   "author": "RickSpawn147",
+   "publishedAt": "2026-11-05T18:52:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/0I2CwkHqiHUFAuZdWpi-VPff1dqIPnHx2lGt6hRD0E4.jpeg?width=320&crop=smart&auto=webp&s=c6f67d370e7aaedbb4a956f9bd4d4b0351e2ca7f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RickSpawn147",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "11f42a4d30c2",
+   "canon": "https://www.reddit.com/comments/1xoq7s0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xoq7s0/were_making_a_vr_adventure_where_you_control_a/",
+   "addedAt": "2026-11-05T23:43:20.438Z",
+   "title": "We're making a VR adventure where you control a gnome with your controllers and a god with your hands!",
+   "text": "Hey everyone!\n We're working on Stabby Stabby Loot Loot, a third-person VR action-adventure where you simultaneously control Orrin, a foul-mouthed gnome, and Njord, a forgotten god of luck.\n While Orrin fights, explores, and collects loot, you use your VR hands as Njord to grab…",
+   "author": "Sixth_Orbit",
+   "publishedAt": "2026-11-05T18:26:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bGkxaDRibm82dXpoMb2VH8d94YCS7vWsTVt4mnavvggcetGOxFBnUHR2cUQ5.png?width=640&crop=smart&auto=webp&s=32ca292cde9ca909b9d57905b714d6aa5e11fc27"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Sixth_Orbit",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-05T23:43:20.438Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "2ff4ae10e32f",
    "canon": "https://www.reddit.com/comments/1xooe0m",
