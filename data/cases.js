@@ -1,8 +1,782 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-11-06T23:20:05.966Z",
+ "updatedAt": "2026-11-07T06:09:45.108Z",
  "cases": [
+  {
+   "id": "78fc427d7c00",
+   "canon": "https://www.reddit.com/comments/1xpyq1r",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpyq1r/i_made_claude_code_and_codex_message_each_other/",
+   "addedAt": "2026-11-07T06:05:21.477Z",
+   "title": "I made Claude Code and Codex message each other by name, no tmux",
+   "text": "I made peer, a small tool that lets your Claude Code and Codex sessions talk to each other directly. It's free and open source.\n The interesting part: Claude Code already has a hidden cross-session inbox, the one its SendMessage tool uses. peer opens it to Codex and other…",
+   "author": "Seunghyeon413",
+   "publishedAt": "2026-11-07T05:40:00+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NHRkYjFoY3hsNDBpMVdnuzvoXWv7ZBqsYJ_fLO8HBI4xrCY-PS6Nnt5M9xPt.png?width=640&crop=smart&auto=webp&s=fe255ce889ad5a63442f43b1913107bf49be6622"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Seunghyeon413",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-07T06:05:21.477Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0d5b49dc3353",
+   "canon": "https://www.reddit.com/comments/1xpyem2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xpyem2/built_a_free_text_to_diagram_maker_with_claude/",
+   "addedAt": "2026-11-07T06:05:21.477Z",
+   "title": "Built a free Text to Diagram Maker with Claude Code: type “A -> B”, get a clean diagram, export to SVG or Mermaid",
+   "text": "Text to Diagram Maker turns plain lines like CEO -> CTO into a clean diagram. No dragging boxes around.\n What it does:\n layout down, right, up or left, with curved, elbow or straight lines 12 themes, including Blueprint, Whiteboard and Terminal smart shapes, so questions become…",
+   "author": "vinishkapoor",
+   "publishedAt": "2026-11-07T05:21:57+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/1wlmq7vuk40i1.jpeg?width=640&crop=smart&auto=webp&s=2e4abea06b25ef0acf56b043cc94442d6cb3a6fa"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/vinishkapoor",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-07T06:05:21.477Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "94c5572961ef",
+   "canon": "https://www.reddit.com/comments/1xpxzup",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xpxzup/claude_code_keeps_getting_stuck_in_an_infinite/",
+   "addedAt": "2026-11-07T06:05:21.477Z",
+   "title": "Claude Code keeps getting stuck in an infinite \"Let me build it\" loop without calling tools (CLI)",
+   "text": "Hey everyone,\n ​I've run into an issue with Claude Code CLI where the model enters an endless loop of promising to write code, but stops right before invoking any tool.\n ​What is happening:\n ​Claude will think for 2–3 minutes (Cogitated for 3m 33s / Crunched for 2m 33s), print…",
+   "author": "RishabhSihag",
+   "publishedAt": "2026-11-07T04:59:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/yuh5dtt2h40i1.jpeg?width=140&height=98&auto=webp&s=e0d5a14625310c1abedd6d2dec52c51d4a9a4ab5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RishabhSihag",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-07T06:05:21.477Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2f37be008e64",
+   "canon": "https://www.reddit.com/comments/1xpxvly",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xpxvly/i_built_waitplay_minigames_that_launch_while/",
+   "addedAt": "2026-11-07T06:05:21.477Z",
+   "title": "I built WaitPlay: Mini-games that launch while waiting for Claude Code to finish thinking",
+   "text": "Hey everyone! 👋\n I’ve been building a companion tool called WaitPlay.\n When working in Claude Code, complex multi-step reasoning often leaves you waiting at the terminal for 30–90 seconds while the agent inspects files and executes bash commands.\n I wanted to make that idle…",
+   "author": "Western_Koala4099",
+   "publishedAt": "2026-11-07T04:52:56+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Western_Koala4099",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-07T06:05:21.477Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f9a4f000464e",
+   "canon": "https://www.reddit.com/comments/1xpxqos",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xpxqos/about_pulley_system_setup/",
+   "addedAt": "2026-11-07T06:05:21.477Z",
+   "title": "About pulley system setup",
+   "text": "(my direction is to tv for gameplay recording with green screen on my wall)\n Here s my area/room. How should i set cable/pulleys up ? from sides (yellow line) to slightly back to me? or straight (red line) right back to me? (which i did first as shown )\n which one would be…",
+   "author": "xStrayder",
+   "publishedAt": "2026-11-07T04:45:16+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/4prtm22ie40i1.jpeg?width=640&crop=smart&auto=webp&s=c9f28ac8dae7ced20671251ebcf9abd40df0ab6f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/xStrayder",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-07T06:05:21.477Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4d33228f87bf",
+   "canon": "https://www.reddit.com/comments/1xpxqgj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xpxqgj/my_coding_agent_now_has_a_little_buddy_living_in/",
+   "addedAt": "2026-11-07T06:05:21.477Z",
+   "title": "My coding agent now has a little buddy living in my notch who levels up every time it finishes a task",
+   "text": "I got tired of tabbing back to check if Claude Code was done, so I built a tiny helper that lives in my MacBook notch.\n - He dives into the notch like a tar puddle and watches with his eyes\n - concentrates while the agent works, sweats on long runs\n - waves when it needs my OK…",
+   "author": "Nkgsporty",
+   "publishedAt": "2026-11-07T04:44:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/nfee7whee40i1.gif?frame=1&width=140&height=53&auto=webp&s=b0cc159044117bb02a5361e6f5a6d66395c82fc1"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Nkgsporty",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-07T06:05:21.477Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3ffe11c49ea4",
+   "canon": "https://www.reddit.com/comments/1xpxlzr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpxlzr/claude_ai_usage_is_insane_see_body_post/",
+   "addedAt": "2026-11-07T06:05:21.477Z",
+   "title": "Claude ai usage is INSANE! (See body post)",
+   "text": "I have talked to the bot almost every day now. Even more than when I started using ai starting from ChatGPT then grok then muse. Anthropic whatever you did to the usage PLEASE don’t change anything. What told me I was heavily using it was that it had to compress the messages…",
+   "author": "Amazing-Divide3286",
+   "publishedAt": "2026-11-07T04:37:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/e5nqxkh7d40i1.jpeg?width=640&crop=smart&auto=webp&s=7000f658a49c259b74773fa66980e8099884c61d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Amazing-Divide3286",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-07T06:05:21.477Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "44db38688d4e",
+   "canon": "https://www.reddit.com/comments/1xpxl9h",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xpxl9h/i_built_a_little_helper_that_lives_in_my_macbook/",
+   "addedAt": "2026-11-07T06:05:21.477Z",
+   "title": "I built a little helper that lives in my MacBook notch and keeps an eye on Claude Code for me. Here's how Claude Code built it and what I learned [free & opensource]",
+   "text": "What I built\n Nosy Notch is a free Mac app that turns the MacBook notch into a small window into your Claude Code sessions. A little helper called Nosy lives in it:\n - While Claude works, the notch shows what it's doing right now and Nosy concentrates along with it\n - When…",
+   "author": "Nkgsporty",
+   "publishedAt": "2026-11-07T04:36:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/duuxgzgwc40i1.gif?frame=1&width=140&height=53&auto=webp&s=9f442aabe90c85173c9665a508f8de370fb15248"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Nkgsporty",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-07T06:05:21.477Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6447006117de",
+   "canon": "https://www.reddit.com/comments/1xpxe0l",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpxe0l/i_built_a_tiny_helper_that_lives_in_my_macbook/",
+   "addedAt": "2026-11-07T06:05:21.477Z",
+   "title": "I built a tiny helper that lives in my MacBook notch, works along with Claude Code and jumps for joy when it's done",
+   "text": "I built Nosy Notch, a free and open-source macOS app, almost entirely with Claude Code. It's free to try, no paid tier.\n What it does\n Claude Code often works on its own for minutes, then waits for a \"yes\" I never saw. Nosy Notch shows every Claude Code session in the MacBook…",
+   "author": "Nkgsporty",
+   "publishedAt": "2026-11-07T04:25:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/jbmleeh5a40i1.gif?frame=1&width=140&height=53&auto=webp&s=85ca08007e9741c39963c8b7d722969cb759ffec"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Nkgsporty",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-07T06:05:21.477Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b0e5fb7a3769",
+   "canon": "https://www.reddit.com/comments/1xpws9e",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xpws9e/i_combined_two_things_i_love_strategy_board_games/",
+   "addedAt": "2026-11-07T06:05:21.477Z",
+   "title": "I combined two things I love, strategy board games and gyro archery, and it turned out more fun than I expected",
+   "text": "I love strategy board games, and I love phone archery games where you tilt the phone to aim with the gyro and release to shoot. SCOPE & LANDMINE is what happened when I put the two together.\n AI invaders come at your PC across a grid, with their HP and traits in full view. You…",
+   "author": "office-canard",
+   "publishedAt": "2026-11-07T03:53:11+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/osDqETrwlcOv0Ru2qTFEn9Lt9uM6BHbfWcxkpIGm6JE.jpeg?width=320&crop=smart&auto=webp&s=8f797b289de5fa9dfd47e7de8358bfc61c1f1b09"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/office-canard",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-07T06:05:21.477Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7979107b23de",
+   "canon": "https://www.reddit.com/comments/1xpwk1d",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xpwk1d/fps_horror_game_codeved_with_claude_over_a_couple/",
+   "addedAt": "2026-11-07T06:05:21.477Z",
+   "title": "FPS Horror game co-deved with Claude over a couple days",
+   "text": "I had this project idea a while back but gave up due to time constraints. \n Recently been a bit burnt out on a larger project so I am trying to make a smaller project I can finish in a few weeks. This is two days in now using Claude Opus 5.5, Blender, and Godot. I make a GDD…",
+   "author": "RedTowerStudio",
+   "publishedAt": "2026-11-07T03:40:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/d3c2NWQyNG4wNDBpMWBF7Q2iOWfzPnFsGDu2J2LzRTyEmMpzi59oAbcSuzMu.png?width=640&crop=smart&auto=webp&s=c0d442deedeae66ae89a6a3bcdf7beaf29d3078a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RedTowerStudio",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-07T06:05:21.477Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "1b94d5e26900",
+   "canon": "https://www.reddit.com/comments/1xpwfj1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/threejs/comments/1xpwfj1/swapping_aigenerated_glbs_into_a_threejs_greybox/",
+   "addedAt": "2026-11-07T06:05:21.477Z",
+   "title": "Swapping AI-generated GLBs into a three.js greybox: the things that broke in every game we built",
+   "text": "Over the last two months we built about eight small three.js games with coding agents (Claude Code / Codex): build the whole game with boxes first, then swap in generated 3D models at the end. The swap step was where almost every game broke, and it broke the same way each time.…",
+   "author": "PurchaseCommercial34",
+   "publishedAt": "2026-11-07T03:33:52+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/PurchaseCommercial34",
+   "where": "r/threejs",
+   "fetchedAt": "2026-11-07T06:05:21.477Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e85ad53b9f75",
+   "canon": "https://www.reddit.com/comments/1xpw4rz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xpw4rz/red_faction_guerrilla_remarstered_vr_video/",
+   "addedAt": "2026-11-07T06:05:21.477Z",
+   "title": "Red Faction Guerrilla reMARStered VR *video",
+   "text": "heres a showcase of a few shots from the mod, this one one of my favorite games growing up and its been so cool to be able to play it in vr!\n get it here\n https://github.com/ElderMiner/Red-Faction-Guerrilla-Re-MARS-tered-VR\n fair warning, i did make this with steam frame…",
+   "author": "Mr_REEEEE_Man",
+   "publishedAt": "2026-11-07T03:18:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/c211enJ1Zjd5MzBpMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=3479ab0151e80a0f2e5cc9060b374dc478a66cc9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Mr_REEEEE_Man",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-07T06:05:21.477Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2309faefd12a",
+   "canon": "https://www.reddit.com/comments/1xpw4m4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xpw4m4/im_a_designer_not_a_programmer_i_built_a_mac_app/",
+   "addedAt": "2026-11-07T06:05:21.477Z",
+   "title": "I'm a designer, not a programmer. I built a Mac app with Claude Code so I can draw on my app and have Claude fix that spot",
+   "text": "Designer here, building apps with Claude Code. The part that always drove me nuts was explaining where. \"Delete the third line of text under the second card.\" \"Move the icon to the left edge, 24px margin.\" Screenshots with circles work, but then you're screenshotting, marking up…",
+   "author": "Sweet_Freedom2634",
+   "publishedAt": "2026-11-07T03:17:54+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Sweet_Freedom2634",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-07T06:05:21.477Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c0eea5ffed05",
+   "canon": "https://www.reddit.com/comments/1xpw1ie",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xpw1ie/a_successful_claude_code_prototype_is_not/",
+   "addedAt": "2026-11-07T06:05:21.477Z",
+   "title": "A successful Claude Code prototype is not permission to inherit its assumptions",
+   "text": "A working prototype can answer the question it was built for and still leave the production question open. That doesn't make the prototype a failed implementation.\n The recent rebuild discussion had both sides: the author described testing and finishing edge cases after the…",
+   "author": "Spare_Bat_3040",
+   "publishedAt": "2026-11-07T03:13:29+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Spare_Bat_3040",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-07T06:05:21.477Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fd12c65f634f",
+   "canon": "https://www.reddit.com/comments/1xpv8oy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xpv8oy/tested_anthropics_two_claude_code_security/",
+   "addedAt": "2026-11-07T06:05:21.477Z",
+   "title": "Tested Anthropic’s two Claude Code security plugins. One caught pickle as Claude wrote it, the other found a planted command injection and dropped an unused token",
+   "text": "The official marketplace has two security plugins that do very different jobs. I loaded both in a throwaway repo with planted problems (Claude Code 2.1.318).\n Security Guidance (warns while Claude writes):\n I asked Claude for a function that loads settings from a pickle blob.…",
+   "author": "vinishkapoor",
+   "publishedAt": "2026-11-07T02:31:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/qm8bu94nq30i1.jpeg?width=640&crop=smart&auto=webp&s=101aa6ac6cb7aa28ca939f5de3cb7f2b5fd5ea9b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/vinishkapoor",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-07T06:05:21.477Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1835f9085406",
+   "canon": "https://www.reddit.com/comments/1xpuqz4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xpuqz4/made_an_app_to_help_me_scale_my_pizza_dough/",
+   "addedAt": "2026-11-07T06:05:21.477Z",
+   "title": "Made an app to help me scale my pizza dough, turned into so much more",
+   "text": "Make pizza, bread, flatbreads, sweets and enriched doughs. Helps you make and maintain sourdough starters too. \n Claude code hooked up directly to the folder on my computer. All CLI. This took me about 4 months of coding and baking, and I'm still tweaking everyday!\n Give it a…",
+   "author": "FLuX927",
+   "publishedAt": "2026-11-07T02:06:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/28fbi2m8m30i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=a3895ac8d9e53a30029c715ef45c45a31e653c59"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/FLuX927",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-07T06:05:21.477Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ac799e4bc2e8",
+   "canon": "https://www.reddit.com/comments/1xpuov3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xpuov3/i_tested_rokid_max_2_and_station_2_together_heres/",
+   "addedAt": "2026-11-07T06:05:21.477Z",
+   "title": "I Tested Rokid Max 2 and Station 2 Together, Here's What Happened",
+   "text": "",
+   "author": "Informal-Tech",
+   "publishedAt": "2026-11-07T02:03:57+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/5ZuIfnptNyQ7a-53CHVVM4AkNwm15Bo8Z9VJ6ofBE3E.jpeg?width=320&crop=smart&auto=webp&s=ff39c26f04ec0d5f12804eb8396465188ac339dc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Informal-Tech",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-07T06:05:21.477Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "dfe38da2b02b",
+   "canon": "https://www.reddit.com/comments/1xpuk04",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xpuk04/thief_gold_vr_ropes_final_feature_before_release/",
+   "addedAt": "2026-11-07T06:05:21.477Z",
+   "title": "Thief GOLD VR - Ropes! FINAL FEATURE BEFORE RELEASE",
+   "text": "",
+   "author": "jrubimf",
+   "publishedAt": "2026-11-07T01:57:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/U_EWsQrB4pWXGpPzUJWMds62fxveirtLuMJPyVGxtmc.jpeg?width=320&crop=smart&auto=webp&s=fcb7e6ff7ddcd8be015ccb253a944ba875ed6be3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/jrubimf",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-07T06:05:21.477Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4e48d989deeb",
+   "canon": "https://www.reddit.com/comments/1xpuggy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xpuggy/start_one_project_in_claude_and_finish_the_day/",
+   "addedAt": "2026-11-07T06:05:21.477Z",
+   "title": "Start one project in Claude and finish the day with dozens",
+   "text": "",
+   "author": "baronvonpain",
+   "publishedAt": "2026-11-07T01:52:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/55aa9v4jj30i1.gif?width=640&crop=smart&s=9e5c6e789cd19a5f032a4270a5e519ab9c02669f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/baronvonpain",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-07T06:05:21.477Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "79cf0b9fb003",
+   "canon": "https://www.reddit.com/comments/1xptnyg",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xptnyg/claudes_mri_results/",
+   "addedAt": "2026-11-07T06:05:21.477Z",
+   "title": "Claude's MRI results",
+   "text": "",
+   "author": "ffoott",
+   "publishedAt": "2026-11-07T01:12:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/naoga3zjc30i1.gif?width=320&crop=smart&s=df0ef10d3898d1bc408cd2488a56e59f6de298c5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ffoott",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-07T06:05:21.477Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9e6eeb212588",
+   "canon": "https://www.reddit.com/comments/1xptc8d",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xptc8d/made_a_strategy_city_builder_about_oxford_colleges/",
+   "addedAt": "2026-11-07T06:05:21.477Z",
+   "title": "Made a strategy / city builder about Oxford colleges",
+   "text": "I've had this idea for a game for about 20 years since I worked at Oxford University for a few years. The game is a strategy city builder where you build a college through 900 years of history, competing with others for discoveries, prestige and sporting success. I was able to…",
+   "author": "chemprof1337",
+   "publishedAt": "2026-11-07T00:57:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NmRlbjl4anI2MzBpMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=e5e3b97472dfc4f37d92072d8fb67222c4a53603"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/chemprof1337",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-07T06:05:21.477Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "430a4074a39a",
+   "canon": "https://www.reddit.com/comments/1xpsdrj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xpsdrj/vision_pro_reported_to_be_canceled_at_least_once/",
+   "addedAt": "2026-11-07T06:05:21.477Z",
+   "title": "Vision Pro Reported to be canceled at least once per week..",
+   "text": "Why is this? Do people want to see this device fail? Its so weird to constantly say the product is dead, and abandoned by Apple. Do people truly think Apple took the product and shelved it? The Duo proves they don't rush to market, they sit back, learn from many competitors and…",
+   "author": "mkeefecom",
+   "publishedAt": "2026-11-07T00:10:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/owcb6dn8130i1.png?width=640&crop=smart&auto=webp&s=e8127c29c54646af3bb685530a83360801f6d3ad"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/mkeefecom",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-07T06:05:21.477Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d977afab9b9f",
+   "canon": "https://www.reddit.com/comments/1xprdp3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xprdp3/3dgs_4dgs_in_blender/",
+   "addedAt": "2026-11-07T06:05:21.477Z",
+   "title": "3DGS + 4DGS in Blender",
+   "text": "Hi volumetric media fans!\n I've been tuning up my 4DGS processing pipeline, and responding to requests to get it working in Blender. So I put it together with a 3DGS capture so you can see what it looks like to composite a scene together that was shot on location.\n Yes, it has a…",
+   "author": "solo_solipsist",
+   "publishedAt": "2026-11-06T23:24:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OHNjazNlZ3dzMjBpMcli3BWVWFl4BBE-DJItIG4Rx3BWTF54krtIsAwpUbcA.png?width=640&crop=smart&auto=webp&s=ee9d789084174b4097268dd2086fb0db97f0d8c3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/solo_solipsist",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-07T06:05:21.477Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "7eb1ef3e286f",
    "canon": "https://www.reddit.com/comments/1xpr4ap",
