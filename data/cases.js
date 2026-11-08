@@ -1,8 +1,1094 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-11-08T10:35:15.478Z",
+ "updatedAt": "2026-11-08T18:04:53.166Z",
  "cases": [
+  {
+   "id": "3c29f14072b6",
+   "canon": "https://www.reddit.com/comments/1xr4kqw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xr4kqw/day_41_of_making_fishing_rpg_in_unity_using/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "Day 41 of making fishing rpg in unity using claude ai",
+   "text": "Some work I have done on the character creator this week.\n Improved character visuals and animations\n Most of the improvements are not in the demo yet but you can play the current version here:\n https://store.steampowered.com/app/5351000/I_Just_Wanted_to_Fish_Demo/",
+   "author": "ForkedPush",
+   "publishedAt": "2026-11-08T17:58:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aWJiNWVibGhnZjBpMRJN_jCObUaEDkHGNd6XQqx6vx8sp-8NQrqNanSsOHyn.png?width=640&crop=smart&auto=webp&s=f1afbb542fa781a0adf32542aea6ed6a64a589f2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ForkedPush",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "244a4fc6f5b7",
+   "canon": "https://www.reddit.com/comments/1xr4j70",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xr4j70/titanfall_2_vr_is_way_more_than_i_expected/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "Titanfall 2 VR is way more than I expected.",
+   "text": "Aside from a few small things, this legitimately feel like the game was made with VR in mind. \n You honestly straight up feel like an action movie star. And the game still looks great all these years later. With VR lending a scale to the world you never really got otherwise. \n I…",
+   "author": "Robborboy",
+   "publishedAt": "2026-11-08T17:56:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZXVucnBlbXZmZjBpMQFsiAw_kMgOREDp4RIuHJ4x7VFFDy4uoiFG3rG3FsPQ.png?width=640&crop=smart&auto=webp&s=17c367dbd6518d3b3aee53ae0d3aef24cdd353e8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Robborboy",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f8e059d1491e",
+   "canon": "https://www.reddit.com/comments/1xr4cd7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr4cd7/i_built_a_free_browser_tycoon_game_with_claude/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "I built a free browser tycoon game with Claude: secretly live in the ceiling of a dying 2004 mall",
+   "text": "I built Mall Bats with Claude Opus 5.5 after watching the fun documentary Secret Mall Apartment. My first attempt was in March, but LLMs weren't there yet. Tried again last week, and I'm amazed by the result.\n What it is: an isometric tycoon/stealth game. You build a hidden home…",
+   "author": "jacobjr23",
+   "publishedAt": "2026-11-08T17:48:48+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dHBod3RpeDNmZjBpMandLKpTlixgGwb3QvPGVqHm_1wGy8nL8DOugG2Vx_Ax.png?width=640&crop=smart&auto=webp&s=403c5f188a45c445fa42d1ed540419e4dc4cf517"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/jacobjr23",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "68ce8604dbc7",
+   "canon": "https://www.reddit.com/comments/1xr3wat",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xr3wat/backyard_island_nostalgia_with_a_learning_loop/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "Backyard Island - Nostalgia With a Learning Loop",
+   "text": "I recently developed this game with the help of AI.\n Some things I’ve learned:\n The AI settings are very important- Claude Opus Medium Thinking will be completely different than Claude High or x/High + Ultracode turned on.\n Expectations - realistic 3D scenes Claude will not be…",
+   "author": "Sad_Wafer9427",
+   "publishedAt": "2026-11-08T17:30:13+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M2xlM3JmcXZiZjBpMdimn6KCXjR528p2d1_WfFEhgGBvp-LmNpZeXZTZUOz0.jpeg?width=640&crop=smart&auto=webp&s=3d5842c5647127df3fcc495cdaca5691f211bf82"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Sad_Wafer9427",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "559ba76df337",
+   "canon": "https://www.reddit.com/comments/1xr3qah",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr3qah/i_built_clean_development_for_my_own_claude_code/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "I built Clean Development for my own Claude Code sessions on a Mac",
+   "text": "I built Clean Development because Claude Code sessions on my Mac were leaving caches, build output and scratch files scattered across the disk.\n It is a free, open-source tool written for Claude Code (and Codex) on macOS. It routes those locations to storage I configure,…",
+   "author": "Pathfinder-electron",
+   "publishedAt": "2026-11-08T17:23:21+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Pathfinder-electron",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e3e3afac2f2d",
+   "canon": "https://www.reddit.com/comments/1xr3q9o",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xr3q9o/the_repo_has_19_stars/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "The repo has 19 stars !!",
+   "text": "My Reddit post about our Claude Code plugin got over160k views and 1k upvotes in a day. The repo has 19 stars 😂 \n Pretty wild seeing that many people react to something we built.\n https://github.com/MedAdemBHA/mythical-agent-month…",
+   "author": "CalligrapherFar3373",
+   "publishedAt": "2026-11-08T17:23:19+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/zt2vnlqgaf0i1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=cc441594bb379e5141a534e18a754354862a694d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CalligrapherFar3373",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6bde4f027aa5",
+   "canon": "https://www.reddit.com/comments/1xr3i45",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr3i45/week_5_of_the_puppet_show_i_make_with_claude_in/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "Week 5 of the puppet show I make with Claude: in this episode they explain how it all works",
+   "text": "Almost Television is a 12-minute puppet sketch show on YouTube that I make with Claude in Claude Code, a new episode most Saturdays; Episode 5, For When I'm Grown Up, is out today.\n I'm the showrunner and give notes; Claude writes and directs with me, and we built the 3D puppet…",
+   "author": "Slackluster",
+   "publishedAt": "2026-11-08T17:13:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YW01ZHNjZHk3ZjBpMeqPM8hphd3It3viVVb6VKCepphRD_jz8KSGnvG5rCXg.png?width=640&crop=smart&auto=webp&s=5865cf0feb26e1c4616502377fc22fe4c9eee228"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Slackluster",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "718661af2d72",
+   "canon": "https://www.reddit.com/comments/1xr3he8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xr3he8/i_made_a_claude_code_plugin_that_answers/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "I made a Claude Code plugin that answers permission prompts the way you would, without skipping your deny rules",
+   "text": "Long Claude Code tasks kept stalling on permission prompts. I'd come back after lunch to a dialog I would have approved in a second, usually with \"Yes, and don't ask again\".\n So I made ydaa (\"Yes, don't ask again\"). Type /ydaa on and, for the rest of that session, each…",
+   "author": "armyndharis",
+   "publishedAt": "2026-11-08T17:13:09+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/armyndharis",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b9c3ec5dbdb3",
+   "canon": "https://www.reddit.com/comments/1xr3gbs",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr3gbs/i_built_an_mcp_with_claude_code_that_lets_claude/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "I built an MCP with Claude Code that lets Claude play PC games in the background. Here it is driving, flying a heli and walking in GTA on its own",
+   "text": "I wanted AI agents to create, test, and improve my game mods autonomously by actually playing the games, without taking over my PC while they do it. So I built an MCP server with Claude Code. It gives Claude its own keyboard, mouse, gamepad and screen capture inside a single…",
+   "author": "Wonderful-Ad-8579",
+   "publishedAt": "2026-11-08T17:11:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bWg0NzVkc3c3ZjBpMeyppUDmdDRujkCxftTdneo72Z7W5igpVGtQKsPGpJo7.png?width=640&crop=smart&auto=webp&s=5f93b67e50d3756d6e9732b2c878f074d9bac6e7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Wonderful-Ad-8579",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "40a212cd8ab1",
+   "canon": "https://www.reddit.com/comments/1xr39ge",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xr39ge/call_of_duty_modern_warfare_remastered_2017_vr/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "Call of Duty: Modern Warfare Remastered (2017) VR Performance / New VR Mod with 6DOF Motion Control",
+   "text": "",
+   "author": "CrazySittingHorse",
+   "publishedAt": "2026-11-08T17:04:00+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/D1MUVZHnkwAnAMp89yEsLm5ZzZpO2VsvXIvkfvLNTMw.jpeg?width=320&crop=smart&auto=webp&s=1aed30ca9a7b5a4cb11a0a2586dcc9d7ee700ccc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CrazySittingHorse",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0aaa055011d4",
+   "canon": "https://www.reddit.com/comments/1xr35jr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xr35jr/the_public_variable_speedthrough/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "The Public Variable- Speedthrough",
+   "text": "",
+   "author": "SpectreLast",
+   "publishedAt": "2026-11-08T16:59:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NzkyY2FseDY2ZjBpMaXoF1dThKAJ2lwOd0ZeXtRPsOEh82eCUq7Xs1-KVTq8.png?width=640&crop=smart&auto=webp&s=8daa60f6370e81210da4d5bd55929b13a7c74f6d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SpectreLast",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "adf9b059e4c7",
+   "canon": "https://www.reddit.com/comments/1xr31qi",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xr31qi/bamboo_samurai_is_a_cozy_vr_game_where_you_slice/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "Bamboo Samurai is a cozy VR game where you slice bamboo with a katana",
+   "text": "Hi guys,\n I've been working on my first VR game, Bamboo Samurai.\n The game\n So my main goal was to create a cozy, relaxing, Zen, samurai training game, where the player cuts some bamboo stalks. I wanted swinging the katana and cutting bamboo to feel satisfying, with a peaceful…",
+   "author": "SeaSkyLeo",
+   "publishedAt": "2026-11-08T16:55:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/b2pnaHgzeHY3ZTBpMdFlRpFlUwPpiSXV4HcOdqU-X1bFMcb-4ayInX0LFeml.png?width=640&crop=smart&auto=webp&s=0e5dbbe51395ef825bc879bba6ede484a16d5415"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SeaSkyLeo",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "51aadcb551e0",
+   "canon": "https://www.reddit.com/comments/1xr312k",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr312k/open_sourced_davinci_resolve_in_c_with_h264_h265/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "Open sourced DaVinci Resolve in C++ with h264, h265, AAC support on Linux and miles better performance.",
+   "text": "Hey! I’m Matthew and with a help of Claude Max I managed to make a good enough open source copy of DaVinci Resolve in C++! It’s called Kinoklip.\n I’m not sure whether I’m going to get hated here. Myself, I am strongly oppose AI art, but using AI as a tool in programming to free…",
+   "author": "SeniorMatthew",
+   "publishedAt": "2026-11-08T16:54:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/83p10oa05f0i1.png?width=140&height=78&auto=webp&s=c1bbdf444b4ec80ebf8fc32cceac43717d5489c4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SeniorMatthew",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9443c3f69104",
+   "canon": "https://www.reddit.com/comments/1xr2yac",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xr2yac/the_public_variable_new_particle_systems/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "The Public Variable- New Particle Systems",
+   "text": "The Public Variable, free on the iOS App Store",
+   "author": "SpectreLast",
+   "publishedAt": "2026-11-08T16:51:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MXg3MW8zMXI0ZjBpMSzprGpTuTztgclWd1_Qu_wEPI9bda_HD4RTGGcNPVXm.png?width=640&crop=smart&auto=webp&s=8aa1c84439b94a803ef6c6f977f62fb67edfcefd"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SpectreLast",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f81ea7ea400c",
+   "canon": "https://www.reddit.com/comments/1xr2xcv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xr2xcv/h3vr_standalone_gameplay_with_airsoft_rifle/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "H3VR Standalone gameplay with Airsoft Rifle controller",
+   "text": "This was another breakthrough for me. \n Being able to play a high quality PCVR game in Arena Space with my Airsoft controller is now viable. \n As Two Minute likes to say: What a time to be alive!!",
+   "author": "RickSpawn147",
+   "publishedAt": "2026-11-08T16:50:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eNmk2L6UXvmXSX3E5-ZvacF6rWG9G7baF412RSXezYg.jpeg?width=320&crop=smart&auto=webp&s=767a65aa74020cc6d495244bf047b2e563454fd5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RickSpawn147",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a98f0bc677c9",
+   "canon": "https://www.reddit.com/comments/1xr2cp0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr2cp0/i_built_a_realtime_multiplayer_browser_football/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "I built a real-time multiplayer browser football game with Claude Code (server-authoritative, WebTransport, client prediction). Free to play",
+   "text": "What I built \n BrowserBall: a top-down 3v3 football game where you drive a small ship. It runs in the browser on PC or phone, with two control styles (Pro: rotate/thrust with glide tricks; Classic: simpler). Bots fill empty slots, private rooms work with a link, and every goal…",
+   "author": "lavel0rz",
+   "publishedAt": "2026-11-08T16:26:36+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eW9lMG85eGYwZjBpMQifbIZ2OK2QSHrih_x4pue3sTYCaOI_CV1NsZj_LaWH.png?width=640&crop=smart&auto=webp&s=5f37e9065a8329a746cced6b299ec4b6752f621f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/lavel0rz",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "dbcbedb8f9c9",
+   "canon": "https://www.reddit.com/comments/1xr2aik",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xr2aik/virtual_desktop_unlock_functions_unffo/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "Virtual Desktop Unlock functions. Unffo",
+   "text": "This is an unofficial application—or mod—designed to expand the functionality and capabilities of Virtual Desktop. The app is still under development and may contain bugs. Currently, it offers the following features:\n - Adding third-party games (including those from Steam) to…",
+   "author": "ShadowManOld",
+   "publishedAt": "2026-11-08T16:24:04+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/gm5i8xw5ze0i1.jpeg?width=640&crop=smart&auto=webp&s=32fb796772d5a039a8f3faad2fba583daebe9033"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ShadowManOld",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7f2a0400c4a4",
+   "canon": "https://www.reddit.com/comments/1xr29y1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xr29y1/i_made_an_addictive_little_marble_racing_game/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "I made an addictive little marble racing game, just got approved for iOS!",
+   "text": "Hey everyone!\n My new game, Holy Marbles, just got approved and is officially live on the iOS App Store! 🎉\n It’s a multiplayer marble racing game where you can compete against other players, challenge your friends, and even build your own tracks!\n Here’s what you can do:\n 🏁…",
+   "author": "javiergame4",
+   "publishedAt": "2026-11-08T16:23:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bnk0c2Yydnl6ZTBpMaJCxi7jQHO_GZwK39_qwqSWi239Ux7aOsZsnFcEL_gh.jpeg?width=640&crop=smart&auto=webp&s=21f97b421e3743f5faa8bfad764bc71ce1cc8155"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/javiergame4",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3025532c09d3",
+   "canon": "https://www.reddit.com/comments/1xr2952",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xr2952/kasumi_courier_a_90sstyle_cyberpunk_delivery_game/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "Kasumi Courier: A 90s-style cyberpunk delivery game (browser demo update)",
+   "text": "Hi folks, I thought this community would be the right place to get some good feedback on a game I just released.\n Kasumi Courier is a first-person cyberpunk delivery game. You start out on a moped, riding through a rain-soaked neon city from 22:00 till dawn, delivering parcels…",
+   "author": "burgric",
+   "publishedAt": "2026-11-08T16:22:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NGN0dTlpaG9xZTBpMQGJw6K50zOPYD9sG7Hx3DmCrPwfTNDCRg8F0U472Y77.png?width=640&crop=smart&auto=webp&s=402a0e688101612c941d15819b8d1de31ed2911b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/burgric",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "02019775d0d5",
+   "canon": "https://www.reddit.com/comments/1xr28by",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xr28by/forklift_driver_now_runs_his_own_vibe_coded/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "Forklift driver now runs his own vibe coded startup with Claude code",
+   "text": "",
+   "author": "YouGotTangoed",
+   "publishedAt": "2026-11-08T16:21:34+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/d2FtMW9uZmN6ZTBpMawp83DlzMi9PzGbg_VRBxe_7yEAZTByZrd7kE7rap6q.png?width=640&crop=smart&auto=webp&s=009a44af8a9df575500c1c29714f8db0e829a9ee"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/YouGotTangoed",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1afff8c14fb1",
+   "canon": "https://www.reddit.com/comments/1xr233o",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xr233o/regoggles_is_on_the_way_open_smart_goggles_for/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "reGoggles Is On The Way — Open Smart Goggles For Industrial AI Assistance",
+   "text": "",
+   "author": "Murky-Course6648",
+   "publishedAt": "2026-11-08T16:15:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/JvRn-11YEa2a4PhKL6FLqoVe5vrC5BlX3L4-pHiOIak.jpeg?width=320&crop=smart&auto=webp&s=47a4b59f2e46a4553a91abfc2c1a03396659915c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Murky-Course6648",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b3d63cb1edf0",
+   "canon": "https://www.reddit.com/comments/1xr1zmr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xr1zmr/title_wick_youre_a_tiny_candle_your_flame_is_your/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "TITLE: WICK — you're a tiny candle, your flame is your life. 7 worlds, 45 puzzles. Feedback welcome!",
+   "text": "Here's a short gameplay video of WICK, a game I'm creating with Claude. You play a tiny candle trying to survive in the dark.\n What do you think? 🕯️",
+   "author": "InformalWeird2332",
+   "publishedAt": "2026-11-08T16:11:36+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/a3QyNDY3YXV4ZTBpMYtGnNfG1x8Z6d8tmgZHhODe7fvXaFFxf6MF8lPz8Vl6.png?width=640&crop=smart&auto=webp&s=1d78cdfe6cf9dd49031397fbfd8e31042f879c29"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/InformalWeird2332",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4c763621436f",
+   "canon": "https://www.reddit.com/comments/1xr1zji",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr1zji/built_cinderscoop_a_3d_firefighting_plane_game/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "Built Cinderscoop, a 3D firefighting plane game, with Claude Code: scoop water from lakes and stop wildfires that spread with the wind",
+   "text": "Cinderscoop is a browser game I built with Claude Code. You fly an amphibious water-bomber over a valley during wildfire season. Skim low over a lake to fill your tank, then dive on the flames and drop the water before the fire reaches the villages.\n What it does:\n fires spread…",
+   "author": "vinishkapoor",
+   "publishedAt": "2026-11-08T16:11:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/rd3o4fenxe0i1.jpeg?width=640&crop=smart&auto=webp&s=659c33fb58d417577574d1b61f087b05ac92fe99"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/vinishkapoor",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0d143d27a01b",
+   "canon": "https://www.reddit.com/comments/1xr1yiq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xr1yiq/i_built_a_mac_notch_app_that_gets_visibly_annoyed/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "I built a Mac notch app that gets visibly annoyed when I leave Claude Code waiting",
+   "text": "I kept leaving Claude Code waiting on a permission prompt while I was in another window. So I built Perch. It lives in the Mac notch, and the little character gets visibly impatient when I'm holding things up.\n You can approve or deny the request from the notch and jump back to…",
+   "author": "pixeltoucher",
+   "publishedAt": "2026-11-08T16:10:13+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MGx1eHBxcWV4ZTBpMRAcK-FqM6gr0TtJlYTcWYYRE7FMIdX4RsQcg7i_Qk_0.png?width=640&crop=smart&auto=webp&s=cad8a7b1d084048739f422d530ff0b6f40eb3232"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/pixeltoucher",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "977ce08e4676",
+   "canon": "https://www.reddit.com/comments/1xr1x24",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xr1x24/virtual_desktop_doesnt_install_on_my_quest_3/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "Virtual Desktop doesn't install on my Quest 3",
+   "text": "https://preview.redd.it/hcyinka9xe0i1.png?width=1080&format=png&auto=webp&s=60de636e36e6a49ddfd541b4be3ceaf53050888e\n It downloads it all the way, but when it starts installing, this error message comes up. Yes, I've tried rebooting it",
+   "author": "Sioscottecs23",
+   "publishedAt": "2026-11-08T16:08:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/hcyinka9xe0i1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=f336112fc345f9858aeae40fb5a37c8915d1131c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Sioscottecs23",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f2e7d20dd401",
+   "canon": "https://www.reddit.com/comments/1xr12al",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xr12al/my_browser_voxel_engine_a_16_km_island_of_25_cm/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "My browser voxel engine: a 16 km island of 25 cm voxels in three.js (trailer rendered in-engine)",
+   "text": "Ravensfell is a free voxel RPG on my own three.js engine: a 16 km island with towns, ruins, caves, magic, creatures and a dragon. I'm a software engineer, and I built it in about a week directing Claude Code. Voices are ElevenLabs. The trailer is rendered in-engine.\n AI wrote…",
+   "author": "trissytriss",
+   "publishedAt": "2026-11-08T15:31:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/c256cnNsMGRxZTBpMShvD0dGGfs7uSkvTU2g3mHPDytzqq-yZ_cHyEPHtwcu.png?width=640&crop=smart&auto=webp&s=6bc5ae99280826dbbeaf813c4cf83e1344b070f6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs",
+    "game",
+    "motion",
+    "voxel"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/trissytriss",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "34c4235cc835",
+   "canon": "https://www.reddit.com/comments/1xr10pt",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xr10pt/i_built_clean_development_to_route_claude_code/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "I built Clean Development to route Claude Code caches and session scratch off my internal disk",
+   "text": "I kept hitting the same problem on my Mac: Claude Code sessions leave caches, build output and scratch files scattered across the disk.\n Clean Development routes those locations to storage I configure. That can be an attached external volume, with a fallback on the internal disk…",
+   "author": "Pathfinder-electron",
+   "publishedAt": "2026-11-08T15:29:13+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Pathfinder-electron",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b1984c492406",
+   "canon": "https://www.reddit.com/comments/1xr0q1g",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xr0q1g/rigging_12_nonhumanoid_creatures_with_code_4_legs/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "Rigging 12 non-humanoid creatures with code: 4 legs, 8 legs, no legs, wings and tentacles (84 animations)",
+   "text": "After my last post here, a commenter said the internet is full of humanoid packs and asked for non-humanoid ones. So I built 12 creatures where every body type needs a different rig: a wolf, boar and rat (four legs), a scorpion, beetle and crab (many legs), a viper (no legs), a…",
+   "author": "Big-Communication950",
+   "publishedAt": "2026-11-08T15:15:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/13r39kyjne0i1.gif?width=640&crop=smart&s=8789abde8dad667084935d1421a44c442d9199a8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Big-Communication950",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6e2599525318",
+   "canon": "https://www.reddit.com/comments/1xr0jvf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xr0jvf/claude_code_threw_out_its_first_answer_to_my/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "Claude Code threw out its first answer to my game's Intel crash",
+   "text": "When my Godot game's demo went public on Steam, some PCs with Intel graphics crashed on their very first launch, and Windows' crash records named one file, igvk64.dll, Intel's Vulkan driver.\n The first thing Claude Code built was what I'd have asked for too: after a launch that…",
+   "author": "flockbaygames",
+   "publishedAt": "2026-11-08T15:08:10+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/0aQhacvDHMkS4iaIXXIW71dbDWM7W1ZOpdIf3qq3HEo.jpeg?width=320&crop=smart&auto=webp&s=ebb87c48b901b9d16ec0ca1266367a3dce505403"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/flockbaygames",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4b0eeb51fcf5",
+   "canon": "https://www.reddit.com/comments/1xr0dcw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xr0dcw/my_new_gaussian_splat_volkswagen_beetle_sculptures/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "My new Gaussian Splat: Volkswagen Beetle sculptures",
+   "text": "Link to supersplat to check it out: https://superspl.at/scene/33f3e5d8",
+   "author": "curious_cat_3556",
+   "publishedAt": "2026-11-08T15:00:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/VtSKujCehyEPIZP7dw8suHrjJ7dWUOM-TTIRms9HpW0.jpeg?width=320&crop=smart&auto=webp&s=9262a1a0b6bb0cd522eea46a544dfd66b04bd858"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/curious_cat_3556",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f3dee61ca92c",
+   "canon": "https://www.reddit.com/comments/1xqwrbm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xqwrbm/egg_and_spoon_race_is_one_of_the_many_challenges/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "Egg and spoon race is one of the many challenges in the game im working",
+   "text": "Hello 👋 \n I work on implementing egg and spoon challenge. The game Ghostly Late Night Show is full of ridiculous small challenges besides the general main story line. \n If you like it, support with upwote to help us reach more people and here are the links so you can wishlist:…",
+   "author": "MilUSA1992",
+   "publishedAt": "2026-11-08T11:56:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cnV4YXNkdzduZDBpMdoJlJmVBDxIFtZI2SAFuBr6y7cN_gpXsN1fhstpfYal.png?width=640&crop=smart&auto=webp&s=2d1c376c53db170a67e577dded608b92cad82a40"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MilUSA1992",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8589beb1d398",
+   "canon": "https://www.reddit.com/comments/1xqw49a",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xqw49a/summer_to_autumn_comparison_using_3d_gaussian/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "Summer to autumn comparison using 3D Gaussian Splatting",
+   "text": "Scanned the same location in two different seasons and developed a custom Blender plugin to precisely align and overlay both scans.\n This makes it possible to directly compare the two captures and visualize seasonal changes.\n Still experimenting with 3DGS and finding new ways to…",
+   "author": "MTHSHNZ",
+   "publishedAt": "2026-11-08T11:14:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aGc3dWhobDlnZDBpMZLeXypokZkDi1g1zpIdajckL25UG-TV-TQ28kx1o0Sn.png?width=640&crop=smart&auto=webp&s=3aaac4cc8a0af59fc0ba58face39e5ef7346cc77"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MTHSHNZ",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4a5092e6f7dc",
+   "canon": "https://www.reddit.com/comments/1xqvm2u",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xqvm2u/dortmund_210m_gaussians/",
+   "addedAt": "2026-11-08T18:00:28.685Z",
+   "title": "Dortmund, ~210M Gaussians",
+   "text": "https://superspl.at/scene/7f4160c0\n Reposted, as it was accidentally deleted.",
+   "author": "Sthatic",
+   "publishedAt": "2026-11-08T10:41:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eHExcTJldXdhZDBpMckT6fVsS3oGfpOOvp0uHdtOaUoZps0G5f4PWJn8XhOx.png?width=640&crop=smart&auto=webp&s=f90834f55987b1b2144c8be1945a52cc151f19ea"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Sthatic",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-08T18:00:28.685Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "92612d5cfda7",
    "canon": "https://www.reddit.com/comments/1xqvbjr",
