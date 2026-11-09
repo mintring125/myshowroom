@@ -1,8 +1,1319 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-11-09T06:44:44.614Z",
+ "updatedAt": "2026-11-09T20:00:15.381Z",
  "cases": [
+  {
+   "id": "de099643a80f",
+   "canon": "https://www.reddit.com/comments/1xs1sma",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xs1sma/i_vibe_coded_an_illustrated_opensource_watch/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "I vibe coded an illustrated, open-source watch catalogue that shows every watch on your wrist size",
+   "text": "Every watch site shows watches on someone else’s wrist, so I never knew how anything would actually sit on mine, and my shortlist lived across too many tabs, a spreadsheet and several LLM chats I’ll never find again.\n So I built Tokei Zukan: set your wrist size and see any watch…",
+   "author": "MaltMilchek",
+   "publishedAt": "2026-11-09T19:51:43+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NnMyaHN4MnI0azBpMaCH2deu1_XYe7S2sJjPnm9tNts7NTMFdQo23HuIvkD_.png?width=640&crop=smart&auto=webp&s=2bab739fbd3434c12957ba72a10d9c1f42a1c098"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MaltMilchek",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b5e6911cbb61",
+   "canon": "https://www.reddit.com/comments/1xs1nhp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs1nhp/i_needed_a_wine_tracking_app_that_has_no/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "I needed a wine tracking app that has NO SUBSCRIPTION omg, so Claude Code built me one. How it went, from someone who can't code",
+   "text": "I built Cabernet, a free iPhone wine notebook, with Claude Code. I can't code, so this is about how that actually went.\n **What it does**\n You snap a wine's label and the photo gets wrapped onto a 3D bottle you can spin, then give it a score out of ten. That's the whole idea:…",
+   "author": "timcorin",
+   "publishedAt": "2026-11-09T19:46:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aDUwNGZoYjA1bjBpMSpNKF_rC6tY8XeaGySdo3kyZ410IlPMywtoIqPxPE7R.png?width=640&crop=smart&auto=webp&s=ec79d5a7e08e2e3d4f41eb7aadb665526d53fcb2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/timcorin",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b57e8c2c6d24",
+   "canon": "https://www.reddit.com/comments/1xs1lc4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xs1lc4/i_revitalized_an_old_game_i_made_with_the_help_of/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "I revitalized an old game I made with the help of AI",
+   "text": "I've released a huge update last week: a complete visual overhaul of the UI, enemies, animations and effects with a huge help from Claude.\n I decided to capture some clips and compare with a pre-overhaul build. What do you think about how it looks now?\n The game: An incremental…",
+   "author": "abulero",
+   "publishedAt": "2026-11-09T19:44:11+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dDV6eDYyN280bjBpMePS3g-I25obOI18caFeKwARSKSdtdjbq8HUgNaMtc5x.png?width=640&crop=smart&auto=webp&s=bbaa5dbaa24fbc122396561c8153548fd50bdd1b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/abulero",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c4c72aff429b",
+   "canon": "https://www.reddit.com/comments/1xs16kc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xs16kc/spritecast_game_sprites_at_your_games_exact/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "SpriteCast: game sprites at your game's exact camera angle - the image model only paints over a 3D render (props, 8-direction walks, characters seated on your own chairs; free, MIT)",
+   "text": "Free and open source (MIT). It's a Claude Code plugin that calls OpenAI's image model (and Tripo for 3D characters) with your own API keys. You pay them directly; nothing goes to me. The drawing is done by the image model; the plugin's job is the geometry.\n The problem I kept…",
+   "author": "Head-Language4082",
+   "publishedAt": "2026-11-09T19:28:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/xpohr0jw1n0i1.gif?frame=1&width=140&height=47&auto=webp&s=afa7f3042d285dbf37549d013ce94fc2894bd2bc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Head-Language4082",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "703c2dc4696f",
+   "canon": "https://www.reddit.com/comments/1xs16bs",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xs16bs/ai_vibed_some_awesome_camera_tracking_in_my/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "AI vibed some awesome camera tracking in my fitness game",
+   "text": "I’ve been working on a mobile fitness RPG called Stillbreaker. Just amazing how well Claude has been able to get the camera detection! It’s been a lot of fun and good exercise. Would anybody want to play a game like this? Looking also for advice and ideas on good moves that you…",
+   "author": "LowZealousideal1045",
+   "publishedAt": "2026-11-09T19:28:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bGxwOWswN3QxbjBpMWbBWpNPBRtAZMxmJfxCBD9z5JZKtuph3g_ddzHx3xCr.jpeg?width=640&crop=smart&auto=webp&s=04c809a267e5306e85dad9260e7666ac8988ab28"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/LowZealousideal1045",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "10249f49c687",
+   "canon": "https://www.reddit.com/comments/1xs12yl",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xs12yl/our_trailer_updates_feedback_please_rats_co_op/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "Our trailer updates! Feedback please. RATS!! - Co op Tower Defense",
+   "text": "Workflow: Godot CLI + Claude code. This was the primary workflow required, I also incorporated two other models (Astra & Argon), from codex and google. The code is all reviewed by astra & argon to help minimize errors, bugs and issues. I have several gate tests incorporated to…",
+   "author": "Masterkiefs",
+   "publishedAt": "2026-11-09T19:25:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bnR5ZnVvODgwbjBpMc3heJCaG4KGGzdIC3lb1fyVXYdGVBQA3yl55bIQhKG1.png?width=640&crop=smart&auto=webp&s=53b5158b27ae995d8af1ecf02d5a57bcf0f3382e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Masterkiefs",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c1daa5d82816",
+   "canon": "https://www.reddit.com/comments/1xs12pb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xs12pb/i_gave_my_claude_code_sessions_a_soundtrack_and/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "I gave my Claude Code sessions a soundtrack, and Claude picks the music based on what you're doing",
+   "text": "My Claude Code sessions were too quiet, so I gave them a soundtrack.\n Type /music soundtrack and Claude reads what you're doing (a 2am bug hunt, a refactor, a test that's failing for the 4th time) and picks the music itself. Tests fail, the music calms you down.\n Because why not…",
+   "author": "Psychological-Many31",
+   "publishedAt": "2026-11-09T19:25:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eWZieW5kZTgxbjBpMUDEDcnU4Wfyd1AbnekkIV93iBIElTOa4GP7B8cPFgjM.png?width=640&crop=smart&auto=webp&s=a00d0e1463b56f726fcc8b73ed4314efac745423"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Psychological-Many31",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1a762a6b296c",
+   "canon": "https://www.reddit.com/comments/1xs0y8h",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs0y8h/claude_fable_52_builds_an_operating_system_from/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "Claude Fable 5.2 builds an operating system from scratch",
+   "text": "",
+   "author": "ReAndro",
+   "publishedAt": "2026-11-09T19:20:48+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/XIThK2XoAl0zWTXTwg1wi9gSyuY9EN3_87rDPEmwMTY.jpeg?width=320&crop=smart&auto=webp&s=08e422f7022bc149c2a558ff3fe8cbdec1dee2f8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ReAndro",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "574f548aec24",
+   "canon": "https://www.reddit.com/comments/1xs0vw0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs0vw0/fontastic/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "Fontastic",
+   "text": "I saw a stylised word I really liked, and on a whim, pasted it as a screengrab into Claude and asked it to build me a font based on the word. From six measly letters it not only made a complete typeface, it matched the (printed) style too. Amazing! It’s not perfect, and I’ll…",
+   "author": "Popular_Sell_8980",
+   "publishedAt": "2026-11-09T19:18:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/nc3koyk40n0i1.jpeg?width=640&crop=smart&auto=webp&s=03405d9749df97462bb017539f26c517726b3e67"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Popular_Sell_8980",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "73207bb8bc76",
+   "canon": "https://www.reddit.com/comments/1xs0tk3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/singularity/comments/1xs0tk3/a_team_of_1000_fable_52_agents_fully_formalized/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "A team of 1,000 Fable 5.2 agents fully formalized Fermat’s Last Theorem in 30 hours, translating the proof into a language a computer can check step by step. With the same setup, Opus 5.5 completed only 26% in 18 hours, and barely made any more progress after 30 hours.",
+   "text": "",
+   "author": "likeastar20",
+   "publishedAt": "2026-11-09T19:16:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/29kfxtupzm0i1.jpeg?width=640&crop=smart&auto=webp&s=a8510f38bb2f0a742ece9687325b8219e04625a9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/likeastar20",
+   "where": "r/singularity",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "d863f492fda8",
+   "canon": "https://www.reddit.com/comments/1xs0tja",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xs0tja/claude_code_can_make_a_video_but_it_cannot_tell/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "Claude Code can make a video, but it cannot tell you if its good or bad. This skill uses Jev, Gemini and GPT to review and fix a video before posting it.",
+   "text": "Content creators are increasingly using Claude to render a video with Remotion, HyperFrames or ffmpeg, or assemble clips from Seedance, Veo or Kling. It cannot check how the finished file looks and sounds. Claude reads text and still images, but it cannot play a video file with…",
+   "author": "coolreddy",
+   "publishedAt": "2026-11-09T19:16:13+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/clqy8078zm0i1.png?width=640&crop=smart&auto=webp&s=133af5faf61fd372691451d890e7d3ad63fee130"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/coolreddy",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "64a29e776201",
+   "canon": "https://www.reddit.com/comments/1xs0ri9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs0ri9/animated_music_video_by_claude_opus_55_original/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "Animated music video by Claude Opus 5.5 - Original music by Andy Thoe",
+   "text": "Original song written, produced, and performed by me. Claude helped with all else, time coding the lyrics, guidance, and all animations!",
+   "author": "GME_dat_puh",
+   "publishedAt": "2026-11-09T19:14:10+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/GjntjG-c5vlxKkFHf0W6gsgGApQ9xq8OJhwYt7CXTso.jpeg?width=320&crop=smart&auto=webp&s=3b4174b6e1ce7e8473ca40a4dbb375bc88fbe8c8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/GME_dat_puh",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "c8a5d2e45c3b",
+   "canon": "https://www.reddit.com/comments/1xs0qxm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xs0qxm/fable_52_is_here_30_cheaper_and_much_cheaper_than/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "Fable 5.2 is here! 30% cheaper and much cheaper than Fable 5.1",
+   "text": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "author": "HungryQuestion2146",
+   "publishedAt": "2026-11-09T19:13:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/waucct47zm0i1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=3d1c9c527e37bcd26cd4853e08ecc61db938a2ca"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/HungryQuestion2146",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "642c4fe41eb6",
+   "canon": "https://www.reddit.com/comments/1xs0ncq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xs0ncq/fable_52_drops_with_13_fable_resets/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "Fable 5.2 Drops with 1-3 Fable Resets",
+   "text": "https://preview.redd.it/vsnmneglym0i1.png?width=849&format=png&auto=webp&s=18596ab18ebca741fb6c60e5c101817819f083ee\n https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers",
+   "author": "Relative-Lobster5878",
+   "publishedAt": "2026-11-09T19:10:00+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/vsnmneglym0i1.png?width=140&height=34&auto=webp&s=e4ef696bc851d47f259c5b26c1175f1d6e44dad0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Relative-Lobster5878",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0b44f805a056",
+   "canon": "https://www.reddit.com/comments/1xs0n4a",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xs0n4a/files_pane_10_for_claude_code_now_counts/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "Files pane 1.0 for Claude Code: now counts sed/script edits, opens files with their git history, and shows your PR's checks (update if you're on 0.9)",
+   "text": "A while back I shared Files pane here, the live file tree that sits next to Claude Code's chat and shows what Claude reads (purple) and edits (orange). Thanks to everyone who tried it and sent feedback. 1.0 is out, and it's a big one.\n ALREADY INSTALLED IT? UPDATE:\n claude…",
+   "author": "mCadamek",
+   "publishedAt": "2026-11-09T19:09:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aTlqdXdneml5bTBpMWw4IEFUZkeBrqTEeG6rCOlHS0q-zIdmqJVrvh9Ff6J4.png?width=640&crop=smart&auto=webp&s=53165a7c19f61e3d5c34b09ccd647b6f1c321b24"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/mCadamek",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "97fb53a403df",
+   "canon": "https://www.reddit.com/comments/1xs0i9s",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xs0i9s/introducing_claude_fable_52_and_claude_mythos_52/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+   "text": "",
+   "author": "GloriousLebron",
+   "publishedAt": "2026-11-09T19:04:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/oqpBkHV1iERiXom7SFRKSREVtmKbfnWrissXscXccK4.jpeg?width=640&crop=smart&auto=webp&s=ade51846f7f64e78de56f481bdb2a27baaaa3cbb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/GloriousLebron",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e581b7cf2e4d",
+   "canon": "https://www.reddit.com/comments/1xs0hen",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs0hen/i_built_a_live_file_explorer_for_claude_code_see/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "I built a live file explorer for Claude Code: see what Claude reads and edits, open any file, and watch your PR's checks without leaving the chat",
+   "text": "A while back I shared Files pane here, the live file tree that sits next to Claude Code's chat and shows what Claude reads (purple) and edits (orange). Thanks to everyone who tried it and sent feedback. 1.0 is out, and it's a big one.\n Already installed it? Update:\n claude…",
+   "author": "mCadamek",
+   "publishedAt": "2026-11-09T19:04:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NmJhZW9ycnd3bTBpMWw4IEFUZkeBrqTEeG6rCOlHS0q-zIdmqJVrvh9Ff6J4.png?width=640&crop=smart&auto=webp&s=722467cc18627a64e0d07fa02764c487fefe4879"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/mCadamek",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f73f42453c70",
+   "canon": "https://www.reddit.com/comments/1xs0g53",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xs0g53/i_built_demoman_a_headless_recorder_for_coding/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "I built Demoman, a headless recorder for coding agents and CI pipeline for recording product demos and keeping them continually updated.",
+   "text": "I built it as a way to automate the creation of polished demos like Screen Studio/CleanShot X videos. You can fully hand off the creation of these kinds of videos to your agent. It handles the process from end-to-end, including authentication, driving the headless browser, and…",
+   "author": "47B-1ME",
+   "publishedAt": "2026-11-09T19:02:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/oO0xlhY5r4ywJjZ0dGnj1yFVJvsa64bgvBzgzorpBxE.png?width=640&crop=smart&auto=webp&s=b0bb4948619df0c9d0c8533c9585ca6ea92b820f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/47B-1ME",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e8d47c82a36b",
+   "canon": "https://www.reddit.com/comments/1xs0bun",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xs0bun/grindline_building_a_codstyle_browser_shooter/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "GRINDLINE: building a CoD-style browser shooter with Claude Code, Tripo, an LLM \"balance designer\" and Replay Vision",
+   "text": "I'm making GRINDLINE, a CoD-style FPS that runs in the browser. Claude Code writes most of the code, and the guns and props come from Tripo. A few things I learned:\n Give the agent something to measure. Asking \"does this look right\" goes nowhere. Hand placement on new guns is…",
+   "author": "Appropriate_Sail3890",
+   "publishedAt": "2026-11-09T18:58:18+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Appropriate_Sail3890",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "14af409d3a27",
+   "canon": "https://www.reddit.com/comments/1xs076c",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xs076c/reality_composer_pro_for_vision_pro_iphone_and/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "Reality Composer Pro for Vision Pro, iPhone, and iPad",
+   "text": "While most people think of using Apple's Reality Composer Pro 3 (RCP) for creating immersive experiences for the Vision Pro, RCP's exported reality file can also be used in iPhone & iPad apps for immersive experiences.\n The main focus for RCP this year appears to be adding…",
+   "author": "RandomVision2027",
+   "publishedAt": "2026-11-09T18:53:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZW5rZ2wwaGR1bTBpMS4a0Jh-CwkR-yLHivq_7b6FmscPgSSDrx6tNhlX_-hG.png?width=640&crop=smart&auto=webp&s=49b69a3cb9814ec637f82b9ed4bcfc44301573b7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RandomVision2027",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "36901f1698eb",
+   "canon": "https://www.reddit.com/comments/1xrzznl",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xrzznl/claude_opus_55_made_a_music_video_for_tools/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "Claude Opus 5.5 made a music video for Tool's \"Vicarious\" using Three.js",
+   "text": "I've been using Claude Code to make music videos, and this is my favourite so far.\n The concept: An endless field of armchairs and CRTs under a dying red planet, with porcelain watchers.\n The film is fully procedural Three.js built with Claude code, rendered out and muxed with…",
+   "author": "loki_nz",
+   "publishedAt": "2026-11-09T18:45:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/u6eYFqPeShOBUYZKjOmEg1Fd0Ug1Q9inDaE8PnPdbck.jpeg?width=320&crop=smart&auto=webp&s=306f6a8dc321a2049798c8c183df063cf42c4972"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/loki_nz",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "39b8459ca702",
+   "canon": "https://www.reddit.com/comments/1xrzuo9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xrzuo9/built_a_free_claude_code_skill_that_cut_toolcall/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "Built a free Claude Code skill that cut tool-call turns from 48 to 19 on FastAPI, with the same answers. Benchmark included",
+   "text": "Short version: in Claude Code, every tool call re-sends the full conversation, so cutting the number of calls saves more than cutting what gets read.\n project-atlas indexes your repo the first time you open it (symbols, line ranges, imports) and then gets Claude to grab…",
+   "author": "Top-Sink-1315",
+   "publishedAt": "2026-11-09T18:40:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/bgtg2vworm0i1.png?width=640&crop=smart&auto=webp&s=2dead0478717dba2a0eb8e1ff0d247bc261e753f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Top-Sink-1315",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8fe3f31da6c9",
+   "canon": "https://www.reddit.com/comments/1xrzixr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xrzixr/cyberpunk_2077_vr_part_2/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "Cyberpunk 2077 VR - Part 2",
+   "text": "This time, it's in REAL VR!\n (Not to be confused with R.E.A.L.)",
+   "author": "BionicFreakOfficial",
+   "publishedAt": "2026-11-09T18:28:36+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aGKTedMpaxrMxbZTGWUeSRdE6w73C8J2YbBAfTlQdkE.jpeg?width=320&crop=smart&auto=webp&s=4fe2dad4eeb10fc4cf1844fbb5ba5554e89ec809"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/BionicFreakOfficial",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2714eb253b74",
+   "canon": "https://www.reddit.com/comments/1xrzgnz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xrzgnz/gta_2_is_like_a_modern_ai_it_no_longer_stays_in/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "GTA 2 is like a modern AI: it no longer stays in its box.",
+   "text": "I’ve been working on a mod that turns GTA 2 into a miniature city on my real floor (Quest 3, passthrough). New feature: hold the right stick for four seconds and the city freezes in place while the game keeps running.\n Your car then drives straight off the edge of the miniature…",
+   "author": "emulo2",
+   "publishedAt": "2026-11-09T18:26:16+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Y3AybHprMmtxbTBpMQ8smzs6uhn4HJv9gfGfMfySIyYsj-k0-5KaqUNvoac-.png?width=640&crop=smart&auto=webp&s=37d1aa181517583a34db6481dd0b145c44579993"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "ai",
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/emulo2",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "81d21fb809ac",
+   "canon": "https://www.reddit.com/comments/1xrz7j4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xrz7j4/witchfire_vr_mod/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "witchfire VR mod",
+   "text": "In the couple of weeks i have been developing A mod/UEVR profile for the witchfire.\n an extended gameplay video: https://www.youtube.com/watch?v=vuseDYODD7A&t=8s",
+   "author": "itsSHAD0Ws",
+   "publishedAt": "2026-11-09T18:16:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cnA5MmMwMXpvbTBpMY05s4FuTkYxFq2H6T0jpW0ApMfNuccAXLwkV_NTC0xS.png?width=640&crop=smart&auto=webp&s=09077b1f7551e64078db7e4e794d867b22713018"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/itsSHAD0Ws",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5aa6396f767e",
+   "canon": "https://www.reddit.com/comments/1xrymc1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xrymc1/imagine_this_in_vr_i_have_made_vr_mods_for_switch/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "Imagine this in VR, I have made VR mods for Switch 1 games like Mario Odyssey, Pokemon Sword and Pokemon Snap (with full body IK, stereo, 6dof, etc) I could make one for this but I doubt my PC can run it lol",
+   "text": "",
+   "author": "Admirable_Zombie5245",
+   "publishedAt": "2026-11-09T17:56:04+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aTAwaHZ6ZzdsbTBpMRGxUAZ7jtSm4W0mZZb1iv9ziMtdeMOBlPQvNt4TTm-A.png?width=640&crop=smart&auto=webp&s=4a4f4bfd2c315773cbfe60d8a8ce46b227f77b30"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Admirable_Zombie5245",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "991ee86b6098",
+   "canon": "https://www.reddit.com/comments/1xrwq9k",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xrwq9k/i_built_an_open_sdk_for_metas_glasses_your_apps/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "I built an open SDK for Meta's glasses: your apps, scripts and AI agents can now use the camera, the Display, the Neural Band and \"Hey Meta\"",
+   "text": "Hi, I'm Marco, the creator of Visor, an open-source alternative to the Meta AI app. It's not one of those apps that run on top of the Meta AI app to make you use ChatGPT. Visor replaces the Meta AI app and talks to the glasses directly, over their own protocol on Bluetooth and…",
+   "author": "Macedonga",
+   "publishedAt": "2026-11-09T16:46:59+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Macedonga",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d9431ac1a47e",
+   "canon": "https://www.reddit.com/comments/1xrwfph",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xrwfph/breath_of_the_wild_running_natively_on_apple/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "Breath of the Wild running natively on Apple Vision Pro in first-person VR, no PC or streaming！",
+   "text": "This is SheikahVision, a fan project I've been working on. The Wii U game is statically recompiled to native ARM64 and runs entirely on the Apple Vision Pro M5, in first person, with PS VR2 Sense controllers. No PC, no streaming, and no emulator running on the device.\n What…",
+   "author": "Oreoou",
+   "publishedAt": "2026-11-09T16:36:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Z3hsdWNrang1bTBpMQ-yJN7s4Pp-NCbWqRG9237tAPmbfyPABoEbDn2REw-m.png?width=640&crop=smart&auto=webp&s=fa7367a043cd1a07c1764fe78154365249aae878"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Oreoou",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bcd0ba2c9ff5",
+   "canon": "https://www.reddit.com/comments/1xrtalw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xrtalw/my_lightroom_classic_plugin_for_masking_pictures/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "My Lightroom Classic plugin for masking pictures is now free and open source",
+   "text": "It was a paid plugin until now, but I decided that version 1.2.0 is now free and open source (MIT): no license key and everything runs on your computer. I'd rather have more people using it than keep it behind a paywall!\n On a whole selection, it can export Lightroom's own AI…",
+   "author": "NicolasDiolez",
+   "publishedAt": "2026-11-09T14:37:51+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/emllcTYxd3BsbDBpMfKtapA16LTCO6V-lMe2I6GCUZ0Qq8JmCHezH4bte3WA.png?width=640&crop=smart&auto=webp&s=abb4e1308c4bee671da909a063089882d13cc480"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/NicolasDiolez",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3114daa29564",
+   "canon": "https://www.reddit.com/comments/1xrs4qq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xrs4qq/positano_italy_amalfi_coast/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "Positano, Italy (Amalfi Coast)",
+   "text": "Tired of waiting for Apple to build new environments… so we started on our own. We’ll eventually release this early to mid-December.",
+   "author": "Most-Photograph9903",
+   "publishedAt": "2026-11-09T13:49:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bGF0emRlOWhkbDBpMduK98WYmDcb1ivCMgtvDeOlQg9kzeshzH-MSFgRj3RG.jpeg?width=640&crop=smart&auto=webp&s=321c1fb4548911ca9a3e790affa538e5f28aa811"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Most-Photograph9903",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a39a23630043",
+   "canon": "https://www.reddit.com/comments/1xrrk7l",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xrrk7l/github_monsterdruide1odysseydecomp_decompilation/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "GitHub - MonsterDruide1/OdysseyDecomp: Decompilation of Super Mario Odyssey for all versions.",
+   "text": "I will be porting SMO to VR using OdysseyDecomp! This will start out as a demo, but once the game is FULLY decompiled, I'll release a template of this project and legally obtained ROM's will need to be provided. No, this demo will not be publically available and I do not plan on…",
+   "author": "Substantial-Bass1625",
+   "publishedAt": "2026-11-09T13:24:11+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/FeXiVgTsQU07beqf_ItWkKuGNJfOdugU51uX7UQ79aY.png?width=640&crop=smart&auto=webp&s=8ec6ec28e3e04f5794f434bd26d351a2df438593"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Substantial-Bass1625",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "19bd9200f233",
+   "canon": "https://www.reddit.com/comments/1xrrfp0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xrrfp0/dredge_vr_synthwave_boat_rave/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "DREDGE VR | Synthwave Boat Rave",
+   "text": "https://youtube.com/live/rDWag2rqH-M?feature=share\n Mods by Xen-42 and Sgtjoe on Dredgemods.com\n Telecaster > Scarlett 2i2 > Reaper > Rabea X > Overlord Synth\n Doing a live ambient patch jam while gaming Dredge VR",
+   "author": "Spocrates_YT",
+   "publishedAt": "2026-11-09T13:18:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Z3o4ejRtZnY3bDBpMfDA4JZIYbmlC0CEqj5yoSe8Qygf3wv2r6qtqp2wrR8a.png?width=640&crop=smart&auto=webp&s=bacb412397e93311afff972b163f4b30fce9a684"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Spocrates_YT",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b588773c2411",
+   "canon": "https://www.reddit.com/comments/1xrrcz7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xrrcz7/digital_rain_effect_for_3d_gaussian_splats/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "Digital rain effect for 3D Gaussian splats, inspired by The Matrix (open source, PlayCanvas)",
+   "text": "I added a glyph rain shader effect to the Playcanvas engine. A fraction of the splats become camera-facing glyphs, lit by drops running down columns. The rest thin out, shrink and tint.\n Glyphs are drawn into an atlas at runtime, so any font or character set works (01 gives…",
+   "author": "mvaligursky",
+   "publishedAt": "2026-11-09T13:15:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aHV1dWZycTE3bDBpMbVtEpeaZcXn6eOZMGPOAMlE7ciMY5JesgGb2Zqq5616.png?width=640&crop=smart&auto=webp&s=2eb6cd70de57f0ab8e46aa32ce70a4362e8eca20"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/mvaligursky",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f783e11192b5",
+   "canon": "https://www.reddit.com/comments/1xrq7fg",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xrq7fg/stresstesting_multiplayer_physics_in_vr_here_is/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "Stress-testing multiplayer physics in VR: Here is what happens when you throw 8,000 synced rigid bodies at modern headsets",
+   "text": "Building a VR game with modular ship building, flight, and combat is fun until you realize every structural block needs deterministic physics and low-latency network replication.\n We’re developing BuildPort Xumia, and this week was our \"break everything\" stress test. We wanted…",
+   "author": "Yumebau",
+   "publishedAt": "2026-11-09T12:18:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/d21qeTRudzJ4azBpMUctYkduK35T7RUtoWBiFVrx5arlOUq3j4gyoZmBIIM8.png?width=640&crop=smart&auto=webp&s=a4fe528ac030c98d0e17914f7876bb4ebb68ff64"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Yumebau",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f8e1a286243b",
+   "canon": "https://www.reddit.com/comments/1xrpqpw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xrpqpw/phonebased_driftfree_trackers/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "Phone-based drift-free trackers",
+   "text": "iOS demo\n Android demo\n Made an android and iOS app that uses camera and IMU sensor fusion to track the phone in space.\n The android version uses OpenCV to track the phone in space using aruco markers on the walls. Admittedly, the android version experience does vary a lot (if…",
+   "author": "necoarcc__",
+   "publishedAt": "2026-11-09T11:54:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bnJqbDE3dG1yazBpMRGT6I_Q9ALzKSpdyDrUkegdBcitQyVIWSjbFEpuA5Fa.png?width=640&crop=smart&auto=webp&s=c39566a513333af547cda4f8a164dc816bf79884"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/necoarcc__",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3f74c382d53a",
+   "canon": "https://www.reddit.com/comments/1xrnyjx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xrnyjx/i_put_gta2_on_my_living_room_floor_and_ceiling_as/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "I put GTA2 on my living room floor and ceiling as a 3D miniature city. Standalone Quest 3, mixed reality, no PC",
+   "text": "This is a hobby project I’ve been working on: the original Grand Theft Auto 2 running natively on a standalone Quest 3, but instead of a flat screen the whole city is a 3D miniature in your room.\n What it does:\n Floor mode: the city sits on your floor like a tabletop diorama,…",
+   "author": "emulo2",
+   "publishedAt": "2026-11-09T10:09:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Z3Nocmpzb3Q5azBpMUH3ndCM9mdma29BGQjkq6s_FAkNuIXHyBRAAZt9UxKD.png?width=640&crop=smart&auto=webp&s=4dcf699679a841e25ad5fae62dcf9cb9dafab18c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/emulo2",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "29ac089048ac",
+   "canon": "https://www.reddit.com/comments/1xrnw8n",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xrnw8n/amazing_vr_game/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "Amazing vr game",
+   "text": "",
+   "author": "ThoughtEuphoric6010",
+   "publishedAt": "2026-11-09T10:05:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dXMxb2QzZ204azBpMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=c7220d51c24452448bdd3c8865ebe9602d7f854a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ThoughtEuphoric6010",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d8041fe8c241",
+   "canon": "https://www.reddit.com/comments/1xrn4hh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xrn4hh/we_are_on_the_cusp_of_the_next_revolution_what_ai/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "We are on the cusp of the next revolution. What AI is doing to work is going to be offset by AR leisure-rewarding activities that stimulate not just the player but also economies. Fully scalable solutions #Lostcoinlegends #comingsoon",
+   "text": "Lost Coin Legends is an iOS adventure app where players read real legends for clues, follow a radar to a hidden spot, and collect AR treasure backed by real rewards. Player subscriptions and sponsors fund the prizes. And if you’d rather not head outdoors, you can still play from…",
+   "author": "StarredTonight",
+   "publishedAt": "2026-11-09T09:16:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NmJva294ZHp6ajBpMbaowf9PX39kb8PNT27JA1QzRu4IoK_xt1DqLFnGfo2Q.jpeg?width=640&crop=smart&auto=webp&s=61ff04ba0f074c2de4c36ca10fafe9d899026160"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/StarredTonight",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9ddb2e3a55b1",
+   "canon": "https://www.reddit.com/comments/1xrmsxi",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xrmsxi/fishing_paradise_on_meta_quest_making_a_fish/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "Fishing Paradise on Meta Quest: making a fish fight feel right in VR",
+   "text": "I’m the developer of Fishing Paradise, an upcoming VR fishing sim for Meta Quest. Here’s a look at the game. I’ve been working on the moment when a fish takes line: ease off when it runs, then reel as the tension drops.\n I’d love to hear what you think makes a physical…",
+   "author": "Capital-Cry8821",
+   "publishedAt": "2026-11-09T08:56:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Ym9za3l4aW93ajBpMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=6c0ef0313bd2ae053802fb2d69a713792689e4c4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Capital-Cry8821",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "87ee3191ab49",
+   "canon": "https://www.reddit.com/comments/1xrlhh5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xrlhh5/noboretsu_hell_valley_hokkaido/",
+   "addedAt": "2026-11-09T19:55:38.257Z",
+   "title": "Noboretsu Hell Valley, Hokkaido",
+   "text": "https://preview.redd.it/uomwvo5bhj0i1.png?width=1799&format=png&auto=webp&s=3fc37569d7992c2d81aed69a2e7f4d6ad42ce4fb\n From 3 x 360 videos in the camera path shown, processed with Spirula Studio.\n Now I regret not capturing more 360 videos on my trips, even just when walking…",
+   "author": "EggMan28",
+   "publishedAt": "2026-11-09T07:32:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/-bprxtIPw8otD4kQ1MWJQ73UnfdL0HbeWKuEUiTtIZo.jpeg?width=140&height=140&auto=webp&s=5673e0518ce1e6e7976b281b33258b79f7f39058"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/EggMan28",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-09T19:55:38.257Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "23d5151bf158",
    "canon": "https://www.reddit.com/comments/1xrkks4",
