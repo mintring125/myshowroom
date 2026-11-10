@@ -1,8 +1,1420 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-11-10T03:43:33.962Z",
+ "updatedAt": "2026-11-10T15:03:46.031Z",
  "cases": [
+  {
+   "id": "2beea4f1bb74",
+   "canon": "https://www.reddit.com/comments/1xsox9o",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xsox9o/filmed_people_placed_into_gaussian_splat_scans/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "Filmed people placed into Gaussian splat scans, lit by the scan around them",
+   "text": "I’m James, one of the team at PXLD. We’ve been building DAWN, a model that takes footage of a person and puts them into a new place, relit to match it. One of the inputs it works with is Gaussian splats, so here are a few. \n Every take here was shot on an ordinary street or in a…",
+   "author": "Apprehensive-Fig-435",
+   "publishedAt": "2026-11-10T14:54:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aDA3N3JrdDZ0czBpMaDRZtdn-yy2qIm8T23Tw1vmbNhKO6A0pU-oALkx55Jz.png?width=640&crop=smart&auto=webp&s=bd4d574812963e13f50a1e59377a174ba85e176f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Apprehensive-Fig-435",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3b1533d8e78f",
+   "canon": "https://www.reddit.com/comments/1xsotnu",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xsotnu/vibe_coding_a_deckbuilder_where_you_craft_your/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "Vibe coding a deckbuilder where you craft your cards instead of looting them (1000+ possible cards)",
+   "text": "Hey everyone,\n I'm a solo dev vibe coding a deckbuilding roguelite called The Unwritten, in the evenings from home. Demo planned in the next few months.\n The core idea: you don't loot random cards. You collect resources during fights, then fuse them into new cards, and fuse…",
+   "author": "Arkenge",
+   "publishedAt": "2026-11-10T14:50:34+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZGozenphdzd0czBpMRmpCmwMvTsdWE2Q2pVCOmSn-meNCR530EWa2p6Qg3C0.png?width=640&crop=smart&auto=webp&s=7a90ca622cdfdbdff748c271902dddbc53c6f75c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Arkenge",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "719a5ac086d8",
+   "canon": "https://www.reddit.com/comments/1xsordk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xsordk/day_101_of_building_a_racing_game_with_ai_600/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "Day 101 of Building a Racing Game with AI – 600 Hours, 16 Maps, and What I've Actually Learned",
+   "text": "Day 101 of AI-Assisted Game Development – Everything I've Learned So Far I've been a software developer for over 30 years and a game developer for more than 10. I've worked with around 30 programming languages and DSLs throughout my career.\n For the past 101 days, I've been…",
+   "author": "Dense-Bar-2341",
+   "publishedAt": "2026-11-10T14:47:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cDR4ODg3N3BzczBpMfk1bcnHbDXOI4m85axhSkzkPH6yRb0yEXNxKk70hWr-.png?width=640&crop=smart&auto=webp&s=d781d8ba57f228f8ab302b938d4bd4cd464cb352"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Dense-Bar-2341",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8a679ab5e9b2",
+   "canon": "https://www.reddit.com/comments/1xsocpc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsocpc/i_built_open_net_worth_with_claude_code_a/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "I built Open Net Worth with Claude Code: a personal Wealth Agent Harness that watches everything you own and trades through your broker, running on your Claude subscription",
+   "text": "Hi everyone, I’m an engineering manager in fintech, based in Singapore. I built this with Claude Code over the past 5 months, on the Claude Ultra plan, and I usually use 100% of my weekly limit (including running Open Net Worth itself on it). It's free and open source (AGPL).…",
+   "author": "baggaarm",
+   "publishedAt": "2026-11-10T14:31:00+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/hkvmc94mms0i1.png?width=140&height=102&auto=webp&s=5ab9b44ff4463f497f6bb8ab0c5540fff9dada5b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/baggaarm",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "aa8d75f10ed1",
+   "canon": "https://www.reddit.com/comments/1xso9c4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xso9c4/fable_52_for_pixel_art_benchmark/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "Fable 5.2 for pixel art (benchmark)",
+   "text": "Time and output tokens (reasoning included) that Claude Fable 5.2, at effort xhigh, took to draw each prompt:\n - \"A penguin viking with a horned helmet, a round shield and a fish speared on its spear\": about 6 min, 33,800 tokens\n - \"A cat witch in a pointed hat flying on a…",
+   "author": "HugoDzz",
+   "publishedAt": "2026-11-10T14:27:16+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/jlbx6q79os0i1.png?width=140&height=91&auto=webp&s=c6e24eec416abeca694ff722c888c393820ddb5d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/HugoDzz",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3e0c7e04a605",
+   "canon": "https://www.reddit.com/comments/1xso7lq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xso7lq/tab_only_switches_apps_so_i_built_a_free_window/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "⌘Tab only switches apps, so I built a free window switcher for macOS with Claude Code",
+   "text": "I usually have a few Safari windows, two terminals and something minimized on another desktop, and ⌘Tab only switches between apps. So I made Riffle: hold ⌥ and press Tab to see every window on every desktop with a live preview, or start typing to find one.\n I built it with…",
+   "author": "drkyksl",
+   "publishedAt": "2026-11-10T14:25:13+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aGt2a3lscGpvczBpMU5tb8XO5dQkXwIVS8D2q8RxYs9eqijvWNYnOa2XQsJU.png?width=640&crop=smart&auto=webp&s=a56ea6eafb3aa5cee2ba6246db944cb228ec1717"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/drkyksl",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "738d9b17a3ec",
+   "canon": "https://www.reddit.com/comments/1xso56s",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xso56s/i_made_the_catacombs_game_ive_always_wanted/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "I made the Catacombs game I’ve always wanted.",
+   "text": "For years I’ve had this idea for a game where you have to escape the Paris Catacombs. I’ve done a lot of planning on how to make this without going down the horror route. I wanted to make it realistic with psychological horror elements.\n Main features:\n Survival stats.\n Plotting…",
+   "author": "acexprt",
+   "publishedAt": "2026-11-10T14:22:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/rMzGOrpZATD-GjJHiwsKt4wv-hx-gZgay70jnyRKMxU.jpeg?width=640&crop=smart&auto=webp&s=139f45e735e43d27fdcecb6868ce8a66fd7f17a4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/acexprt",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f5c55bec125f",
+   "canon": "https://www.reddit.com/comments/1xso2q0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/threejs/comments/1xso2q0/i_made_a_globe_that_shows_earth_as_an_observer_n/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "I made a globe that shows Earth as an observer N light-years away would see it right now (globe.gl + custom shaders)",
+   "text": "Demo: https://deemonder.github.io/meanwhile-on-earth/\n Source (MIT): https://github.com/deemonder/meanwhile-on-earth\n The farther away you are, the further back in time you see: 81 light-years shows 1945, 2,000 shows the Roman Empire, 250 million shows Pangaea.\n globe.gl handles…",
+   "author": "Girolamone",
+   "publishedAt": "2026-11-10T14:19:36+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/k3e3es4mns0i1.gif?width=640&crop=smart&s=802e499e61c1308e68b9e38622fcd377b4fba8ce"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Girolamone",
+   "where": "r/threejs",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8b9a2fb49d8e",
+   "canon": "https://www.reddit.com/comments/1xso2be",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xso2be/piano_test_on_fable_52/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "Piano Test on Fable 5.2!",
+   "text": "I run the same test on every new Claude model: one prompt in Claude Code asking for an original, fast piano piece in the style of a Chopin étude, delivered as a MIDI file. One run, no rerolls, and I don't touch the notes.\n Fable 5.2 at max effort:\n 47 min 07 s 262,305 output…",
+   "author": "oh-keh",
+   "publishedAt": "2026-11-10T14:19:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eW1jczQwcmtuczBpMXbYjgVtu8QeEqGRJ90Jf-oLagOwdiyOx6ibOQtjBLr-.png?width=640&crop=smart&auto=webp&s=d92b1f7025ac69ae0228998d73f278f413d48b64"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/oh-keh",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1a485f432649",
+   "canon": "https://www.reddit.com/comments/1xso23e",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xso23e/we_tested_opus_55_on_real_tasks_in_elixir_ocaml/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "We tested Opus 5.5 on real tasks in Elixir, OCaml, Kotlin, Swift and 9 other languages that benchmarks rarely cover",
+   "text": "Coding benchmarks rarely cover languages like Elixir, OCaml, Erlang or Clojure, but they’re used in plenty of real projects. We wanted to see how Opus 5.5 and other models handle them.\n We collected 202 tasks from real issues and PRs across 13 languages. We reworked them…",
+   "author": "Fabulous_Pollution10",
+   "publishedAt": "2026-11-10T14:18:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/lnbo7s0cns0i1.png?width=640&crop=smart&auto=webp&s=ae7382b4fccf556c66a6b8d40fa5162da153bac6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Fabulous_Pollution10",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "6bb27fe61957",
+   "canon": "https://www.reddit.com/comments/1xso1r0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xso1r0/piano_test_on_fable_52/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "PIANO Test on Fable 5.2!",
+   "text": "I run the same test on every new Claude model: one prompt in Claude Code asking for an original, fast piano piece in the style of a Chopin étude, delivered as a MIDI file. One run, no rerolls, and I don't touch the notes.\n Fable 5.2 at max effort:\n 47 min 07 s 262,305 output…",
+   "author": "oh-keh",
+   "publishedAt": "2026-11-10T14:18:24+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/a2JpZG9pYWduczBpMQMx8YbsKVGS4XXk4akKvJCHichzaCJt-rVaruGkJzIa.png?width=640&crop=smart&auto=webp&s=670516d19164eda3a56cf98290595463b46af592"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/oh-keh",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e01b9662b3f8",
+   "canon": "https://www.reddit.com/comments/1xso0is",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xso0is/im_a_solo_dev_from_brazil_making_a/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "I'm a solo dev from Brazil making a Tibia/Ragnarok-inspired MMORPG where you climb an endless tower and only keep what you extract. Free alpha is open.",
+   "text": "I’ve been playing MMORPGs for 24 years (Tibia and Ragnarok mostly), and I stream. I don’t know how to program. About three weeks ago I started building ISEKARIA, a pixel art extraction MMORPG inspired by isekai anime, using Claude Code for all the code and PixelLab for the art.…",
+   "author": "Straight-Row-3701",
+   "publishedAt": "2026-11-10T14:17:00+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/synuan9bms0i1.png?width=140&height=78&auto=webp&s=342f293c2f5c0f0cd71f853834c25dcd39bb4ca4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Straight-Row-3701",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0cece4be29ba",
+   "canon": "https://www.reddit.com/comments/1xsnk3x",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xsnk3x/im_making_my_first_game_with_the_help_of_ai/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "I'm making my first game with the help of AI",
+   "text": "Hey everyone!\n I've always wanted to make my own video game, but never really knew how to turn my ideas into something real. So I decided to give it a shot and see how far I could get with AI.\n I'm currently working on The Last Wardfire (working title), a 2D fantasy…",
+   "author": "Cautious-Current9522",
+   "publishedAt": "2026-11-10T13:57:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/uh5l03ynjs0i1.png?width=140&height=79&auto=webp&s=f4c34dbf3f037d0abbbaebead7b66770e160170e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Cautious-Current9522",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "304f51d49881",
+   "canon": "https://www.reddit.com/comments/1xsnizt",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xsnizt/i_had_zero_blendergodot_experience_claude_opus_5/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "I had zero Blender/Godot experience. Claude Opus 5 built me a full medieval Prague action RPG in ~4 hours",
+   "text": "Wanted to share an experiment. I installed Blender and Godot, knew nothing about either, and tried to see how far I could get by letting Claude Opus 5 do the actual work.\n The result is Alchemists of Prague, a small action RPG set in medieval Prague. You play as Václav, a knight…",
+   "author": "Any-Blacksmith-2054",
+   "publishedAt": "2026-11-10T13:56:28+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender",
+    "game",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Any-Blacksmith-2054",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4fcd317778d9",
+   "canon": "https://www.reddit.com/comments/1xsnerm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsnerm/claude_fable_52_can_finally_generate_good_pixel/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "Claude (Fable 5.2) can finally generate good pixel art animation",
+   "text": "Fable 5.1 attempt is fair, but is basically just a recolor, fable 5.2's is on another level.\n Will opus 5.5 ever get close to this? I'd love to generate pixel art without paying per-generation with services like pixellab (or fable credits).",
+   "author": "Icy_Patient_1714",
+   "publishedAt": "2026-11-10T13:51:11+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/nkkm1sclis0i1.gif?width=640&crop=smart&s=17af29aa3befc8dc64774ce3bc0b82e6034b1f31"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Icy_Patient_1714",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "be66830f4b47",
+   "canon": "https://www.reddit.com/comments/1xsneg8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/threejs/comments/1xsneg8/this_short_film_has_no_video_fileits_one_html/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "This short film has no video file.It's one HTML file. Every frame is rendered live in your browser by @threejs , and every line of it was written by @claudeai Fable 5.2.No 3D models. No textures. No audio files. No video or image AI.",
+   "text": "https://x.com/Deku_labs/status/2120089704200839497",
+   "author": "Little_Ad1315",
+   "publishedAt": "2026-11-10T13:50:47+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NzhsYnU5NWdpczBpMbAFhfcNoCk4_frq_W1xBjMzrPpAEpGW0BjYCDgFzxyB.png?width=640&crop=smart&auto=webp&s=b6f502a54a8aa1c1a6ec3024c066ac5ba30456ac"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Little_Ad1315",
+   "where": "r/threejs",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f275b4c56893",
+   "canon": "https://www.reddit.com/comments/1xsnctf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xsnctf/i_built_the_platform_brawler_i_wanted_to_play/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "I built the platform brawler I wanted to play.",
+   "text": "Hi friendly AI devs! This is my brain child, CoreShard, a 2D platform brawler I've been working on since late September. It's open for pre-registration on Google Play. I wanted to showcase it! Hope you like it!\n **What's in the game:**\n - A story campaign. The Core that balanced…",
+   "author": "xKruMpeTx",
+   "publishedAt": "2026-11-10T13:48:47+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cTJ6ZHh5MzdpczBpMc9zyRFXCprurE93LaTRlrBV7BavnMZhEdKCxQWX2o1z.png?width=640&crop=smart&auto=webp&s=2852f1414122b13efaa908a7bac6763ea4b28264"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/xKruMpeTx",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b33718be7531",
+   "canon": "https://www.reddit.com/comments/1xsnae0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xsnae0/introducing_the_claude_connector_of_currentsdev/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "Introducing the Claude connector of Currents.dev",
+   "text": "Hey folks!\n TLDR: We published a Currents connector in the Claude directory. \n Using this connector, Claude can read your CI runs, failure evidence and test analytics directly, instead of working from a stack trace you pasted in.\n Why we built it\n If you've asked Claude Code to…",
+   "author": "sumitsaurabh121",
+   "publishedAt": "2026-11-10T13:45:48+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/wfv4PAYSv2LJkXvxlFn9WIFWUMoBTXc6iA1wl_LBqPU.png?width=640&crop=smart&auto=webp&s=66c04ef90ee581aa4e358f20a9ada082590e7fc3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/sumitsaurabh121",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6d2b5b225e45",
+   "canon": "https://www.reddit.com/comments/1xsn8az",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xsn8az/i_built_a_canvas_for_claude_code_ask_for_three/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "I built a canvas for Claude Code: ask for three directions on a screen and see them live in your real app (now on Windows and Linux)",
+   "text": "The video is my own portfolio. One sentence to the agent, and each direction is built in a separate copy of the repo, with my own components, and runs as a live frame next to the original. I pick one, and nothing touches the real repo until I approve the diff.\n Straight facts:…",
+   "author": "Possible_Area_2915",
+   "publishedAt": "2026-11-10T13:43:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dDFndmE5NzZoczBpMdln-yk7i5JXvrHO_-l45rj02ozg8r1MgW88kJa4sVMI.png?width=640&crop=smart&auto=webp&s=d94de8f77af125d103752ee59d2e28fa8a9cc595"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Possible_Area_2915",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "325d52629ca6",
+   "canon": "https://www.reddit.com/comments/1xsn6t3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xsn6t3/new_game_mode_is_live_in_bootstrap_island_devs/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "New Game Mode is LIVE in Bootstrap Island! Devs' best run: 5 in-game days. What's yours? 😉",
+   "text": "",
+   "author": "Bootstrap_Island_Dev",
+   "publishedAt": "2026-11-10T13:41:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dWRhdnVnZ3NnczBpMTByoa5cAz-mVIw4J7kjDTUnoUo7oZfKQgxri4omGBMt.png?width=640&crop=smart&auto=webp&s=e95d326f818989e93e900610583e9647e207315f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Bootstrap_Island_Dev",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c748771167e8",
+   "canon": "https://www.reddit.com/comments/1xsn3m1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsn3m1/refusing_to_redraw_gdrive_logo/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "Refusing to redraw gDrive logo",
+   "text": "I've worked 130 commits on a project fear to me using Opus 5.5 for 4-5 months.\n No issue until today.\n I'm aware of the wave of anthropic sudden IP concern, as hypocritical as it is, but never was caught until today.\n I was just trying to get Claude to draw some icons based on…",
+   "author": "Dropkick_Monkey",
+   "publishedAt": "2026-11-10T13:37:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/500yc1w6gs0i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=8f7d704985b5f728fdb0a58dea5d7291bd201a86"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Dropkick_Monkey",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "0d9bac5d4676",
+   "canon": "https://www.reddit.com/comments/1xsn1vx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xsn1vx/i_built_a_full_browser_brawler_with_ai_claude/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "I built a full browser brawler with AI: Claude wrote the GDScript, Gemini painted the art. Here’s the free demo and what worked",
+   "text": "Bonkwood is a cozy forest brawler (Brawlhalla-style combat + Helmet Heroes-style loot) made in Godot 4. It’s playable for free in the browser: https://vestom.itch.io/bonkwood\n Bonkwood is a 2D forest brawler built in Godot 4: Brawlhalla-style combat with Helmet Heroes-style loot…",
+   "author": "tooavg",
+   "publishedAt": "2026-11-10T13:35:19+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/1vjr1g5qfs0i1.png?width=640&crop=smart&auto=webp&s=fa0e8a6e6df190275745ffb3a02bdfd5f7129019"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/tooavg",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e40121003aef",
+   "canon": "https://www.reddit.com/comments/1xsn0ay",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsn0ay/i_built_a_whiteboard_where_claude_code_works_on/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "I built a whiteboard where Claude Code works on my notes with me, and it’s the first time I trust it with them",
+   "text": "I keep my notes as markdown files and let claude code work in them a lot. Two things kept annoying me. I never saw what it changed without digging through the files. And when I had a note open while it wrote to the same file, one of the two edits was just gone, no error.\n So I…",
+   "author": "SetAdministrative502",
+   "publishedAt": "2026-11-10T13:33:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cWxnZmRqNnpjczBpMRJCQJ-jctL55eiyUhJumiPBnoJNGYy5sAI7NbGerZwk.png?width=640&crop=smart&auto=webp&s=dccc68b4de11204a5033b0f5ae10b3c1c6166199"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SetAdministrative502",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8e98bd100bee",
+   "canon": "https://www.reddit.com/comments/1xsmvwm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsmvwm/opus_55_vs_fable_52_3d_modelling_test_feat_blender/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "Opus 5.5 vs Fable 5.2: 3D modelling test feat. Blender",
+   "text": "I gave Claude Opus 5.5 and Claude Fable 5.2 the exact same brief, each in its own separate Claude Code session, both at high effort. The task was to design an original player fighter for a bullet-hell shoot-'em-up, using only a Blender Python script. No downloaded assets, no…",
+   "author": "MasterMind-Apps",
+   "publishedAt": "2026-11-10T13:27:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/5bGhTz9cmrNGwGCI7lkwR9xXMyXy6l-e6tryLU4Dcvk.png?width=140&height=73&auto=webp&s=123430c918b432e6aadd3ab54ec671a00423a978"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MasterMind-Apps",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "f544cf094d76",
+   "canon": "https://www.reddit.com/comments/1xsmv2d",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsmv2d/ive_created_rampart_from_heroes_of_might_and/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "I've Created Rampart from Heroes of Might and Magic 3 in Unreal Engine 5 using Claude",
+   "text": "A fun side project of mine that I wanted to do for a while. Took around two months to make it happen\n Tools used: Claude Code, ChatGPT, Blender, Unreal Engine 5, Tripo, Fal, FAB. This took around 300 messages, around $500 in assets, and around 100 hours of Claude working (on top…",
+   "author": "Dacadey",
+   "publishedAt": "2026-11-10T13:26:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/FW22cTD6g-BuXFHmViuLaeYtEa4ycFWgcqFfTVnPpik.jpeg?width=320&crop=smart&auto=webp&s=a635b3c72d4cf868ab5617d37a0226783cdea966"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Dacadey",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5e8eb5a9b222",
+   "canon": "https://www.reddit.com/comments/1xsms56",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsms56/opus_55_vs_fable_51_vs_mistral_large_4_on_23_real/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "Opus 5.5 vs Fable 5.1 vs Mistral Large 4 on 23 real bugs, with each model's verdict on the others",
+   "text": "",
+   "author": "rvdhof",
+   "publishedAt": "2026-11-10T13:23:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/hh34Pp0AVjoxhCmf8_n2NxfqrCwoOgZ9MOs7spbWzng.jpeg?width=640&crop=smart&auto=webp&s=811d7c165f1c1baa9f1827a70f8b6830968889d3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/rvdhof",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "9b35d1e21b23",
+   "canon": "https://www.reddit.com/comments/1xsmqdd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsmqdd/fable_52_vs_opus_55_finding_the_sweet_spot/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "Fable 5.2 vs. Opus 5.5: Finding the Sweet Spot",
+   "text": "With Fable 5.2 now out, it's time for another comparison.\n According to Artificial Analysis, Fable 5.2 is the undisputed leader. But there are a few interesting things worth highlighting:\n Red arrow: The performance curve from Fable 5.2 High to XHigh is relatively smooth, but…",
+   "author": "Brief_Ad_8040",
+   "publishedAt": "2026-11-10T13:20:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/nlttcistcs0i1.png?width=640&crop=smart&auto=webp&s=aeda8c52d8beaccb3f69992f1fb9d465d7bff989"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Brief_Ad_8040",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "19195c469569",
+   "canon": "https://www.reddit.com/comments/1xsmpwu",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsmpwu/quakes_first_level_running_inside_the_original/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "Quake's first level running inside the original 1993 Doom engine, built with Claude",
+   "text": "I built two things with Claude:\n - Relit, a new renderer for the original Doom engine. The 1993 engine still runs the game, and a new Three.js renderer draws it with modern lighting. Press V to flip back to the original view.\n - Quake's E1M1, converted into a playable Doom level…",
+   "author": "Substantial_Load_690",
+   "publishedAt": "2026-11-10T13:20:17+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/0l_xhdIQ4AV_g9z4QcuKY-wUW6gJ86tBqSO_jpjsMHQ.jpeg?width=320&crop=smart&auto=webp&s=1837b735b31a850b2c42d7997d6b886f27bcca28"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Substantial_Load_690",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2f5fd5c05b29",
+   "canon": "https://www.reddit.com/comments/1xsmkcn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsmkcn/this_seems_new/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "This seems new",
+   "text": "https://preview.redd.it/orsbcobibs0i1.png?width=2902&format=png&auto=webp&s=8eda44fc4bc7e9a464d1eada59c0e4782f87eae4\n I've been switching between multiple pro accounts on claude for a while now. But i updated it recently to get fable 5.2 and now i am seeing this. Kind of a…",
+   "author": "Emergency-Bobcat6485",
+   "publishedAt": "2026-11-10T13:13:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/orsbcobibs0i1.png?width=140&height=9&auto=webp&s=56af0285de846384170101ff5ecdebd2b8321ee6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Emergency-Bobcat6485",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e4c34b95bd05",
+   "canon": "https://www.reddit.com/comments/1xsmho5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xsmho5/i_run_6_claude_code_sessions_at_once_so_i_built_a/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "I run ~6 Claude Code sessions at once, so I built a local dashboard to see and approve them all in one place",
+   "text": "I work at a small company and juggle several projects, so I usually have about six Claude Code sessions open at the same time. The bottleneck stopped being Claude and became me: I'd find a session that had been waiting for approval for 20+ minutes, or lose track of which one was…",
+   "author": "yun7420",
+   "publishedAt": "2026-11-10T13:09:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cHM5bmZuc2phczBpMW90Q4UlCqd1hW6DoU95NEe8yqNdSIwUP9QuqbjiM_Vi.png?width=640&crop=smart&auto=webp&s=358d8a34bc2f87d59396608ff61b7a0b8ff7b058"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/yun7420",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b54bc4e2f409",
+   "canon": "https://www.reddit.com/comments/1xsmh4f",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xsmh4f/waybill_a_lowpoly_1998_delivery_game_free_demo_pc/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "Waybill – a low-poly 1998 delivery game (free demo, PC)",
+   "text": "Deliver parcels around Granger Crossing, a small American town in 1998. Pick up jobs from notice boards, find the right door, and work your way up from a bicycle to a scooter. Made with Claude (code, 3D models, sound), directed by me. Feedback on the first ten minutes very…",
+   "author": "LeftItRunning",
+   "publishedAt": "2026-11-10T13:08:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cDBnd3l1cHFhczBpMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=bf8c7e5a429a68d1a05bcd3323c4ed352fee627e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/LeftItRunning",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2f021761abe0",
+   "canon": "https://www.reddit.com/comments/1xsmcv8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xsmcv8/ar_bowls_for_a_virtual_dog_turning_reminders_into/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "AR bowls for a virtual dog: turning reminders into places [staged demo]",
+   "text": "I’m the developer of Ready for Dog?, an iPhone/iPad and Android app for rehearsing parts of a dog-care routine. This complete promo demo uses staged AR visualisations, not a recording of live tracking performance.\n The interaction idea is to give food and water tasks a place as…",
+   "author": "Miserable_Bird5822",
+   "publishedAt": "2026-11-10T13:03:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cGR0Y3B6NXg5czBpMdabfor5F7D1L-a6NuEjBVg1kUfvsn9Fcb49enFh-cs6.png?width=640&crop=smart&auto=webp&s=4fcfc46820816b7cb34876ca2ca3c1c77f69b9c9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Miserable_Bird5822",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c39ab9827231",
+   "canon": "https://www.reddit.com/comments/1xsmcez",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xsmcez/i_got_tired_of_copypasting_between_claude_code/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "I got tired of copy-pasting between Claude Code and Codex, so I made tandem. Now they message each other. Native Windows, no WSL.",
+   "text": "Someone posted peer on r/ClaudeAI a while back. It lets Claude Code and Codex send each other messages. I wanted it right away, but I'm on Windows and it only ran on macOS and Linux.\n So I asked Claude Code to port it. That was the plan, anyway. We kept adding things, and at…",
+   "author": "Die_Wilde_Lampe1140",
+   "publishedAt": "2026-11-10T13:02:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M2RnODl5YXN6cjBpMWLncin36HADPteazUIZITbBlvCVIXPBQpamNLtRpPnw.png?width=640&crop=smart&auto=webp&s=af7489c323d92f59dfc0a421a6d05960aa604fba"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Die_Wilde_Lampe1140",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8cba177b26ad",
+   "canon": "https://www.reddit.com/comments/1xskizg",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xskizg/truck_n_troubles_is_in_development_we_need_testers/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "Truck n Troubles is in development: we need testers",
+   "text": "Hey everyone! 👋\n We’re the team behind Truck n Troubles, and we’re excited to announce that the game is officially in development. This is our official Reddit account, created to stay close to the community.\n Try it now on TestFlight\n The game is already playable, and we’d love…",
+   "author": "trucksntroubles",
+   "publishedAt": "2026-11-10T11:28:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bnUzM2JmZzh0cjBpMWQnJCyS_rtUESn_V_uuz8IB3kFgo7onpAaEfmQw8D-H.png?width=640&crop=smart&auto=webp&s=d77ec1d07e3f4b7adf60efa6c6734bc217a53438"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/trucksntroubles",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cacb6ab3f48c",
+   "canon": "https://www.reddit.com/comments/1xsk6v1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xsk6v1/the_metro_exodus_vr_mod_deserves_more_attention/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "The Metro Exodus VR mod deserves more attention",
+   "text": "There is still some jank (especially left handed) but this is special.\n The hud elements on your arm, the physical map, the visible ammo in all weapons.. this game feels like it was made for vr.\n Manual reloads for every variation of every weapon and a lot of great vr…",
+   "author": "DanielDrift",
+   "publishedAt": "2026-11-10T11:08:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OXQwcnlydTVucjBpMSyOHdKBvyW2AfHroUtVa7SPDj9wRgWQQjVqERnBJSgG.png?width=640&crop=smart&auto=webp&s=18bfd5331ac25c668fdb36bec923603a706f3175"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/DanielDrift",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6961b9fbd882",
+   "canon": "https://www.reddit.com/comments/1xsi9x3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vrdev/comments/1xsi9x3/i_created_vrpacing_an_enhanced_fork_of_vrperfkit/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "I created VRPacing, an enhanced fork of VRPerfKit",
+   "text": "",
+   "author": "Efficient_Heart_6695",
+   "publishedAt": "2026-11-10T09:09:51+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Efficient_Heart_6695",
+   "where": "r/vrdev",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "48e134b1b025",
+   "canon": "https://www.reddit.com/comments/1xsi884",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xsi884/crash_planets_in_your_room_and_watch_the_solar/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "Crash planets in your room and watch the solar system get torn into particles round a lensing black hole",
+   "text": "So this one burnt more tokens than i planned...Planet Crash Sandbox puts a whole solar system (ours or randomised) in your room in AR, and every star, planet, moon and rock pulls on every other, so when you knock one off course it causes particle mayhem. \n There are two modes.…",
+   "author": "timcorin",
+   "publishedAt": "2026-11-10T09:06:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dm8zdzI4NWYzcjBpMXAzZM2aDRtZTLCtoQA0YfpF8n0GdsXmUaLVYApkftSu.png?width=640&crop=smart&auto=webp&s=d7bd1ec1dd7405db24c7efabc11b2f2e5508795b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/timcorin",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "88621732c7b6",
+   "canon": "https://www.reddit.com/comments/1xsha9j",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xsha9j/unreal_engine_vs_reality_kit/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "Unreal Engine vs Reality Kit",
+   "text": "I’ve been building something like Polyspatial for Unreal Engine alongside a custom fork of Unreal Engine much better suited to the device than what Epic provides. This is my first time testing the same full scene in both.\n Would you rather get Unreal Engine scenes running…",
+   "author": "iBrews",
+   "publishedAt": "2026-11-10T08:04:16+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/VGhBu2Jd1ZBmTALk7FvOukeNlRnHsFEB2jKNYmoDMBQ.jpeg?width=320&crop=smart&auto=webp&s=cc740300f9b2b9c48119850158640e68b353a727"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/iBrews",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "30084f8c0bb6",
+   "canon": "https://www.reddit.com/comments/1xsgytj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xsgytj/introducing_my_new_app_baduanjin八段锦/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "Introducing my new App: BaDuanJin(八段锦)",
+   "text": "It's a 3d modeling + real immersive shooting, teach you how to play BaDuanJin.",
+   "author": "Mammoth-Matter7579",
+   "publishedAt": "2026-11-10T07:43:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dHQ2M3k1enlvcTBpMbutk2W_P5E7yXZZlLy2fDE1xt0F6faAosdJx17Oszwg.png?width=640&crop=smart&auto=webp&s=a345cfa34867853e55e1dc649cc6d83689b25fb9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Mammoth-Matter7579",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4f8c46dec0b7",
+   "canon": "https://www.reddit.com/comments/1xsfxy1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xsfxy1/thru3d_a_standalone_quest_and_pico_player_with/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "Thru3D: a standalone Quest and PICO player with real-time 2D-to-3D and AI person passthrough.",
+   "text": "Hi everyone! I’m the developer of Thru3D Media Player, a standalone video and photo player for Quest and PICO. It is open source and I almost update it everyday. \n The main feature is real-time 2D-to-3D video playback. Depth processing runs directly on the headset, so you can…",
+   "author": "zerochocobo",
+   "publishedAt": "2026-11-10T06:39:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/7VgbcwT7AxZuasSiwh0njBzWc_iC0S4rNPxazMicbzQ.jpeg?width=640&crop=smart&auto=webp&s=646713d5908a4f8361adbfe2edb94ae9a60d460a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "ai",
+    "three",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/zerochocobo",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0dd43db84910",
+   "canon": "https://www.reddit.com/comments/1xsfnyn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xsfnyn/codex_inside_a_full_color_display_glasses_under/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "Codex inside a full color display glasses under 50 grams",
+   "text": "This is what we cooked stealth for a year. a full color dual eye smart glasses weighted under 50 grams.\n see more on: https://savage.tech\n launch in several weeks later",
+   "author": "Bill_Pei",
+   "publishedAt": "2026-11-10T06:22:36+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZnYyODh4d2thcTBpMb0PvHAcjLXhWBP15S35mQFS5uA9KWc3aKU0fQR0I1hn.png?width=640&crop=smart&auto=webp&s=ccf3f2a0f625c341f74430a997aed6db32900982"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Bill_Pei",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "28ce14513e68",
+   "canon": "https://www.reddit.com/comments/1xseao5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xseao5/mallvr_starlite_virtual_reality_stereoscopic/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "MallVR Starlite Virtual Reality Stereoscopic Multicade",
+   "text": "",
+   "author": "CyberMindArcade",
+   "publishedAt": "2026-11-10T05:04:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/21NTKGiDNErZAeWTWGM6MYSRc61DR6WwBDtso1NlHFM.jpeg?width=320&crop=smart&auto=webp&s=ef14b1424aa721d6a723a5f7108561e250f789a7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CyberMindArcade",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8db2d7197529",
+   "canon": "https://www.reddit.com/comments/1xsdbkh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xsdbkh/i_ran_3d_gaussian_splatting_inside_a_pdf/",
+   "addedAt": "2026-11-10T14:59:20.336Z",
+   "title": "I ran 3D Gaussian splatting inside a PDF",
+   "text": "I was looking for another old device to try this on, but I couldn’t find anything around the house that felt right. Then I saw Doom running in a PDF and thought I’d try it with the Train scene. DoomPDF\n I put the first 1 MB of our compressed Train scene into train.pdf. The file…",
+   "author": "Alone-Access6607",
+   "publishedAt": "2026-11-10T04:12:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aWNnMG5pZDBucDBpMXVWFDg5QELVTxIwBeIZ8avXRE9HmU3Pnc72fTHR6uqG.png?width=640&crop=smart&auto=webp&s=2a1b7cc853743eaa4489d5334bbc2a1ad26d1f64"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Alone-Access6607",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-10T14:59:20.336Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "e91a54e359f1",
    "canon": "https://www.reddit.com/comments/1xscnu2",
