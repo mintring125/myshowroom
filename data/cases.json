@@ -1,7 +1,982 @@
 {
  "version": 1,
- "updatedAt": "2026-11-12T00:54:31.644Z",
+ "updatedAt": "2026-11-12T11:25:42.747Z",
  "cases": [
+  {
+   "id": "fccd2abf6e28",
+   "canon": "https://www.reddit.com/comments/1xu9xa4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xu9xa4/squad_based_roguelite_made_with_opus_in_2_weeks/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "Squad Based Roguelite made with Opus in 2 weeks",
+   "text": "I built this game called Space Marines 2. It's a tactical roguelite inspired by Aliens and Space Hulk. It's entirely made by LLM including all code, graphics and sounds. Mostly it's me talking to the claude app on my phone to control my desktop session running…",
+   "author": "AdamAlexandr",
+   "publishedAt": "2026-11-12T11:01:19+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/BFrOWKEnnIZj_CV7E_2W1d6o3v6vXTw6Pc0Z3oq_W_g.jpeg?width=320&crop=smart&auto=webp&s=3fc9b2832cd7ee5bc2eb92e6a8b72027b4546c31"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AdamAlexandr",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6abfabd70d4a",
+   "canon": "https://www.reddit.com/comments/1xu9olb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xu9olb/claude_code_writes_almost_all_the_code_of_my/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "Claude Code writes almost all the code of my 1400s trading game. Here's what is still my job",
+   "text": "Hi everyone :)\n I'm Harvan, a solo dev from Italy. I'm making Fondaco – A Venetian Merchant's Tale, a trading strategy game set in the Mediterranean of 1400. You start as a small merchant, buy where goods are cheap, sail them to where they're scarce, fight off corsairs and grow…",
+   "author": "Harvan29",
+   "publishedAt": "2026-11-12T10:47:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/N2xma25qbWV2NTFpMR5WjMiOLRThNUXLGaVt20mm0fw4p-toyBIzU5pjQiD5.png?width=640&crop=smart&auto=webp&s=76451a716c4e8f648a92461ed3405dc2b1d502bb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Harvan29",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "29f4049ad571",
+   "canon": "https://www.reddit.com/comments/1xu9li4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/threejs/comments/1xu9li4/been_building_the_bible_in_threejs_each_story_is/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "been building the bible in three.js, each story is a short film and you can walk around the scenes after",
+   "text": "so this started as a random weekend thing and kind of got out of hand lol\n it’s called holypolygons. basically i’m rebuilding bible stories as 3d scenes in the browser. every story has a narrated film version, and then you can jump into the same scene and walk around it…",
+   "author": "Little_Ad1315",
+   "publishedAt": "2026-11-12T10:42:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OTYwMGpobmZ1NTFpMasRflyDaS9w1ZIGIp-_e-YZtGzuj1_Vs-1X1rB7nwWP.png?width=640&crop=smart&auto=webp&s=6051c3e9e2cd335c314a53948bda5ad058ec2113"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Little_Ad1315",
+   "where": "r/threejs",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f227f0b81fd3",
+   "canon": "https://www.reddit.com/comments/1xu9kna",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xu9kna/i_built_a_free_digital_signage_alternative_to/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "I built a free digital signage alternative to Yodeck and PiSignage - meet PiPusher",
+   "text": "Website: https://pipusher.com\n This started as a fairly simple project.\n A friend runs a bar/game café, and I wanted to build an information screen solution for him. My first attempt was a basic HTML-based solution, running on a Pi 2, but it quickly became clear that it was too…",
+   "author": "Novel_Season_7472",
+   "publishedAt": "2026-11-12T10:40:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/m5k61sp1u51i1.jpeg?width=640&crop=smart&auto=webp&s=20d70711f2fe30a93b8e7670b73ae2ebf8514755"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Novel_Season_7472",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "01465b21e3c0",
+   "canon": "https://www.reddit.com/comments/1xu9b3s",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xu9b3s/combo_system_in_my_turnbased_wizard_duel/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "Combo system in my turn-based wizard duel",
+   "text": "Hi! I’m a creative director, not a programmer. Spellz is a turn-based wizard duel that runs in the browser as a single HTML file. I designed it; Claude Code wrote the code.\n The video shows the combo layer. The Crucible gives you 63 spells (21 ingredients × 3 talismans), and I…",
+   "author": "Dacrikka",
+   "publishedAt": "2026-11-12T10:25:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dzJnajQ3eHpxNTFpMdCmFYypdS2MN0ScAqW5TzZX6kN6tPXSUTWlyL9hcsgV.png?width=640&crop=smart&auto=webp&s=54381d415d9cb6281dbb259ec4742a330c72f357"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Dacrikka",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "205fb382a2c3",
+   "canon": "https://www.reddit.com/comments/1xu966k",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xu966k/2d_football_game_slingshot_fc_turnbased_football/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "2D Football Game | Slingshot FC: turn-based football where every pass is a slingshot",
+   "text": "Hey all! I've been building a small football game and it's finally ready for real players. Matches take about 5 minutes. It runs in the browser on phone and desktop, with nothing to install. I have played this with my friends and I am constantly maturing it.\n I would love you…",
+   "author": "Content-Blacksmith44",
+   "publishedAt": "2026-11-12T10:17:13+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/5zrca388q51i1.png?width=140&height=87&auto=webp&s=e2393d7bc8f00c98e44dc965c2e663ac799e7d92"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Content-Blacksmith44",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "eb54a88b5b54",
+   "canon": "https://www.reddit.com/comments/1xu930i",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xu930i/built_a_spades_card_game_with_claude_code_partner/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "Built a Spades card game with Claude Code: partner with an AI teammate, bid Nil, and race to 500 without drowning in bags",
+   "text": "Spades is the classic four-player partnership card game, built with Claude Code to run in the browser. You sit South with your partner Ivy across from you, against Dex and Mara. Everyone bids how many tricks they’ll take, spades are always trump, and the first team to the target…",
+   "author": "vinishkapoor",
+   "publishedAt": "2026-11-12T10:12:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/sop8uorzo51i1.jpeg?width=640&crop=smart&auto=webp&s=2ba426f118e257257ba5e3ded3664a8e742a6eec"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/vinishkapoor",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2ab23c437b4b",
+   "canon": "https://www.reddit.com/comments/1xu91q2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xu91q2/v2_i_made_claude_code_draw_architecture_diagrams/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "V2: I made Claude Code draw architecture diagrams in the terminal, and play request flows on them, now even better!",
+   "text": "Proschi is a small text language for system design diagrams. You describe components, connections and use cases (how a request moves through the system like a sequence diagram) in a .proschi file. Proschi lays it out, runs simulations (load, latency, availability, cost), and…",
+   "author": "gvart",
+   "publishedAt": "2026-11-12T10:09:48+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bmY5NW42dXhvNTFpMTU7H5eSBlqLwwaRS3AOvnlXL5KG1SF8dAT_NyuE5Z_F.png?width=640&crop=smart&auto=webp&s=414acc96372de434a4634f3fe8a693f34499eb15"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/gvart",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "aa75b9cd4538",
+   "canon": "https://www.reddit.com/comments/1xu8nrn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xu8nrn/build_nostalgic_multiplayer_fps_90_claude/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "Build nostalgic multi-player fps 90% claude",
+   "text": "",
+   "author": "michisha_",
+   "publishedAt": "2026-11-12T09:45:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/em14OGEybW9rNTFpMYtGnNfG1x8Z6d8tmgZHhODe7fvXaFFxf6MF8lPz8Vl6.png?width=640&crop=smart&auto=webp&s=309ad3ba71e910d0b5890b18d92e0fc661d5abcf"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/michisha_",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "78cee3a30660",
+   "canon": "https://www.reddit.com/comments/1xu8ht7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xu8ht7/bored_drift_a_tiny_car_around_your_living_room_in/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "Bored? Drift a tiny car around your living room in AR",
+   "text": "I made Drift Anywhere: AR Cars for when you feel like doing a few donuts between the couch and the coffee table. Point your iPhone camera at the floor, tap to drop in a car, and pull the handbrake. Here’s what it looks like on indoor tiles and out on the pavement.\n If you give…",
+   "author": "Acceptable_Tone601",
+   "publishedAt": "2026-11-12T09:34:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dW44Ynpzc3doNTFpMWdPsPQPoWNjQdndINeayJMMv34rT4icXd07Oo_Oav_E.png?width=640&crop=smart&auto=webp&s=0012dcaed3c05043541effc404f5446a3f58857f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Acceptable_Tone601",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "898ead317d87",
+   "canon": "https://www.reddit.com/comments/1xu8hsm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xu8hsm/rgodot_removed_my_aibuilt_planet_engine_so_i_made/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "r/godot removed my AI-built planet engine, so I made a game where Vladimir and Estragon fly to Phobos (and land on mars on accident) to hunt Godot down (free demo)",
+   "text": "so a while back i posted Regolith, my true-scale planet engine for godot, on r/godot, got 197 upvotes, however, most of the comments were about it being built with claude, mods removed it a day later under their ai rule, so naturally im making a game about it.\n Vladimir and…",
+   "author": "HearMeOut-13",
+   "publishedAt": "2026-11-12T09:34:57+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Y2x5amgzc2xpNTFpMTSdeONBqugZxWXrojpkjWD4Aplom7AshbGs5DNABFVD.png?width=640&crop=smart&auto=webp&s=0f9156d1b0f181e2f54527fff934165100c9a712"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/HearMeOut-13",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4d4ddcdd2c88",
+   "canon": "https://www.reddit.com/comments/1xu85n1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xu85n1/productivity_went_up_side_quests_went_extinct/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "productivity went up, side quests went extinct",
+   "text": "https://preview.redd.it/505iqcule51i1.png?width=730&format=png&auto=webp&s=a9557cd1d9245d0f60b9ef91a27878c223e29f7e\n remember when debugging acutally took 3 hours of digging into stack overflow and made you shed tears of desperation? now claude handles the repo work, codex and…",
+   "author": "DesignerAbigail800",
+   "publishedAt": "2026-11-12T09:12:43+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/505iqcule51i1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=84b93a7053426005d72c60b7f973ace824a00409"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/DesignerAbigail800",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bca8b3059334",
+   "canon": "https://www.reddit.com/comments/1xu82i7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xu82i7/tried_ruflo_claude_flow_in_claude_code_393_tools/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "Tried Ruflo (Claude Flow) in Claude Code: 393 tools, memory search works, and “swarm_init” just writes a JSON file",
+   "text": "Ruflo, formerly Claude Flow, gets a lot of hype for agent swarms and self-learning memory. I added only its MCP server to a throwaway project (version 3.76.0, pinned, local scope) and tried the headline features.\n Setup gotcha: the first claude mcp add timed out after 30…",
+   "author": "vinishkapoor",
+   "publishedAt": "2026-11-12T09:07:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/awx81q7sd51i1.jpeg?width=640&crop=smart&auto=webp&s=410f7887c428c90f050846566e780228789e581a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/vinishkapoor",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "71803a7d702b",
+   "canon": "https://www.reddit.com/comments/1xu81hx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xu81hx/alone_at_sea_extreme_survival_game_set_on_the/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "Alone At Sea - Extreme Survival Game set on the Pacific Ocean",
+   "text": "Hi Guys, I've been making mobile games since 2013, and always been a fan of survival games and played most of them. \n With the rise of AI I wanted to make a survival game which I felt was missing, since most survival games focus to much on grinding resources or turning into a…",
+   "author": "Longjumping-Tax-6680",
+   "publishedAt": "2026-11-12T09:05:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZGd0dmNmdDhkNTFpMZyZEf7k_AVi9Xp0Fxj7WlhnbkMZ94Yq7aujl_NgZY2m.png?width=640&crop=smart&auto=webp&s=b357126f50dfe38fc0ccfc1e6dc5de218399f6fd"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Longjumping-Tax-6680",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b89efd1b973c",
+   "canon": "https://www.reddit.com/comments/1xu80pv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xu80pv/claude_made_me_this_intro_in_godot_for_my/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "Claude made me this intro in godot for my slapstick Waiting for Godot x KSP x Factorio on mars parody game",
+   "text": "Some context for the bit: a while back I posted Regolith, my true-scale planet engine for Godot, on r/godot. It got to 197 upvotes, most of the comments were about it being built with Claude, and the mods removed it a day later under their AI rule.\n So naturally I’m making a…",
+   "author": "HearMeOut-13",
+   "publishedAt": "2026-11-12T09:04:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eWQzNmprdXRjNTFpMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=fbe7761e6f31c441c4b37b33a02fcfc5a51d2e2d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/HearMeOut-13",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b15cd8c3c674",
+   "canon": "https://www.reddit.com/comments/1xu7q08",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xu7q08/working_on_the_trailer_for_my_retro_horror_game/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "Working on the trailer for my retro horror game",
+   "text": "I spent a few days working to flesh out some content and reshoot the trailer for Cults, Monsters, And Beer. It's a fps survival horror game set in Bass Lake California. You take the role of Ben Holloway, a detective spending his savings drinking his life away at his lakeside…",
+   "author": "RedTowerStudio",
+   "publishedAt": "2026-11-12T08:45:17+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NG5zbGEwbGU5NTFpMXCtvd4JsDa29pEpmNXYCX06qa9AfwSL69NEATd5mGQm.png?width=640&crop=smart&auto=webp&s=c738ef4fdac46020aae7ae98ec26849f51795373"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RedTowerStudio",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2b7bc14b7dc9",
+   "canon": "https://www.reddit.com/comments/1xu7je9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xu7je9/i_built_a_readonly_tool_that_shows_which_of_your/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "I built a read-only tool that shows which of your Claude Code skills actually wins — and finds the broken ones",
+   "text": "I built this for Claude Code users, also those harnesses (Agy, CC, Codex, dsh, grok, omp, opencode, pi, qoder, windsurf), and it's free and open source (MIT).\n How I built it: I'm not a developer tbh — I built skill-lens in Claude Code, with Opus 5.5 writing the code while I…",
+   "author": "Zekas_99",
+   "publishedAt": "2026-11-12T08:32:59+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Zekas_99",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "58dcc60d841c",
+   "canon": "https://www.reddit.com/comments/1xu7fip",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xu7fip/i_released_a_demo_of_my_first_game/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "I released a demo of my first game",
+   "text": "I released a demo of my extraction looter. To create this game, I used Claude Code in combination with MCP, and also used Blender with that same setup. https://tnorek123.itch.io/lapsus-dei",
+   "author": "FeelingGrape94",
+   "publishedAt": "2026-11-12T08:26:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/wbrfc5z8551i1.png?width=640&crop=smart&auto=webp&s=891b84722339cb59fae28ab16394b88179ba282a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/FeelingGrape94",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f8e27de630d5",
+   "canon": "https://www.reddit.com/comments/1xu7dir",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xu7dir/slaunt_an_mcp_server_to_make_claude_code_remember/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "Slaunt, an MCP server to make Claude Code remember like a human",
+   "text": "TLDR: I built a tool to let Claude Code & Codex remember almost as well as a human (with benchmarks)\n Around two months ago, I noticed that the most Claude Code & Codex could remember from conversation to conversation were basic facts about me. My name, who I am, what I do, etc.…",
+   "author": "karatyma_dev",
+   "publishedAt": "2026-11-12T08:22:25+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/karatyma_dev",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0b18cac3a3be",
+   "canon": "https://www.reddit.com/comments/1xu7ahr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xu7ahr/dead_space_2_vr_all_manual_reloads/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "Dead Space 2 VR - All Manual Reloads",
+   "text": "https://github.com/chortdev/DeadSpace2VR (Beta, WIP)",
+   "author": "Particular_Tell4555",
+   "publishedAt": "2026-11-12T08:17:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Nm1raGc5MmI0NTFpMaftAEeCYWolUjZpxHxg-AP3VIq4VmmfGp__AwWYXxo0.png?width=640&crop=smart&auto=webp&s=f07c96d581b330e8a315a6c7a0364afa3624dc7b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Particular_Tell4555",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0c0b87742bc4",
+   "canon": "https://www.reddit.com/comments/1xu79es",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xu79es/building_is_very_easy_now_still_i_spend_100s_to/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "Building is very easy now? still i spend $100s to build a clone of any App lol",
+   "text": "I was building a clone of some app and i thought claude would build this in one prompt, I prepared a clean prompt, okay it build some cool working demo data shit. I used some skills to make it look like what i want, it took 1 hour but built something similar i want, then i…",
+   "author": "intellinker",
+   "publishedAt": "2026-11-12T08:15:09+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/intellinker",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6697936631f1",
+   "canon": "https://www.reddit.com/comments/1xu73uu",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xu73uu/apiiro_scanned_104185_public_claude_code_settings/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "Apiiro scanned 104,185 public Claude Code settings files. 1,122 had passwords or API keys in them.",
+   "text": "Apiiro didn't test whether the keys still work. So 1,122 is files with secrets in them and not confirmed break-ins. Has anyone here found a live one in their own repo?",
+   "author": "Thick_Mulberry_2235",
+   "publishedAt": "2026-11-12T08:05:22+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Thick_Mulberry_2235",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0706c3593b65",
+   "canon": "https://www.reddit.com/comments/1xu6zog",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xu6zog/building_is_very_easy_now_still_i_spend_100s_to/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "Building is very easy now? still i spend $100s to build a clone of any App lol",
+   "text": "I was building a clone of some app and i thought claude would build this in one prompt, I prepared a clean prompt, okay it build some cool working demo data shit. I used some skills to make it look like what i want, it took 1 hour but built something similar i want, then i…",
+   "author": "intellinker",
+   "publishedAt": "2026-11-12T07:58:29+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/intellinker",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "de4632d2de5c",
+   "canon": "https://www.reddit.com/comments/1xu4y9p",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xu4y9p/same_smartphone_video_same_golf_green_standard/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "Same smartphone video, same golf green: standard 3DGS vs. my constrained pipeline",
+   "text": "Image 1: standard 3DGS with default-like settings, green cropped, no inverse rendering (I did not record the exact iteration count, so this is not a controlled comparison). It ends up with holes, spiky “urchin” splats and floaters.\n Images 2–3: my pipeline, built on the…",
+   "author": "Significant_Neat_263",
+   "publishedAt": "2026-11-12T05:55:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/3t1svyowe41i1.png?width=140&height=79&auto=webp&s=ce2a1c0a9a1b78f36777daa0dc94efb14e7dcdf4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Significant_Neat_263",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d3a101f028ee",
+   "canon": "https://www.reddit.com/comments/1xu4lx3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xu4lx3/translation_beat_captions_in_a_latency_test_on/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "Translation beat captions in a latency test on Halliday's G2.",
+   "text": "Ran a controlled test on Halliday's second gen smart glasses: same room, same clip, five feet away. Captions (credit-based) took about 9 seconds to catch up. Live translation (free) took about 10 seconds, despite doing two jobs instead of one.\n For reference: live TV captions…",
+   "author": "MultiJanus",
+   "publishedAt": "2026-11-12T05:35:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/PrLKyxj3utXUTF4qTIQdlJaB76T2ev18Hc_t1P542rQ.jpeg?width=320&crop=smart&auto=webp&s=4b9e9ccbd215d9ad3ec639eec310872f8a848388"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MultiJanus",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1c722fdc56e6",
+   "canon": "https://www.reddit.com/comments/1xu4h7k",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xu4h7k/we_put_a_personal_ai_agent_live_in_your_glasses/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "We put a personal AI agent live in your glasses!",
+   "text": "With hand tracking, you can grab any message you see and hand it straight to your agent.\n It’s become phenomenally powerful!",
+   "author": "Bill_Pei",
+   "publishedAt": "2026-11-12T05:28:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cWZ0YTdtOW5hNDFpMZxAOFNLodvSoi8M_dEus4rSJnagN4_kKWC6yV4VKPSk.png?width=640&crop=smart&auto=webp&s=a2d48f91fba0077053d390bc0d053c7c0edd723d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Bill_Pei",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "23c2c9c04551",
+   "canon": "https://www.reddit.com/comments/1xu3oyy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xu3oyy/differentiable_6dof_camera_pose_recovery_shading/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "Differentiable 6-DoF Camera Pose Recovery & Shading using Penrose Twistor Theory (CP^3) & Complex64 Spinors",
+   "text": "",
+   "author": "IntelligentSoup",
+   "publishedAt": "2026-11-12T04:45:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/0o8jwbqtw31i1.png?width=640&crop=smart&auto=webp&s=111b3a2f0fcf534acd9d05c932ff7c19320c419f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/IntelligentSoup",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0f96b52f57f6",
+   "canon": "https://www.reddit.com/comments/1xu2u49",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1xu2u49/meta_vr_glasses_will_be_the_first_imax_enhanced/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "Meta VR Glasses will be the first IMAX ENHANCED certified headset",
+   "text": "",
+   "author": "xrosspost",
+   "publishedAt": "2026-11-12T04:00:30+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ve017isfj21i1.jpeg?width=640&crop=smart&auto=webp&s=1c40c16eb3ea380863206917fd981ac8ff561403"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/xrosspost",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8d8f511c4beb",
+   "canon": "https://www.reddit.com/comments/1xu1kyd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xu1kyd/i_got_until_dawn_rush_of_blood_running_without_a/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "I got Until Dawn: Rush of Blood running WITHOUT a VR headset, flat on a normal monitor",
+   "text": "Hey everyone! Some of you have seen RushVR, my PC port of Until Dawn: Rush of Blood built on the shadPS4 emulator. It lets you play the game in PC VR (Quest, PS VR2, Index and more).\n A lot of people asked whether it could be played without a headset, so I’ve been working on…",
+   "author": "Icanthinkofusername7",
+   "publishedAt": "2026-11-12T02:57:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M2MyZTBwM3VqMzFpMeIEWP0E4aQha-s14ucun9-SW7C90nCa7KEaeRfpQPFR.png?width=640&crop=smart&auto=webp&s=d80bac6d948bd02095f22ca270c51e3840bf0c18"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Icanthinkofusername7",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "837a87e7af3a",
+   "canon": "https://www.reddit.com/comments/1xu0krq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xu0krq/sloweddown_cyr_wheel_in_4dgs_shoutout_to_gracia/",
+   "addedAt": "2026-11-12T11:21:19.113Z",
+   "title": "Slowed-down Cyr wheel in 4DGS. Shoutout to Gracia for the asset.",
+   "text": "",
+   "author": "WilyRaccoon",
+   "publishedAt": "2026-11-12T02:08:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bGQ5ZHlodHhhMzFpMWVL15jiblP0tvVM37Opugbl-eLYfzlzOy6Wz844bxQY.png?width=640&crop=smart&auto=webp&s=dccacf2f88031887ff3da9f7daba3741cc03c024"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/WilyRaccoon",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-12T11:21:19.113Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "eaa67c93dae4",
    "canon": "https://www.reddit.com/comments/1xtyon3",
