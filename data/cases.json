@@ -1,7 +1,912 @@
 {
  "version": 1,
- "updatedAt": "2026-11-12T20:05:24.020Z",
+ "updatedAt": "2026-11-13T02:00:14.413Z",
  "cases": [
+  {
+   "id": "0d31ab202346",
+   "canon": "https://www.reddit.com/comments/1xuuy2o",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuuy2o/claude_to_collect_and_monitor_all_global_laws_in/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "Claude to collect and monitor all Global Laws in Git",
+   "text": "Follow-up to this post which hit #1 on HN a while back (you can read lots of discussion at https://news.ycombinator.com/item?id=50268380). \n Surprisingly, we've had support from legal libraries around the world. But why? The idea is make all law versioned, easily attributable…",
+   "author": "SnooPeripherals5313",
+   "publishedAt": "2026-11-13T01:35:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YzI5ZnZ1MWY3YTFpMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=0ebbe57ab9fa408d72b5861bb2a9a0a0ba4abece"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SnooPeripherals5313",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8de8cb62cd78",
+   "canon": "https://www.reddit.com/comments/1xuur7o",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xuur7o/added_physicsbased_stabbing_and_impaling_in_my/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "Added physics-based stabbing and impaling in my upcoming Quake VR update!",
+   "text": "",
+   "author": "SuperV1234",
+   "publishedAt": "2026-11-13T01:26:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Ss_lQx15s27aY4PlAAoscmURWN09Sj7UnD_uYjTOKpw.jpeg?width=320&crop=smart&auto=webp&s=845727b70802b1fdb6a8cf1f7d457885e42acc28"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SuperV1234",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "607dda9076c0",
+   "canon": "https://www.reddit.com/comments/1xuuqz4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuuqz4/for_i_will_consider_my_llm/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "For I Will Consider My LLM",
+   "text": "Lyrics inspired by Christopher Smart's \"Jubilate Agno\" and Allen Ginsberg's \"Howl\".\n Video by Claude Fable 5.2",
+   "author": "digibunnies",
+   "publishedAt": "2026-11-13T01:26:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/n9h6aCbEbGzaux4OX7EOvWSfAvhPUNC6bEanP9a39mM.jpeg?width=320&crop=smart&auto=webp&s=53f24545f71643cea1eee6ab3b133bb978b8d20b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/digibunnies",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e1b52a7d5919",
+   "canon": "https://www.reddit.com/comments/1xuuavw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xuuavw/i_used_claude_to_build_an_ai_design_tool_for/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "I used Claude to build an AI design tool for social & marketing posts and I'm already using it for my side gigs",
+   "text": "A bit over a month ago I started vibing this app for AI design using Opus 5.5. It's supposed to be a lovechild of Canva and Claude Design - infinite canvas and a powerful agent that's always on and sees what you do in the app.\n My first versions were going, well, quite terribly.…",
+   "author": "JannVanDam",
+   "publishedAt": "2026-11-13T01:05:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZzAya3ZrbWc0YTFpMbpHpvJvkgazevJF2AJ31vzEhZS-RhHVBjiRazCbFgsV.png?width=640&crop=smart&auto=webp&s=a99afa20908747c4ced595210c44d8025a7874df"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/JannVanDam",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "58fd84964bb3",
+   "canon": "https://www.reddit.com/comments/1xuu0vo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xuu0vo/i_built_and_released_an_android_fishing_puzzle/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "I built and released an Android fishing puzzle game with Claude. Getting the tiny sprites right took a lot of iteration",
+   "text": "I just released Fishdoku on Google Play. I’m the solo developer and used Claude heavily for the code and sprites, with ChatGPT helping with concept art and review.\n The idea came from my wife. She loves logic puzzles, but solves them quickly enough that she was spending more…",
+   "author": "ItzChiips",
+   "publishedAt": "2026-11-13T00:52:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OG9iZmpkd2YyYTFpMWDyAIvyKdhS6ZC32CvIc-Pz2saA6jWOtDUGDWD67sCf.png?width=640&crop=smart&auto=webp&s=66436767d57ec2ebfa62c5774f4b3d3c5b8fd191"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ItzChiips",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7336895ffe23",
+   "canon": "https://www.reddit.com/comments/1xutvby",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xutvby/i_used_claude_to_build_a_fishing_puzzle_game_for/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "I used Claude to build a fishing puzzle game for my wife. It’s now on Google Play",
+   "text": "My wife loves logic puzzles, but she solves them so quickly that she was spending more time watching ads between rounds than actually playing. That was the starting point for Fishdoku, which I built with Claude and just released on Android.\n It’s a cozy fishing game where every…",
+   "author": "ItzChiips",
+   "publishedAt": "2026-11-13T00:45:20+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bmZldGh4MTIxYTFpMWDyAIvyKdhS6ZC32CvIc-Pz2saA6jWOtDUGDWD67sCf.png?width=640&crop=smart&auto=webp&s=4b9d6139239be9e08284a42ff25f4ed471f32e05"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ItzChiips",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "09b87eb86809",
+   "canon": "https://www.reddit.com/comments/1xut7nz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xut7nz/turnbased_rpg_combat_system/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "Turn-based RPG Combat System",
+   "text": "Hey y'all!Back with another development update for GODSCAR, my dark fantasy turn-based RPG!\n This time, I wanted to give you guys a closer look at something I've been putting a lot of work into: the battle system!\n GodScar takes inspiration from classic turn-based RPGs like…",
+   "author": "irbrandonl",
+   "publishedAt": "2026-11-13T00:15:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bjNsNzZ1ZnJ2OTFpMe7uRQHRGVcXuIUMzzs5nDpNehd246B11Z_qJXUpFuWq.png?width=640&crop=smart&auto=webp&s=68a5d098144c8790cca32daa1e49a7eff8fa5140"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/irbrandonl",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0a340e293e04",
+   "canon": "https://www.reddit.com/comments/1xut6j6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xut6j6/im_sorry_dave_im_afraid_i_cant_do_that_claude_code/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "\"I’m sorry, Dave. I’m afraid I can’t do that\" --Claude Code",
+   "text": "https://preview.redd.it/36o38t0cv91i1.png?width=898&format=png&auto=webp&s=bb9fd6dd142c9d3923bd5d781862495b003314c0",
+   "author": "rainmanjam",
+   "publishedAt": "2026-11-13T00:13:36+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/36o38t0cv91i1.png?width=140&height=13&auto=webp&s=5e8e3fd9caf9f4435a20c1b69bfc840b4faf6619"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/rainmanjam",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4a2144db9c95",
+   "canon": "https://www.reddit.com/comments/1xut32q",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xut32q/isnt_it_funny_how_quickly_people_who_were/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "Isn’t it funny how quickly people who were extremely anti AI changed their mind the second it created something they want to use.",
+   "text": "I’m thinking of the PC gaming community with the recent emulator and recompilation projects 99% written by Claude. These people were so militantly anti-AI they claimed they would boycott any game studio using it.\n The second they could use it to play something like Zelda on…",
+   "author": "HarshNoiseX",
+   "publishedAt": "2026-11-13T00:09:16+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/HarshNoiseX",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bf237bae3cc0",
+   "canon": "https://www.reddit.com/comments/1xuswmh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xuswmh/the_one_shot_posts_are_becoming_ridiculous/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "The \"one shot\" posts are becoming ridiculous.",
+   "text": "No wonder why some people are disappointed by what AI can do, they're using Forza Horizon 6 clips for clickbait and stating \"Opus 5.5 made this overnight!\".\n Just for the sake of experimentation, has anyone here successfully one shotted anything worth playing?\n I have been…",
+   "author": "No_Departure7494",
+   "publishedAt": "2026-11-13T00:01:32+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No_Departure7494",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "af984560bd21",
+   "canon": "https://www.reddit.com/comments/1xuspd4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xuspd4/new_trailer_for_just_another_soldier_my_trojan/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "New trailer for Just Another Soldier, my Trojan War action defense roguelite",
+   "text": "I am solo dev making game called Just Another Soldier alone. It's an action defense roguelite set in the Trojan War: you're one soldier on the walls of Troy, thousands of Greeks attack at once, and when you die you take over another soldier.\n Claude helped with the Unity code.…",
+   "author": "KennyKim92",
+   "publishedAt": "2026-11-12T23:53:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/djYxNjVtNHRyOTFpMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=2582a503b18536c49f456a962aa24dfe56889999"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/KennyKim92",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c82183530ba0",
+   "canon": "https://www.reddit.com/comments/1xusjqp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xusjqp/my_claude_code_mind_map_has_evolved_i_brainstorm/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "My Claude Code mind map has evolved: I brainstorm in branches now, and plans turn into steps that wait for my go",
+   "text": "A few weeks ago I posted a mind map that sits beside a Claude Code chat (first post). Here’s what I use it for now.\n Brainstorming\n I type a goal and it branches out into the options. I go deep on one branch, and the others stay where I left them instead of scrolling away. I cut…",
+   "author": "Illustrious-Quail-99",
+   "publishedAt": "2026-11-12T23:46:16+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bTJwc2NsbmtxOTFpMXzoJ6YBbAGC0xKtUgzyGppncFtcnd3vSCDXfvRNE9Jq.png?width=640&crop=smart&auto=webp&s=f5df9d4539b79fc8450983bdce060695f7d70bc3"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Illustrious-Quail-99",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e5ff946521c6",
+   "canon": "https://www.reddit.com/comments/1xusflg",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xusflg/infiniterm_a_canvas_terminal_built_for_ai_agent/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "Infiniterm: A canvas terminal built for AI Agent work",
+   "text": "I'm building infiniterm, a terminal app on an infinite canvas, written in Rust with gpui.\n I tried the new terminal apps from the last year and none of them fit my work. They are regular terminals with an interactive sidebar: each project gets a sidebar item, and you still use…",
+   "author": "nodtveidt",
+   "publishedAt": "2026-11-12T23:41:06+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/nodtveidt",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "af32dfe72eba",
+   "canon": "https://www.reddit.com/comments/1xusaho",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xusaho/the_first_request_of_my_claude_code_sessions/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "the first request of my Claude Code sessions carries a median 53k tokens of context this month. I chart it with a self-hosted dashboard I built (claudit, MIT)",
+   "text": "I built claudit to see where my tokens go over months, not just this week. it reads Claude Code session JSONLs (Codex and Kimi CLI too) from a bucket I keep, because Claude Code prunes old transcripts locally and anything reading that folder loses history. one of its panels is…",
+   "author": "Nitjsefnie",
+   "publishedAt": "2026-11-12T23:34:32+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Nitjsefnie",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9b3db259460e",
+   "canon": "https://www.reddit.com/comments/1xusaf3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vrdev/comments/1xusaf3/after_2_years_of_solo_dev_i_finally_just_released/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "After 2+ years of solo dev, I finally just released my own VR game Hyperlane Highway",
+   "text": "Hey everyone. \n Ive been working on Hyperlane Highway by myself for over 2 years and its finally out in Early Access.\n Its been a really long journey with a lot of challenges along the way and there were a lot of times I almost quit development. I had worked as a VR developer…",
+   "author": "RyalityStudio",
+   "publishedAt": "2026-11-12T23:34:27+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RyalityStudio",
+   "where": "r/vrdev",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ae4c5b864aff",
+   "canon": "https://www.reddit.com/comments/1xus0wz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xus0wz/i_disclosed_every_aimade_part_of_my_solo_game_on/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "I disclosed every AI-made part of my solo game on Steam. The disclaimer is one of the main things people comment on.",
+   "text": "I'm a software dev of 20 years and I built Mend, a fly-fishing game on real Alberta and BC rivers, on my own with Claude. It comes out on Steam next week and I am getting mixed reviews. I filled in Steam's AI disclosure honestly as seen below\n Mend's narrator and the characters'…",
+   "author": "civerooni",
+   "publishedAt": "2026-11-12T23:22:49+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/civerooni",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0b539c1f2820",
+   "canon": "https://www.reddit.com/comments/1xus0v4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xus0v4/someone_please_explain_to_me_claudes_really/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "Someone please explain to me Claude's really creepy obsession with age.",
+   "text": "For the record, I use Claude for creative writing. I write fanfics both as a hobby and as something of a profession. Analysing the text, making sure I get across what I want, things like that. Basically, media analysis.\n But pretty much everytime I post something from a known…",
+   "author": "Flauschziege",
+   "publishedAt": "2026-11-12T23:22:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/a652qh7ll91i1.png?width=320&crop=smart&auto=webp&s=65240f76bc4bf36b8c31fbd197d79bd10f56181e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Flauschziege",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c7b832c802e8",
+   "canon": "https://www.reddit.com/comments/1xuru4m",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xuru4m/i_built_an_opensource_threejs_game_engine_that/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "I built an open-source Three.js game engine that lets Claude Code build, playtest, and debug games on its own",
+   "text": "Hi everyone!\n I've been working on Threedog.js, a free, open-source game engine built on Three.js and designed for AI coding agents like Claude Code. Version 1.3 is now released!\n The idea came from a problem I noticed with AI-generated Three.js games: AI is already very capable…",
+   "author": "Gullible_Ranger1402",
+   "publishedAt": "2026-11-12T23:14:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Gq2kvESEp2ZdomNfMpIUt02VqCUdYU0fg8ttJzz-q4g.png?width=140&height=70&auto=webp&s=3f076fa76a93d550d26825a88fc6a7c6dcf60fe0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Gullible_Ranger1402",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "58eca11be2a4",
+   "canon": "https://www.reddit.com/comments/1xuroqr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xuroqr/i_wonder_what_the_cartels_are_building_with/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "I wonder what the cartels are building with Claude code rn",
+   "text": "saw it on twitter. what’s your opinions? 🤣",
+   "author": "vvgur",
+   "publishedAt": "2026-11-12T23:07:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/p4oiddvrj91i1.jpeg?width=640&crop=smart&auto=webp&s=eba18394be27d131c4e2ea0e4e26a45b888d292f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/vvgur",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5db19c7766a0",
+   "canon": "https://www.reddit.com/comments/1xurni1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xurni1/ruby_cocoon_a_month_into_development_a_month_away/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "Ruby Cocoon: A month into development, a month away from release (hopefully)",
+   "text": "Figured I'd finally share some screenshots of Ruby Cocoon, a game I've been working on pretty much nonstop!\n It's an RPG that's sort of Jade Cocoon 2 meets EarthBound meets Pokémon about fighting and exploration. I wanted to make something with the monster collecting and…",
+   "author": "invot",
+   "publishedAt": "2026-11-12T23:06:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/bppn73z2i91i1.jpeg?width=140&height=78&auto=webp&s=0ec7d086de8b7ab36b570d7dd6beeee659388a61"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/invot",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f531b4b2898a",
+   "canon": "https://www.reddit.com/comments/1xurbme",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xurbme/making_360_walkthrough_setup_easier_plus_fixes/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "Making 360 walkthrough setup easier, plus fixes for working with larger 3D models",
+   "text": "Our upcoming update focuses on making the existing tools easier to use.\n Here’s what’s coming:\n Simpler virtual walkthrough setup: Clearer timeline controls for adding floors and areas, adjusting their duration, and resizing existing sections. Better minimap visibility: Improved…",
+   "author": "AECPLATFORM",
+   "publishedAt": "2026-11-12T22:51:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/rs5aslpwg91i1.png?width=640&crop=smart&auto=webp&s=becfa8ad3db81bf5f5b4d70960f56a93b96f3bb5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AECPLATFORM",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b320a2ee0446",
+   "canon": "https://www.reddit.com/comments/1xur798",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xur798/i_finished_my_wwii_interactive_fiction_trilogy/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "I finished my WWII interactive fiction trilogy about a village medic in occupied Belarus. Part III is out today",
+   "text": "I just shipped the last part of Swamps, an interactive fiction trilogy about a village medic in occupied Belarus, 1941–44 (iOS). Since this sub is about the process, most of this post is how AI fit into the pipeline. Game links are at the bottom.\n Art: ChatGPT image model, ~850…",
+   "author": "PaskaLRaskaL",
+   "publishedAt": "2026-11-12T22:46:38+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/qkt44j8zf91i1.png?width=640&crop=smart&auto=webp&s=dd6572a8c186fb75297d805a0068a510bc8c975f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/PaskaLRaskaL",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9a74899753f7",
+   "canon": "https://www.reddit.com/comments/1xur2if",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xur2if/ffxvr_very_close_to_release/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "FFX-VR, very close to release",
+   "text": "If you're wondering, I'm still working! I'm running low on stuff to fix, but there are a few things still bothering me. Take a look at some different views supported, VR hands, the VR options menu, and more.",
+   "author": "therealzordon",
+   "publishedAt": "2026-11-12T22:41:11+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MWp1MjZqZnhlOTFpMYAezvJhuMnwRqXRq7cWbulwADUUiMhAbfJOpQgE1-Cx.png?width=640&crop=smart&auto=webp&s=03da8ff61fd4d7fc4b3ac52acf64eb2a15b6980a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/therealzordon",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c17fec2c2949",
+   "canon": "https://www.reddit.com/comments/1xuqyfh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xuqyfh/shipped_a_browser_game_to_itchio_with_claude_code/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "Shipped a browser game to itch.io with Claude Code: some workflow notes from a non-engineer",
+   "text": "I'm a product designer and just published Ayam Kabur, a 75-second chicken-catching browser game. Claude Code did most of the engineering. A few things that worked well:\n One summary doc per project. A markdown file with architecture, file map, what's done and what's next. Every…",
+   "author": "Due_Front_8030",
+   "publishedAt": "2026-11-12T22:36:28+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/o9o6cvo0e91i1.png?width=640&crop=smart&auto=webp&s=de83c481e03c84afae37115a3e05ad7ca14369d2"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Due_Front_8030",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "757e41f51a24",
+   "canon": "https://www.reddit.com/comments/1xuqxj6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xuqxj6/glad_im_not_one_for_motion_sickness/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "Glad I'm Not One For Motion Sickness",
+   "text": "I'm going to revist after I have more time in the game. But, man, the parkour really has you feeling it.\n I'm just impressed that after the third attempt I've beat my record on 2D. Yes I know even this one isn't impressive. Suggesting hard most at the end was a little bit of a…",
+   "author": "Robborboy",
+   "publishedAt": "2026-11-12T22:35:20+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bnNzMmpremhkOTFpMUqQpCr9qjqLnGSDQ8JUskYC8Pavqrbn6cljR4TMkINB.png?width=640&crop=smart&auto=webp&s=cf7a440a1c4f6e2b0fa5d3e7a5f1cb7e191d8aae"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Robborboy",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bb453041b550",
+   "canon": "https://www.reddit.com/comments/1xuqf0m",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xuqf0m/opensource_georeferenced_3d_gaussian_splatting/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "Open-source georeferenced 3D Gaussian Splatting: offline Vulkan Brush training on Android + Desktop OpenSplat + Postshot/LichtFeld connectors on a CesiumJS globe (AGPL-3.0)",
+   "text": "Hi r/GaussianSplatting,\n I've been building MosaicEarth, an open-source (AGPL-3.0-or-later) geospatial 3D platform for training, importing, and placing 3D Gaussian Splats at real WGS84 coordinates on a global CesiumJS terrain globe.\n What's working right now across mobile,…",
+   "author": "hudyni",
+   "publishedAt": "2026-11-12T22:13:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/01qhg9bo991i1.png?width=140&height=78&auto=webp&s=5dc30f50cdebfdad2d62dcc9cdbd1df21ace5700"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/hudyni",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "41941eb73603",
+   "canon": "https://www.reddit.com/comments/1xup0oa",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xup0oa/h3vr2_review_and_interview_from/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "H3VR2 Review and Interview from goodvirtualreality: \"The Best VR Game\"",
+   "text": "",
+   "author": "MMillion05",
+   "publishedAt": "2026-11-12T21:18:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aJgL-EGaNm74BlBfGr0LngOeEGEL38ex0RByPV5dXJs.jpeg?width=640&crop=smart&auto=webp&s=6b929cea79e5f5fd1e8dffc0f6b75e6e537d86cb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MMillion05",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b755f47d845f",
+   "canon": "https://www.reddit.com/comments/1xuony9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xuony9/splattic/",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "Splattic",
+   "text": "TACTIC Studio, based in San Francisco, has started an R&D project to develop a web-based application for viewing and working with Gaussian Splatting (3DGS), 4D Gaussian Splatting (4DGS), and glTF files. https://www.splattic.com/\n The goal is to make it easy to view these files…",
+   "author": "Kagemushya03",
+   "publishedAt": "2026-11-12T21:03:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dnA1dWEzb3ByODFpMdAUyDjDQk-5tNWAaRMwmaOr__Stgj1YseWKRkYLkX0h.png?width=640&crop=smart&auto=webp&s=a8fe6383f6f96faeda5fbb9f32260f473c3dce68"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Kagemushya03",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "da3ea547f80f",
    "canon": "https://www.reddit.com/comments/1xumt47",
@@ -6577,6 +7482,55 @@
    "authorUrl": "https://www.reddit.com/user/TPrime411",
    "where": "r/VisionPro",
    "fetchedAt": "2026-11-10T21:23:31.144Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "62a55ef1debb",
+   "canon": "https://x.com/i/status/2120204711790023128",
+   "platform": "x",
+   "url": "https://x.com/zulali/status/2120204711790023128",
+   "addedAt": "2026-11-13T01:55:37.879Z",
+   "title": "",
+   "text": "Claude reverse engineered my 32-year-old Jeep. Then it started controlling it.\n\nEdited with Fable 5.2 https://t.co/1udt6hVI3w",
+   "author": "zulali",
+   "publishedAt": "2026-11-10T17:19:29.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120204150923558912/img/zao2RB_X5jBWidg0.jpg",
+    "video": "https://video.twimg.com/amplify_video/2120204150923558912/vid/avc1/1920x1080/J7rg5C_Pxf_PVkgT.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 18914,
+    "views": 1722415,
+    "comments": 615
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/jeep-edit",
+     "categories": [],
+     "date": "2026-11-11",
+     "credit": "zulali",
+     "metrics": {
+      "likes": 17759,
+      "views": 1615077
+     },
+     "model": null
+    }
+   ],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/zulali",
+   "where": null,
+   "fetchedAt": "2026-11-13T01:55:37.879Z",
    "lang": "en",
    "model": null
   },
