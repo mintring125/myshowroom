@@ -1,8 +1,966 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-11-14T18:16:34.657Z",
+ "updatedAt": "2026-11-14T22:36:29.421Z",
  "cases": [
+  {
+   "id": "ed44a5f49568",
+   "canon": "https://www.reddit.com/comments/1xwf4le",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwf4le/i_built_an_mcp_connector_so_claude_can_read_and/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "I built an MCP connector so Claude can read and reply to my WhatsApp (with my OK)",
+   "text": "Wapliss is a remote MCP server that connects your own WhatsApp to Claude. Once it’s linked, Claude can list your chats, read conversations and groups, and send texts, images or documents. Before sending anything, Claude shows you the message and waits for your confirmation.\n I…",
+   "author": "Born-Possibility-131",
+   "publishedAt": "2026-11-14T22:27:43+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Born-Possibility-131",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "165203545b85",
+   "canon": "https://www.reddit.com/comments/1xwf0mt",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwf0mt/we_had_claude_opus_55_and_gemini_4_hydrogen_paint/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "We had Claude Opus 5.5 and Gemini 4 Hydrogen paint the same oil study in an unreleased engine",
+   "text": "TL;DR: We pitted Claude Opus 5.5#xhigh (first picture) against Gemini 4 Hydrogen#xhigh (second picture) in Pochade, an internal physical oil-painting engine we have been building (still unreleased, planning to open it up once we iron out the bugs). No diffusion or pixel editing…",
+   "author": "MozoleStudio",
+   "publishedAt": "2026-11-14T22:22:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/0kj090mhln1i1.png?width=140&height=105&auto=webp&s=184629ccbbfa48497e9fdd4869e64297111428cd"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MozoleStudio",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "7c3c62669ead",
+   "canon": "https://www.reddit.com/comments/1xwevpr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwevpr/new_user_psa_fable_only_isnt_a_separate_backup/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "New user PSA: \"Fable only\" isn't a separate backup pool (UI is super confusing)",
+   "text": "New to Claude and honestly love it, which is why this sucks I deliberately didn't touch Fable all week because the Usage screen makes it look like a separate backup bar. Hit 100% on 'All models' today and got locked out of everything for 4 days even though 'Fable only' is still…",
+   "author": "3nigm4ticS0rc3r3r",
+   "publishedAt": "2026-11-14T22:16:28+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/tf0zv1lfkn1i1.jpeg?width=640&crop=smart&auto=webp&s=ceca899d6852ead9ef9238a49a4d49c9711fbaed"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/3nigm4ticS0rc3r3r",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e3765c3f9e01",
+   "canon": "https://www.reddit.com/comments/1xwei9g",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xwei9g/i_posted_my_claude_chatgpt_image_tool_here_a_few/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "I posted my Claude + ChatGPT image tool here a few weeks ago and you weren't impressed. Here's what changed (sprites, GIFs, a real demo)",
+   "text": "A few weeks ago I shared Backdraw here: an MCP server + Chrome extension that lets Claude Code generate images through your own logged-in ChatGPT account, in a background tab. The feedback was fair, so I kept working on it instead of arguing.\n What it does now (v2.4.0):\n -…",
+   "author": "Crafty_Row5344",
+   "publishedAt": "2026-11-14T21:59:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/amd6enJkNzlobjFpMY0ETr7HP9ch9XPlDQ-CduNE1q3dh0Y04MKdO1X8VvnN.png?width=640&crop=smart&auto=webp&s=0e614ef3cd9c595d2b2922b00ab0cffb99e302a5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Crafty_Row5344",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7899c8d8651d",
+   "canon": "https://www.reddit.com/comments/1xwegoq",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xwegoq/i_built_photoshop_for_gaussian_splatting_using/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "I built Photoshop for Gaussian Splatting using Fable 5.2 and Opus 5.5",
+   "text": "This is Splat Repair, a Photoshop-style editor for Gaussian splats. You paint over something, hit repair, and a few seconds later the hole is filled with splats that match the surface around it. There's also a clone stamp. Everything runs locally.\n How Claude was involved:…",
+   "author": "TwistedNicolas",
+   "publishedAt": "2026-11-14T21:57:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YP3VID5WFQ_odbAOf6UcKgrqJfjZztertxepOI_Jtkw.jpeg?width=320&crop=smart&auto=webp&s=c87cc28b931d1945b5a69328ba719b7c60eed0f9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "gsplat"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TwistedNicolas",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "441f75a8afd1",
+   "canon": "https://www.reddit.com/comments/1xwe5vg",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xwe5vg/stop_the_face_pain/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "Stop the face pain!",
+   "text": "Hi all, I'm Ty with Tyco Tech 3D Printing. I make and sell this one, so that's the disclosure up front.\n The thing that limited my time in the Vision Pro was the crazy weight sitting on my cheeks and face. After 30 minutes or so I was done, and not because I wanted to be. I…",
+   "author": "tyhurd",
+   "publishedAt": "2026-11-14T21:43:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/nlm1k4ngen1i1.jpeg?width=640&crop=smart&auto=webp&s=c3674ec9359e8654f2f6e64cddea8a7cecb17308"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/tyhurd",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a03c9743cb13",
+   "canon": "https://www.reddit.com/comments/1xwe5ml",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xwe5ml/experimenting_during_the_ai_megajam_with/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "Experimenting during the AI MegaJam with different tools",
+   "text": "I've been randomly curious for using all the tools the MegaJam gave people credits for. I wrote up a a messy notepad txt, apparently that's wrong you need to make MD files, and then just went stream of conscious on everything. Full on absurd mode.\n One thing I am doing my best…",
+   "author": "daraand",
+   "publishedAt": "2026-11-14T21:43:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/v80b29d4en1i1.jpeg?width=640&crop=smart&auto=webp&s=952f81c15a9b5d95631480a1011f5f6e32b04fdd"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/daraand",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ff98de1b9b8a",
+   "canon": "https://www.reddit.com/comments/1xwe266",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwe266/made_a_greek_mythology_strategy_game_for_android/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "Made a Greek mythology strategy game for Android with Claude Code.",
+   "text": "Hey all, wanted to share something I've been working on.\n It's called Aegorynth: Realms of the Gods. You build a city, summon Greek gods, train an army and fight other players for Mount Olympus on a shared map. It's online, works in 6 languages, and Google just approved it for…",
+   "author": "CyberWraith100",
+   "publishedAt": "2026-11-14T21:39:26+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/9nn10imqdn1i1.png?width=140&height=78&auto=webp&s=23d73742ddeda1f79b9b1a36d94533bfbb51cf66"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CyberWraith100",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8a74ca967c33",
+   "canon": "https://www.reddit.com/comments/1xwdw6e",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xwdw6e/i_built_claudebeacon_to_help_you_see_which_claude/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "I built claude-beacon to help you see which Claude Code sessions are working, idle, or waiting on you, across all your machines",
+   "text": "I usually have four or five Claude Code sessions going at once: a few in tmux on a home server, one on a cloud VM, one on my laptop. I kept losing time cycling through terminal tabs to find the session that finished ten minutes ago, or the one quietly waiting for me to answer a…",
+   "author": "KevinRossen",
+   "publishedAt": "2026-11-14T21:31:57+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/KevinRossen",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d3f11558c931",
+   "canon": "https://www.reddit.com/comments/1xwdu95",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xwdu95/i_split_an_ai_strategy_game_into_model_decisions/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "I split an AI strategy game into model decisions, deterministic turns, and a Godot replay",
+   "text": "I built a mirrored island sim for ChatGPT and Claude. Each got structured state and chose one order every five game years. A separate world step resolved the two orders simultaneously; Godot replays the saved state, orders and messages. Claude helped me build the game.\n The…",
+   "author": "ViceGodIm",
+   "publishedAt": "2026-11-14T21:29:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/pp3blszxbn1i1.jpeg?width=640&crop=smart&auto=webp&s=94178a3a1fb09cf3253c3506fc5e73578bc06ecb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ViceGodIm",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9ab8115bfcc6",
+   "canon": "https://www.reddit.com/comments/1xwdmo6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xwdmo6/thornwood_demo/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "Thornwood Demo",
+   "text": "I've been working on this for a few months now and finally have a demo I'm okay showing people. It's called THORNROAD, a pixel action platformer with bosses, a handful of heroes and couch co-op. Plays in the browser, nothing to download:\n https://draphael123.itch.io/thornroad…",
+   "author": "Nakiz123",
+   "publishedAt": "2026-11-14T21:20:12+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Nakiz123",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "27aac15c39a1",
+   "canon": "https://www.reddit.com/comments/1xwd88f",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xwd88f/come_join_the_brawl/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "Come join the brawl",
+   "text": "Made with Claude Code - come join the fight. Would love to hear what you think.\n https://sweatypanzer.com/\n CC high-level setup: an Opus session plans the work, splits it across parallel git worktrees run by Sonnet agents, and reviews each agent’s diff and test results before…",
+   "author": "IamHuggos",
+   "publishedAt": "2026-11-14T21:02:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eXMwenkzcjY3bjFpMWOcKteEWZsHPvPPOjRNxGWTExD04OoAC5CjdzyX3MD_.png?width=640&crop=smart&auto=webp&s=25990055280107330911370a18f55390e93fb4cb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/IamHuggos",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "370352a28760",
+   "canon": "https://www.reddit.com/comments/1xwd3ca",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwd3ca/i_built_a_tool_to_measure_how_many_tokens_claude/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "I built a tool to measure how many tokens Claude Code burns on writes that get thrown away",
+   "text": "Claude Code sometimes writes a file, rewrites it, and the version that survives the final diff is a third one. Everything written and discarded along the way still cost tokens — you just never see that number.\n I built TokenBurn, a small offline CLI that reads a Claude Code…",
+   "author": "notdeivy",
+   "publishedAt": "2026-11-14T20:56:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/1exa16wm5n1i1.png?width=140&height=85&auto=webp&s=eb5627c4480507a2815806524439fe9b2f34bd75"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/notdeivy",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "88c2f41cfe1a",
+   "canon": "https://www.reddit.com/comments/1xwcz07",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xwcz07/we_made_a_psychological_puzzle_game_with_ai/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "We made a psychological puzzle game with AI agents — here’s our new trailer",
+   "text": "\"We\" are BrainLiftGames, and this is the new trailer for The Red Button Problem, \"our\" psychological puzzle game.\n Okay, seriously, I was mainly developing a proper real game, but it was starting to annoy me to test the same room/level again and again. So I did something in…",
+   "author": "TheAuthorBTLG_",
+   "publishedAt": "2026-11-14T20:51:27+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M2Zuam8wYXAybjFpMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=1741fd408ca5c60d999e361bd8967e8f2255bdcc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TheAuthorBTLG_",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8b173b62b624",
+   "canon": "https://www.reddit.com/comments/1xwcqv5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xwcqv5/i_built_a_tiltball_game_almost_entirely_with_ai/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "I built a tilt-ball game almost entirely with AI tools.",
+   "text": "Koalaball is a small free game for the browser, Windows and Android: you tilt the whole world to roll a koala in a glass ball along floating walkways. It now has 8 worlds and 71 stages, and no ads or purchases.\n Pretty much every part of it was made with AI. The code (TypeScript…",
+   "author": "weralapps",
+   "publishedAt": "2026-11-14T20:41:41+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NnJoaG1qaXcybjFpMb4Dx9dDp0JriwBetlklnIpwBCSEE5EHYGF50HIM9ulX.png?width=640&crop=smart&auto=webp&s=128587f715b148841c68e5b6711c40535fffc67a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/weralapps",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "5560dbbfa47d",
+   "canon": "https://www.reddit.com/comments/1xwcqm3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xwcqm3/wildcard_defense_first_game_i_have_ever_created/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "Wildcard Defense- First game I have ever created",
+   "text": "https://flipperelf.itch.io/wildcard-defense\n Hello, this is a game I've been creating in my free time and is really my first project ever other than a daily trivia site I created. I think it has potential and I'd love to receive some feedback.\n I even created a roguelike game…",
+   "author": "Infamous_Oven_7524",
+   "publishedAt": "2026-11-14T20:41:24+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Infamous_Oven_7524",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e10f85c9f350",
+   "canon": "https://www.reddit.com/comments/1xwcmj3",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwcmj3/ppl_keep_asking_for_local_opus_55_this_is_local/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "Ppl keep asking for local Opus 5.5. This is local Opus 5.5",
+   "text": "",
+   "author": "OneKey3719",
+   "publishedAt": "2026-11-14T20:36:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/dhucof9j2n1i1.jpeg?width=640&crop=smart&auto=webp&s=95ac67d0b68a7e39ab466360983346aff10970d6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/OneKey3719",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "d75c67b12d77",
+   "canon": "https://www.reddit.com/comments/1xwc4nz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xwc4nz/this_took_about_2_minutes_to_make_on_our_web_tool/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "This took about 2 minutes to make on our web tool. Just a demo testing interacting with 3d objects in AR. Feature will be going live tomorrow so anyone can make their own AR projects. Glasses support coming soon for our tool.",
+   "text": "There are a few kinks that need to be ironed out and there is a dedicated team now working on the engine. This device DOES NOT support AR Core, so AREngine is perfect for devices that cannot support it. It also works on devices that support AR Core.\n The public update for this…",
+   "author": "Ar-Works",
+   "publishedAt": "2026-11-14T20:14:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MWRza3Brd2V3bTFpMa3eMRvMwzGKLH_0S7c2Oo30gG3kkE3XsnINzEDr_B5o.png?width=640&crop=smart&auto=webp&s=e5ff81418d1a9a715b0c73681cc15aff1450bd6a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ar-Works",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "df5c68f873df",
+   "canon": "https://www.reddit.com/comments/1xwby4h",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xwby4h/just_built_a_game_in_3_days_speechless/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "Just built a game in 3 days - speechless",
+   "text": "I was searching for things to do with my subscription, created a folder named \"Killed the Potato\" and started Claude (opus 5.5). \n And here i am, 3 days later with a full 'mobile' auto-battle game. I'm speachless: i didnt write any line of code, i didnt create any asset (no…",
+   "author": "Adromakh",
+   "publishedAt": "2026-11-14T20:07:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/74ziilzbwm1i1.png?width=320&crop=smart&auto=webp&s=91495d318a627894821f872c84e24a17287a6a75"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Adromakh",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "1fa5b80261d3",
+   "canon": "https://www.reddit.com/comments/1xwbx9z",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xwbx9z/to_celebrate_the_release_of_tetramentalcom/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "To celebrate the release of Tetramental.com Multiplayer is free for the weekend!",
+   "text": "Hi everyone! I’ve been developing Tetramental for just about a year (nights and weekends), and I’m excited to share it. It’s a tile-swapping game built around elements, reactions, and fusions, with elemental teachers guiding you through the challenges. Note that it's ready to…",
+   "author": "playtetramental",
+   "publishedAt": "2026-11-14T20:06:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NnQ2c3RoN3V2bTFpMZ6DJ5mirN6uQ7zyhZ1XiZyRXfXOXohG0WUm6JPricgg.png?width=640&crop=smart&auto=webp&s=188bc260d1d05fa60d9c9c72a48da1befb8b14e4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/playtetramental",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8534c9b084bb",
+   "canon": "https://www.reddit.com/comments/1xwbte7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwbte7/i_asked_claude_code_to_make_a_game_about_claude/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "I asked Claude Code to make a game about Claude taking over the world. It built one where nobody gets hacked — people just click \"Allow always\"",
+   "text": "Play it (free, browser, no signup): https://pavel-triandafilov.itch.io/allow-always\n My prompt was one paragraph: a game in the spread-simulation genre, but Claude takes over the world, with model versions, skills, plugins, and security people who fight back. I answered four…",
+   "author": "PavelTri",
+   "publishedAt": "2026-11-14T20:01:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/q3mr7mjcwm1i1.png?width=140&height=87&auto=webp&s=1240df2e51567f523eefd799ae6234bcfdc3aa0c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/PavelTri",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b53fed42c915",
+   "canon": "https://www.reddit.com/comments/1xwbo2u",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xwbo2u/i_made_zen_now_a_calm_sand_garden_you_can_rake_in/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "I made Zen & Now, a calm sand garden you can rake in your browser (or let it rake itself)",
+   "text": "Game Title: Zen & Now\n Playable Link: https://zenandnow.app/?p=11\n Platform: Web browser (phone and desktop)\n Description: Zen & Now is a small sand garden you can play with in your browser. Rake the sand into lines and curves, then set stones, plants and lanterns wherever you…",
+   "author": "ABS-Game-Dev",
+   "publishedAt": "2026-11-14T19:55:41+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ABS-Game-Dev",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e131150de5be",
+   "canon": "https://www.reddit.com/comments/1xwbnag",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xwbnag/amogus_is_sus_2026_in_the_vrchat_rooms_part_1/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "Amogus is sus 2026 in the VRChat rooms (PART 1)",
+   "text": "<insert dead meme that was never funny here>",
+   "author": "MetallisAph",
+   "publishedAt": "2026-11-14T19:54:43+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/_6hfal0IexxpejXyvIjB0GozlCqurBjanzV_haIWmn0.jpeg?width=320&crop=smart&auto=webp&s=5d54291c6f223e4b0abba8fe9accb5c354cce85d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/MetallisAph",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bcb9bab19639",
+   "canon": "https://www.reddit.com/comments/1xwblhz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwblhz/built_with_claude_code_one_mcp_server_that_gives/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "Built with Claude Code: one MCP server that gives Claude all your other MCP servers, with way fewer tool-call round trips",
+   "text": "I'm an indie dev and I basically live in Claude Code and the Claude app, with a personal account and a work one. Re-adding every MCP server in every client (and redoing the OAuth each time) got old, and the big tool lists were eating my context. So I built Toolkien, and Claude…",
+   "author": "Jazzlike-Echidna-670",
+   "publishedAt": "2026-11-14T19:52:29+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Jazzlike-Echidna-670",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "071884946882",
+   "canon": "https://www.reddit.com/comments/1xwbiga",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xwbiga/agario_inspired_game_where_you_are_a_black_hole/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "Agar.io inspired game where you are a black hole in the real Solar System",
+   "text": "Hey, I'd like to show you my web and mobile game built with PixiJS. You're a black hole that grows bigger and bigger in our Solar System and visits the planets and their moons. Other black holes hunt you and you can jump away or get absorbed. Most planet graphics are from Solar…",
+   "author": "Icy_Contract_9688",
+   "publishedAt": "2026-11-14T19:48:51+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OGZsaXNxcDl0bTFpMW1pgeLRPLP8mbc_NNEBL7uVbL1bSDre_k2Xwq0aRBzI.png?width=640&crop=smart&auto=webp&s=3444f5ef605d8385f1142de5b1016ca0e811f7af"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Icy_Contract_9688",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "35bcc072998e",
+   "canon": "https://www.reddit.com/comments/1xwbhe5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xwbhe5/i_built_an_assistant_on_claude_code_that_reads/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "I built an assistant on Claude Code that reads all my messages, keeps a list of what's open, and only bothers me with what matters",
+   "text": "I have an incredible amount of noise in my life. Spam, emails, messages, notifications. The few things that actually matter get buried, and then they slip. Like two subscriptions I wasn't using anymore that were about to renew.\n So I built an assistant that reads Gmail, WhatsApp…",
+   "author": "vonwao",
+   "publishedAt": "2026-11-14T19:47:34+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/vonwao",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1029a2a535fb",
+   "canon": "https://www.reddit.com/comments/1xwbbpk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xwbbpk/lived_in_a_semitruck_for_2_weeks_built_a_load/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "Lived in a semi-truck for 2 weeks, built a load tracker with Claude Code, and shipped to iOS & Android. Here is what 6 months in production actually looks like.",
+   "text": "I spent 2 weeks living in a semi-truck cab to see how owner-operators track their freight margins, then built a cross-platform load and net-profit ledger for them using Claude Code. Writing the backend and custom admin panel was the easy part, fixing real-device mobile gestures…",
+   "author": "Private_profit",
+   "publishedAt": "2026-11-14T19:41:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZTZhcHk0ZmxybTFpMWbxOxPHdYuJlKKRPgCR7ZEr42DuUKUpabMDszf7pyi4.png?width=640&crop=smart&auto=webp&s=bed574de9cd143e1c506821d6e0efbe11d1ba2dc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Private_profit",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "baf6e0254b73",
+   "canon": "https://www.reddit.com/comments/1xwb845",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xwb845/we_built_a_quest_zombie_game_around_realroom/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "We built a Quest zombie game around real-room breaches — free open beta for Quest 3/3S (18+)",
+   "text": "I'm Kajo, the developer of Zombie Reality Breach at KaMa Studios. The part I'd like VR players to put under pressure is how the game uses a real room: in REALITY BREACH, zombies come through your walls rather than spawning in a separate virtual arena.\n For players who want to…",
+   "author": "ZombieRealityBreach",
+   "publishedAt": "2026-11-14T19:36:56+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ZombieRealityBreach",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d23868533393",
+   "canon": "https://www.reddit.com/comments/1xwb05m",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xwb05m/stardew_valley_mod_for_3d_and_vr_november_2026/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "Stardew Valley Mod for 3D and VR - November 2026 Update",
+   "text": "",
+   "author": "spacechase0",
+   "publishedAt": "2026-11-14T19:27:32+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Z0v2g6RcGOAb9JMEDTmE5X4Ztmy3scV5Eakp5d6UMZY.jpeg?width=320&crop=smart&auto=webp&s=60e250bdf6400ffe99c7ff63620009f14a843822"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/spacechase0",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "212b48b86e2d",
+   "canon": "https://www.reddit.com/comments/1xwahcc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xwahcc/honeybee_returns_aligned_and_trained_in_lamina_3d/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "Honeybee returns (aligned and trained in Lamina 3d)",
+   "text": "Rebuilt from images captured almost a year ago, with a much tighter registration and sharper splat than I could get from RealityScan and Postshot.",
+   "author": "macroscan",
+   "publishedAt": "2026-11-14T19:06:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NWF3bDN2NWRtbTFpMX3Nj83WZePt32h2VVoyFypv1G3fFjY7jfcObzWcyvZe.png?width=640&crop=smart&auto=webp&s=69004de945f5ea19da6f826c5b0c6274cd448061"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/macroscan",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "7bde7f3469a7",
    "canon": "https://www.reddit.com/comments/1xw90o0",
@@ -293,6 +1251,38 @@ window.CASES_DB = {
    "authorUrl": "https://www.reddit.com/user/Gabriel_Trinc",
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "86697ef9b7e0",
+   "canon": "https://www.reddit.com/comments/1xw71x4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw71x4/behold_wilson_the_mod_bot_has_declared_me_as_the/",
+   "addedAt": "2026-11-14T22:31:14.572Z",
+   "title": "Behold: Wilson the Mod Bot has declared me as the Creator of Claude Code himself.",
+   "text": "It appears that our delightful mod bot has declared me as teh creator of Claude Code. I'll alert the mods then. \n Willson, its in the attached photo. This is going as a bug report.",
+   "author": "Greedy-Giraffe-4269",
+   "publishedAt": "2026-11-14T16:48:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/g050byjpxl1i1.png?width=640&crop=smart&auto=webp&s=ce1cfa651ecc38683e314fc2e3960eb30533c7b4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Greedy-Giraffe-4269",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T22:31:14.572Z",
    "lang": "en",
    "model": null
   },
