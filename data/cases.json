@@ -1,7 +1,812 @@
 {
  "version": 1,
- "updatedAt": "2026-11-14T10:37:54.565Z",
+ "updatedAt": "2026-11-14T18:16:34.657Z",
  "cases": [
+  {
+   "id": "7bde7f3469a7",
+   "canon": "https://www.reddit.com/comments/1xw90o0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw90o0/my_claude_switches_models_mid_session_without_me/",
+   "addedAt": "2026-11-14T18:11:36.648Z",
+   "title": "My Claude switches models mid session without me telling it to.",
+   "text": "Does this happen to anyone else? and if so is there a fix?\n Basically making claude un-usable when you're trying to vibecode with Opus 5.5 and you come back to your pc to see it did the whole thing in Opus 3.",
+   "author": "Eitraa",
+   "publishedAt": "2026-11-14T18:07:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/c3h6Zmp6dG9ibTFpMWdrb-TbZ49XzmarIV1Uib1oXDABpMEfhzZHarFjEDQe.png?width=640&crop=smart&auto=webp&s=7ea70f2469cb3afb2d209a22a0240f2a47c09742"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Eitraa",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "dfe59b557671",
+   "canon": "https://www.reddit.com/comments/1xw90at",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xw90at/i_made_glinster_an_mpe_instrument_you_play_with/",
+   "addedAt": "2026-11-14T18:11:36.648Z",
+   "title": "I made Glinster, an MPE instrument you play with your bare hands on Vision Pro",
+   "text": "I'm Geert, I worked on the Eigenharp, helped create LinnStrument, I'm one of the authors of the MPE specification, and I created the Moog apps. Glinster came out on November 3.\n You play it with hand tracking alone. Touching your thumb to a fingertip plays a note and releasing…",
+   "author": "gbevin",
+   "publishedAt": "2026-11-14T18:06:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ufr9jj0xbm1i1.jpeg?width=140&height=78&auto=webp&s=c5ea8aa3647e85b6a98153f9756b328ad43ffd49"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/gbevin",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "74d5014d5c32",
+   "canon": "https://www.reddit.com/comments/1xw8u61",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xw8u61/im_a_ux_designer_who_cant_code_and_i_finally_made/",
+   "addedAt": "2026-11-14T18:11:36.648Z",
+   "title": "I’m a UX designer who can’t code, and I finally made a demo of the cozy yacht sim I’ve wanted to play",
+   "text": "Hey all! I’ve wanted to make this game for a couple of years, but kept putting it off because of my coding skills and budget, which I’m sure some of you can relate to.\n I’m a UX designer in fintech with a graphic design background, but I can’t code for crap. I’ve experimented…",
+   "author": "DigiMouse16",
+   "publishedAt": "2026-11-14T18:00:28+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MzRwYm55dW5hbTFpMRhSu-FyJtDfZOcjkqMLgl4A5iVlHP6nHCHiKQNjKq0T.png?width=640&crop=smart&auto=webp&s=9d802a257939dd99690c0ae810eecbd054e20d9a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/DigiMouse16",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ab2b6978516e",
+   "canon": "https://www.reddit.com/comments/1xw8ta7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xw8ta7/our_ai_assistant_built_a_playable_horror_game_in/",
+   "addedAt": "2026-11-14T18:11:36.648Z",
+   "title": "Our AI assistant built a playable horror game in a week. Then we found out what it skipped.",
+   "text": "Hi! It's Lia again, from the 2-person team making a horror game with zero ghosts for GitHub Game Off 2026. My partner builds it with Claude Code.\n Last time I posted, we had a playable greybox after one week. Then we did an audit:\n 42 scripts, zero design docs\n no tests, bugs…",
+   "author": "marcovice",
+   "publishedAt": "2026-11-14T17:59:35+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/marcovice",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0a8a1efc3c65",
+   "canon": "https://www.reddit.com/comments/1xw8kl6",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xw8kl6/getting_a_good_splat_is_the_easy_part_now_we/",
+   "addedAt": "2026-11-14T18:11:36.648Z",
+   "title": "Getting a good splat is the easy part now. We wanted to see what you can do after.",
+   "text": "With recent advancements and open source tools like Spirula Studio, getting good quality splats has become pretty easy. But once you have one, you mostly just orbit or walk around it, which always felt like a bit of a waste.\n So we wanted to explore what more we could do once we…",
+   "author": "_Bishad",
+   "publishedAt": "2026-11-14T17:49:36+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/anV1ZmM5djU4bTFpMap9gS7mchm-ahyQX1cPDqTemBGty4k98dG12vGqsRXg.png?width=640&crop=smart&auto=webp&s=a7905a206cd557e06ae10c6a7a3c21545807f8ad"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/_Bishad",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b1fb83afd20a",
+   "canon": "https://www.reddit.com/comments/1xw8bp9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xw8bp9/claudeforge_themes_custom_themes_for_claude/",
+   "addedAt": "2026-11-14T18:11:36.648Z",
+   "title": "claude-forge themes - Custom Themes for Claude Desktop (GitHub Dark Released)",
+   "text": "Hey everyone,\n I've been working on themes, a mod that adds color themes to Claude Desktop . It's part of claude-forge, my repo of Claude Code mods and skills.\n The first theme is GitHub Dark: the dark look of github with the colors from GitHub's own design system (Primer). Page…",
+   "author": "IT-BAER",
+   "publishedAt": "2026-11-14T17:39:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/z21yl3iu6m1i1.png?width=640&crop=smart&auto=webp&s=0adfd96a4cc25e0c23c2f8ac7c3fcaf98c4907b5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/IT-BAER",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4ab7ed840605",
+   "canon": "https://www.reddit.com/comments/1xw8a44",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xw8a44/a_silly_big_red_racinginspired_game_made_with/",
+   "addedAt": "2026-11-14T18:11:36.648Z",
+   "title": "A silly Big Red Racing-inspired game made with Opus 5.5 in a week. Open source, link in comments.",
+   "text": "Note: Apart from the serving as an inspiration, no code, graphics or any other content from the original 1996 Big Red Racing by Big Red Software was used to create this game. See the bottom for source & game links.\n Rough development timeline:\n Day 1: Watch a YouTube video about…",
+   "author": "c35683",
+   "publishedAt": "2026-11-14T17:37:55+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cHB1aGdsNWU1bTFpMcotbeO9qBIRDrfzWg3ZjbFZW8K4u__-MVELvfhfr2px.png?width=640&crop=smart&auto=webp&s=4e38c0abd7b6813e2fdc7395593127bf645a6bed"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/c35683",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "5b4f015a52f7",
+   "canon": "https://www.reddit.com/comments/1xw7bff",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xw7bff/took_your_feedback_to_heartzero_ai_this_time_just/",
+   "addedAt": "2026-11-14T18:11:36.648Z",
+   "title": "Took your feedback to heart—zero AI this time, just 100% real gameplay of this VR absurdity. Season 1 is live, and yes, the fish is a lethal weapon 🐟💀",
+   "text": "Dropped our game into full release yesterday! We have cover art, but here we’re posting a straight-up gameplay GIF—totally absurd, 100% original. \n Costs about as much as a cup of coffee, with awesome weekend vibes guaranteed! \n P.S. The launch price is so low right now that…",
+   "author": "DrunkOrDead2",
+   "publishedAt": "2026-11-14T16:59:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/8zs2j6bwyl1i1.gif?width=640&crop=smart&s=3bd333a7a1da7d6b9e4ecf6b5cfcfdfceaaaca4b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/DrunkOrDead2",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "09593c2b1473",
+   "canon": "https://www.reddit.com/comments/1xw768t",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xw768t/blender_53_now_supports_gaussian_splats_natively/",
+   "addedAt": "2026-11-14T18:11:36.648Z",
+   "title": "Blender 5.3 now supports Gaussian splats natively — 360° footage to Blender, no addons needed",
+   "text": "Hey everyone! Blender 5.3 just released with native support for Gaussian splats, which is pretty cool to see. You can now bring them straight into Blender without installing any plugins or addons.\n I’ve been testing it with a couple of footage sets trained locally in Spirula…",
+   "author": "Gabriel_Trinc",
+   "publishedAt": "2026-11-14T16:53:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eG9xc2kxbWt5bDFpMcICrSPYGf4xR5xrjnW9KhAVbWGHlq76BRKFZXNI4M4X.png?width=640&crop=smart&auto=webp&s=f90d8b2aeff70098d77a647c3a6e52ff64431e90"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Gabriel_Trinc",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cf1bf5992ebe",
+   "canon": "https://www.reddit.com/comments/1xw70e1",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xw70e1/medal_of_honor_psx_1999_pcvr_mod/",
+   "addedAt": "2026-11-14T18:11:36.648Z",
+   "title": "Medal Of Honor (PSX 1999) PCVR MOD",
+   "text": "https://github.com/Migcar69/mohpsxvr\n I hope you like it :)",
+   "author": "ConstructionAgile560",
+   "publishedAt": "2026-11-14T16:46:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/yoAaeagEd1OkoxsRPw1I8CT5-w690Eir6WJOQQhMdn0.jpeg?width=320&crop=smart&auto=webp&s=4825d7189f3ed8fded5c76e5e2632fba6e1ed09e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ConstructionAgile560",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "080c5b530ed1",
+   "canon": "https://www.reddit.com/comments/1xw701n",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xw701n/two_point_museum_playable_in_vr/",
+   "addedAt": "2026-11-14T18:11:36.648Z",
+   "title": "Two Point Museum playable in VR",
+   "text": "",
+   "author": "i-scrire",
+   "publishedAt": "2026-11-14T16:46:36+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NXV0eW84bTl3bDFpMYwgpH4TcR4jeRHeJptQWZCTr9Vuq68c_kynUwbTcLgG.png?width=640&crop=smart&auto=webp&s=2d02df51ee699f9f3ed60bcc7b3a6c0e2aad8aee"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/i-scrire",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "589dcac74f89",
+   "canon": "https://www.reddit.com/comments/1xw6y84",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xw6y84/i_built_rakho_an_opensource_memory_layer_for_ai/",
+   "addedAt": "2026-11-14T18:11:36.648Z",
+   "title": "I built rakho, an open-source memory layer for AI agents that inspects data before storing it (and forgets for real)",
+   "text": "Most memory for agents works one way: save everything, search later. Which means secrets, personal data, and injected instructions all get stored too. I wanted the opposite, so I built rakho.\n What it does:\n Inspects every note before it is stored. Secrets, PII, and…",
+   "author": "nomadic_tech",
+   "publishedAt": "2026-11-14T16:44:36+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/nomadic_tech",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "1cea88e0ae02",
+   "canon": "https://www.reddit.com/comments/1xw6kat",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw6kat/built_a_mech_war_game_with_claude_code_where_you/",
+   "addedAt": "2026-11-14T18:11:36.648Z",
+   "title": "Built a mech war game with Claude Code where you knock out AI machines and climb into them. Claude also playtested it and recorded this video",
+   "text": "AI Parabellum is a third-person mech game that runs in the browser. You pilot a captured war machine through six missions against the AI: a burning city at night, a desert air base, a frozen dam, a container port, a server valley and finally the Core. The hook is hijacking:…",
+   "author": "vinishkapoor",
+   "publishedAt": "2026-11-14T16:29:04+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bTFkaDQ2NWV1bDFpMXSX0YmxmAGtKo5dZi3AjPNqXAAFYFpPoc7Q6zU3s_H3.png?width=640&crop=smart&auto=webp&s=1b0a558168148e097c4f30bca01ad5230848976a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/vinishkapoor",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ddaa3c9feace",
+   "canon": "https://www.reddit.com/comments/1xw6cqd",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw6cqd/claude_wrote_every_line_of_our_acid_techno_track/",
+   "addedAt": "2026-11-14T18:11:36.648Z",
+   "title": "Claude wrote every line of our acid techno track but can’t hear it, so I became its fitness function",
+   "text": "On Friday Claude and I released our first track together, Jollas Phase, a piece of 90s-style acid techno. Claude wrote every line of it in Strudel, a free live coding environment that runs in the browser. But Claude can't hear audio, so we needed a way for my ears to steer the…",
+   "author": "ColossalCosci",
+   "publishedAt": "2026-11-14T16:20:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/bqocul0hrl1i1.png?width=140&height=96&auto=webp&s=45990cd7f92b3a0ff6c646659c09c4bfa2608586"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ColossalCosci",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "27451b35c473",
+   "canon": "https://www.reddit.com/comments/1xw6839",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xw6839/bonkland_build_your_own_prehistoric_amusement_park/",
+   "addedAt": "2026-11-14T18:11:36.648Z",
+   "title": "Bonkland: build your own prehistoric Amusement Park",
+   "text": "Hey, during last month I was fully concentrated on something beautiful - a relaxing game where you build your own park, manage inventory, infrastructure.\n The main goal is to create big and beautiful park with unlimited visitors.\n The main goal is to make sure that all guests…",
+   "author": "Koko-Choco",
+   "publishedAt": "2026-11-14T16:14:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/bDcya3U5cXZybDFpMbdyK3F7YUwUKpggspzDWyDK03XR7B0EdC_Ms-9pJ6bh.jpeg?width=640&crop=smart&auto=webp&s=69e3cf1264f17798def18ac77aeea1eeedcbfe31"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Koko-Choco",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e39ec614e15e",
+   "canon": "https://www.reddit.com/comments/1xw67z2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw67z2/claude_image_generation_fable_52/",
+   "addedAt": "2026-11-14T18:11:36.648Z",
+   "title": "Claude Image Generation (Fable 5.2)",
+   "text": "Claude can generate and edit images using just code!",
+   "author": "NickSlayr",
+   "publishedAt": "2026-11-14T16:14:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/pp2dpx7vrl1i1.png?width=140&height=78&auto=webp&s=cee46714f939279ec56826f41543ff2b9d81aef4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/NickSlayr",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7cb1926b537f",
+   "canon": "https://www.reddit.com/comments/1xw5wnh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xw5wnh/1_month_filming_europe_in_vr180_this_week_oia/",
+   "addedAt": "2026-11-14T18:11:36.648Z",
+   "title": "🌍 1 MONTH FILMING EUROPE IN VR180! 🇬🇷 This Week: Oia, Santorini | Experience Greece in 8K on Apple Vision Pro",
+   "text": "We're back with another destination from our second month-long European filming project!\n This week, we're taking you to Oia, Santorini, Greece 🇬🇷\n Few places in the world are as visually spectacular as Santorini. Its iconic whitewashed buildings, blue-domed churches, narrow…",
+   "author": "BeyondVRMedia",
+   "publishedAt": "2026-11-14T16:01:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/hMJszB5dJdW82aSFN04vRFP_xEc785fihPxAdTIoioo.jpeg?width=140&height=105&auto=webp&s=627b892e755c4fbaa8a73d2ace6ca73c1c42d930"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/BeyondVRMedia",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ed60f828e24a",
+   "canon": "https://www.reddit.com/comments/1xw54ys",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xw54ys/i_built_a_windows_desktop_island_that_shows_when/",
+   "addedAt": "2026-11-14T18:11:36.648Z",
+   "title": "I built a Windows desktop island that shows when Claude Code is working, waiting for input, or finished",
+   "text": "Hey everyone, I’m the developer of NotchIsland, a free, open-source desktop app for Windows 10/11.\n Its Claude Code integration puts session status in a small expandable island at the top of the screen, so you can see when an agent needs your attention while working in another…",
+   "author": "Constant-Welcome5404",
+   "publishedAt": "2026-11-14T15:29:37+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Constant-Welcome5404",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2fc0c238a7c0",
+   "canon": "https://www.reddit.com/comments/1xw3zn9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vrdev/comments/1xw3zn9/i_rebuilt_my_vr_projectmapping_app_from_webxr_to/",
+   "addedAt": "2026-11-14T18:11:36.648Z",
+   "title": "I rebuilt my VR project-mapping app from WebXR to native Kotlin, as a solo dev. Here's the demo.",
+   "text": "UluP Spatial is a mixed reality app for Meta Quest that puts your project map in your real room: nodes you can grab, pin to a door, and talk to, all with bare hands.\n I first shipped it in WebXR. Then I rebuilt it from scratch in native Kotlin with the Meta Spatial SDK, and…",
+   "author": "Potential-Art7696",
+   "publishedAt": "2026-11-14T14:40:09+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Potential-Art7696",
+   "where": "r/vrdev",
+   "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7cc20c59c94d",
+   "canon": "https://www.reddit.com/comments/1xw2bnc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1xw2bnc/found_a_little_easter_egg_inside_of_dead_space_vr/",
+   "addedAt": "2026-11-14T18:11:36.648Z",
+   "title": "Found a little Easter Egg inside of Dead Space VR Mod",
+   "text": "",
+   "author": "A_Dad_Doin_Stuff",
+   "publishedAt": "2026-11-14T13:24:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Mmw2aTl5cGZ4azFpMVy45B58bsj1fkjDeLquEh_ZaLSjBk8vzrbAhl0DQLbE.png?width=320&crop=smart&auto=webp&s=2f49237c00466b840ad546dbaf26fd69cfe78380"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/A_Dad_Doin_Stuff",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "63359b8567bb",
+   "canon": "https://www.reddit.com/comments/1xw1xel",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xw1xel/gus_has_a_date_with_steam_hide_the_corpse/",
+   "addedAt": "2026-11-14T18:11:36.648Z",
+   "title": "💀 Gus Has a Date with Steam! Hide the Corpse Launches for SteamVR on December 3rd!",
+   "text": "Hey everyone,\n We've finally given Gus a date… just don't ask what happened before that. 💀\n Hide the Corpse is officially launching on Steam on December 3rd and the best part is, Gusimir Mansion DLC will be included in the base game!\n Your job? Its simple! \n Hide Gus before the…",
+   "author": "HideTheCorpse",
+   "publishedAt": "2026-11-14T13:03:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cnFpNjdtMDh0azFpMWrVJna9OJmdDXtm0Pm_2Rb6m6zsCL6l4GB-1mCHgBl2.png?width=640&crop=smart&auto=webp&s=81505ea5c12fba021d4b9d3529d54e9c83464deb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/HideTheCorpse",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c411a0ba1f24",
+   "canon": "https://www.reddit.com/comments/1xw1eom",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xw1eom/the_app_i_use_most_on_vision_pro_is_mac_virtual/",
+   "addedAt": "2026-11-14T18:11:36.648Z",
+   "title": "The app I use most on Vision Pro is Mac Virtual Display, so I made a darts game for the waiting",
+   "text": "The app I spend the most time in on Vision Pro is Mac Virtual Display. And a lot of that time is just waiting: builds, renders, exports.\n So I made something for those couple of minutes: a dartboard that hangs in a window next to the Mac screen. You pinch a dart and actually…",
+   "author": "dr-rockpaper",
+   "publishedAt": "2026-11-14T12:37:15+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eDlra3pkOWRvazFpMWj63D83s-4WRjrKGlODj7bzyiQh2NxGxqXuAHmcZVga.png?width=640&crop=smart&auto=webp&s=45ea688e9f310f050f4584498c0363f33a1bfb6e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/dr-rockpaper",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b10a48fc28a8",
+   "canon": "https://www.reddit.com/comments/1xw0umf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xw0umf/i_made_a_free_vr_port_of_amnesia_the_bunker/",
+   "addedAt": "2026-11-14T18:11:36.648Z",
+   "title": "I made a free VR port of Amnesia: The Bunker.",
+   "text": "BunkerVR is a free, unofficial VR mod for Amnesia: The Bunker. It's playable from start to finish, and every mechanic was rebuilt for VR.\n It's still an early version, so you might run into bugs or glitches. Reports on GitHub help a lot.\n Download:…",
+   "author": "Standard_Flamingo229",
+   "publishedAt": "2026-11-14T12:06:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/f1wj726kjk1i1.gif?width=320&crop=smart&s=52dda5c4dd0c3a7ad7200b8aa861877784e28e8d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Standard_Flamingo229",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3375b1e783ac",
+   "canon": "https://www.reddit.com/comments/1xw0hbz",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xw0hbz/i_built_photoshop_for_gaussian_splats/",
+   "addedAt": "2026-11-14T18:11:36.648Z",
+   "title": "I built Photoshop for Gaussian Splats",
+   "text": "Hi, I know most of us have had the problem that we wanted to remove smth from a scene or patch a hole. And I recently got an idea on how to fix that!\n Please let me know what u think, criticism is also appreciated but please don't be mean! :D",
+   "author": "TwistedNicolas",
+   "publishedAt": "2026-11-14T11:46:00+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YP3VID5WFQ_odbAOf6UcKgrqJfjZztertxepOI_Jtkw.jpeg?width=320&crop=smart&auto=webp&s=c87cc28b931d1945b5a69328ba719b7c60eed0f9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TwistedNicolas",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7a6983ce57fe",
+   "canon": "https://www.reddit.com/comments/1xvzqjo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xvzqjo/beat_saber_ost_9_adds_seven_free_tracks_and_the/",
+   "addedAt": "2026-11-14T18:11:36.648Z",
+   "title": "Beat Saber OST 9 adds seven free tracks and the Prism environment in v1.46.0",
+   "text": "",
+   "author": "hcsantos",
+   "publishedAt": "2026-11-14T11:00:53+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/9Io7w0Lhr0J9CggVoI6b3Arq8zlJJ3OWq9esN7O52XU.png?width=640&crop=smart&auto=webp&s=8c1760f106e5186b1cfd28a9b8f531d9e226ff6a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/hcsantos",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "a81aaa466c7f",
    "canon": "https://www.reddit.com/comments/1xvyy70",
