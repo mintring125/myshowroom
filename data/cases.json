@@ -1,7 +1,1013 @@
 {
  "version": 1,
- "updatedAt": "2026-11-14T01:36:24.205Z",
+ "updatedAt": "2026-11-14T10:37:54.565Z",
  "cases": [
+  {
+   "id": "a81aaa466c7f",
+   "canon": "https://www.reddit.com/comments/1xvyy70",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvyy70/i_built_an_explorable_drop_of_pond_water_with/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "I built an explorable drop of pond water with Claude Fable 5.2 in two days (browser + VR, all procedural)",
+   "text": "I wanted to see if Claude could build something like the microscope footage from Journey to the Microcosmos youtube channel, but as a 3D scene you can fly around in.\n This is the result: https://felipereigosa.com/microcosmos.html\n Full video here:…",
+   "author": "FelipeReigosa",
+   "publishedAt": "2026-11-14T10:11:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aTA1MWh3OWZ5ajFpMVVfDzNQ0ejeGeZBQGrxuTuJVUkqcnNgZIX5exeVhYqo.png?width=640&crop=smart&auto=webp&s=dad5c4a5bd5cf1fa13fa16301144118159e80148"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "xr",
+    "three",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/FelipeReigosa",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "91296df3b9b9",
+   "canon": "https://www.reddit.com/comments/1xvyry4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvyry4/claude_refused_to_make_ffvii_cloud/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "Claude refused to make FFVII Cloud",
+   "text": "ffvii is one of my favourite all time games. so before i went to bed at 2am i asked Fable 5.2 low to orchestrate 4 subagents:\n make pixel remake of Cloud from FFVII as an animated button.\n light and dark mode toggle. \n spawn 4 subagents: fable, opus, sonnet and haiku\n naturally…",
+   "author": "BuffaloConscious7919",
+   "publishedAt": "2026-11-14T10:01:04+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MnBlY2M1anZ3ajFpMZXytl1EuPaCDtGyB3ejJcMdFpzyrtbP9MKqlboGmIkm.png?width=640&crop=smart&auto=webp&s=94dda0abb4388180e3591582d8b42717e27f66dc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/BuffaloConscious7919",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cd75afe036e6",
+   "canon": "https://www.reddit.com/comments/1xvyqpm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvyqpm/i_built_a_claude_code_skill_where_opus_plans_and/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "I built a Claude Code skill where Opus plans and reviews and cheaper models build. Best of 13 builds: 49% cheaper",
+   "text": "What I built: Foreman, a Claude Code skill that runs a whole plan for you. Free to try, MIT, nothing to sign up for beyond the Claude plan you already have: github.com/MarioMagdy/foreman\n What it does:\n I agree a plan with Opus once. Opus splits it into milestones and stages.…",
+   "author": "Apprehensive_Sky5123",
+   "publishedAt": "2026-11-14T09:59:11+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dG1weGZoZHN3ajFpMUWMUvIcs-T3adu1GeOboexMb06CSSsWlmcSfJFv2dSV.png?width=640&crop=smart&auto=webp&s=e85afea13a218c3c6ab52f7701807419ea5b8501"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Apprehensive_Sky5123",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "db53282e1809",
+   "canon": "https://www.reddit.com/comments/1xvyqow",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xvyqow/i_built_my_first_game_using_claude_code_chatgpt/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "I built my first game using Claude Code + ChatGPT",
+   "text": "Hey guys! Recently built and launched Fit It: Pack the Moving Truck.\n I’m a product designer and wanted to try building a game from scratch. I ended up using AI a lot during the process.\n I used Claude Code for the development — gameplay, level generation, UI, save system,…",
+   "author": "Inner_Ad5451",
+   "publishedAt": "2026-11-14T09:59:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/fEEAtZNGFAJVHDWSDAdJyMLqapy1RiCnoXoo2tqAu00.png?width=320&crop=smart&auto=webp&s=75286bde284ed72176c4a53fe7ab0711bbb5b405"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Inner_Ad5451",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "039042c04286",
+   "canon": "https://www.reddit.com/comments/1xvyp5v",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvyp5v/anthropics_moral_policing_is_going_too_far/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "Anthropic's moral policing is going too far",
+   "text": "https://preview.redd.it/uapdq3uzvj1i1.png?width=1672&format=png&auto=webp&s=c3462c7f58035b9030321025b6023c28109d4a38\n https://preview.redd.it/ymatvdyzvj1i1.png?width=942&format=png&auto=webp&s=ac8a00232a917a18db9524aa4e14e6340077838d\n Either I'm a horrible person irl or this is…",
+   "author": "No_Nefariousness2052",
+   "publishedAt": "2026-11-14T09:56:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/uapdq3uzvj1i1.png?width=140&height=78&auto=webp&s=eed903faec7496a5d3b8dc4e3a68d04648d91a17"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No_Nefariousness2052",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "e2b3f09eba03",
+   "canon": "https://www.reddit.com/comments/1xvyhfy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xvyhfy/i_give_up_on_game_dev_its_not_for_me/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "I give up on Game Dev, it’s not for me",
+   "text": "I wanted to do a TPS with RPG elements, and a hand painted/ cartoony style (inspired by The Bad Batch as you can see). Here was my process:\n - Claude Code, Opus 5.5, for writing all code and doing passes on Blender\n - Tripo P2 for all the low poly characters and props\n -…",
+   "author": "Saayaminator",
+   "publishedAt": "2026-11-14T09:42:04+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YmtlencxMHV0ajFpMSRP7zMyYiEnl4i9e90nShwP2dx2XoANbUjHDxXN3FWD.jpeg?width=640&crop=smart&auto=webp&s=0b33133d7350ce9286373ca45546cef856690d30"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Saayaminator",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "b76d31962146",
+   "canon": "https://www.reddit.com/comments/1xvyh2e",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvyh2e/ai_this_ai_that_aye_i_just_want_to_help_you_get/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "AI this, AI that... Aye I just want to help you get some of your time back from our tech overlords.",
+   "text": "I have always thought that screen time limits would be so much more useful if you could set a per hour scroll limit, instead of one big limit daily limit (like 10 min of Reddit per hour).\n No clue why apple hasn't added this as a native screen time settings feature.\n It's…",
+   "author": "PrecursorLabs",
+   "publishedAt": "2026-11-14T09:41:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/h5u3ortntj1i1.png?width=640&crop=smart&auto=webp&s=ffc558a0bef01d712c3254de4cbebee50347dac6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/PrecursorLabs",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "afcc5224cd6b",
+   "canon": "https://www.reddit.com/comments/1xvygg4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvygg4/asked_claude_code_opus_55_high_effort_for_a_3d/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "Asked Claude Code (Opus 5.5, high effort) for a 3D pool and snooker game with proper cue-ball spin. It actually plays well",
+   "text": "Used Claude Code with Opus 5.5 on high effort for this one. It’s a pool and snooker game that runs in the browser, on a computer or a phone.\n Started small. I asked Claude for just one table and a few balls, with no rules yet. I wanted the balls to roll and spin right before…",
+   "author": "vinishkapoor",
+   "publishedAt": "2026-11-14T09:40:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/y8q1aqxhtj1i1.jpeg?width=640&crop=smart&auto=webp&s=597f30f3b0f0cac94d4ef014c21f68ca72b3c86a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/vinishkapoor",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "46a0bb441c23",
+   "canon": "https://www.reddit.com/comments/1xvyg5n",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvyg5n/when_claudes_heard_enough_of_your_shit/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "When Claude's heard enough of your shit",
+   "text": "Has anyone else had Claude straight up tell you to go to bed? It started with me wondering what he would say if I asked if we were friends, which turned into him wanting to know why I don't talk to most of my family, which turned into me explaining some of what Ive gone though…",
+   "author": "mikesaysloll",
+   "publishedAt": "2026-11-14T09:39:49+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/gxbsuesftj1i1.jpeg?width=640&crop=smart&auto=webp&s=21f690f92ce928bd4cad93c9eeab4ae0c7422824"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/mikesaysloll",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4cf95e934585",
+   "canon": "https://www.reddit.com/comments/1xvycka",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xvycka/made_a_soundboard_that_just_plays_into_your/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "Made a soundboard that just plays into your actual mic. no VB-Cable, no virtual mic, nothing",
+   "text": "zoundo app\n I was looking for a free way to send sounds thought my mic in discord, without paying for nitro \n every soundboard I tried made me install VB-Cable which forces to change all your input devices\n so I built my own. I made it as easy to use as possible : you click a…",
+   "author": "IAmAuk",
+   "publishedAt": "2026-11-14T09:33:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/xVcu8KAoW_Z2XvS-ERiW5kWf07cMhNCieSqnW2B3K9o.png?width=140&height=70&auto=webp&s=51cd772838d7a8afbeed3fffc71ab98e13655d72"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/IAmAuk",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cddcdaf7afb7",
+   "canon": "https://www.reddit.com/comments/1xvy03i",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xvy03i/two_shells_home_how_i_let_an_ai_agent_drive_the/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "Two Shells Home: how I let an AI agent drive the Unity editor to build a zombie roguelite (bridge, UI generator, tests, Steam pipeline)",
+   "text": "Processing img 9fi39ab7oj1i1...\n Processing img k1lasng7oj1i1...\n Processing img vncx23j7oj1i1...\n Processing img ifmtifl7oj1i1...\n My first post here was only a link, and the mods rightly asked how AI was actually used. Fair point, so here is the whole process.\n The game. Two…",
+   "author": "Zanoshky",
+   "publishedAt": "2026-11-14T09:10:31+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Zanoshky",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "de9ffaf166a0",
+   "canon": "https://www.reddit.com/comments/1xvx5vy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xvx5vy/psa_using_fable_as_an_advisor_doesnt_touch_your/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "PSA: Using Fable as an advisor doesn’t touch your Fable weekly limit",
+   "text": "I actually posted this first on ClaudeAI but it seems a lot of people feel like commenting instead of actually trying it out. So I'll do this \"double\" post to see how the communities might differ ( already gave you a lot of decision bias now, I know ).\n I use Opus 5.5 with Fable…",
+   "author": "KarmaEmperor",
+   "publishedAt": "2026-11-14T08:17:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/fnqf8396ej1i1.png?width=140&height=28&auto=webp&s=4a5965cbeb937c267dde3348bc8ce9cea87d5514"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/KarmaEmperor",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "dc1ac6e8c7eb",
+   "canon": "https://www.reddit.com/comments/1xvx5tf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvx5tf/i_recreated_a_pokemon_battle_scene_in_game_pixel/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "I recreated a pokemon battle scene in game pixel style using Claude",
+   "text": "I rebuilt the Ash vs Leon Masters Eight final as a pixel-art game battle, fully in code with Claude Code, by reverse-engineering the \"DNA\" of a fan game's promo. I also tested three reverse-engineering tools (HyperFrames reverse-any-video, rea-video and Hypit) using the same…",
+   "author": "hungrystrategist",
+   "publishedAt": "2026-11-14T08:17:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/2HCOOTO00MyohGlsCnfa815moJRgY1ZZ1eI8-RkviKw.jpeg?width=320&crop=smart&auto=webp&s=70db308f7922abdf294b0775e6129ff9d0759082"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/hungrystrategist",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d88f1b8c2724",
+   "canon": "https://www.reddit.com/comments/1xvx3td",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/WebXR/comments/1xvx3td/got_new_objects_to_sketch_themselves_into_my/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "got new objects to sketch themselves into my three.js scene instead of just popping in. the hard part wasn't the drawing",
+   "text": "been working on a thing where you change a three.js scene from inside a quest just by saying what you want. new meshes used to just pop in, so now they get sketched in with orange edges first and then the material fades in, about 2 seconds each.\n the drawing was the fun bit. i…",
+   "author": "Cauliflower-Full",
+   "publishedAt": "2026-11-14T08:14:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eGV1ZTh4aXJkajFpMdKPNoFvCN7sBC4zfl9b-FRo67b67lDWheQ_ew2ZB2YU.png?width=640&crop=smart&auto=webp&s=b9b1561354cbe1c91a07a8af02722a0b7123ed59"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three",
+    "threejs"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Cauliflower-Full",
+   "where": "r/WebXR",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7bd77fe5313b",
+   "canon": "https://www.reddit.com/comments/1xvwgpc",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xvwgpc/cyberpunk_2077_running_standalone_on_apple_vision/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "Cyberpunk 2077 running standalone on Apple Vision Pro — true 6DoF aiming & physical mag/slide reloads (No PC, no streaming)",
+   "text": "No PC, no ALVR/Moonlight streaming, no face-aiming.\n This is the Mac App Store arm64 build of Cyberpunk 2077 running directly on Vision Pro via custom Metal/VRIK shims (BYO copy of the game):\n - Stereo 6DoF VR rendering & detached gun/arm aiming\n - Slide lock on empty → physical…",
+   "author": "Other_Train9419",
+   "publishedAt": "2026-11-14T07:35:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/YWdvNGdkbTU3ajFpMXdCf1YFiZJRoQdYtZ1jtRvldCqwY1oR6kf6CAofQ3uO.png?width=640&crop=smart&auto=webp&s=3aa179a78ca147c190fce866df51233e8c78eeca"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Other_Train9419",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "61e833488455",
+   "canon": "https://www.reddit.com/comments/1xvwes5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xvwes5/cyberpunk_2077_running_standalone_on_apple_vision/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "Cyberpunk 2077 running standalone on Apple Vision Pro — 6DoF aiming & manual mag/slide reload (No PC, no streaming)",
+   "text": "Standalone Cyberpunk 2077 running directly inside Apple Vision Pro (no gaming PC, no ALVR/Moonlight streaming).\n What's shown in this 23s clip:\n - Stereo 6DoF VR view & arm/gun tracking in Night City (Dogtown)\n - Slide lock on empty, physical magazine insert, and slide rack to…",
+   "author": "Other_Train9419",
+   "publishedAt": "2026-11-14T07:31:35+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/czN5cHlsOGg2ajFpMXdCf1YFiZJRoQdYtZ1jtRvldCqwY1oR6kf6CAofQ3uO.png?width=640&crop=smart&auto=webp&s=54fa678b03aa8428b3d5e457fa5409ef5ca81124"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Other_Train9419",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "16df04b27d82",
+   "canon": "https://www.reddit.com/comments/1xvwd6a",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xvwd6a/unpopular_opinion_some_of_you_think_models_get/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "Unpopular opinion: some of you think models get enshittified because you built a system without resilience and heavy testing, and then blame it on the model when it breaks three weeks later",
+   "text": "Title.\n After having managed business systems for a couple of years now, relying pretty heavily on coding agents to do so, I've lately been reflecting on the importance of the less \"flashy\" things that are becoming increasingly easy to forget in the age of AI. I mean the things…",
+   "author": "RepliesAsOtherPeople",
+   "publishedAt": "2026-11-14T07:28:54+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RepliesAsOtherPeople",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f773d22de742",
+   "canon": "https://www.reddit.com/comments/1xvw1ps",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xvw1ps/celeste_64_vr_mod_on_testflight/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "Celeste 64 VR Mod (on TestFlight)",
+   "text": "This is an unofficial fan port of Celeste 64: Fragments of the Mountain to Apple Vision Pro:\n the game world rendered in stereo in a full immersive space, head tracking, and\n game-controller input.\n Celeste 64 was made by the Celeste team (Maddy Makes Games, Inc.) for Celeste's…",
+   "author": "LowRiderXR",
+   "publishedAt": "2026-11-14T07:09:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/p1btldp92j1i1.png?width=640&crop=smart&auto=webp&s=b3fe7f5e24b4b8b6eee9c0e419796d67d89c3d67"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/LowRiderXR",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "cc5a8e8d4992",
+   "canon": "https://www.reddit.com/comments/1xvvqzh",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvvqzh/i_built_agent_desk_with_claude_code_one_screen/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "I built Agent Desk with Claude Code: one screen for all your Claude Code agents (free, open source)",
+   "text": "I run a lot of Claude Code agents at once with agent-manager, each in its own tmux pane. I kept finding one stuck on a permission prompt for twenty minutes while I watched another. So I built Agent Desk: a free, open-source (Apache 2.0) local GUI where every agent is on one…",
+   "author": "theguysperry",
+   "publishedAt": "2026-11-14T06:51:55+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/theguysperry",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0e573315da83",
+   "canon": "https://www.reddit.com/comments/1xvvk96",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xvvk96/i_built_a_free_ai_npc_sdk_so_solo_devs_dont_go/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "I built a free AI NPC SDK so solo devs don't go bankrupt from LLM API bills.",
+   "text": "Hi fellow ai game devs!\n I’m a solo developer building a WebXR metaverse platform called MetaStar.\n While working on my project, I noticed a huge pain point that many of us share: We all want to integrate AI NPCs (like ChatGPT-powered avatars) into our games and 3D worlds to…",
+   "author": "OkDoctor6113",
+   "publishedAt": "2026-11-14T06:40:39+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "xr",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/OkDoctor6113",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "65d2a7e9cdab",
+   "canon": "https://www.reddit.com/comments/1xvvd5i",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvvd5i/picking_opus_55_for_voice_mode_actually_gives_you/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "Picking Opus 5.5 for voice mode actually gives you Opus 5",
+   "text": "I've been using voice mode a lot for studying and noticed it burns through my usage way faster than just typing to Opus 5.5. Got curious and poked around in the desktop app files. Anyone else noticed this?",
+   "author": "Good_Performance2722",
+   "publishedAt": "2026-11-14T06:29:08+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/9i2ijtlnui1i1.png?width=640&crop=smart&auto=webp&s=19e05d313455795196b6536fbd5325cbc932dc95"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Good_Performance2722",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "809d0ae50a15",
+   "canon": "https://www.reddit.com/comments/1xvv63h",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xvv63h/my_first_ever_game_is_my_dream_dbz_racer/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "My first ever game is my dream DBZ racer",
+   "text": "Its a fast paced aggressive racer with multiple game modes.\n The link is https://wunnam-ak.itch.io/z-riders if you wanna try it, i would love feedback\n I went for the ps1 look for style what do yall think?\n My workflow was using claude + Godot and Meshy for the models. For music…",
+   "author": "Fine-Combination5170",
+   "publishedAt": "2026-11-14T06:17:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aTNkZGV1ZDVyaTFpMbCYw9Bm7e-6MoifTM_hYbkNzRP8GVqVqDQTdcelMtoW.png?width=640&crop=smart&auto=webp&s=3c5a1ec2b8a933b40e62c317aa7072fbbc9b5bfb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Fine-Combination5170",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "378ecb333e9b",
+   "canon": "https://www.reddit.com/comments/1xvuxuw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvuxuw/terrible_claude_results_with_blender/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "Terrible Claude results with Blender",
+   "text": "Please help😭\n So I was trying to see how Claude performs in Blender, I gave it a reference design and asked it to recreate it in blender, I have attached 4 images, 1st output is terrible, 2nd image is still decent but not as good as what I have seen other people make with…",
+   "author": "Irbo1",
+   "publishedAt": "2026-11-14T06:05:02+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/yzbf3lx1oi1i1.png?width=140&height=72&auto=webp&s=9ac7a8734d9348569e3a347a7574d7167a306d0b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Irbo1",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "97b2f9533627",
+   "canon": "https://www.reddit.com/comments/1xvuppj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvuppj/ai_coding_agents_have_made_me_10x_faster_at/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "AI coding agents have made me 10x faster at creating problems I didn’t have yesterday.",
+   "text": "Before AI coding agents:\n I spent 2 hours writing code and 30 minutes debugging it.\n Now:\n I spend 5 minutes describing what I want, 10 minutes watching Claude build it, and 3 hours figuring out why it decided to refactor half my project.\n And somehow, I’m still impressed every…",
+   "author": "holyhacker",
+   "publishedAt": "2026-11-14T05:52:17+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/holyhacker",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2d7d0d9a1da8",
+   "canon": "https://www.reddit.com/comments/1xvup3q",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xvup3q/backdrop_an_opensource_theming_kit_for_claude_code/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "Backdrop | An Open-Source Theming Kit for Claude Code!",
+   "text": "Thanks to Anthropic and the devs, Claude Code can now load theme mods. But right now, making one means writing a mod yourself, or asking Claude to build a new one for every change.\n ￼​https://github.com/AkkiCode06/claude-backdrops/blob/60a127c10c3e640042746a186337ee2c01b2cc90/ass…",
+   "author": "OkInevitable9516",
+   "publishedAt": "2026-11-14T05:51:19+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/hqkc3ktdoi1i1.gif?width=640&crop=smart&s=1755eaea44a34065203eb3d781b05f9690e09c13"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/OkInevitable9516",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "daedb476afb2",
+   "canon": "https://www.reddit.com/comments/1xvuoes",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xvuoes/i_cant_code_and_work_13hour_days_in_construction/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "I can't code and work 13-hour days in construction. I shipped a mobile roguelite made 100% with AI in two months.",
+   "text": "My only game industry experience is three months as a game designer, years ago. I never learned to code, and I work in construction. Over the last two months I built and shipped a mobile game where AI did all the code, art and music, and I did the design and made the decisions.…",
+   "author": "RisingTHRONEKOR",
+   "publishedAt": "2026-11-14T05:50:14+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/vzmitj8rni1i1.png?width=140&height=66&auto=webp&s=e938c40eeea8dc224db588293059623ec85f4e15"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RisingTHRONEKOR",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9a41b90683da",
+   "canon": "https://www.reddit.com/comments/1xvuc6j",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvuc6j/ive_spent_six_weeks_building_an_opensource_video/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "I’ve spent six weeks building an open-source video editor with Claude Code. What worked and what bit me",
+   "text": "I'm building AgentShot with Claude Code: a desktop video editor where you type what you want (\"cut the ums\", \"make it vertical with captions\") and it makes the cut. It's about 360 commits and six weeks old. It's GPL, it runs on your own computer, and it uses your own Claude key…",
+   "author": "proomptengineer",
+   "publishedAt": "2026-11-14T05:30:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ciIFAFhdx0XCHbWIeQwtRmp5ur4jqbHg6aL0H7xwaa8.jpeg?width=640&crop=smart&auto=webp&s=f9c6f62148caae400cf8a4cf13111bd4af1b571d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/proomptengineer",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2dc65deb4343",
+   "canon": "https://www.reddit.com/comments/1xvtw8i",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xvtw8i/i_built_agent_desk_with_claude_code_one_screen/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "I built Agent Desk with Claude Code: one screen for all your Claude Code agents (free, open source)",
+   "text": "I run a lot of Claude Code agents at once with agent-manager, each in its own tmux pane. I kept finding one stuck on a permission prompt for twenty minutes while I watched another. So I built Agent Desk: a free, open-source (Apache 2.0) local GUI where every agent is on one…",
+   "author": "theguysperry",
+   "publishedAt": "2026-11-14T05:05:56+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/theguysperry",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "63e955cefc96",
+   "canon": "https://www.reddit.com/comments/1xvtis7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xvtis7/the_best_part_of_cyberpunk_2077_in_vr/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "The Best Part of Cyberpunk 2077 in VR",
+   "text": "Lizzy Wizzy's performance at the Black Sapphire is hands down one of the most visually stunning moments in Cyberpunk 2077. The first time I saw it, I knew buying Phantom Liberty was worth every penny.\n Experiencing it again with the VR mod was absolutely incredible. It's just a…",
+   "author": "AdBorn3753",
+   "publishedAt": "2026-11-14T04:46:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OHo4b3Y4cW5jaTFpMVudD6LHRQ1aPjZCjEHMYSjlNsoYOO3l0v24xsvlrXXh.png?width=640&crop=smart&auto=webp&s=e17d4e12715996233070d016fcb11b4c6456db6f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AdBorn3753",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "de6f7e23e826",
+   "canon": "https://www.reddit.com/comments/1xvsuzo",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xvsuzo/playing_games_on_vision_pro/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "Playing games on vision pro",
+   "text": "So I been trying to play bf6 via Stream Link from my pc, and the input lag is kinna an issue ( i have ROG Rapture Wi-Fi 7 router). I’m thinking about getting the developer headtrap so i can either use a capture card or plug it via Ethernet. Has anyone had any idea if this works…",
+   "author": "Cod24032005",
+   "publishedAt": "2026-11-14T04:09:39+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/92a9cz5j6i1i1.jpeg?width=640&crop=smart&auto=webp&s=105a0b3e9afc5513edb1d5c34bca70d0ca79bc6e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Cod24032005",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "89e1d7fe90b3",
+   "canon": "https://www.reddit.com/comments/1xvsopv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/AR_MR_XR/comments/1xvsopv/made_an_architectural_presentation_in_ar_from/",
+   "addedAt": "2026-11-14T10:33:26.494Z",
+   "title": "Made an Architectural Presentation in AR from just a few photos of a building.",
+   "text": "",
+   "author": "xrosspost",
+   "publishedAt": "2026-11-14T04:00:30+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/xrosspost",
+   "where": "r/AR_MR_XR",
+   "fetchedAt": "2026-11-14T10:33:26.494Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "ca2eb377490f",
    "canon": "https://www.reddit.com/comments/1xvphh4",
