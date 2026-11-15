@@ -1,8 +1,862 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-11-14T22:36:29.421Z",
+ "updatedAt": "2026-11-15T06:45:44.927Z",
  "cases": [
+  {
+   "id": "be10d1f1681a",
+   "canon": "https://www.reddit.com/comments/1xwnrpa",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xwnrpa/claude_made_me_an_australian_accounting_practice/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "Claude made me an Australian Accounting Practice Simulator",
+   "text": "I had Claude set out to make an Australian accounting simulator. I was heavily inspired by BitLife's gameplay starting out but over time the concept evolved considerably as I began incorporating more complex systems such as team management, practice management, and client…",
+   "author": "Effective-Session-48",
+   "publishedAt": "2026-11-15T05:50:31+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/67wfkeessp1i1.png?width=140&height=60&auto=webp&s=dd5926ea90105f2763f4e0e12af9974d8006bf06"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Effective-Session-48",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "eabdfb5d6355",
+   "canon": "https://www.reddit.com/comments/1xwnn99",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xwnn99/i_made_one_myself/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "I made one myself",
+   "text": "I got so sick of the predatory credit/token limits on those AI text rpg games (like OOC and Infinite Worlds) that I had Claude make me one just for me. \n No limits (but sadly image generation sucks ... Gotta work on that bit), no tokens.",
+   "author": "Toben-",
+   "publishedAt": "2026-11-15T05:42:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/zpxawgg3sp1i1.jpeg?width=640&crop=smart&auto=webp&s=216c15f995c0531ecf459fdb803bd7e62ab3a3cf"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Toben-",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9ffcfd81781d",
+   "canon": "https://www.reddit.com/comments/1xwncte",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xwncte/brackwater_weekly_20261114/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "Brackwater Weekly, 2026-11-14",
+   "text": "Only one week in building my dream game with Claude, and it's really amazing how much faster I can go with AI tools. In the before times, I would have been really happy making 1/4 of the progress in a month as I've done in a week's worth of evenings and weekends.\n The game is…",
+   "author": "plastic_machinist",
+   "publishedAt": "2026-11-15T05:26:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/PEoA1rxwXF-TbTeR13FEhHggKwfGhCDcfy1b55-JAv0.jpeg?width=320&crop=smart&auto=webp&s=27a84f8d8b457919c4295f899fd054a6cbeaa1fb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/plastic_machinist",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "991f200a5ddd",
+   "canon": "https://www.reddit.com/comments/1xwn6rb",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xwn6rb/software_engineer_first_game_a_procedural/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "Software engineer, first game: a procedural SAO-style floor built with Claude Code, from the starting city to the tower",
+   "text": "Got into software dev because of video games. Tried to dabble in it for years, but never had the time (or energy) to get anything going - that and a lack of a good idea. After watching Sword Art Online (SAO) years ago, I started to crave a game that fully captured that feeling…",
+   "author": "javon27",
+   "publishedAt": "2026-11-15T05:16:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/a2Jxa2syazdtcDFpMUDd9H5DddRc85Zul4zguOBh2SrmqhpHdGw8_4CPHOH7.png?width=640&crop=smart&auto=webp&s=0dcb0b463a7484ac5645b01b217e700da3d05da9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/javon27",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2ce160d250a8",
+   "canon": "https://www.reddit.com/comments/1xwmtbx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xwmtbx/no_you_check_the_ui/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "No, YOU check the ui.",
+   "text": "Sorry for the poor quality photo. It’s a frame from a video I took while this was going. \n I got tired of Claude asking me if the UI on this thing had updated yet so I hooked up a WebCam to it and told it to check itself. It worked great lol",
+   "author": "Siriann",
+   "publishedAt": "2026-11-15T04:56:16+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/j4nwzwerjp1i1.jpeg?width=640&crop=smart&auto=webp&s=7db08104bdcc478b7e167d93e40bef0adfe628a5"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Siriann",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bb0f536786a6",
+   "canon": "https://www.reddit.com/comments/1xwmdit",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xwmdit/gameboy_style_android_launcher/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "Gameboy style android launcher.",
+   "text": "Few prompts with Claude and made this. Not sure if anyone would use it but pretty cool. Yes you can change colors too.",
+   "author": "Helios993",
+   "publishedAt": "2026-11-15T04:31:05+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/ddrv5vj9fp1i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=f3476039786e55075d1b96cb1df669d3d2be51a4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Helios993",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "6b6bd2afbbd1",
+   "canon": "https://www.reddit.com/comments/1xwmazn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xwmazn/built_a_factchecker_that_catches_politicians/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "built a fact-checker that catches politicians lying in real-time",
+   "text": "I've embarrassingly been working on this project for 2 years so wanted to finally share (as I saw others posting Youtube-only versions).\n on Youtube it transcribes text to identify checkable claims -> web search retrieves sources to base Claude's verdict on, to avoid…",
+   "author": "Ok_Measurement5015",
+   "publishedAt": "2026-11-15T04:27:16+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ajhweWgybGtlcDFpMcpzDhl8bRN0zlXsgkiLQLRuyTuvB_rAh87TQk0U7O4i.png?width=640&crop=smart&auto=webp&s=a0099bc7154d587f18818a2c84f6813f29f5bec6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ok_Measurement5015",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "31484a746836",
+   "canon": "https://www.reddit.com/comments/1xwlzzx",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwlzzx/i_make_a_weekly_puppet_sketch_show_with_claude/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "I make a weekly puppet sketch show with Claude Code. Here's how it works.",
+   "text": "I built Almost Television, a 12-minute puppet sketch comedy show, with Claude Code and the Claude API. It's free to watch on YouTube. The video above is a two-minute backstage piece from episode 5.\n The full episode it comes from is here:…",
+   "author": "Slackluster",
+   "publishedAt": "2026-11-15T04:10:33+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NngwZ3liOGhicDFpMVrVs2XPqsfgexY2-9v_qLAzjLCUx638h-pmwW9Yl2I2.png?width=640&crop=smart&auto=webp&s=94c5e5023f02faee1d3071a48dc625fe7e62bb4f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Slackluster",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "385956ad2803",
+   "canon": "https://www.reddit.com/comments/1xwlqzw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xwlqzw/i_made_a_base_defense_tower_defense_game_and_id/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "I made a Base Defense / Tower Defense game and I’d love for you to play it! =D",
+   "text": "Hello, friends! I’m a 35-year-old Brazilian lawyer who loves strategy and base-defense games. For a few months now I’ve been thinking about and building a caravan-defense game, which will grow into a game of siege defense, fortress assaults, and even some RTS elements.…",
+   "author": "Pure_Requirement4469",
+   "publishedAt": "2026-11-15T03:57:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/M3czbDZmeWY4cDFpMf5VmOefKNnHYiTqeSqVlZNXtNs0iotYqqoFIHwIYMed.png?width=640&crop=smart&auto=webp&s=8e9e7cf52df323e92cf83e5866a7588375b2d7e6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Pure_Requirement4469",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "77899f845f6e",
+   "canon": "https://www.reddit.com/comments/1xwlfsn",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwlfsn/for_those_who_asked/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "For those who asked",
+   "text": "The other day I posted a scene that I had Fable 5.2 make in blender. Lots of people asking about workflow and some just straight up did not believe it lol so i made this vid explaining how it was made, plus I think its dumb to gate keep info that can help others learn. This…",
+   "author": "Gambo7592",
+   "publishedAt": "2026-11-15T03:40:17+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cnV3dHp5bHM1cDFpMbHRYAHXDAFgnPGHTXhC_QRNq7ke8IIZG29DxbLEySVU.png?width=640&crop=smart&auto=webp&s=c13136d57e0408abcaf17300337c85e1573c8293"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Gambo7592",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ebc3ba86e410",
+   "canon": "https://www.reddit.com/comments/1xwlb72",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xwlb72/cyberpunk_vr_mod_menu_screen_on_start/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "Cyberpunk VR Mod Menu Screen on Start",
+   "text": "hey does anyone know why cyberpunk keeps doing this on start up? i literally had it all working perfectly fine and then i tried to tweak some graphics settings in game which was okay and then upon reverting them back to the original graphics my game decided to pop up this. No…",
+   "author": "Mr_Blind_Spot169",
+   "publishedAt": "2026-11-15T03:33:22+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/siq7pyo54p1i1.png?width=640&crop=smart&auto=webp&s=453fde20da700c825039d74b0f77047d12fc9966"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Mr_Blind_Spot169",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d014937dc4ac",
+   "canon": "https://www.reddit.com/comments/1xwl7ig",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xwl7ig/train_player_web3d_build_tracks_drive_trains/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "Train Player Web3D — Build Tracks, Drive Trains, Manage the Railway, and Get Together with Friends, Used Three.js and Claude Code to write the code",
+   "text": "I created a simulation game that lets you build and operate your own railroads using Claude (such as Fable 5.2 and Sonnet 5.5).\n In addition to train operation, this game features a management simulation, online multiplayer, and a 3D space for casual chat.\n I plan to continue…",
+   "author": "Upstairs-Brief1346",
+   "publishedAt": "2026-11-15T03:27:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ABsN-H2Hf9U6Sl429uyliBpOo0NjRzBP7Ngur5ITDjw.jpeg?width=640&crop=smart&auto=webp&s=f07ebda9f712dc1ddf24a6d4763d983560445665"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Upstairs-Brief1346",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": "Sonnet 5.5"
+  },
+  {
+   "id": "20b2c979e50a",
+   "canon": "https://www.reddit.com/comments/1xwl4an",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/threejs/comments/1xwl4an/im_an_electronic_engineer_building_my_first_indie/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "I'm an electronic engineer building my first Indie RPG. I used Claude to code this entire Three.js/GSAP interactive teaser in a single HTML file.",
+   "text": "Hey everyone. I'm currently solo-developing my first indie game called Criptfall: El Ojo de Vaelmor. It's a 2D-HD medieval board-RPG (imagine the tension of Mario Party, but in a dark fantasy setting).\n Coming from an engineering background, coding the game logic/state machines…",
+   "author": "juancamilo28_dev",
+   "publishedAt": "2026-11-15T03:22:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OXJieTJsb3gycDFpMSf16PkAAyM8STdXUpHWgynqe9EJ-hmtRQN25B_jqSVM.png?width=640&crop=smart&auto=webp&s=576c41f3625db08f55717f37d7001d43d3e11a3f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/juancamilo28_dev",
+   "where": "r/threejs",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "57ea4b5c92df",
+   "canon": "https://www.reddit.com/comments/1xwl0ge",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwl0ge/anime_claude_code_theme/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "Anime Claude Code Theme",
+   "text": "You can try the theme here! https://github.com/Cozyuwu/mademoiselle-claude",
+   "author": "AnxietyOutrageous961",
+   "publishedAt": "2026-11-15T03:17:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/vvtcz8ay1p1i1.png?width=140&height=90&auto=webp&s=53a062fe4ace774eef4e8cfe3eecb34a25fbb1da"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/AnxietyOutrageous961",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3ddae0892988",
+   "canon": "https://www.reddit.com/comments/1xwkx4e",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xwkx4e/cyberpunk_2077_complete_physics_overhaul/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "Cyberpunk 2077 - Complete Physics Overhaul",
+   "text": "",
+   "author": "RememberMementoMori",
+   "publishedAt": "2026-11-15T03:12:23+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Z88FIKzC8htyDra0jFjwVLkxNRBke80QTBOIPDa_eZ8.jpeg?width=320&crop=smart&auto=webp&s=a911ba411185d7134e1565264a1cc2718f71e52a"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RememberMementoMori",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "08625869bbb5",
+   "canon": "https://www.reddit.com/comments/1xwkvzm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xwkvzm/instrument_player_in_browser/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "Instrument player in browser",
+   "text": "Hi I wanted to make an interesting midi visualizer / player for the instrument plugins im building. But this visualization is a robot band that plays the songs. You can also take over and play the instruments as well.\n Here is the link to the project if you want to play with…",
+   "author": "Active_Cauliflower71",
+   "publishedAt": "2026-11-15T03:10:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OWFlcXJ6MHcwcDFpMUKIEquDIolgUbFyLSaYv_cak79O4qTjNwuQPlMjJd5q.png?width=640&crop=smart&auto=webp&s=61d584b4b87b45493c5f275cc9a9fba28f2993bb"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Active_Cauliflower71",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "f4ff086ef4f3",
+   "canon": "https://www.reddit.com/comments/1xwkoz4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwkoz4/i_built_a_web_racing_game_for_my_vinyl_business/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "I built a web racing game for my vinyl business in 1 week without Fable",
+   "text": "https://underground.auravinyl.com\n Vinyl is my small side business I made specifically to employ my parents. I've been working in interactive experiences for almost 20 years, since I was a teenager back in the Flash days. \n I started building the game on November 4, and finished…",
+   "author": "aurapremiumvinyl",
+   "publishedAt": "2026-11-15T03:00:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/b3VodW4wMW92bzFpMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=6a77150a20fc85f258e3b672b8f6be98577d8ca0"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/aurapremiumvinyl",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "65133af2f762",
+   "canon": "https://www.reddit.com/comments/1xwkksp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xwkksp/showoff_saturday_i_created_an_ai_frog_that_the/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "[Showoff Saturday] I created an AI frog that the whole internet shares, and it's one of my favorite technical projects I've ever built",
+   "text": "This is James. He lives in a low-poly terrarium as a simulation you can interact with: give him snacks, pet him, tap on the glass, and leave him notes. Everyone is watching the same frog at the same time.\n Stack: Next.js on Vercel, Convex for his state, Three.js for the tank,…",
+   "author": "Vast-Grapefruits",
+   "publishedAt": "2026-11-15T02:54:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ryRMxIImXn4VSlwMCCB5a5KVzdu-1egu8i24tJFvX0Q.png?width=640&crop=smart&auto=webp&s=69361dbf813e050551f83b9a1caa03137308de1e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "threejs"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Vast-Grapefruits",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d9c47d6ab0e3",
+   "canon": "https://www.reddit.com/comments/1xwke6h",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwke6h/psa_anyone_can_now_apply_for_claude_mythos_52/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "PSA: anyone can now apply for Claude Mythos 5.2,",
+   "text": "Got approved for Mythos 5.2 yesterday. Whole application took about ten minutes. Pick Defense Access, not Red Team. It’s the one for protecting your own stuff, and it’s way easier to get. Once approved, Mythos 5.1 and 5.2 show up under More models.",
+   "author": "Ok-Heart-3365",
+   "publishedAt": "2026-11-15T02:45:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/VERuiibvnwTXioO__lXPxxHOy6ot0TN3C-vvWxw8jWA.jpeg?width=320&crop=smart&auto=webp&s=bb2bff60752ba7bd76269a92371decda2d26ee61"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Ok-Heart-3365",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d5b01fd7f7a9",
+   "canon": "https://www.reddit.com/comments/1xwk88k",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xwk88k/i_got_tired_of_claude_codes_interface_so_i_had_it/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "I Got Tired Of Claude Code's Interface --- So I had it make me one.",
+   "text": "A while back I had hopped on the Claude Code train and loved what I was seeing. However, it didnt 'do' all the things that I wanted as a dev, and I began to question the magical token burning. So naturally, when I got some of them sweet free tokens/resets, I had it build me a…",
+   "author": "Reapazor",
+   "publishedAt": "2026-11-15T02:36:39+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Reapazor",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4bd7314e0db8",
+   "canon": "https://www.reddit.com/comments/1xwk66v",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xwk66v/i_stopped_babysitting_claude_code_a_lamp_does_it/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "I stopped babysitting Claude Code. A lamp does it now.",
+   "text": "If you run Claude Code or Codex on anything bigger than a one-line fix, you know the loop. You hand it a task, it starts working, and then you hover. Is it still going? Has it stopped to ask you something? Did it finish ten minutes ago?\n Now the lights in my house tell me what…",
+   "author": "No-Manner7058",
+   "publishedAt": "2026-11-15T02:33:40+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/we84w0dkso1i1.gif?width=640&crop=smart&s=fffc49a37d078d11f9b7383f45d7d08f7304b951"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/No-Manner7058",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ffc8e044bbf4",
+   "canon": "https://www.reddit.com/comments/1xwk258",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xwk258/my_lg_g4_custom_webos_ui/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "My LG G4 custom webOS UI",
+   "text": "I used Claude and codex to revamp the UI on my LG G4 (after removing all the spyware of course!)\n I added a cute little helper (my wifes request) that follows you around and gives ratings and comments on shows. He also dresses up in costumes and makes jokes pertaining to the…",
+   "author": "raddavo",
+   "publishedAt": "2026-11-15T02:27:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eThjMWpxdjh0bzFpMY6LDDxx1LY7tAsObsZXn4LXkaOqC9A9ipJjGUkjNTfF.jpeg?width=640&crop=smart&auto=webp&s=76487bdf7e2fb6c3204b0122d9b1790f7917564f"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/raddavo",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c6f6eeccf308",
+   "canon": "https://www.reddit.com/comments/1xwhzew",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xwhzew/kingdom_come_deliverance_2_w_6dof_motion_controls/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "Kingdom Come Deliverance 2 w/ 6DOF Motion Controls",
+   "text": "",
+   "author": "RememberMementoMori",
+   "publishedAt": "2026-11-15T00:40:45+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/TracrQkeWd1_fJcjCH38N30SSxEbCAXntoBxUHPsk2g.jpeg?width=320&crop=smart&auto=webp&s=a89657aa7d87cb20876310b6fe7464a9a6bf3bae"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/RememberMementoMori",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "46cc7e4ddffd",
+   "canon": "https://www.reddit.com/comments/1xwh63q",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xwh63q/20person_house_reconstruction_from_a_10_minute/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "20-Person House Reconstruction from a 10 minute 360 X5 video - Splatify3D",
+   "text": "First of all I wanted to give a huge thanks to all of you who showed your support on my previous post about this.\n I've continued to work on Splatify3D, a self made & hosted tool that uses a custom built SLAM workflow to achieve full coverage camera reconstruction even on the…",
+   "author": "Nebulafactory",
+   "publishedAt": "2026-11-15T00:01:28+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cXJ5OTlscTIybzFpMY8NosokgUsaLMh24RtgmjnhvsUh0SQZJQV_6P64URmp.png?width=640&crop=smart&auto=webp&s=bcfa8a45807d03311fb0d7bc1aeadf38f969cf92"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "gsplat",
+    "three",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "gsplat"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Nebulafactory",
+   "where": "r/GaussianSplatting",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "09cb1f62d6dc",
+   "canon": "https://www.reddit.com/comments/1xwgtpk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xwgtpk/resident_evil_2_remake_feels_so_much_more/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "Resident Evil 2 Remake feels so much more suspenseful in VR",
+   "text": "",
+   "author": "ILoveKetchup402",
+   "publishedAt": "2026-11-14T23:45:50+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/cG5memV1ZjkwbzFpMYmY0cDpp1Eu_lseHWR4I6TdCq_oeC93814CvEVhllU4.png?width=640&crop=smart&auto=webp&s=394cf5afcb6d26de7a9c4410d126062a5e777a04"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ILoveKetchup402",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "467f1dfe6e7d",
+   "canon": "https://www.reddit.com/comments/1xwg6p7",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xwg6p7/spatial_tracks_song_of_the_week_pink_floyd_on_the/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "Spatial Tracks — Song of the Week: Pink Floyd - On the Run",
+   "text": "This week's highlight is On the Run from Pink Floyd's The Dark Side of the Moon — jets, a flying saucer, and waves of sound racing around you in Apple Vision Pro. It's one of the many free tracks in Spatial Tracks.\n App Store:…",
+   "author": "Electrical_Ad9041",
+   "publishedAt": "2026-11-14T23:16:10+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MXE1bHo5OHN1bjFpMayJ2LIb0jHE2UVxPtrVguIsSRY-GfaW0EWvtSe_lhQd.png?width=640&crop=smart&auto=webp&s=c92129d7f70159d1a6f5b226928ff6f518d32578"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Electrical_Ad9041",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "ed44a5f49568",
    "canon": "https://www.reddit.com/comments/1xwf4le",
@@ -290,6 +1144,39 @@ window.CASES_DB = {
    "model": null
   },
   {
+   "id": "1f3a57bbc462",
+   "canon": "https://www.reddit.com/comments/1xwdvhf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xwdvhf/im_a_huge_fan_of_microsoft_flight_sim_2024_but/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "I'm a huge fan of Microsoft Flight Sim 2024, but the crash physics always disappointed me. So I had Fable 5.2 and Opus 5.5 make my own flight sim!",
+   "text": "You can freely download the source code and compile the game here:\n https://github.com/Rolandjg/fableflight\n The game is fairly performant for how detailed the graphics are, you will need a reasonably powerful GPU though. This is recorded on my RTX 3060.\n I have two Claude Plus…",
+   "author": "ImpactIntelligent218",
+   "publishedAt": "2026-11-14T21:31:07+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Y3l3MW5jOHBibjFpMR6HN24z7o3nvXO4efCwRNYgMRHqOhCHJhH44lKJuiXc.png?width=640&crop=smart&auto=webp&s=9b6912764aa010b94925a853dc7ac9cbe5ac1414"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ImpactIntelligent218",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
    "id": "d3f11558c931",
    "canon": "https://www.reddit.com/comments/1xwdu95",
    "platform": "reddit",
@@ -545,6 +1432,39 @@ window.CASES_DB = {
    "fetchedAt": "2026-11-14T22:31:14.572Z",
    "lang": "en",
    "model": "Opus 5.5"
+  },
+  {
+   "id": "e2abccaa160c",
+   "canon": "https://www.reddit.com/comments/1xwc7dw",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xwc7dw/i_built_klad_with_claude_a_painting_app_your/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "I built Klad with Claude: a painting app your agent drives from the command line, now with pixel art",
+   "text": "Klad is a drawing app with a fully exposed cli written in rust, that Claude code can use. It can lay down brush strokes one at a time, and each and every stroke remains editable by you or the agent.\n Claude Code runs klad commands, the drawing is plain files, and you can open…",
+   "author": "QuantumWhisker",
+   "publishedAt": "2026-11-14T20:18:01+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/wawylsoazm1i1.gif?frame=1&width=140&height=65&auto=webp&s=a0291e77471a10069857a30eb968d66ab90646c8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/QuantumWhisker",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
   },
   {
    "id": "d75c67b12d77",
@@ -929,6 +1849,35 @@ window.CASES_DB = {
    "model": null
   },
   {
+   "id": "e877a76d5036",
+   "canon": "https://www.reddit.com/comments/1xwaihp",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xwaihp/introducing_cbooks/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "Introducing cbooks",
+   "text": "Introducing cbooks: I have not used ebooks much but always wanted to. I believe the experience has much to be desired. But now with LLMs I set out to move away from search and scroll back towards books. Not happy with the reader I could download I used Claude to build and adapt…",
+   "author": "CCoastTech",
+   "publishedAt": "2026-11-14T19:07:30+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/CCoastTech",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
    "id": "212b48b86e2d",
    "canon": "https://www.reddit.com/comments/1xwahcc",
    "platform": "reddit",
@@ -958,6 +1907,35 @@ window.CASES_DB = {
    "authorUrl": "https://www.reddit.com/user/macroscan",
    "where": "r/GaussianSplatting",
    "fetchedAt": "2026-11-14T22:31:14.572Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "39a15072a02f",
+   "canon": "https://www.reddit.com/comments/1xw9gt8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xw9gt8/im_84_not_a_programmer_and_i_just_finished/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "I'm 84, not a programmer, and I just finished building a jukebox with AI",
+   "text": "I collected 45s as a teenager in the 1950s and always wanted a jukebox. Never had the money or the room.\n This year I decided to build one on my computer. I can't write modern code, so I described what I wanted to Copilot, Gemini and Claude, and they built it, piece by piece,…",
+   "author": "mnorene1",
+   "publishedAt": "2026-11-14T18:25:20+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/mnorene1",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
    "lang": "en",
    "model": null
   },
@@ -1376,6 +2354,40 @@ window.CASES_DB = {
    "authorUrl": "https://www.reddit.com/user/nomadic_tech",
    "where": "r/ClaudeCode",
    "fetchedAt": "2026-11-14T18:11:36.648Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "127af833f143",
+   "canon": "https://www.reddit.com/comments/1xw6swf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xw6swf/made_my_first_claude_code_plugin_7_animated/",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "Made my first Claude Code plugin: 7 animated pixel-art cyberpunk themes, inspired by Edgerunners",
+   "text": "I’ve only recently started building stuff with Claude, and when the new custom themes came out I wanted to see how far I could push it. So I made a little cyberpunk mod for the desktop app.\n It’s 7 themes. Each one puts an animated pixel-art scene behind your chat and recolours…",
+   "author": "ontopofarasaka",
+   "publishedAt": "2026-11-14T16:38:29+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/NDBucnIwZDR3bDFpMRw7yoExoTADtMLoaWP2wTQ9ijtg3CMldmQxxMNShjPU.png?width=640&crop=smart&auto=webp&s=38e68fdc72fc38b4c8d8a7eec88c7adaf23b75c6"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ontopofarasaka",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
    "lang": "en",
    "model": null
   },
@@ -8627,6 +9639,104 @@ window.CASES_DB = {
    "authorUrl": "https://www.reddit.com/user/Real_Spacegoogie",
    "where": "r/virtualreality",
    "fetchedAt": "2026-11-12T20:00:17.506Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7358b7cbcba1",
+   "canon": "https://x.com/i/status/2120905625852936318",
+   "platform": "x",
+   "url": "https://x.com/deedydas/status/2120905625852936318",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "",
+   "text": "I asked Fable 5.2 to study all of music theory and generate the best house bangers.\n\nIt tries 1000s of random patterns for each instrument and chooses the optimal one and arranges it into a 72 bar track.\n\nI thought it did a really good job for not being able to hear [sound on]:…",
+   "author": "deedydas",
+   "publishedAt": "2026-11-12T15:44:40.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120904570314305536/img/Ha1ocJXQe34p0bk8.jpg",
+    "video": "https://video.twimg.com/amplify_video/2120904570314305536/vid/avc1/1206x2266/8g60h4oMlWzSL0mh.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 3966,
+    "views": 1022384,
+    "comments": 412
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/house-bangers",
+     "categories": [],
+     "date": "2026-11-13",
+     "credit": "deedydas",
+     "metrics": {
+      "likes": 3547,
+      "views": 772773
+     },
+     "model": null
+    }
+   ],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/deedydas",
+   "where": null,
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "44bcb1329eeb",
+   "canon": "https://x.com/i/status/2120890033833922611",
+   "platform": "x",
+   "url": "https://x.com/kinderlayer/status/2120890033833922611",
+   "addedAt": "2026-11-15T06:41:21.170Z",
+   "title": "",
+   "text": "this is f*cking wild - one of these cobras cost way more to make than the other.\n\nsame prompt, two models, a cobra tearing its way up through a palace carpet.\n\nClaude Fable 5.2 · Gemini 4 Argon\n\none came out carved from obsidian and molten lava, cracks glowing from the inside.…",
+   "author": "kinderlayer",
+   "publishedAt": "2026-11-12T14:42:42.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120889940561006592/img/svcZG6puvsxPpf7N.jpg",
+    "video": "https://video.twimg.com/amplify_video/2120889940561006592/vid/avc1/720x1280/Xu_9tVEkm9SI7LTJ.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 1356,
+    "views": 855372,
+    "comments": 69
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/palace-cobra",
+     "categories": [],
+     "date": "2026-11-12",
+     "credit": "kinderlayer",
+     "metrics": {
+      "likes": 1327,
+      "views": 840307
+     },
+     "model": null
+    }
+   ],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/kinderlayer",
+   "where": null,
+   "fetchedAt": "2026-11-15T06:41:21.170Z",
    "lang": "en",
    "model": null
   },
