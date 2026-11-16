@@ -1,7 +1,947 @@
 {
  "version": 1,
- "updatedAt": "2026-11-15T22:59:55.035Z",
+ "updatedAt": "2026-11-16T06:42:02.319Z",
  "cases": [
+  {
+   "id": "7a83f4efa91d",
+   "canon": "https://www.reddit.com/comments/1xxiazf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xxiazf/a_yokozuna_split_across_two_parallel_worlds_and/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "A yokozuna split across two parallel worlds, and walking straight into walls turned out to be the whole game",
+   "text": "SUMOVERSE is a one-screen puzzle. A yokozuna has been split into two parallel worlds, and every move you make happens in both at once. Press a direction and both halves step the same way.\n - Hit a wall and that half shoves it and stays put, while the other half keeps moving.…",
+   "author": "office-canard",
+   "publishedAt": "2026-11-16T06:31:28+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Zfy5eTkSqLm1ha8Coft1oYeXEBXFyIRt2JDa5ocP_Q0.jpeg?width=320&crop=smart&auto=webp&s=66549c942bbb084141f84c1958add9fbe983005c"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/office-canard",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "754ce8903115",
+   "canon": "https://www.reddit.com/comments/1xxi3uj",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xxi3uj/four_days_building_an_unrealengine_game_with/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "Four days building an UnrealEngine game with Claude Code for Epic AI MegaJam",
+   "text": "We’re three developers at Fantastico Studio, and we spent four days building Malasorte for the Epic AI MegaJam. It’s an Unreal FPS where egg-shaped characters shoot fortune-cookie predictions at each other. The predictions come true literally, and the park does the killing.\n All…",
+   "author": "Daniele-Fantastico",
+   "publishedAt": "2026-11-16T06:19:43+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Daniele-Fantastico",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4390ff44fd10",
+   "canon": "https://www.reddit.com/comments/1xxi2qy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xxi2qy/solo_dev_no_terminal_how_im_built_a_parryfocused/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "Solo dev, no terminal: how I’m built a parry-focused browser beat ’em up with AI (playable, gamepad + mobile) Claude + Codex",
+   "text": "I’ve been building Empty Fist Taro, a single-plane side-scrolling beat ’em up with fighting-game controls: two attack buttons, a grab, motion-input specials, and parrying as the core mechanic. It runs in the browser, works with a gamepad, and has touch controls for mobile. It’s…",
+   "author": "Agreeable-Gap5500",
+   "publishedAt": "2026-11-16T06:17:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/b25hOHBxMnkxeDFpMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=08930acdb1fe54b2f82ac2304ca0b3d47f75826e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Agreeable-Gap5500",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "84d545fa2c06",
+   "canon": "https://www.reddit.com/comments/1xxhju0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xxhju0/handwriting_to_font_converter_made_with_claude/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "Handwriting to font converter made with Claude Code: photo of a filled template in, .otf font out, all in the browser",
+   "text": "This one turns your handwriting into a real font file. You either draw each letter on screen, or print a template, fill it in with a pen and upload a photo. Out comes an OpenType (.otf) font you can install. I made the handwriting to font converter with Claude Code, and it all…",
+   "author": "vinishkapoor",
+   "publishedAt": "2026-11-16T05:47:11+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/hxkk8cqqxw1i1.jpeg?width=640&crop=smart&auto=webp&s=9ac505cd4fd04a101719bf7f65099a90d00be448"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/vinishkapoor",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "fbbc3b35824d",
+   "canon": "https://www.reddit.com/comments/1xxhezk",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xxhezk/boss_fights_in_bloodborne_vr_feel_amazing/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "Boss fights in Bloodborne VR feel amazing",
+   "text": "Holy hunt, I did NOT expect the Bloodborne VR mod to play so well and man was it a pleasant surprise. Melee Combat/Viserals/Dodging and even deflecting bullet feels super intuitive and responsive.\n One second your bumbling around learning the controls the next your dodging…",
+   "author": "littlerrip",
+   "publishedAt": "2026-11-16T05:39:06+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MjUwdmJrbTh3dzFpMZDxxWQh57ONaS-3eM_PaWbEIqhGax8giIhCaTdOqWW_.png?width=640&crop=smart&auto=webp&s=4025265b93cdfe37669f6236c45ab15668ac4c14"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/littlerrip",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b0436e51d837",
+   "canon": "https://www.reddit.com/comments/1xxhdqt",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxhdqt/i_had_claude_build_me_a_charcuterie_plate_and/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "I had Claude build me a charcuterie plate and suggest a wine pairing.",
+   "text": "I grew up in a household where red meat was verboten. When I left home I just never cared to try it.Today I decided that I only have 1 life and decided to upgrade my plates from chicken and turkey.\n I took photos of the various items on the shelf and had Claude explain to me the…",
+   "author": "InadequateUsername",
+   "publishedAt": "2026-11-16T05:36:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/txb1a1lxvw1i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=7fb82ca7f407b01a54cef68fa0c6c92e74f66e4d"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/InadequateUsername",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "db526fb00944",
+   "canon": "https://www.reddit.com/comments/1xxha2x",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xxha2x/me_and_claude_vibecoded_a_fully_customizable/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "Me and Claude vibecoded a fully customizable jukebox platform that works like Wordpress and runs either on a real jukebox or whatever you install it on.",
+   "text": "As the title says, I built a full jukebox platform. But, unlike others, mine has an install wizard that makes setup easy, and has a CMS backend that makes modifying it as simple as a Wordpress site. I built it with customizability in mind, so it also lets a user install their…",
+   "author": "notmyrralname",
+   "publishedAt": "2026-11-16T05:31:17+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dTRxNXZvOThydzFpMcn2-hu4jyrEChAWGCVnW89oLOyzPBEl2GkYfQLraI4E.png?width=640&crop=smart&auto=webp&s=73bdc835949139e8cbaf09895c138651a7310cdd"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/notmyrralname",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "ff9a2d5882ef",
+   "canon": "https://www.reddit.com/comments/1xxgpjs",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxgpjs/made_a_resume_builder_with_claude_code_that_runs/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "Made a resume builder with Claude Code that runs fully in the browser. Importing an old PDF resume was the hard part",
+   "text": "Most online resume tools let you design for an hour and then ask you to pay at the download step. This resume builder works entirely in the browser, with no sign-up, no watermark and no paywall at the end. I made it with Claude Code, and nothing you type gets uploaded anywhere.…",
+   "author": "vinishkapoor",
+   "publishedAt": "2026-11-16T05:00:19+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/69wylfoapw1i1.jpeg?width=140&height=71&auto=webp&s=5015a36a50a0cd5d1ab3fa5126b3bd315e2593b4"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/vinishkapoor",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "0ec32faaaf59",
+   "canon": "https://www.reddit.com/comments/1xxgjvv",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xxgjvv/i_made_a_documentary_for_vision_pro_where_real/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "I made a documentary for Vision Pro where real space-mission photographs open into places you stand inside. Out 20 Nov",
+   "text": "Hi all, Envoys of Mankind is a documentary about people leaving Earth, told through the real photographs, film and radio of the missions. Each photograph arrives small in your room; pull it toward you and you're standing inside it, life size, beside the people in it. From Apollo…",
+   "author": "Stunning_Tomorrow566",
+   "publishedAt": "2026-11-16T04:51:37+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/eWJlZnl2aXBudzFpMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=888e38121769b76a33e82947a3fdd34be85c327b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Stunning_Tomorrow566",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "7e2b9b981c23",
+   "canon": "https://www.reddit.com/comments/1xxgey5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxgey5/another_battle_royal_but_with_cars_made_using/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "Another Battle Royal but with cars. Made using Claude code and android studio",
+   "text": "I've been building a game called Vektor with Claude Code for the past few days and wanted to share it.\n It's a battle royale with cars. 24 drivers drop onto the map, grab weapons and upgrades, and fight while the zone closes in. Last car left wins. You can play solo against bots…",
+   "author": "NotFrankGraves",
+   "publishedAt": "2026-11-16T04:43:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dmJicjV0Z2dtdzFpMSvX32SObMc2recyLY2vfycb5Y1iP7ABNqw1bVy8_3R4.png?width=640&crop=smart&auto=webp&s=7c1d887c263ba7236cd39e8d15c7d2afc0971cab"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/NotFrankGraves",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "2f6f3b6dba42",
+   "canon": "https://www.reddit.com/comments/1xxgcc4",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xxgcc4/i_used_claude_code_and_codex_to_make_a_slime/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "I used Claude Code and Codex to make a slime roguelite. It's on Steam now.",
+   "text": "I released Mool: Chroma this week. It's a slime roguelite built with Phaser and JavaScript. You eat colors and mix them to change your attacks.\n I used Claude Code first, then Codex. They helped with programming, fixes and getting the Steam builds ready. The pixel art is drawn…",
+   "author": "schoolbus11",
+   "publishedAt": "2026-11-16T04:39:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/78kr8ghnlw1i1.gif?width=640&crop=smart&s=d370eb6ee4a92514f3c718828db4b19ca46da179"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/schoolbus11",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b6998f17e87e",
+   "canon": "https://www.reddit.com/comments/1xxg4hm",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxg4hm/claude_parsed_through_16_minutes_of_recorded/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "Claude parsed through 16 minutes of recorded gameplay to make a trailer for the game I had it make",
+   "text": "So I discovered claude about 3 weeks ago. I'd heard of it before but didnt think I'd have any use for it.\n Then on a game subreddit I frequent, I saw more and more posts about people making spinoffs with AI.\n I was intrigued so I took to Google and found claude may be a good fit…",
+   "author": "dawnfist",
+   "publishedAt": "2026-11-16T04:27:44+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MmpzcndidGtqdzFpMYKvTjYTlYztneDmMiR8o0_fj35BBNKk7c4LxosGKsk4.png?width=640&crop=smart&auto=webp&s=671d7546d41a94dd333752cf64f9359d5924da45"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game",
+    "motion"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/dawnfist",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "501c0fba8526",
+   "canon": "https://www.reddit.com/comments/1xxfqus",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xxfqus/i_vibecoded_14_animated_pixelart_themes_for_the/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "I vibecoded 14 animated pixel-art themes for the Claude Code app + an editor to make your own",
+   "text": "What it does:\n - 12 of the 14 themes follow your clock, so the scene goes from sunrise to night while you work\n - the editor takes your own picture (or a day and a night version of it) and turns it into a pixel scene with motion: drifting clouds, twinkling stars, that kind of…",
+   "author": "oxmannnn",
+   "publishedAt": "2026-11-16T04:06:59+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/ZWd4Z3dkcXFmdzFpMRu9_2UfT_Y0QKistWxjDsf-2JzsGPHMFFjRAo7BjAwM.png?width=640&crop=smart&auto=webp&s=7c01b5ab9220e5a45e0482a87714b32ecb548a7e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/oxmannnn",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c0d973b66b32",
+   "canon": "https://www.reddit.com/comments/1xxfkmt",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xxfkmt/if_you_use_claudecodexcopilot_on_windows_11_and/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "If you use Claude/Codex/Copilot on Windows 11 and experience unexplained slowdown in long sessions - this is for you.",
+   "text": "Apologies for the long post (not written with AI). This likely only impacts a small % of you, but for those people it will be extremely useful. I'm not selling anything at all here.\n This post is for you if:\n You use agentic development tooling e.g. Claude…",
+   "author": "nubbymong",
+   "publishedAt": "2026-11-16T03:57:56+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/1pikawwotv1i1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=398463b1efc8dfbd022f349ebb473f435d420747"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/nubbymong",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3a6ce34560cd",
+   "canon": "https://www.reddit.com/comments/1xxfh65",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xxfh65/i_made_14_new_animated_themes_for_claude_code/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "I made 14 new animated themes for Claude Code",
+   "text": "Made a set of pixel-art backdrops for the desktop app. 12 of the 14 follow your local time (sunrise, day, sunset, night), the other two stay the same all day.\n A few things I learned about how the app plays a backdrop:\n - it's a single SVG, capped at 131,072 characters after the…",
+   "author": "oxmannnn",
+   "publishedAt": "2026-11-16T03:52:58+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/Mzl4MDlxbTI4djFpMdZ-mn03oi1Fdu1C7hNt8jXz6Mvp6kRdZbRvFUv6I60A.png?width=640&crop=smart&auto=webp&s=38464d04386bc78a44d856d3831fb8ce59413b9b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "motion",
+    "app"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/oxmannnn",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c6a226593f43",
+   "canon": "https://www.reddit.com/comments/1xxf00w",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xxf00w/cardlister/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "CardLister",
+   "text": "been working on an automated workflow that uses a local ai model (with a Pokemon tcg Database for cross reference) to sort, auto populate card attributes, compare to other listings to automatically set a good price, and help list using eBay's API. all cards still require manual…",
+   "author": "babooBurkhardt",
+   "publishedAt": "2026-11-16T03:27:42+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/1o2m67gp8w1i1.png?width=140&height=70&auto=webp&s=4b424b169938edc1edb2ab175f437b89edcd6744"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/babooBurkhardt",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "3a0449eb29a0",
+   "canon": "https://www.reddit.com/comments/1xxevhu",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xxevhu/made_this_in_3_days_for_the_unreal_megajam_spend/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "Made this in 3 days for the Unreal MegaJam! Spend 3 days shooting and editing 8mm film while living on a snowy mountain. Cozy Season!",
+   "text": "Made completely on one $100 Claude plan. Used the new Unreal Engine 5.9 connected via MCP, so Claude could edit in the engine live. Generated all the assets via Blender through Claude Code, sounds were downloaded from freesound.org.\n The theme of the competition was \"Director's…",
+   "author": "prettyfuckingfarfrom",
+   "publishedAt": "2026-11-16T03:21:18+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OWZxOWJvYnQzdzFpMeOWqO9tG92QN0y0gxuMPz93fvy7hsxEnVCfyl5JTflU.png?width=640&crop=smart&auto=webp&s=4d7658e95dfb9d27b2e17c29b26b3a5c6dc753c9"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/prettyfuckingfarfrom",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "a0c96becbfa9",
+   "canon": "https://www.reddit.com/comments/1xxentr",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxentr/token_usage_help/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "Token usage help",
+   "text": "Use Claude daily for work and run multiple projects for each client. I have quite a few connectors active, mostly fire crawl, gmail, hubspot ect. \n Recently have been running into weekly limits where I never have had an issue before. I use opus 5.5 mostly on cowork. Never use…",
+   "author": "NeighborhoodSimple40",
+   "publishedAt": "2026-11-16T03:10:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/2d7j4v1s5w1i1.jpeg?width=640&crop=smart&auto=webp&s=9f7eb0f61758b8d51ae9737cc3575340d7b93d63"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/NeighborhoodSimple40",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": "Opus 5.5"
+  },
+  {
+   "id": "775c4916d863",
+   "canon": "https://www.reddit.com/comments/1xxeef0",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xxeef0/steam_frame_charging_stand_v15/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "Steam Frame Charging Stand v1.5",
+   "text": "I posted an earlier version of this stand to the Steam Frame subreddit and the community gave great feedback in that post[0], and I've been working on improvements since then. I thought this community might find value in this as well, or be able to offer some constructive…",
+   "author": "SaysWatWhenNeeded",
+   "publishedAt": "2026-11-16T02:57:21+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OXp0bXlxYWYzdzFpMQZdLVO_dB6IL2zXJlCHw56pYISBGmS9trEvV144b5Lk.png?width=640&crop=smart&auto=webp&s=91e0a678b33ed7efbf1f25005e7772f09fdea187"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/SaysWatWhenNeeded",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "054a9507b02a",
+   "canon": "https://www.reddit.com/comments/1xxe06b",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxe06b/i_made_an_interactive_lifttheflap_storybook_with/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "I made an interactive lift-the-flap storybook with Claude using just one prompt",
+   "text": "I built those childhood lift-the-flap book using claude in a single prompt.\n I gave one prompt describing the book in claude code using fable 5.2 and it wrote the whole page: painting on canvas, the interactions and the sounds, all generated in code ine html file\n You can try it…",
+   "author": "Correct-Ad4910",
+   "publishedAt": "2026-11-16T02:37:09+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aDhsN203MXN6djFpMVxBkXIpAYxOz239p8OJvoQEZ7mSjHkRgK7xSv7mloDF.png?width=640&crop=smart&auto=webp&s=7935897ad1fa55591b6078ac3b2334addd023f5b"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Correct-Ad4910",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "eeb477c41ea2",
+   "canon": "https://www.reddit.com/comments/1xxdzcf",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxdzcf/anthropic_published_a_guide_on_building_alwayson/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "Anthropic published a guide on building always-on agents (Nov 13). It breaks them into 5 parts: inbox, timers, memory, permissions, outbox",
+   "text": "Anthropic published \"Building always-on agents\" on Nov 13 (by William Hu, about a 14 minute read). It's a design guide, not a feature launch.\n The main idea: an always-on agent is asleep most of the time. It wakes up for \"runs\" that work inside sessions. The guide names 5…",
+   "author": "emarkosov",
+   "publishedAt": "2026-11-16T02:35:56+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/emarkosov",
+   "where": "r/ClaudeAI",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "c1607114f7ba",
+   "canon": "https://www.reddit.com/comments/1xxdlk9",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/aigamedev/comments/1xxdlk9/day_5_of_making_a_cozy_rts_where_fluffy_animals/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "Day 5 of making a cozy RTS where fluffy animals fight bugs, built with Claude, ChatGPT and Meshy",
+   "text": "I grew up on red alert and AoE and always wanted a cozy version, so I’m making one: fluffy animals vs bugs. Hamster knights, frogs and badgers on one side, bees, spiders and grubs on the other. There are 6 clans so far, with fish in fishbowls coming next.\n Here’s how the AI side…",
+   "author": "FluffyBugGames",
+   "publishedAt": "2026-11-16T02:17:03+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/MWFldjVrazV3djFpMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=3bbc5957b69c59beffbedcce9326e5e231133c16"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/FluffyBugGames",
+   "where": "r/aigamedev",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "184c05faefae",
+   "canon": "https://www.reddit.com/comments/1xxdcfy",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xxdcfy/agency_give_claude_the_computer_you_already_own/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "agency - give Claude the computer you already own",
+   "text": "Everyone is buying a Mac Mini for Claude Code. I've been running it on a spare laptop instead, but found setting that up every time I want more compute pretty tedious every time.\n So I turned it into a custom (nix)OS image. It takes ~5 minutes to install, and Claude Code + every…",
+   "author": "ActiveAd2933",
+   "publishedAt": "2026-11-16T02:04:46+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/tiyshjl0uv1i1.jpeg?width=140&height=105&auto=webp&s=164e691d7ad28f7cba07de152551aad9be114d0e"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ActiveAd2933",
+   "where": "r/ClaudeCode",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "bdcd908bc175",
+   "canon": "https://www.reddit.com/comments/1xxclst",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/VisionPro/comments/1xxclst/buying_a_second_hand_avp_tips_and_thoughts/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "Buying a second hand AVP - Tips and thoughts",
+   "text": "I’m looking to buy a used AVP; the price is about half of what a used unit typically goes for. According to the seller, the only issue with the device is a scratch on the lens. Looking at the images, I can’t tell if it’s just dirt or if there are additional scratches. Do you…",
+   "author": "LcsDanielSFF",
+   "publishedAt": "2026-11-16T01:28:36+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://preview.redd.it/q2eab57mnv1i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=d0f072795686526496f5b955a4ea06f6a1836399"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/LcsDanielSFF",
+   "where": "r/VisionPro",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "9761503f89ec",
+   "canon": "https://www.reddit.com/comments/1xxca5m",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xxca5m/a_story_about_my_uncle_pcvr_mod_wip/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "A Story About My Uncle PCVR mod (WIP)",
+   "text": "Currently working on a VR mod for 'A Story About My Uncle', the game has a special place in my heart and after playing the Titanfall 2 VR mod I was craving more grapling and parkour. The mod is currently a work in progress but I plan to have it out in a couple days. Bugs and…",
+   "author": "ahward21",
+   "publishedAt": "2026-11-16T01:12:36+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aGF3b2RyNmhrdjFpMcIcZVKc7fUvnu4PetVvXt1wBtWx1Q6MAubu8ZXR2z_s.png?width=640&crop=smart&auto=webp&s=c1e8097d6068186e199e8e1e702ad5d31a8d0bc7"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/ahward21",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "efd46f3cffc9",
+   "canon": "https://www.reddit.com/comments/1xxc28k",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xxc28k/we_got_feet_tracking_before_gta_vi/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "We got feet tracking before GTA VI",
+   "text": "Mixed reality soccer concept running on a Q3\n Made with Unity!",
+   "author": "lucas-martinic",
+   "publishedAt": "2026-11-16T01:01:54+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/dG5wMmV4N2ppdjFpMX7H3QDGJswUWlt5kJztt5n5D7uVTe5DVLx4UfAn9wNz.png?width=640&crop=smart&auto=webp&s=44676fd88ad58fd1616b7800bb022649e8ae48a8"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/lucas-martinic",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "4553090724dc",
+   "canon": "https://www.reddit.com/comments/1xxboy2",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/augmentedreality/comments/1xxboy2/nathie_apples_upcoming_smart_glasses_will/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "(Nathie) Apple's upcoming smart glasses will reportedly run a version of visionOS and be powered by a custom chip based on Apple Watch technology.",
+   "text": "",
+   "author": "Knighthonor",
+   "publishedAt": "2026-11-16T00:43:52+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/nwhvDY-nzfD9NGsvKp8HRsDgSfXxnUMhmplO2nIF01c.jpeg?width=640&crop=smart&auto=webp&s=b05a6deee11f1c6f205ba8f6200e3ec44e2d7f13"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ar",
+    "xr"
+   ],
+   "status": "ok",
+   "topics": [
+    "ar"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Knighthonor",
+   "where": "r/augmentedreality",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "d72940e6e727",
+   "canon": "https://www.reddit.com/comments/1xxbi9n",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xxbi9n/latest_steam_frame_patch_made_it_superior_to/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "Latest Steam Frame patch made it superior to Quest 3",
+   "text": "Graphics:\n Latest Steam Frame beta update is basically \"foveated sharpening\". It applies to all the games you play automatically, no developers need to patch their games to use it.\n Basically, because the steam frame has eye tracking, wherever you look, the steam frame makes it…",
+   "author": "TinySmolCat",
+   "publishedAt": "2026-11-16T00:34:39+00:00",
+   "media": null,
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/TinySmolCat",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "b314e2583ae5",
+   "canon": "https://www.reddit.com/comments/1xxawf5",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/virtualreality/comments/1xxawf5/early_version_vs_now/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "Early version vs now",
+   "text": "The Visual in our VR game has come a long way. Still tweaking it, and there's so much more levels coming up. Link in comments if anyone wants to try it on Quest.",
+   "author": "UC_Simulator",
+   "publishedAt": "2026-11-16T00:06:25+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/aWx1Z2gzNGc4djFpMY1BhJkNRlFoNs711UfKeDxsIDx7B2iJcb2K7yfAQtjl.png?width=640&crop=smart&auto=webp&s=44c3ebc9527f32482e473276269b8afdb8beb3ab"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "xr",
+    "game"
+   ],
+   "status": "ok",
+   "topics": [
+    "xr"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/UC_Simulator",
+   "where": "r/virtualreality",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "1c082d7d2be3",
    "canon": "https://www.reddit.com/comments/1xx96mu",
@@ -290,6 +1230,40 @@
    "authorUrl": "https://www.reddit.com/user/Trivialli",
    "where": "r/ClaudeCode",
    "fetchedAt": "2026-11-15T22:55:30.496Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "8454a65c7d53",
+   "canon": "https://www.reddit.com/comments/1xx87f8",
+   "platform": "reddit",
+   "url": "https://www.reddit.com/r/vibecoding/comments/1xx87f8/trenek_roguelite_fpsrtt/",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "Trenek - roguelite FPS/RTT",
+   "text": "Fun little project, gameplay is most similar to Liberation gamemode from Arma 3. If it peaks anyone's interest I'll record a short op. 100% Claude vibecoded, Godot + Blender. The soldier is a Tripo model.",
+   "author": "Just-Routine967",
+   "publishedAt": "2026-11-15T22:07:28+00:00",
+   "media": {
+    "kind": "image",
+    "thumb": "https://external-preview.redd.it/OKY1YD5smrGAH-XkGA7PXHRCfSj42fUW_2J8O0FR-ss.jpeg?width=320&crop=smart&auto=webp&s=6cfdf3d6c54c18f84487a96cb3613758ddf77bbc"
+   },
+   "metrics": {},
+   "refs": [],
+   "tags": [
+    "ai",
+    "three",
+    "blender"
+   ],
+   "status": "ok",
+   "topics": [
+    "ai"
+   ],
+   "via": [
+    "discover"
+   ],
+   "authorUrl": "https://www.reddit.com/user/Just-Routine967",
+   "where": "r/vibecoding",
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
    "lang": "en",
    "model": null
   },
@@ -7186,6 +8160,55 @@
    "model": null
   },
   {
+   "id": "53bc4ba2fd05",
+   "canon": "https://x.com/i/status/2121333521663017401",
+   "platform": "x",
+   "url": "https://x.com/ravisparikh/status/2121333521663017401",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "",
+   "text": "Fable 5.2 learns to run\n\nrendered in vork https://t.co/VxUAsOGm44",
+   "author": "ravisparikh",
+   "publishedAt": "2026-11-13T20:04:58.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121333101318344704/img/h_deJaPK7Uv9zq_E.jpg",
+    "video": "https://video.twimg.com/amplify_video/2121333101318344704/vid/avc1/640x360/yynOF_Z0l-BmqaYs.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 5431,
+    "views": 791600,
+    "comments": 221
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/skeleton-runner",
+     "categories": [],
+     "date": "2026-11-14",
+     "credit": "ravisparikh",
+     "metrics": {
+      "likes": 4785,
+      "views": 703847
+     },
+     "model": null
+    }
+   ],
+   "tags": [
+    "ai"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/ravisparikh",
+   "where": null,
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
+   "lang": "en",
+   "model": null
+  },
+  {
    "id": "905ab7b18134",
    "canon": "https://www.reddit.com/comments/1xvi2d7",
    "platform": "reddit",
@@ -10032,6 +11055,56 @@
    "authorUrl": "https://www.reddit.com/user/RevolutionFit3526",
    "where": "r/virtualreality",
    "fetchedAt": "2026-11-13T11:06:01.988Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "872a3838f668",
+   "canon": "https://x.com/i/status/2121082861902070130",
+   "platform": "x",
+   "url": "https://x.com/MrTacticalX/status/2121082861902070130",
+   "addedAt": "2026-11-16T06:37:22.018Z",
+   "title": "",
+   "text": "I asked Claude Fable 5.2 to build a computer...\n\n3 Fable 5.2 agents:\n➜⏱7 hr 41 min\n➜💰$138.82 https://t.co/cKBSsbr6jx",
+   "author": "MrTacticalX",
+   "publishedAt": "2026-11-13T03:28:56.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121082669291200512/img/cPvuau7w6laJBSmB.jpg",
+    "video": "https://video.twimg.com/amplify_video/2121082669291200512/vid/avc1/1080x1350/8WYq95XlCfNdIquX.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 4567,
+    "views": 648777,
+    "comments": 247
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/computer-build",
+     "categories": [],
+     "date": "2026-11-13",
+     "credit": "MrTacticalX",
+     "metrics": {
+      "likes": 4425,
+      "views": 570167
+     },
+     "model": null
+    }
+   ],
+   "tags": [
+    "ai",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/MrTacticalX",
+   "where": null,
+   "fetchedAt": "2026-11-16T06:37:22.018Z",
    "lang": "en",
    "model": null
   },
