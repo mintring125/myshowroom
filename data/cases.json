@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-18T20:44:36.816Z",
+ "updatedAt": "2026-11-19T02:44:04.094Z",
  "cases": [
   {
    "id": "57d9b1eb4530",
@@ -1162,6 +1162,56 @@
    "authorUrl": "https://www.reddit.com/user/Spocrates_YT",
    "where": "r/virtualreality",
    "fetchedAt": "2026-11-17T16:07:32.501Z",
+   "lang": "en",
+   "model": null
+  },
+  {
+   "id": "01f48a9666b2",
+   "canon": "https://x.com/i/status/2122647483281015155",
+   "platform": "x",
+   "url": "https://x.com/ViktorKav/status/2122647483281015155",
+   "addedAt": "2026-11-19T02:39:16.074Z",
+   "title": "",
+   "text": "Pedi pro Claude Fable 5.2 um Uno Mille 96 com escada no teto, num circuito de corrida, num arquivo HTML só.\n\n7 horas depois: 603 KB, sem engine, sem biblioteca 3D, sem textura. \n\nCarro, mata, céu e o ronco do motor 1.0 saem do código.\n\nRoda no navegador. https://t.co/XyFm8szP5i",
+   "author": "ViktorKav",
+   "publishedAt": "2026-11-17T11:06:11.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122647285448200192/img/R9mwhRfLPYb_6FPC.jpg",
+    "video": "https://video.twimg.com/amplify_video/2122647285448200192/vid/avc1/1280x720/SGjYL-sbTzOD7y7M.mp4?tag=14"
+   },
+   "metrics": {
+    "likes": 9174,
+    "views": 601745,
+    "comments": 339
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/uno-mille-html",
+     "categories": [],
+     "date": "2026-11-17",
+     "credit": "ViktorKav",
+     "metrics": {
+      "likes": 7513,
+      "views": 452067
+     },
+     "model": null
+    }
+   ],
+   "tags": [
+    "ai",
+    "three"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/ViktorKav",
+   "where": null,
+   "fetchedAt": "2026-11-19T02:39:16.074Z",
    "lang": "en",
    "model": null
   },
