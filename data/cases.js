@@ -1,7 +1,7 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-11-19T20:49:04.211Z",
+ "updatedAt": "2026-11-20T02:30:01.239Z",
  "cases": [
   {
    "id": "57d9b1eb4530",
@@ -1248,6 +1248,57 @@ window.CASES_DB = {
    "model": null
   },
   {
+   "id": "8be5509c33c3",
+   "canon": "https://x.com/i/status/2122625955550413118",
+   "platform": "x",
+   "url": "https://x.com/morio_aa/status/2122625955550413118",
+   "addedAt": "2026-11-20T02:25:22.192Z",
+   "title": "",
+   "text": "マーケ支援をしていると「細かいデータが見たいんです」とよく言われる。\n\nでも、スプシに細かくまとめて渡しても大体伝わらない。スライドで伝わる形に作り込むと時間がかかる（AIに任せても、分かりやすいレベルまで持っていくのは結構かかる）\n\nお客さんが本当に欲しいのは、\n細かいデータそのものじゃなくて、「どういう経緯でこの着地になったのか」が腹落ちする説明。\n\nClaude Motionでレポートを動画にしてもらうと、このかゆいところに手が届きそう。\n\nいいなと思うのは、「自由なお題で適当に作って」というパッと見すごいAI動画じゃなくて、出典がきちんとしたデー…",
+   "author": "morio_aa",
+   "publishedAt": "2026-11-17T09:40:38.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122624876460879872/img/8MXTVGspisbpnoek.jpg",
+    "video": "https://video.twimg.com/amplify_video/2122624876460879872/vid/avc1/1920x1080/0Iq2RQhFEIPHywOs.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 182,
+    "views": 15800,
+    "comments": 5
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/sales-sankey-video",
+     "categories": [],
+     "date": "2026-11-17",
+     "credit": "morio_aa",
+     "metrics": {
+      "likes": 175,
+      "views": 14972
+     },
+     "model": null
+    }
+   ],
+   "tags": [
+    "ai",
+    "motion",
+    "region"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/morio_aa",
+   "where": null,
+   "fetchedAt": "2026-11-20T02:25:22.192Z",
+   "lang": "ja",
+   "model": null
+  },
+  {
    "id": "0d4334340751",
    "canon": "https://www.reddit.com/comments/1xyfdmw",
    "platform": "reddit",
@@ -1339,6 +1390,57 @@ window.CASES_DB = {
    "where": "r/virtualreality",
    "fetchedAt": "2026-11-17T16:07:32.501Z",
    "lang": "en",
+   "model": null
+  },
+  {
+   "id": "329612abc780",
+   "canon": "https://x.com/i/status/2122569461547098595",
+   "platform": "x",
+   "url": "https://x.com/Dstudio_ai/status/2122569461547098595",
+   "addedAt": "2026-11-20T02:25:22.192Z",
+   "title": "",
+   "text": "Tripoで3Dモデル作って、Claude(Fable 5.2)でソシャゲ風ロビー画面作ってみたけど、すごすぎ\n\n「ソシャゲのロビー画面みたいなん作って」ってお願いしたら作ってくれました～\nたださすがにワンショットでは無理で、2～3回ぐらいフィードバックしました！\n\nあと背景の組み方とか、カメラワークはチャットで伝えてます。\n\nオリキャラでやるとおもしろいと思う！",
+   "author": "Dstudio_ai",
+   "publishedAt": "2026-11-17T05:56:09.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122567286624337920/img/LS8TotYyi6MM4g2t.jpg",
+    "video": "https://video.twimg.com/amplify_video/2122567286624337920/vid/avc1/1920x1080/ySQezLrBFpRlRNeS.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 5308,
+    "views": 242517,
+    "comments": 54
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/social-game-lobby",
+     "categories": [],
+     "date": "2026-11-17",
+     "credit": "Dstudio_ai",
+     "metrics": {
+      "likes": 5249,
+      "views": 236312
+     },
+     "model": null
+    }
+   ],
+   "tags": [
+    "ai",
+    "three",
+    "region"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/Dstudio_ai",
+   "where": null,
+   "fetchedAt": "2026-11-20T02:25:22.192Z",
+   "lang": "ja",
    "model": null
   },
   {
