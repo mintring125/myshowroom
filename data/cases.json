@@ -1,7 +1,61 @@
 {
  "version": 1,
- "updatedAt": "2026-11-21T19:28:01.574Z",
+ "updatedAt": "2026-11-22T01:30:03.915Z",
  "cases": [
+  {
+   "id": "2087b7f80d71",
+   "canon": "https://x.com/i/status/2122862040326807696",
+   "platform": "x",
+   "url": "https://x.com/dom_scholz/status/2122862040326807696",
+   "addedAt": "2026-11-22T01:25:28.832Z",
+   "title": "",
+   "text": "Fable 5.2    vs.    GPT-6.2 Astra \n- 242 KB              - 32.9 MB 💀  \n\n5h 34m of compute each\n\n@threejs https://t.co/JtVtA4Yrfw",
+   "author": "dom_scholz",
+   "publishedAt": "2026-11-18T01:18:45.000Z",
+   "media": {
+    "kind": "video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122861874408480768/img/prL5E9fCcDjSUjFz.jpg",
+    "video": "https://video.twimg.com/amplify_video/2122861874408480768/vid/avc1/1080x1440/Ubk3Sex9YXYC4LD7.mp4?tag=29"
+   },
+   "metrics": {
+    "likes": 1345,
+    "views": 242391,
+    "comments": 56
+   },
+   "refs": [
+    {
+     "site": "ohmyopus",
+     "name": "ohmyopus",
+     "url": "https://ohmyopus.com/c/sand-ship-242kb",
+     "categories": [
+      "threejs"
+     ],
+     "date": "2026-11-18",
+     "credit": "dom_scholz",
+     "metrics": {
+      "likes": 1344,
+      "views": 241241
+     },
+     "model": null
+    }
+   ],
+   "tags": [
+    "threejs",
+    "ai",
+    "three",
+    "long"
+   ],
+   "status": "ok",
+   "topics": [],
+   "via": [
+    "refs"
+   ],
+   "authorUrl": "https://x.com/dom_scholz",
+   "where": null,
+   "fetchedAt": "2026-11-22T01:25:28.832Z",
+   "lang": "en",
+   "model": null
+  },
   {
    "id": "57d9b1eb4530",
    "canon": "https://www.reddit.com/comments/1xyobtr",
