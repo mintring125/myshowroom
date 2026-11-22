@@ -1,7 +1,7 @@
 // 자동 생성 파일입니다. 직접 고치지 말고 npm run update 를 실행하세요.
 window.CASES_DB = {
  "version": 1,
- "updatedAt": "2026-11-22T01:30:03.915Z",
+ "updatedAt": "2026-11-22T11:38:34.118Z",
  "cases": [
   {
    "id": "2087b7f80d71",
