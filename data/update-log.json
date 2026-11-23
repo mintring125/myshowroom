@@ -1,6 +1,40 @@
 {
  "runs": [
   {
+   "at": "2026-11-23T01:55:31.803Z",
+   "ms": 558976,
+   "added": 0,
+   "updated": 11,
+   "failed": 0,
+   "deferred": 0,
+   "total": 5481,
+   "found": {
+    "ohmyopus": 32,
+    "ai:reddit": 0,
+    "ai:x": 0,
+    "ai:threads": 0,
+    "ar:reddit": 0,
+    "ar:x": 0,
+    "ar:threads": 0,
+    "xr:reddit": 0,
+    "xr:x": 0,
+    "xr:threads": 0,
+    "gsplat:reddit": 0,
+    "gsplat:x": 0,
+    "gsplat:threads": 0
+   },
+   "messages": [
+    "참고 사이트 ohmyopus 확인 중…",
+    "ohmyopus: 원문 링크 없음 https://ohmyopus.com/c/senko-3games",
+    "  새 사례 32건",
+    "reddit r/ClaudeAI+ClaudeCode+singularity+aigamedev+vibecoding+threejs+blender: 404 https://www.reddit.com/r/ClaudeAI+ClaudeCode+singularity+aigamedev+vibecoding+threejs+blender/new/.rss?limit=100",
+    "reddit r/augmentedreality+AR_MR_XR+Spectacles: 404 https://www.reddit.com/r/augmentedreality+AR_MR_XR+Spectacles/new/.rss?limit=100",
+    "reddit r/virtualreality+vrdev+WebXR+VisionPro: 404 https://www.reddit.com/r/virtualreality+vrdev+WebXR+VisionPro/new/.rss?limit=100",
+    "reddit r/GaussianSplatting: 404 https://www.reddit.com/r/GaussianSplatting/new/.rss?limit=100",
+    "규칙에 맞지 않아 숨긴 자동 발견 글: 49건"
+   ]
+  },
+  {
    "at": "2026-11-22T19:52:00.494Z",
    "ms": 524460,
    "added": 0,
@@ -985,73 +1019,39 @@
     "[gsplat] reddit 자동 발견 71건",
     "규칙에 맞지 않아 숨긴 자동 발견 글: 49건"
    ]
-  },
-  {
-   "at": "2026-11-12T20:05:24.635Z",
-   "ms": 519718,
-   "added": 34,
-   "updated": 127,
-   "failed": 0,
-   "deferred": 0,
-   "total": 4957,
-   "found": {
-    "ohmyopus": 28,
-    "xr:reddit": 37,
-    "xr:x": 0,
-    "xr:threads": 0,
-    "gsplat:reddit": 69,
-    "gsplat:x": 0,
-    "gsplat:threads": 0,
-    "ai:reddit": 19,
-    "ai:x": 0,
-    "ai:threads": 0,
-    "ar:reddit": 45,
-    "ar:x": 0,
-    "ar:threads": 0
-   },
-   "messages": [
-    "참고 사이트 ohmyopus 확인 중…",
-    "ohmyopus: 원문 링크 없음 https://ohmyopus.com/c/senko-3games",
-    "  새 사례 28건",
-    "[xr] reddit 자동 발견 37건",
-    "[gsplat] reddit 자동 발견 69건",
-    "[ai] reddit 자동 발견 19건",
-    "[ar] reddit 자동 발견 45건",
-    "규칙에 맞지 않아 숨긴 자동 발견 글: 49건"
-   ]
   }
  ],
  "last": {
-  "at": "2026-11-22T19:52:00.494Z",
-  "ms": 524460,
+  "at": "2026-11-23T01:55:31.803Z",
+  "ms": 558976,
   "added": 0,
   "updated": 11,
   "failed": 0,
   "deferred": 0,
   "total": 5481,
   "found": {
-   "ohmyopus": 31,
-   "xr:reddit": 0,
-   "xr:x": 0,
-   "xr:threads": 0,
-   "gsplat:reddit": 0,
-   "gsplat:x": 0,
-   "gsplat:threads": 0,
+   "ohmyopus": 32,
    "ai:reddit": 0,
    "ai:x": 0,
    "ai:threads": 0,
    "ar:reddit": 0,
    "ar:x": 0,
-   "ar:threads": 0
+   "ar:threads": 0,
+   "xr:reddit": 0,
+   "xr:x": 0,
+   "xr:threads": 0,
+   "gsplat:reddit": 0,
+   "gsplat:x": 0,
+   "gsplat:threads": 0
   },
   "messages": [
    "참고 사이트 ohmyopus 확인 중…",
    "ohmyopus: 원문 링크 없음 https://ohmyopus.com/c/senko-3games",
-   "  새 사례 31건",
-   "reddit r/virtualreality+vrdev+WebXR+VisionPro: 404 https://www.reddit.com/r/virtualreality+vrdev+WebXR+VisionPro/new/.rss?limit=100",
-   "reddit r/GaussianSplatting: 404 https://www.reddit.com/r/GaussianSplatting/new/.rss?limit=100",
+   "  새 사례 32건",
    "reddit r/ClaudeAI+ClaudeCode+singularity+aigamedev+vibecoding+threejs+blender: 404 https://www.reddit.com/r/ClaudeAI+ClaudeCode+singularity+aigamedev+vibecoding+threejs+blender/new/.rss?limit=100",
    "reddit r/augmentedreality+AR_MR_XR+Spectacles: 404 https://www.reddit.com/r/augmentedreality+AR_MR_XR+Spectacles/new/.rss?limit=100",
+   "reddit r/virtualreality+vrdev+WebXR+VisionPro: 404 https://www.reddit.com/r/virtualreality+vrdev+WebXR+VisionPro/new/.rss?limit=100",
+   "reddit r/GaussianSplatting: 404 https://www.reddit.com/r/GaussianSplatting/new/.rss?limit=100",
    "규칙에 맞지 않아 숨긴 자동 발견 글: 49건"
   ]
  }
