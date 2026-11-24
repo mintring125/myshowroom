@@ -1,6 +1,40 @@
 {
  "runs": [
   {
+   "at": "2026-11-24T13:56:06.766Z",
+   "ms": 561363,
+   "added": 0,
+   "updated": 11,
+   "failed": 0,
+   "deferred": 0,
+   "total": 5481,
+   "found": {
+    "ohmyopus": 32,
+    "ai:reddit": 0,
+    "ai:x": 0,
+    "ai:threads": 0,
+    "ar:reddit": 0,
+    "ar:x": 0,
+    "ar:threads": 0,
+    "xr:reddit": 0,
+    "xr:x": 0,
+    "xr:threads": 0,
+    "gsplat:reddit": 0,
+    "gsplat:x": 0,
+    "gsplat:threads": 0
+   },
+   "messages": [
+    "참고 사이트 ohmyopus 확인 중…",
+    "ohmyopus: 원문 링크 없음 https://ohmyopus.com/c/senko-3games",
+    "  새 사례 32건",
+    "reddit r/ClaudeAI+ClaudeCode+singularity+aigamedev+vibecoding+threejs+blender: 404 https://www.reddit.com/r/ClaudeAI+ClaudeCode+singularity+aigamedev+vibecoding+threejs+blender/new/.rss?limit=100",
+    "reddit r/augmentedreality+AR_MR_XR+Spectacles: 404 https://www.reddit.com/r/augmentedreality+AR_MR_XR+Spectacles/new/.rss?limit=100",
+    "reddit r/virtualreality+vrdev+WebXR+VisionPro: 404 https://www.reddit.com/r/virtualreality+vrdev+WebXR+VisionPro/new/.rss?limit=100",
+    "reddit r/GaussianSplatting: 404 https://www.reddit.com/r/GaussianSplatting/new/.rss?limit=100",
+    "규칙에 맞지 않아 숨긴 자동 발견 글: 49건"
+   ]
+  },
+  {
    "at": "2026-11-24T02:23:00.852Z",
    "ms": 524417,
    "added": 0,
@@ -985,45 +1019,11 @@
     "[gsplat] reddit 자동 발견 73건",
     "규칙에 맞지 않아 숨긴 자동 발견 글: 49건"
    ]
-  },
-  {
-   "at": "2026-11-13T19:53:28.827Z",
-   "ms": 521988,
-   "added": 56,
-   "updated": 109,
-   "failed": 0,
-   "deferred": 0,
-   "total": 5075,
-   "found": {
-    "ohmyopus": 29,
-    "xr:reddit": 44,
-    "xr:x": 0,
-    "xr:threads": 0,
-    "gsplat:reddit": 73,
-    "gsplat:x": 0,
-    "gsplat:threads": 0,
-    "ai:reddit": 28,
-    "ai:x": 0,
-    "ai:threads": 0,
-    "ar:reddit": 41,
-    "ar:x": 0,
-    "ar:threads": 0
-   },
-   "messages": [
-    "참고 사이트 ohmyopus 확인 중…",
-    "ohmyopus: 원문 링크 없음 https://ohmyopus.com/c/senko-3games",
-    "  새 사례 29건",
-    "[xr] reddit 자동 발견 44건",
-    "[gsplat] reddit 자동 발견 73건",
-    "[ai] reddit 자동 발견 28건",
-    "[ar] reddit 자동 발견 41건",
-    "규칙에 맞지 않아 숨긴 자동 발견 글: 49건"
-   ]
   }
  ],
  "last": {
-  "at": "2026-11-24T02:23:00.852Z",
-  "ms": 524417,
+  "at": "2026-11-24T13:56:06.766Z",
+  "ms": 561363,
   "added": 0,
   "updated": 11,
   "failed": 0,
