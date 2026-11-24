@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-23T12:59:27.598Z",
+ "updatedAt": "2026-11-24T02:23:00.711Z",
  "cases": [
   {
    "id": "2087b7f80d71",
@@ -180513,7 +180513,9 @@
      "site": "ohmyopus",
      "name": "ohmyopus",
      "url": "https://ohmyopus.com/c/train-js",
-     "categories": [],
+     "categories": [
+      "motion"
+     ],
      "date": "2026-09-22",
      "credit": "r/ClaudeAI",
      "metrics": {
@@ -180523,6 +180525,7 @@
     }
    ],
    "tags": [
+    "motion",
     "ai"
    ],
    "status": "partial",
